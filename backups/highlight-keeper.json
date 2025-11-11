@@ -1,0 +1,853 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 1,
+  "exportedAt": 1762876472767,
+  "pages": [
+    {
+      "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/",
+      "title": "Introducing Nested Learning: A new ML paradigm for continual learning",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798956137,
+          "id": "hk-1762798956136-72260",
+          "note": "",
+          "range": {
+            "endOffset": 192,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "their knowledge is confined to either the immediate context of their input window or the static information that they learn during pre-training."
+          },
+          "text": "their knowledge is confined to either the immediate context of their input window or the static information that they learn during pre-training.",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799048274,
+          "id": "hk-1762799048270-53341",
+          "note": "",
+          "range": {
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": " continually updating a model's parameters with new data, often leads to “catastrophic forgetting” (CF)"
+          },
+          "text": " continually updating a model's parameters with new data, often leads to “catastrophic forgetting” (CF)",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799072142,
+          "id": "hk-1762799072141-73248",
+          "note": "",
+          "range": {
+            "endOffset": 321,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 181,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[3]/text()[2]",
+            "text": " we have treated the model's architecture (the network structure) and the optimization algorithm (the training rule) as two separate things,"
+          },
+          "text": " we have treated the model's architecture (the network structure) and the optimization algorithm (the training rule) as two separate things,",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799307972,
+          "id": "hk-1762799307968-51518",
+          "note": "",
+          "range": {
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[4]/a[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "In our paper, “Nested Learning: The Illusion of Deep Learning Architectures”, published at NeurIPS 2025"
+          },
+          "text": "In our paper, “Nested Learning: The Illusion of Deep Learning Architectures”, published at NeurIPS 2025",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799393099,
+          "id": "hk-1762799393095-59994",
+          "note": "",
+          "range": {
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "training process itself, specifically the backpropagation process, can be modeled as an associative memory."
+          },
+          "text": "training process itself, specifically the backpropagation process, can be modeled as an associative memory.",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799599622,
+          "id": "hk-1762799599619-6149",
+          "note": "",
+          "range": {
+            "endOffset": 163,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[4]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 93,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[4]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "we can order these interconnected optimization problems into \"levels.\""
+          },
+          "text": "we can order these interconnected optimization problems into \"levels.\"",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799622988,
+          "id": "hk-1762799622984-34944",
+          "note": "",
+          "range": {
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Since Nested Learning views optimizers (e.g., momentum-based optimizers) as associative memory modules, it allows us to apply principles from associative memory perspective to them."
+          },
+          "text": "Since Nested Learning views optimizers (e.g., momentum-based optimizers) as associative memory modules, it allows us to apply principles from associative memory perspective to them.",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799707333,
+          "id": "hk-1762799707332-45317",
+          "note": "",
+          "range": {
+            "endOffset": 104,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[7]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[7]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "ransformer, the sequence model acts as a short-term memory, holding the immediate context"
+          },
+          "text": "ransformer, the sequence model acts as a short-term memory, holding the immediate context",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799750485,
+          "id": "hk-1762799750482-55469",
+          "note": "",
+          "range": {
+            "endOffset": 262,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[7]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 58,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[7]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "The Nested Learning paradigm extends this concept into what we call a “continuum memory system” (CMS), where memory is seen as a spectrum of modules, each updating at a different, specific frequency rate."
+          },
+          "text": "The Nested Learning paradigm extends this concept into what we call a “continuum memory system” (CMS), where memory is seen as a spectrum of modules, each updating at a different, specific frequency rate.",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799764154,
+          "id": "hk-1762799764153-83477",
+          "note": "",
+          "range": {
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[8]/div[1]/div[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[8]/div[1]/div[1]/div[1]/h2[1]/text()[1]",
+            "text": "Hope: A self-modifying architecture with continuum memory"
+          },
+          "text": "Hope: A self-modifying architecture with continuum memory",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762799794358,
+          "id": "hk-1762799794357-77650",
+          "note": "",
+          "range": {
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[8]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[8]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Titans architectures are long-term memory modules that prioritize memories based on how surprising they are."
+          },
+          "text": "Titans architectures are long-term memory modules that prioritize memories based on how surprising they are.",
+          "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"
+        }
+      ]
+    },
+    {
+      "url": "https://m.cnyes.com/news/id/6228034",
+      "title": "AI向人腦又近一步！Google發布嵌套學習、賦予LLM持續學習能力 | 鉅亨網 - 美股雷達",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798706408,
+          "id": "hk-1762798706406-7993",
+          "note": "",
+          "range": {
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[7]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[7]/p[1]/text()[1]",
+            "text": "現有 LLM 的知識多侷限於即時輸入窗口的上下文，一旦學習新知識，就容易「遺忘」舊資訊，即所謂的「災難性遺忘」。"
+          },
+          "text": "現有 LLM 的知識多侷限於即時輸入窗口的上下文，一旦學習新知識，就容易「遺忘」舊資訊，即所謂的「災難性遺忘」。",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798716821,
+          "id": "hk-1762798716819-59638",
+          "note": "",
+          "range": {
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[15]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[15]/p[1]/text()[1]",
+            "text": "「嵌套學習」提出，複雜的機器學習模型不應僅被視為單一的連續學習過程，而是一個由多層次、互相關聯的學習任務構成的系統"
+          },
+          "text": "「嵌套學習」提出，複雜的機器學習模型不應僅被視為單一的連續學習過程，而是一個由多層次、互相關聯的學習任務構成的系統",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798813926,
+          "id": "hk-1762798813925-4733",
+          "note": "",
+          "range": {
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[23]/p[1]/text()[1]",
+            "startOffset": 23,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[23]/p[1]/text()[1]",
+            "text": "訓練過程本身（尤其是反向傳播）可以被視為一種聯想記憶機制，將數據點映射到其局部誤差值，衡量每個數據點的意外性。"
+          },
+          "text": "訓練過程本身（尤其是反向傳播）可以被視為一種聯想記憶機制，將數據點映射到其局部誤差值，衡量每個數據點的意外性。",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798864671,
+          "id": "hk-1762798864670-9824",
+          "note": "",
+          "range": {
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[37]/ul[1]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[37]/ul[1]/li[2]/text()[1]",
+            "text": "連續譜記憶系統（Continuum memory systems, CMS）"
+          },
+          "text": "連續譜記憶系統（Continuum memory systems, CMS）",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798867760,
+          "id": "hk-1762798867758-23145",
+          "note": "",
+          "range": {
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[39]/p[1]/text()[1]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[39]/p[1]/text()[1]",
+            "text": "Hope"
+          },
+          "text": "Hope",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798872323,
+          "id": "hk-1762798872321-67016",
+          "note": "",
+          "range": {
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[37]/ul[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[37]/ul[1]/li[1]/text()[1]",
+            "text": "深度優化器（Deep optimizers）"
+          },
+          "text": "深度優化器（Deep optimizers）",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798884026,
+          "id": "hk-1762798884025-70414",
+          "note": "",
+          "range": {
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[41]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[41]/p[1]/text()[1]",
+            "text": "Hope 能夠利用無限層級的上下文學習，並透過 CMS 模塊增強，以擴展到更大的上下文窗口"
+          },
+          "text": "Hope 能夠利用無限層級的上下文學習，並透過 CMS 模塊增強，以擴展到更大的上下文窗口",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762798903929,
+          "id": "hk-1762798903928-65875",
+          "note": "",
+          "range": {
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[49]/p[1]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[49]/p[1]/text()[1]",
+            "text": "「嵌套學習」為彌合當前 LLM 的遺忘特性與人腦卓越的持續學習能力之間的鴻溝"
+          },
+          "text": "「嵌套學習」為彌合當前 LLM 的遺忘特性與人腦卓越的持續學習能力之間的鴻溝",
+          "url": "https://m.cnyes.com/news/id/6228034"
+        }
+      ]
+    },
+    {
+      "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning",
+      "title": "Google 最新 AI 研究成果：嵌套學習 Nested Learning 是什麼？ - INSIDE",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796116849,
+          "id": "hk-1762796116847-43903",
+          "note": "",
+          "range": {
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[3]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[3]/text()[1]",
+            "text": "AI 模型（如 ChatGPT 或 Gemini）的知識基本上被「凍結」在它們的預訓練數據中"
+          },
+          "text": "AI 模型（如 ChatGPT 或 Gemini）的知識基本上被「凍結」在它們的預訓練數據中",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796121552,
+          "id": "hk-1762796121551-57829",
+          "note": "",
+          "range": {
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[3]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[3]/text()[2]",
+            "text": "傳統方法是使用新數據對模型進行微調"
+          },
+          "text": "傳統方法是使用新數據對模型進行微調",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796140722,
+          "id": "hk-1762796140720-249",
+          "note": "",
+          "range": {
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[7]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[7]/text()[1]",
+            "text": "模型中的不同部分可以擁有自己獨立的學習流程與更新頻率。這就像大腦中，有些記憶是短期的（更新快），有些則是長期的（更新慢）。"
+          },
+          "text": "模型中的不同部分可以擁有自己獨立的學習流程與更新頻率。這就像大腦中，有些記憶是短期的（更新快），有些則是長期的（更新慢）。",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796144714,
+          "id": "hk-1762796144713-54053",
+          "note": "",
+          "range": {
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[7]/text()[2]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[7]/text()[2]",
+            "text": "AI 就能在學習新事物時，動態調整內部結構，同時保護好舊有的核心知識"
+          },
+          "text": "AI 就能在學習新事物時，動態調整內部結構，同時保護好舊有的核心知識",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796150190,
+          "id": "hk-1762796150189-42523",
+          "note": "",
+          "range": {
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[8]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[8]/text()[1]",
+            "text": "Google 團隊打造了一個名為 Hope 的實驗性架構"
+          },
+          "text": "Google 團隊打造了一個名為 Hope 的實驗性架構",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796153288,
+          "id": "hk-1762796153287-53698",
+          "note": "",
+          "range": {
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[8]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[8]/text()[2]",
+            "text": "連續記憶系統（Continuum Memory System, CMS）的機制"
+          },
+          "text": "連續記憶系統（Continuum Memory System, CMS）的機制",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762796182596,
+          "id": "hk-1762796182595-15868",
+          "note": "",
+          "range": {
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[9]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[2]/section[1]/p[9]/text()[1]",
+            "text": "或許不再需要人類手動進行昂貴且耗時的「重新訓練」，而是能像人類一樣，在日常互動中不斷吸收新知"
+          },
+          "text": "或許不再需要人類手動進行昂貴且耗時的「重新訓練」，而是能像人類一樣，在日常互動中不斷吸收新知",
+          "url": "https://www.inside.com.tw/article/40023-google-nested-learning-a-new-ml-paradigm-for-continual-learning"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10382103",
+      "title": "Day 17 - AI 工具實戰：Claude Code 從零到上手 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795522818,
+          "id": "hk-1762795522817-58674",
+          "note": "",
+          "range": {
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "Claude Code 是由 Anthropic 推出的命令列環境下的 AI 程式設計助手"
+          },
+          "text": "Claude Code 是由 Anthropic 推出的命令列環境下的 AI 程式設計助手",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795529322,
+          "id": "hk-1762795529319-4825",
+          "note": "",
+          "range": {
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "開發者可以直接在終端機中與 Anthropic 的大型語言模型 Claude 互動"
+          },
+          "text": "開發者可以直接在終端機中與 Anthropic 的大型語言模型 Claude 互動",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795537185,
+          "id": "hk-1762795537183-80613",
+          "note": "",
+          "range": {
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "Agentic Coding"
+          },
+          "text": "Agentic Coding",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795540256,
+          "id": "hk-1762795540255-41136",
+          "note": "",
+          "range": {
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "text": "理解你的需求並制定執行計劃"
+          },
+          "text": "理解你的需求並制定執行計劃",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795543639,
+          "id": "hk-1762795543637-71362",
+          "note": "",
+          "range": {
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/text()[2]",
+            "text": "直接在終端執行必要的指令"
+          },
+          "text": "直接在終端執行必要的指令",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795545812,
+          "id": "hk-1762795545812-39998",
+          "note": "",
+          "range": {
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/strong[1]/text()[1]",
+            "text": "自動讀取/修改程式碼"
+          },
+          "text": "自動讀取/修改程式碼",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762795548377,
+          "id": "hk-1762795548377-59668",
+          "note": "",
+          "range": {
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/text()[2]",
+            "text": "從 Debug 到重構一手包辦"
+          },
+          "text": "從 Debug 到重構一手包辦",
+          "url": "https://ithelp.ithome.com.tw/articles/10382103"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10380498",
+      "title": "[為你自己學 n8n] 第 1 天，用節點拼出你的自動化世界！ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762788746870,
+          "id": "hk-1762788746868-25059",
+          "note": "",
+          "range": {
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "n8n 其實是由兩個英文單字組合而來"
+          },
+          "text": "n8n 其實是由兩個英文單字組合而來",
+          "url": "https://ithelp.ithome.com.tw/articles/10380498"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762788751639,
+          "id": "hk-1762788751638-90507",
+          "note": "",
+          "range": {
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "Nodemation"
+          },
+          "text": "Nodemation",
+          "url": "https://ithelp.ithome.com.tw/articles/10380498"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762788762283,
+          "id": "hk-1762788762281-2069",
+          "note": "",
+          "range": {
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[2]/strong[1]/text()[1]",
+            "text": "Node（節點）"
+          },
+          "text": "Node（節點）",
+          "url": "https://ithelp.ithome.com.tw/articles/10380498"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762788763573,
+          "id": "hk-1762788763571-7123",
+          "note": "",
+          "range": {
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[3]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[3]/strong[1]/text()[1]",
+            "text": "Automation（自動化）"
+          },
+          "text": "Automation（自動化）",
+          "url": "https://ithelp.ithome.com.tw/articles/10380498"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762788774179,
+          "id": "hk-1762788774178-7138",
+          "note": "",
+          "range": {
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "n8n 是一個自動化工具，它讓你可以把一堆節點（Node）像樂高積木一樣組合在一起，完成各種自動化任務。"
+          },
+          "text": "n8n 是一個自動化工具，它讓你可以把一堆節點（Node）像樂高積木一樣組合在一起，完成各種自動化任務。",
+          "url": "https://ithelp.ithome.com.tw/articles/10380498"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762791359992,
+          "id": "hk-1762791359991-71088",
+          "note": "",
+          "range": {
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[3]/text()[1]",
+            "text": "No-Code / Low-Code"
+          },
+          "text": "No-Code / Low-Code",
+          "url": "https://ithelp.ithome.com.tw/articles/10380498"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10289103",
+      "title": "Day02 - 雲原生架構主流，微服務(Microservices)介紹 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762784920100,
+          "id": "hk-1762784920097-70907",
+          "note": "",
+          "range": {
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[2]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[2]/text()[1]",
+            "text": "單體式架構 (Monolithic Architecture)"
+          },
+          "text": "單體式架構 (Monolithic Architecture)",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786286680,
+          "id": "hk-1762786286678-7476",
+          "note": "",
+          "range": {
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "目標是將系統所需的所有元件整合到同一份程式裡，讓此應用程式不只處理單一任務，而是能負責所需的所有功能。"
+          },
+          "text": "目標是將系統所需的所有元件整合到同一份程式裡，讓此應用程式不只處理單一任務，而是能負責所需的所有功能。",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786309270,
+          "id": "hk-1762786309268-62207",
+          "note": "",
+          "range": {
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/text()[1]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/text()[1]",
+            "text": "雲原生架構主流"
+          },
+          "text": "雲原生架構主流",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786314025,
+          "id": "hk-1762786314024-17787",
+          "note": "",
+          "range": {
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h4[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h4[1]/text()[1]",
+            "text": "Monolithic 優點"
+          },
+          "text": "Monolithic 優點",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786315967,
+          "id": "hk-1762786315966-14853",
+          "note": "",
+          "range": {
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "易於部屬"
+          },
+          "text": "易於部屬",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786321413,
+          "id": "hk-1762786321412-92335",
+          "note": "",
+          "range": {
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "功能都寫在同一份程式"
+          },
+          "text": "功能都寫在同一份程式",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786323596,
+          "id": "hk-1762786323595-43496",
+          "note": "",
+          "range": {
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "學習成本低，上手快"
+          },
+          "text": "學習成本低，上手快",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786333585,
+          "id": "hk-1762786333584-18334",
+          "note": "",
+          "range": {
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h4[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h4[2]/text()[1]",
+            "text": "Monolithic 缺點"
+          },
+          "text": "Monolithic 缺點",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786338634,
+          "id": "hk-1762786338633-63228",
+          "note": "",
+          "range": {
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "text": "後期開發成本高"
+          },
+          "text": "後期開發成本高",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786351419,
+          "id": "hk-1762786351417-87600",
+          "note": "",
+          "range": {
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[2]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[2]/text()[1]",
+            "text": "都使用同一種程式語言開發， 提高對語言的依賴性"
+          },
+          "text": "都使用同一種程式語言開發， 提高對語言的依賴性",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786360369,
+          "id": "hk-1762786360368-17170",
+          "note": "",
+          "range": {
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[3]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[3]/text()[1]",
+            "text": "單一功能遇到瓶頸，只能對整個應用程式擴展"
+          },
+          "text": "單一功能遇到瓶頸，只能對整個應用程式擴展",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786373871,
+          "id": "hk-1762786373870-53632",
+          "note": "",
+          "range": {
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[3]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[3]/text()[1]",
+            "text": "微服務架構 (Microservices Architecture)"
+          },
+          "text": "微服務架構 (Microservices Architecture)",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786397775,
+          "id": "hk-1762786397774-21613",
+          "note": "",
+          "range": {
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 43,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "目標是將應用程式依據功能拆解成獨立元件，彼此透過 API 互相通訊。"
+          },
+          "text": "目標是將應用程式依據功能拆解成獨立元件，彼此透過 API 互相通訊。",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786403183,
+          "id": "hk-1762786403182-42502",
+          "note": "",
+          "range": {
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[2]",
+            "startOffset": 61,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[2]",
+            "text": "拆解成獨立程式，互相使用 API 互相溝通，組合在一起即可成為完整的系統。"
+          },
+          "text": "拆解成獨立程式，互相使用 API 互相溝通，組合在一起即可成為完整的系統。",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762786406618,
+          "id": "hk-1762786406616-22728",
+          "note": "",
+          "range": {
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h4[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h4[3]/text()[1]",
+            "text": "Microservices 優點"
+          },
+          "text": "Microservices 優點",
+          "url": "https://ithelp.ithome.com.tw/articles/10289103"
+        }
+      ]
+    }
+  ]
+}
