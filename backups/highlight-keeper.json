@@ -1,8 +1,1042 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1762876472767,
+  "exportedAt": 1762961382516,
   "pages": [
+    {
+      "url": "https://careers.tsmc.com/zh_TW/careers/JobDetail?jobId=517&source=104",
+      "title": "Data Scientist Engineer",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762958714740,
+          "id": "hk-1762958714738-89742",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762958714735,
+              "end": {
+                "css": "div.section__content:nth-of-type(2) > article.article.article--details:nth-of-type(4) > div.article__content.js_collapsible__content > div.article__content__view > div.article__content__view__field.article__content__view--custom > div.article__content__view__field__value:nth-of-type(2)",
+                "textOffset": 159
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "Minimum Technical Qualifications: 1. Excellent knowledge of ",
+                "suffix": " (with Jupyter, PyCharm, or similar environment), GitHub, an"
+              },
+              "start": {
+                "css": "div.section__content:nth-of-type(2) > article.article.article--details:nth-of-type(4) > div.article__content.js_collapsible__content > div.article__content__view > div.article__content__view__field.article__content__view--custom > div.article__content__view__field__value:nth-of-type(2)",
+                "textOffset": 153
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/article[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/article[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/text()[1]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://careers.tsmc.com/zh_TW/careers/JobDetail?jobId=517&source=104"
+        }
+      ]
+    },
+    {
+      "url": "https://jobs.wistron.com/#/app/vacancy/8621?jobType=InformationEngineering,softwareFirmware,dataScience",
+      "title": "HRrecruit",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952787410,
+          "id": "hk-1762952787408-18278",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952787406,
+              "end": {
+                "css": "div#root > div.style__Container-sc-l71ade-0.dycwYU > div.style__detailContainer-sc-13f77cg-0.hzgzD:nth-of-type(2) > div.style__skillsRequiredWrap-sc-13f77cg-6.gVFxwK:nth-of-type(5) > div.style__fullWidthItem-sc-13f77cg-18.iTDSts:nth-of-type(2) > div.style__contentContainer-sc-13f77cg-22.bczdCv",
+                "textOffset": 137
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "家了解。\n4.\t應用機器學習方法論解決商業問題的經驗。\n5.\t熟悉程式開發，至少掌握以下一項程式語言：C、JAVA、R、",
+                "suffix": "、Perl、Scala、Matlab。\n6.\t熟悉AI方法，至少掌握以下一項技術一個領域:\n機器學習和深度學習(ML)\n"
+              },
+              "start": {
+                "css": "div#root > div.style__Container-sc-l71ade-0.dycwYU > div.style__detailContainer-sc-13f77cg-0.hzgzD:nth-of-type(2) > div.style__skillsRequiredWrap-sc-13f77cg-6.gVFxwK:nth-of-type(5) > div.style__fullWidthItem-sc-13f77cg-18.iTDSts:nth-of-type(2) > div.style__contentContainer-sc-13f77cg-22.bczdCv",
+                "textOffset": 131
+              },
+              "version": 1
+            },
+            "endOffset": 137,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[5]/div[2]/div[1]/text()[1]",
+            "startOffset": 131,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[5]/div[2]/div[1]/text()[1]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://jobs.wistron.com/#/app/vacancy/8621?jobType=InformationEngineering,softwareFirmware,dataScience"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952789645,
+          "id": "hk-1762952789643-53717",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952789643,
+              "end": {
+                "css": "div#root > div.style__Container-sc-l71ade-0.dycwYU > div.style__detailContainer-sc-13f77cg-0.hzgzD:nth-of-type(2) > div.style__skillsRequiredWrap-sc-13f77cg-6.gVFxwK:nth-of-type(5) > div.style__fullWidthItem-sc-13f77cg-18.iTDSts:nth-of-type(2) > div.style__contentContainer-sc-13f77cg-22.bczdCv",
+                "textOffset": 210
+              },
+              "quote": {
+                "exact": "GenAI",
+                "prefix": "ala、Matlab。\n6.\t熟悉AI方法，至少掌握以下一項技術一個領域:\n機器學習和深度學習(ML)\n生成式人工智慧（",
+                "suffix": "）\n強化學習（RL）\n自然語言處理（NLP）\n計算機視覺(CV)\n\n投遞履歷Copyright ©2022 Wistro"
+              },
+              "start": {
+                "css": "div#root > div.style__Container-sc-l71ade-0.dycwYU > div.style__detailContainer-sc-13f77cg-0.hzgzD:nth-of-type(2) > div.style__skillsRequiredWrap-sc-13f77cg-6.gVFxwK:nth-of-type(5) > div.style__fullWidthItem-sc-13f77cg-18.iTDSts:nth-of-type(2) > div.style__contentContainer-sc-13f77cg-22.bczdCv",
+                "textOffset": 205
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[5]/div[2]/div[1]/text()[2]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[5]/div[2]/div[1]/text()[2]",
+            "text": "GenAI"
+          },
+          "text": "GenAI",
+          "url": "https://jobs.wistron.com/#/app/vacancy/8621?jobType=InformationEngineering,softwareFirmware,dataScience"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search",
+      "title": "(20)【2025資訊轉型與創新】Web應用開發工程師｜鴻海精密工業｜新北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952310097,
+          "id": "hk-1762952310094-44083",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952310093,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "GenAI相關技術開發",
+                "prefix": "精密工業股份有限公司本公司其他工作關注儲存應徵 應徵人數 0~5 人 工作內容 1. 網站與軟體開發：\n1.1 熟悉應用",
+                "suffix": "（如 LLM檢索增強生成、語音識別、圖片生成、影音生成）進行應用開發\n1.2.規劃並實現高效穩定的網站與系統，整合前後端"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 20
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "GenAI相關技術開發"
+          },
+          "text": "GenAI相關技術開發",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952319287,
+          "id": "hk-1762952319286-19024",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952319286,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 110
+              },
+              "quote": {
+                "exact": "參與前後端開發",
+                "prefix": "、語音識別、圖片生成、影音生成）進行應用開發\n1.2.規劃並實現高效穩定的網站與系統，整合前後端、API、設計\n1.3.",
+                "suffix": "，整合各種創新技術（如GenAI、3D、VR）的應用\n2.資料庫開發與管理：\n2.1.設計、優化與維護資料庫架構，確保數"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 103
+              },
+              "version": 1
+            },
+            "endOffset": 79,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 72,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "參與前後端開發"
+          },
+          "text": "參與前後端開發",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952321335,
+          "id": "hk-1762952321334-91700",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952321334,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 98
+              },
+              "quote": {
+                "exact": "整合前後端、API、設計",
+                "prefix": "關技術開發（如 LLM檢索增強生成、語音識別、圖片生成、影音生成）進行應用開發\n1.2.規劃並實現高效穩定的網站與系統，",
+                "suffix": "\n1.3.參與前後端開發，整合各種創新技術（如GenAI、3D、VR）的應用\n2.資料庫開發與管理：\n2.1.設計、優化"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 86
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "整合前後端、API、設計"
+          },
+          "text": "整合前後端、API、設計",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952327419,
+          "id": "hk-1762952327418-29674",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952327418,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "熟悉前端技術（HTML、CSS、JavaScript）",
+                "prefix": "eactJS、AngularJS、VueJS、Angular工作技能 不拘其他條件 1.網站開發相關專業技能：\n1.1.",
+                "suffix": "及框架（如React、Vue、Angular 等至少1種前端框架），具備與後端API、WebSocket等對接開發經驗\n"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "熟悉前端技術（HTML、CSS、JavaScript）"
+          },
+          "text": "熟悉前端技術（HTML、CSS、JavaScript）",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952328943,
+          "id": "hk-1762952328942-68367",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952328942,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "React",
+                "prefix": "技能 不拘其他條件 1.網站開發相關專業技能：\n1.1.熟悉前端技術（HTML、CSS、JavaScript）及框架（如",
+                "suffix": "、Vue、Angular 等至少1種前端框架），具備與後端API、WebSocket等對接開發經驗\n1.2.熟悉後端開發"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 50
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "React"
+          },
+          "text": "React",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952336055,
+          "id": "hk-1762952336054-61470",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952336054,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 256
+              },
+              "quote": {
+                "exact": "Git",
+                "prefix": "少一種後端程式語言（如Python、Java、C#）\n2.2.熟悉軟體設計模式與系統架構設計\n2.3.具備版本控制工具（",
+                "suffix": "）的使用經驗\n3.資料庫相關：\n3.1.熟悉關聯式資料庫（MySQL、PostgreSQL）、NoSQL資料庫（Mong"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 253
+              },
+              "version": 1
+            },
+            "endOffset": 201,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 198,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "Git"
+          },
+          "text": "Git",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952337120,
+          "id": "hk-1762952337119-74735",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952337119,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 210
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "少1種程式語言及主流框架），具備RESTful API開發經驗\n2.軟體開發相關：\n2.1.掌握至少一種後端程式語言（如",
+                "suffix": "、Java、C#）\n2.2.熟悉軟體設計模式與系統架構設計\n2.3.具備版本控制工具（Git）的使用經驗\n3.資料庫相關"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 204
+              },
+              "version": 1
+            },
+            "endOffset": 155,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 149,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952343262,
+          "id": "hk-1762952343261-28700",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952343261,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 301
+              },
+              "quote": {
+                "exact": "PostgreSQL",
+                "prefix": "式與系統架構設計\n2.3.具備版本控制工具（Git）的使用經驗\n3.資料庫相關：\n3.1.熟悉關聯式資料庫（MySQL、",
+                "suffix": "）、NoSQL資料庫（MongoDB、Redis）與AI向量資料庫\n3.2.具備資料庫設計、效能優化與資料遷移經驗\n4."
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 291
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "text": "PostgreSQL"
+          },
+          "text": "PostgreSQL",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762952346864,
+          "id": "hk-1762952346862-53093",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762952346862,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 456
+              },
+              "quote": {
+                "exact": "Docker",
+                "prefix": "zure、Google Cloud）\n4.2.具備雲端應用部署、自動化流程（CI/CD）的經驗\n4.3.了解容器化技術（",
+                "suffix": "）與容器編排工具（Kubernetes）\n4.4.熟悉微服務架構與無伺服器（Serverless）框架\n5.創新技術研究"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 450
+              },
+              "version": 1
+            },
+            "endOffset": 155,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[6]",
+            "startOffset": 149,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[6]",
+            "text": "Docker"
+          },
+          "text": "Docker",
+          "url": "https://www.104.com.tw/job/8qfku?jobsource=joblist_search"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8u4f2?jobsource=index_job_r",
+      "title": "(LINE Bank) AI Agent Engineer_AI 工程師｜LINE Bank_連線商業銀行｜台北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1762926223081,
+          "id": "hk-1762926223080-42464",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762926223079,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 41
+              },
+              "quote": {
+                "exact": "RMDBS",
+                "prefix": "寫 /中等擅長工具 不拘工作技能 不拘其他條件 [Skills/Experience]\n- Familiar with ",
+                "suffix": " (eg. postgresql/mysql), Python, Flowise.\n- Familiar with Di"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 36
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "RMDBS"
+          },
+          "text": "RMDBS",
+          "url": "https://www.104.com.tw/job/8u4f2?jobsource=index_job_r"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8sbzf?jobsource=chat_exclusive",
+      "title": "AI Backend軟體工程師_14535｜和碩集團_和碩聯合科技｜台北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762925842785,
+          "id": "hk-1762925842784-7466",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762925842783,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 128
+              },
+              "quote": {
+                "exact": "UNIX/Linux",
+                "prefix": "al field or equivalent practical experience\n• Experience in ",
+                "suffix": " and networking\n• Basic coding ability of one programming la"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 118
+              },
+              "version": 1
+            },
+            "endOffset": 128,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 118,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "UNIX/Linux"
+          },
+          "text": "UNIX/Linux",
+          "url": "https://www.104.com.tw/job/8sbzf?jobsource=chat_exclusive"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762925850335,
+          "id": "hk-1762925850334-97113",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762925850334,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 202
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "working\n• Basic coding ability of one programming language: ",
+                "suffix": " preferred\n\nPreferred qualifications:\n• Experience in vibe c"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 196
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://www.104.com.tw/job/8sbzf?jobsource=chat_exclusive"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762925859752,
+          "id": "hk-1762925859750-32167",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762925859750,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 282
+              },
+              "quote": {
+                "exact": "AI assisted",
+                "prefix": "d\n\nPreferred qualifications:\n• Experience in vibe coding or ",
+                "suffix": " software development\n• Experience in developing backend mic"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 271
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 69,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "AI assisted"
+          },
+          "text": "AI assisted",
+          "url": "https://www.104.com.tw/job/8sbzf?jobsource=chat_exclusive"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762925862958,
+          "id": "hk-1762925862958-85981",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762925862957,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 364
+              },
+              "quote": {
+                "exact": "docker",
+                "prefix": "pment\n• Experience in developing backend microservices with ",
+                "suffix": " or Kubernetes environment\n• Experience with CI/CD & automat"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 358
+              },
+              "version": 1
+            },
+            "endOffset": 82,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "text": "docker"
+          },
+          "text": "docker",
+          "url": "https://www.104.com.tw/job/8sbzf?jobsource=chat_exclusive"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762925948914,
+          "id": "hk-1762925948913-93601",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762925948913,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 414
+              },
+              "quote": {
+                "exact": "CI/CD",
+                "prefix": "ces with docker or Kubernetes environment\n• Experience with ",
+                "suffix": " & automation systems (e.g. Gitlab, Ansible, Jenkins)\n• Expe"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 409
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "text": "CI/CD"
+          },
+          "text": "CI/CD",
+          "url": "https://www.104.com.tw/job/8sbzf?jobsource=chat_exclusive"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search",
+      "title": "R0008231: AI Engineer (TrendIQ Core Team)｜Trend Micro_趨勢科技｜台北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883714897,
+          "id": "hk-1762883714896-36240",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883714895,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 629
+              },
+              "quote": {
+                "exact": "fine-tune AI agents / MCP tools",
+                "prefix": " external tools. \n\n[Responsibility]\n\n- Design, develop, and ",
+                "suffix": " for complex multi-turn conversations and autonomous workflo"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 598
+              },
+              "version": 1
+            },
+            "endOffset": 629,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 598,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "fine-tune AI agents / MCP tools"
+          },
+          "text": "fine-tune AI agents / MCP tools",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883861975,
+          "id": "hk-1762883861974-77808",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883861974,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 802
+              },
+              "quote": {
+                "exact": " AI agents with external APIs, databases, and knowledge bases to enhance contextual understanding",
+                "prefix": "ti-turn conversations and autonomous workflows. \n- Integrate",
+                "suffix": " and functionality. \n- Build and maintain pipelines for trai"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 705
+              },
+              "version": 1
+            },
+            "endOffset": 173,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[3]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[3]",
+            "text": " AI agents with external APIs, databases, and knowledge bases to enhance contextual understanding"
+          },
+          "text": " AI agents with external APIs, databases, and knowledge bases to enhance contextual understanding",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883980725,
+          "id": "hk-1762883980724-81038",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883980724,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1675
+              },
+              "quote": {
+                "exact": " (AWS or Azure) ",
+                "prefix": " and multi-agent systems. \n- Experience with cloud platforms",
+                "suffix": "and container orchestration technologies like Docker and Kub"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1659
+              },
+              "version": 1
+            },
+            "endOffset": 797,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 781,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "text": " (AWS or Azure) "
+          },
+          "text": " (AWS or Azure) ",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883984876,
+          "id": "hk-1762883984875-15386",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883984875,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1742
+              },
+              "quote": {
+                "exact": "Docker and Kubernetes",
+                "prefix": "AWS or Azure) and container orchestration technologies like ",
+                "suffix": ". \n- Strong analytical and problem-solving skills, with abil"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1721
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[6]",
+            "startOffset": 46,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[6]",
+            "text": "Docker and Kubernetes"
+          },
+          "text": "Docker and Kubernetes",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883999887,
+          "id": "hk-1762883999886-13158",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883999885,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1625
+              },
+              "quote": {
+                "exact": "Familiarity with AI agent design, prompt engineering, and multi-agent systems. ",
+                "prefix": "low. \n- Hands-on experience with LLMs and related toolkits. ",
+                "suffix": "\n- Experience with cloud platforms (AWS or Azure) and contai"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1546
+              },
+              "version": 1
+            },
+            "endOffset": 747,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 668,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "text": "Familiarity with AI agent design, prompt engineering, and multi-agent systems. "
+          },
+          "text": "Familiarity with AI agent design, prompt engineering, and multi-agent systems. ",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762884001850,
+          "id": "hk-1762884001849-19339",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762884001849,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1490
+              },
+              "quote": {
+                "exact": "PyTorch or TensorFlow.",
+                "prefix": "ency in Python and experience with AI/ML frameworks such as ",
+                "suffix": " \n- Hands-on experience with LLMs and related toolkits. Fami"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 1468
+              },
+              "version": 1
+            },
+            "endOffset": 612,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 590,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "text": "PyTorch or TensorFlow."
+          },
+          "text": "PyTorch or TensorFlow.",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762884023398,
+          "id": "hk-1762884023397-76355",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762884023396,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 2066
+              },
+              "quote": {
+                "exact": "LLMs or Agentic AI. ",
+                "prefix": "riting. \n\nNice-to-have:\n- Research or project experience in ",
+                "suffix": "\n- Experience with multi-modal AI models, reinforcement lear"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 2046
+              },
+              "version": 1
+            },
+            "endOffset": 324,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[9]",
+            "startOffset": 304,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[9]",
+            "text": "LLMs or Agentic AI. "
+          },
+          "text": "LLMs or Agentic AI. ",
+          "url": "https://www.104.com.tw/job/8vn9t?jobsource=joblist_search"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc",
+      "title": "AI平台工程師(I6C)｜聯詠科技｜新竹市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883627346,
+          "id": "hk-1762883627344-58006",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883627343,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 259
+              },
+              "quote": {
+                "exact": "精熟C/C++, 熟悉Python",
+                "prefix": "AI 效能。\n5. AI 算子Lib 與AI 應用Lib 開發，平行運算加速及優化。\n\n【必要條件】\n1. 程式語言: ",
+                "suffix": ".\n2. AI 理論技術: 熟悉深度學習模型, 或機器視覺方面的理論及技術。如果有大語言模型LLM/視覺語言模型VLM/"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 242
+              },
+              "version": 1
+            },
+            "endOffset": 259,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 242,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "精熟C/C++, 熟悉Python"
+          },
+          "text": "精熟C/C++, 熟悉Python",
+          "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883635033,
+          "id": "hk-1762883635032-42404",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883635032,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 343
+              },
+              "quote": {
+                "exact": "LLM/QAT/Prunning",
+                "prefix": "理論技術: 熟悉深度學習模型, 或機器視覺方面的理論及技術。如果有大語言模型LLM/視覺語言模型VLM/多模態模型MM-",
+                "suffix": " 概念與經驗者優先。\n3. AI訓練架構: Pytorch, TensorFlow, ONNX, Caffe等至少熟悉一"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 327
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "LLM/QAT/Prunning"
+          },
+          "text": "LLM/QAT/Prunning",
+          "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883645951,
+          "id": "hk-1762883645950-94359",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883645950,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 308
+              },
+              "quote": {
+                "exact": "大語言模型LLM",
+                "prefix": ": 精熟C/C++, 熟悉Python.\n2. AI 理論技術: 熟悉深度學習模型, 或機器視覺方面的理論及技術。如果有",
+                "suffix": "/視覺語言模型VLM/多模態模型MM-LLM/QAT/Prunning 概念與經驗者優先。\n3. AI訓練架構: Pyt"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 300
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "大語言模型LLM"
+          },
+          "text": "大語言模型LLM",
+          "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762883658661,
+          "id": "hk-1762883658659-43593",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883658659,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 384
+              },
+              "quote": {
+                "exact": "Pytorch, TensorFlow",
+                "prefix": "LLM/視覺語言模型VLM/多模態模型MM-LLM/QAT/Prunning 概念與經驗者優先。\n3. AI訓練架構: ",
+                "suffix": ", ONNX, Caffe等至少熟悉一種。\n4. AI部署架構: TFLite, ExecuTorch等 Edge AI"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 365
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[4]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[4]",
+            "text": "Pytorch, TensorFlow"
+          },
+          "text": "Pytorch, TensorFlow",
+          "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1762883665207,
+          "id": "hk-1762883665206-91047",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883665206,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 462
+              },
+              "quote": {
+                "exact": " AI部署架構: TFLite, ExecuTorch等 Edge AI 量化格式，具有使用與部署經驗者為佳",
+                "prefix": "驗者優先。\n3. AI訓練架構: Pytorch, TensorFlow, ONNX, Caffe等至少熟悉一種。\n4.",
+                "suffix": "。\n5. 系統平台經驗: 具有嵌入式Linux, RTOS 平台開發/使用經驗者為佳；具有多線程、多進程、Arm NEO"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 408
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "text": " AI部署架構: TFLite, ExecuTorch等 Edge AI 量化格式，具有使用與部署經驗者為佳"
+          },
+          "text": " AI部署架構: TFLite, ExecuTorch等 Edge AI 量化格式，具有使用與部署經驗者為佳",
+          "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1762883689038,
+          "id": "hk-1762883689037-71164",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762883689037,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 588
+              },
+              "quote": {
+                "exact": "具有嵌入式Linux, RTOS 平台開發/使用經驗者為佳；具有多線程、多進程、Arm NEON, CEVA/Cadence DSP, SiFive/Andes RISC-V Vector extension 開發經驗者為佳。",
+                "prefix": ": TFLite, ExecuTorch等 Edge AI 量化格式，具有使用與部署經驗者為佳。\n5. 系統平台經驗: ",
+                "suffix": "\n6. 系統理論技術: 熟悉計算機組織與結構、編譯器、平行運算、分散式運算等方面的理論及技術者為佳。\n7. 驗證測試: "
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 475
+              },
+              "version": 1
+            },
+            "endOffset": 126,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[6]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[6]",
+            "text": "具有嵌入式Linux, RTOS 平台開發/使用經驗者為佳；具有多線程、多進程、Arm NEON, CEVA/Cadence DSP, SiFive/Andes RISC-V Vector extension 開發經驗者為佳。"
+          },
+          "text": "具有嵌入式Linux, RTOS 平台開發/使用經驗者為佳；具有多線程、多進程、Arm NEON, CEVA/Cadence DSP, SiFive/Andes RISC-V Vector extension 開發經驗者為佳。",
+          "url": "https://www.104.com.tw/job/7lrec?jobsource=cs_sub_custlist_rc"
+        }
+      ]
+    },
     {
       "url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/",
       "title": "Introducing Nested Learning: A new ML paradigm for continual learning",
