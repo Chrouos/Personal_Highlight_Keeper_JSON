@@ -1,8 +1,1170 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1762961507763,
+  "exportedAt": 1763303514635,
   "pages": [
+    {
+      "url": "https://tw.alphacamp.co/blog/how-to-make-a-chrome-extension",
+      "title": "Chrome Extension 實戰經驗分享，從發想、實作、上架到萬人下載 - ALPHA Camp",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763303477946,
+          "id": "hk-1763303477945-8323",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763303477944,
+              "end": {
+                "css": "article#post-3497 > div.entry-content:nth-of-type(2)",
+                "textOffset": 1056
+              },
+              "quote": {
+                "exact": "爬了一下官方文件和幾篇教學文，基本上Chrome插件就是個小型前端專案",
+                "prefix": "動導向過去就可以了吧！\nJavaScript 全端開發課程，16 週進度班帶你半年轉職工程師\nChrome 插件 實作\n",
+                "suffix": "，搭配manifest.json來讓chrome知道他是個插件與相關的設定，剩下的部分就是前端的html, css, j"
+              },
+              "start": {
+                "css": "article#post-3497 > div.entry-content:nth-of-type(2)",
+                "textOffset": 1021
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/article[1]/div[2]/p[15]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/article[1]/div[2]/p[15]/text()[1]",
+            "text": "爬了一下官方文件和幾篇教學文，基本上Chrome插件就是個小型前端專案"
+          },
+          "text": "爬了一下官方文件和幾篇教學文，基本上Chrome插件就是個小型前端專案",
+          "url": "https://tw.alphacamp.co/blog/how-to-make-a-chrome-extension"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8ii2v?jobsource=google",
+      "title": "生成式AI工程師｜關貿網路｜台北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293825627,
+          "id": "hk-1763293825626-25875",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293825625,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 155
+              },
+              "quote": {
+                "exact": "Keras、Tensor Flow、Pytorch",
+                "prefix": "對新的技術及事物充滿學習熱情，並具備團隊合作精神\n\n加分條件：\n1.具有大量資料處理與相關資訊系統建置經驗\n2.熟悉如 ",
+                "suffix": " 至少一種框架的使用\n3.發表過生成式 AI 相關論文\n4.參與過生成式 AI 相關計劃歡迎所有求職者，與原住民 等公司"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 130
+              },
+              "version": 1
+            },
+            "endOffset": 155,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 130,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Keras、Tensor Flow、Pytorch"
+          },
+          "text": "Keras、Tensor Flow、Pytorch",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293828261,
+          "id": "hk-1763293828260-21095",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293828260,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "發表過生成式 AI 相關論文",
+                "prefix": "資料處理與相關資訊系統建置經驗\n2.熟悉如 Keras、Tensor Flow、Pytorch 至少一種框架的使用\n3.",
+                "suffix": "\n4.參與過生成式 AI 相關計劃歡迎所有求職者，與原住民 等公司環境照片(10張) 員工休息室(高級按摩椅)舒適的活動"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 168
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "發表過生成式 AI 相關論文"
+          },
+          "text": "發表過生成式 AI 相關論文",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293831376,
+          "id": "hk-1763293831375-65274",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293831375,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 199
+              },
+              "quote": {
+                "exact": "參與過生成式 AI 相關計劃",
+                "prefix": ".熟悉如 Keras、Tensor Flow、Pytorch 至少一種框架的使用\n3.發表過生成式 AI 相關論文\n4.",
+                "suffix": "歡迎所有求職者，與原住民 等公司環境照片(10張) 員工休息室(高級按摩椅)舒適的活動空間關貿棒球家庭日促進視障者就業，"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 185
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "參與過生成式 AI 相關計劃"
+          },
+          "text": "參與過生成式 AI 相關計劃",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293834899,
+          "id": "hk-1763293834898-49104",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293834898,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 17
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "/中等、說 /中等、讀 /中等、寫 /中等擅長工具 Java、Python工作技能 不拘其他條件 必要條件：\n1.具有 ",
+                "suffix": "、Java 等相關程式語言使用經驗\n2.具有機器學習/深度學習/生成式 AI 相關研究或程式開發經驗\n3.對新的技術及事"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293836043,
+          "id": "hk-1763293836042-64704",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293836041,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 22
+              },
+              "quote": {
+                "exact": "Java",
+                "prefix": "中等、讀 /中等、寫 /中等擅長工具 Java、Python工作技能 不拘其他條件 必要條件：\n1.具有 Python、",
+                "suffix": " 等相關程式語言使用經驗\n2.具有機器學習/深度學習/生成式 AI 相關研究或程式開發經驗\n3.對新的技術及事物充滿學習"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Java"
+          },
+          "text": "Java",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293849499,
+          "id": "hk-1763293849498-51316",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293849498,
+              "end": {
+                "css": "div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.list-row.row:nth-of-type(8) > div.col.p-0:nth-of-type(2) > div.t3.mb-0",
+                "textOffset": 6
+              },
+              "quote": {
+                "exact": "無需出差外派",
+                "prefix": "9之13號6樓 (南港軟體工業園區)  (距捷運南港展覽館站約250公尺) 遠端工作 管理責任不需負擔管理責任 出差外派",
+                "suffix": " 上班時段日班 休假制度依公司規定 可上班日不限 需求人數1~2人 條件要求 工作經歷不拘 學歷要求大學以上 科系要求 "
+              },
+              "start": {
+                "css": "div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.list-row.row:nth-of-type(8) > div.col.p-0:nth-of-type(2) > div.t3.mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[8]/div[2]/div[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[8]/div[2]/div[1]/text()[1]",
+            "text": "無需出差外派"
+          },
+          "text": "無需出差外派",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293862774,
+          "id": "hk-1763293862774-34213",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293862773,
+              "end": {
+                "css": "div.job-description-table.row:nth-of-type(2) > div.list-row.row:nth-of-type(5) > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.job-address > span.t4:nth-of-type(3)",
+                "textOffset": 17
+              },
+              "quote": {
+                "exact": "南港展覽館站約250公尺",
+                "prefix": "常性薪資達 4 萬元或以上）工作性質全職 上班地點 台北市南港區三重路19之13號6樓 (南港軟體工業園區)  (距捷運",
+                "suffix": ") 遠端工作 管理責任不需負擔管理責任 出差外派無需出差外派 上班時段日班 休假制度依公司規定 可上班日不限 需求人數1"
+              },
+              "start": {
+                "css": "div.job-description-table.row:nth-of-type(2) > div.list-row.row:nth-of-type(5) > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.job-address > span.t4:nth-of-type(3)",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[5]/div[2]/div[1]/div[1]/span[3]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[5]/div[2]/div[1]/div[1]/span[3]/text()[1]",
+            "text": "南港展覽館站約250公尺"
+          },
+          "text": "南港展覽館站約250公尺",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293873569,
+          "id": "hk-1763293873568-6251",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293873567,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 140
+              },
+              "quote": {
+                "exact": "年終獎金、員工酬勞：依個人年度績效及公司實際經營狀況發放獎金",
+                "prefix": "戰性的工作，使員工樂在工作、成長於工作，並造就關貿網路成為一流人才最喜歡的優質企業。\n \n獎金福利\n◎端午、中秋禮金\n◎",
+                "suffix": "\n\n休假福利\n◎試用期滿即享有第一年在職比例特休假(正職同仁)\n◎有薪病假（7天/年）\n◎每年一天志工假\n\n生活福利\n◎"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 110
+              },
+              "version": 1
+            },
+            "endOffset": 140,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[1]",
+            "startOffset": 110,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[1]",
+            "text": "年終獎金、員工酬勞：依個人年度績效及公司實際經營狀況發放獎金"
+          },
+          "text": "年終獎金、員工酬勞：依個人年度績效及公司實際經營狀況發放獎金",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293892732,
+          "id": "hk-1763293892731-47794",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293892731,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 334
+              },
+              "quote": {
+                "exact": "補助外部訓練費用，公出假公費外出上課",
+                "prefix": "恤制度（公司依法提撥6%之勞工退休金）\n◎出差投保旅平險\n\n教育訓練\n◎關貿大學多元內部課程\n◎專人辦理員工課程規劃\n◎",
+                "suffix": "\n◎鼓勵同仁考取證照、技術證照獎金方案\n◎提供員工完整之學習計畫、重視員工職涯發展\n\n職工福利委員會\n◎生日禮金\n◎婚喪"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 316
+              },
+              "version": 1
+            },
+            "endOffset": 194,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[2]",
+            "startOffset": 176,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[2]",
+            "text": "補助外部訓練費用，公出假公費外出上課"
+          },
+          "text": "補助外部訓練費用，公出假公費外出上課",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293895804,
+          "id": "hk-1763293895802-24672",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293895802,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 353
+              },
+              "quote": {
+                "exact": "鼓勵同仁考取證照、技術證照獎金方案",
+                "prefix": "◎出差投保旅平險\n\n教育訓練\n◎關貿大學多元內部課程\n◎專人辦理員工課程規劃\n◎補助外部訓練費用，公出假公費外出上課\n◎",
+                "suffix": "\n◎提供員工完整之學習計畫、重視員工職涯發展\n\n職工福利委員會\n◎生日禮金\n◎婚喪喜慶補助\n◎每年3,000元三合一補助"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 336
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[3]",
+            "text": "鼓勵同仁考取證照、技術證照獎金方案"
+          },
+          "text": "鼓勵同仁考取證照、技術證照獎金方案",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293898345,
+          "id": "hk-1763293898344-91095",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293898344,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 375
+              },
+              "quote": {
+                "exact": "提供員工完整之學習計畫、重視員工職涯發展",
+                "prefix": "學多元內部課程\n◎專人辦理員工課程規劃\n◎補助外部訓練費用，公出假公費外出上課\n◎鼓勵同仁考取證照、技術證照獎金方案\n◎",
+                "suffix": "\n\n職工福利委員會\n◎生日禮金\n◎婚喪喜慶補助\n◎每年3,000元三合一補助金\n◎各式社團活動\n◎員工旅遊、電影欣賞活動"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 355
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[4]",
+            "text": "提供員工完整之學習計畫、重視員工職涯發展"
+          },
+          "text": "提供員工完整之學習計畫、重視員工職涯發展",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293903799,
+          "id": "hk-1763293903798-85768",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293903798,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 474
+              },
+              "quote": {
+                "exact": "辦公室按摩設備、休閒室、視障按摩師",
+                "prefix": "助\n◎每年3,000元三合一補助金\n◎各式社團活動\n◎員工旅遊、電影欣賞活動\n◎家庭日、各式員工競賽活動\n\n健康職場\n◎",
+                "suffix": "\n◎健康講座、各式健康促進活動\n◎兩年一次定期健康檢查\n\n南港軟體園區\n◎休閒運動廣場（健身器材等設備）\n◎上下班時間付"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 457
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[5]",
+            "startOffset": 82,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[5]",
+            "text": "辦公室按摩設備、休閒室、視障按摩師"
+          },
+          "text": "辦公室按摩設備、休閒室、視障按摩師",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763293918145,
+          "id": "hk-1763293918143-26671",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763293918143,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 538
+              },
+              "quote": {
+                "exact": "上下班時間付費交通車",
+                "prefix": "、視障按摩師\n◎健康講座、各式健康促進活動\n◎兩年一次定期健康檢查\n\n南港軟體園區\n◎休閒運動廣場（健身器材等設備）\n◎",
+                "suffix": "\n◎鄰近三捷運站、火車站、高鐵站、Ubike聯絡方式 聯絡人關貿網路 人才發展課應徵回覆合適者將於7個工作天內主動聯繫，"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 528
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[6]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[6]",
+            "text": "上下班時間付費交通車"
+          },
+          "text": "上下班時間付費交通車",
+          "url": "https://www.104.com.tw/job/8ii2v?jobsource=google"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8urs5?jobsource=pda_i",
+      "title": "AI 應用研發工程師【數位技術中心】｜明基材料｜桃園市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763230831757,
+          "id": "hk-1763230831756-95559",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763230831756,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "React JS",
+                "prefix": "尤佳：\nAI演算法技術：具機器學習、數據分析或生成式AI技術（如：RAG、AI Agent、MCP）等知識\n前端開發：具",
+                "suffix": "框架經驗\n後端開發：Python、FastAPI、Flask API\n資料庫：PostgreSQL / PGVector"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 72
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 72,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "React JS"
+          },
+          "text": "React JS",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=pda_i"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/company/ap7rv14?jobsource=index_s_cs",
+      "title": "德律科技股份有限公司｜徵才中－104人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763115805512,
+          "id": "hk-1763115805510-75394",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763115805509,
+              "end": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "3. 盈餘提撥員工分紅獎金",
+                "prefix": "庭日特約商店健身房電影觀賞伙食津貼員工團體保險一 薪福人生\n1. 端午、中秋禮金 \n2. 透過薪酬調查，保持薪酬競爭力\n",
+                "suffix": "\n4. 專利獎金、提案獎金\n5. 每季優秀員工獎勵\n6. 健康人生福利金(可用於外部課程、社團或私人健身房)\n7. 勞動"
+              },
+              "start": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 37
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[1]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[1]",
+            "text": "3. 盈餘提撥員工分紅獎金"
+          },
+          "text": "3. 盈餘提撥員工分紅獎金",
+          "url": "https://www.104.com.tw/company/ap7rv14?jobsource=index_s_cs"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763115819531,
+          "id": "hk-1763115819529-7969",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763115819529,
+              "end": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 615
+              },
+              "quote": {
+                "exact": "1. 免費汽車停車位(林口廠)\n2. 免費機車停車位(台北總部、林口廠、竹北分公司)",
+                "prefix": "日、密室逃脫、公益團購…等)\n8. 親子音樂會\n9.球類運動(如:籃球、羽球..等)\n10.免費健身房\n\n五 超級幸福\n",
+                "suffix": "\n3. 每月歡樂慶生趴、禮券與驚喜大摸彩\n4. 多樣性的特約店家優惠\n5. 免費電影票及電影包場活動\n6. 團保駐廠諮詢"
+              },
+              "start": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 573
+              },
+              "version": 1
+            },
+            "endOffset": 565,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[2]",
+            "startOffset": 523,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[2]",
+            "text": "1. 免費汽車停車位(林口廠)\n2. 免費機車停車位(台北總部、林口廠、竹北分公司)"
+          },
+          "text": "1. 免費汽車停車位(林口廠)\n2. 免費機車停車位(台北總部、林口廠、竹北分公司)",
+          "url": "https://www.104.com.tw/company/ap7rv14?jobsource=index_s_cs"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8urs5?jobsource=google",
+      "title": "AI 應用研發工程師【數位技術中心】｜明基材料｜桃園市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999312933,
+          "id": "hk-1762999312932-87550",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999312931,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "React JS",
+                "prefix": "尤佳：\nAI演算法技術：具機器學習、數據分析或生成式AI技術（如：RAG、AI Agent、MCP）等知識\n前端開發：具",
+                "suffix": "框架經驗\n後端開發：Python、FastAPI、Flask API\n資料庫：PostgreSQL / PGVector"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 72
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 72,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "React JS"
+          },
+          "text": "React JS",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999314216,
+          "id": "hk-1762999314215-290",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999314214,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 96
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "數據分析或生成式AI技術（如：RAG、AI Agent、MCP）等知識\n前端開發：具React JS框架經驗\n後端開發：",
+                "suffix": "、FastAPI、Flask API\n資料庫：PostgreSQL / PGVector、MongoDB、MS SQL或"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 90
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999317717,
+          "id": "hk-1762999317716-65230",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999317716,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 114
+              },
+              "quote": {
+                "exact": "Flask API",
+                "prefix": "RAG、AI Agent、MCP）等知識\n前端開發：具React JS框架經驗\n後端開發：Python、FastAPI、",
+                "suffix": "\n資料庫：PostgreSQL / PGVector、MongoDB、MS SQL或 Supabase歡迎所有求職者，與"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 105
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "Flask API"
+          },
+          "text": "Flask API",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999319357,
+          "id": "hk-1762999319357-5570",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999319356,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 129
+              },
+              "quote": {
+                "exact": "PostgreSQL",
+                "prefix": "CP）等知識\n前端開發：具React JS框架經驗\n後端開發：Python、FastAPI、Flask API\n資料庫：",
+                "suffix": " / PGVector、MongoDB、MS SQL或 Supabase歡迎所有求職者，與應屆畢業生、外籍人士、原住民 "
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 119
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "text": "PostgreSQL"
+          },
+          "text": "PostgreSQL",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999321375,
+          "id": "hk-1762999321374-74740",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999321374,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 148
+              },
+              "quote": {
+                "exact": "MongoDB",
+                "prefix": "架經驗\n後端開發：Python、FastAPI、Flask API\n資料庫：PostgreSQL / PGVector、",
+                "suffix": "、MS SQL或 Supabase歡迎所有求職者，與應屆畢業生、外籍人士、原住民 等公司環境照片(8張) 明基材料透過完"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 141
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "text": "MongoDB"
+          },
+          "text": "MongoDB",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999324410,
+          "id": "hk-1762999324409-96900",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999324408,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 155
+              },
+              "quote": {
+                "exact": "MS SQL",
+                "prefix": "：Python、FastAPI、Flask API\n資料庫：PostgreSQL / PGVector、MongoDB、",
+                "suffix": "或 Supabase歡迎所有求職者，與應屆畢業生、外籍人士、原住民 等公司環境照片(8張) 明基材料透過完善的人力資源管"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 149
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[6]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[6]",
+            "text": "MS SQL"
+          },
+          "text": "MS SQL",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762999326655,
+          "id": "hk-1762999326654-72778",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762999326654,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": "RAG、AI Agent、MCP",
+                "prefix": "tJS工作技能 不拘其他條件 具以下任一或以上技能條件尤佳：\nAI演算法技術：具機器學習、數據分析或生成式AI技術（如：",
+                "suffix": "）等知識\n前端開發：具React JS框架經驗\n後端開發：Python、FastAPI、Flask API\n資料庫：Po"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 45
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "RAG、AI Agent、MCP"
+          },
+          "text": "RAG、AI Agent、MCP",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763007461632,
+          "id": "hk-1763007461631-87660",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763007461629,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 58
+              },
+              "quote": {
+                "exact": "分紅獎金",
+                "prefix": "特休伙食津貼卓越的員工福利：\n1. 三節獎金：中秋、端午各半個月節金，春節一個月節金\n2. 年度獎金：年度績效獎金及員工",
+                "suffix": "\n3. 新人假期：優於法令之新人特休3天 \n4. 家庭假期：優於法令之產假(12週)、陪產檢及陪產假(10日)、長照假、"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 58,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[1]",
+            "text": "分紅獎金"
+          },
+          "text": "分紅獎金",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763007466086,
+          "id": "hk-1763007466084-94220",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763007466084,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 209
+              },
+              "quote": {
+                "exact": "員購優惠：明基集團產品享員工優惠價",
+                "prefix": "持：三歲以下育兒員工每年可享有6萬元的育兒津貼\n6. 其他補助：用餐/婚喪喜慶補助、三節/勞動節/生日點數購物金\n7. ",
+                "suffix": "\n8. 豐富活動：多元社團活動競賽，淨攤/街、家庭日、年度尾牙等豐富公司活動\n9. 員工表揚：年度優秀員工與團隊表揚並給"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 192
+              },
+              "version": 1
+            },
+            "endOffset": 151,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[2]",
+            "startOffset": 134,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[2]",
+            "text": "員購優惠：明基集團產品享員工優惠價"
+          },
+          "text": "員購優惠：明基集團產品享員工優惠價",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763007471642,
+          "id": "hk-1763007471641-43686",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763007471641,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 527
+              },
+              "quote": {
+                "exact": "完善的教育訓練體系：\n1. 新進人員訓練\n2. OJT在職訓練(On the job training)\n3. 專業職能訓練體系\n4. 管理職能訓練體系\n5. 豐富線上學習課程\n6. AI數位技能訓練",
+                "prefix": "機車停車場\n2. 健康與休閒設施：配備健身中心、韻律教室、籃/排球場、按摩室\n3. 文化與娛樂：閱讀館及各式娛樂器材\n\n",
+                "suffix": "聯絡方式 聯絡人HR104人力銀行提醒您履歷關閉時仍可投遞履歷喔！面試時請遵守求職禮儀準時赴約並小心安全求職安全專線【勞"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid:nth-of-type(4) > div.row.benefits-description:nth-of-type(6) > div.col > p.r3.mb-0",
+                "textOffset": 427
+              },
+              "version": 1
+            },
+            "endOffset": 318,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[3]",
+            "startOffset": 218,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[4]/div[6]/div[1]/p[1]/text()[3]",
+            "text": "完善的教育訓練體系：\n1. 新進人員訓練\n2. OJT在職訓練(On the job training)\n3. 專業職能訓練體系\n4. 管理職能訓練體系\n5. 豐富線上學習課程\n6. AI數位技能訓練"
+          },
+          "text": "完善的教育訓練體系：\n1. 新進人員訓練\n2. OJT在職訓練(On the job training)\n3. 專業職能訓練體系\n4. 管理職能訓練體系\n5. 豐富線上學習課程\n6. AI數位技能訓練",
+          "url": "https://www.104.com.tw/job/8urs5?jobsource=google"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/job/8kukl?jobsource=joblist_search",
+      "title": "[IC] Neural Processing Unit AI Research Engineer (士林)｜Inventec_英業達｜台北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762965370521,
+          "id": "hk-1762965370520-78635",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762981057089,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 496
+              },
+              "quote": {
+                "exact": "natural language processing (NLP",
+                "prefix": "limited to computer vision tasks, speech signal processing, ",
+                "suffix": "), large language models (LLMs), visual language models (VLM"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 464
+              },
+              "version": 1
+            },
+            "endOffset": 496,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 464,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "natural language processing (NLP"
+          },
+          "text": "natural language processing (NLP",
+          "url": "https://www.104.com.tw/job/8kukl?jobsource=joblist_search"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762981173991,
+          "id": "hk-1762981173990-9885",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762981173990,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 779
+              },
+              "quote": {
+                "exact": "Conduct proof-of-concept (PoC)",
+                "prefix": "g high performance and scalability across diverse tasks.\n3. ",
+                "suffix": " experiments to test and validate novel AI methodologies and"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 749
+              },
+              "version": 1
+            },
+            "endOffset": 118,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[4]",
+            "startOffset": 88,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[4]",
+            "text": "Conduct proof-of-concept (PoC)"
+          },
+          "text": "Conduct proof-of-concept (PoC)",
+          "url": "https://www.104.com.tw/job/8kukl?jobsource=joblist_search"
+        }
+      ]
+    },
+    {
+      "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training",
+      "title": "2030 年前沿 AI 訓練需要多少功率？ |大紀元 AI --- How much power will frontier AI training demand in 2030? | Epoch AI",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762970273361,
+          "id": "hk-1762970273359-96756",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762970273358,
+              "end": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 197
+              },
+              "quote": {
+                "exact": "The electrical power required to train individual frontier AI models has been growing rapidly over time, driven by the growth in total training compute and the size of training clusters.",
+                "prefix": " \n  \n\n\n            \n          \n        \n\n        \n          ",
+                "suffix": " Previously, we found that the power required to train a fro"
+              },
+              "start": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[1]/text()[1]",
+            "text": "The electrical power required to train individual frontier AI models has been growing rapidly over time, driven by the growth in total training compute and the size of training clusters."
+          },
+          "text": "The electrical power required to train individual frontier AI models has been growing rapidly over time, driven by the growth in total training compute and the size of training clusters.",
+          "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762970283356,
+          "id": "hk-1762970283355-82878",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762970283355,
+              "end": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 868
+              },
+              "quote": {
+                "exact": "We conclude that the largest individual frontier training runs in 2030 will likely draw 4-16 gigawatts (GW) of power, or enough to power millions of US homes.",
+                "prefix": "or frontier training, and forecast this growth out to 2030. ",
+                "suffix": "在與 EPRI 合作撰寫的新白皮書 《擴展智能：人工智能電力需求的指數增長》中，我們分析了推動前沿培訓功率增長的因素，並"
+              },
+              "start": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 710
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[2]/text()[4]",
+            "startOffset": 107,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[2]/text()[3]",
+            "text": "We conclude that the largest individual frontier training runs in 2030 will likely draw 4-16 gigawatts (GW) of power, or enough to power millions of US homes."
+          },
+          "text": "We conclude that the largest individual frontier training runs in 2030 will likely draw 4-16 gigawatts (GW) of power, or enough to power millions of US homes.",
+          "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762970344891,
+          "id": "hk-1762970344890-46004",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762970344890,
+              "end": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 1714
+              },
+              "quote": {
+                "exact": "hardware energy efficiency improvements, and growth in training run durations, which spreads compute costs over longer time periods and reduces power requirements.",
+                "prefix": "pute growth rate by growth rates in two mitigating factors: ",
+                "suffix": "然而，將這種計算增長趨勢轉化為電力需求需要將計算增長率除以兩個緩解因素的增長率： 硬件能源效率改進和訓練運行持續時間的增"
+              },
+              "start": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 1551
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[4]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[4]/strong[1]/text()[1]",
+            "text": "hardware energy efficiency improvements, and growth in training run durations, which spreads compute costs over longer time periods and reduces power requirements."
+          },
+          "text": "hardware energy efficiency improvements, and growth in training run durations, which spreads compute costs over longer time periods and reduces power requirements.",
+          "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762970454646,
+          "id": "hk-1762970454644-82185",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762970454643,
+              "end": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 3002
+              },
+              "quote": {
+                "exact": "The energy efficiency of leading AI GPUs has improved by 40% per year, while a broader set of GPUs used in ML has improved by 26% per year. ",
+                "prefix": "\n  \n  \n    Energy efficiency will likely continue on trend. ",
+                "suffix": "This is broadly consistent with the decades-long trend in co"
+              },
+              "start": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 2862
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/ul[1]/li[2]/p[1]/text()[9]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/ul[1]/li[2]/p[1]/text()[3]",
+            "text": "The energy efficiency of leading AI GPUs has improved by 40% per year, while a broader set of GPUs used in ML has improved by 26% per year. "
+          },
+          "text": "The energy efficiency of leading AI GPUs has improved by 40% per year, while a broader set of GPUs used in ML has improved by 26% per year. ",
+          "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762970508817,
+          "id": "hk-1762970508815-90368",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762970508813,
+              "end": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 4810
+              },
+              "quote": {
+                "exact": "Overall, we conclude that power demand for frontier training will likely grow by 2.2x to 2.9x per year in the coming years, implying that the largest training runs will reach 4-16 GW by 2030",
+                "prefix": "增長歷史基線的外推，它直接衡量訓練集群中的力量趨勢，而不是模型訓練計算的趨勢。有關更多詳細信息，請參閱論文和代碼 。\n\n",
+                "suffix": ". The lower end of this range is consistent with already-ann"
+              },
+              "start": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 4620
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[7]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[7]/text()[1]",
+            "text": "Overall, we conclude that power demand for frontier training will likely grow by 2.2x to 2.9x per year in the coming years, implying that the largest training runs will reach 4-16 GW by 2030"
+          },
+          "text": "Overall, we conclude that power demand for frontier training will likely grow by 2.2x to 2.9x per year in the coming years, implying that the largest training runs will reach 4-16 GW by 2030",
+          "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1762972435102,
+          "id": "hk-1762972435099-13753",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1762972435097,
+              "end": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 7501
+              },
+              "quote": {
+                "exact": "Overall, we find that >100 GW of total AI capacity worldwide and >50 GW in the US is plausible by 2030, which would approach 5% of the US’s total power generation capacity.",
+                "prefix": "多家前沿人工智慧公司以及推理、實驗以及訓練的運算需求，單一千兆瓦級的訓練運行意味著更高水準的人工智慧資料中心總容量。\n\n",
+                "suffix": "總體而言，我們發現到 2030 年，全球人工智慧總容量的 >100 吉瓦和美國的 >50 吉瓦是合理的，這將接近美國總發"
+              },
+              "start": {
+                "css": "div.page-content:nth-of-type(2) > div.post-container > div.post.post-paper > div.post-body.standard-max-width:nth-of-type(2) > div.post-content-container:nth-of-type(4) > div.post-content.regular-content",
+                "textOffset": 7329
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[10]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[4]/div[1]/p[10]/text()[1]",
+            "text": "Overall, we find that >100 GW of total AI capacity worldwide and >50 GW in the US is plausible by 2030, which would approach 5% of the US’s total power generation capacity."
+          },
+          "text": "Overall, we find that >100 GW of total AI capacity worldwide and >50 GW in the US is plausible by 2030, which would approach 5% of the US’s total power generation capacity.",
+          "url": "https://epoch.ai/blog/power-demands-of-frontier-ai-training"
+        }
+      ]
+    },
     {
       "url": "https://careers.tsmc.com/zh_TW/careers/JobDetail?jobId=517&source=104",
       "title": "Data Scientist Engineer",
@@ -1882,6 +3044,11 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ]
+    },
+    {
+      "url": "https://redia.ai/zh-TW/book",
+      "title": "- Redia",
+      "entries": []
     }
   ]
 }
