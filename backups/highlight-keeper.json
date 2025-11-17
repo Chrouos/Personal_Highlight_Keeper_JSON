@@ -1,8 +1,462 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1763397669989,
+  "exportedAt": 1763399626688,
   "pages": [
+    {
+      "url": "https://www.104.com.tw/job/8cssw",
+      "title": "AI工程師-台北(R)｜凌網科技｜台北市－104 人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399544324,
+          "id": "hk-1763399544323-75712",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399544322,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "生成式 AI",
+                "prefix": "ead 的研發團隊，歡迎有自信、對軟體開發充滿熱情的夥伴加入，一同發掘數位閱讀的無限可能。\n\n【工作內容】\n\n1. 參與",
+                "suffix": " 與大語言模型（LLM）相關技術研究、整合\n2. 設計、開發和部署機器學習模型，評估引入 AI 工具，以解決各種業務問題"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 79
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 79,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "生成式 AI"
+          },
+          "text": "生成式 AI",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399552842,
+          "id": "hk-1763399552841-25762",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399552841,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 124
+              },
+              "quote": {
+                "exact": "設計、開發和部署機器學習模型",
+                "prefix": "一同發掘數位閱讀的無限可能。\n\n【工作內容】\n\n1. 參與生成式 AI 與大語言模型（LLM）相關技術研究、整合\n2. ",
+                "suffix": "，評估引入 AI 工具，以解決各種業務問題\n3. 與跨職能團隊合作，將 AI 整合到我們的產品和服務中\n4. 持續追蹤 "
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 110
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "設計、開發和部署機器學習模型"
+          },
+          "text": "設計、開發和部署機器學習模型",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399557705,
+          "id": "hk-1763399557705-54108",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399557705,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "跨職能團隊合作",
+                "prefix": "模型（LLM）相關技術研究、整合\n2. 設計、開發和部署機器學習模型，評估引入 AI 工具，以解決各種業務問題\n3. 與",
+                "suffix": "，將 AI 整合到我們的產品和服務中\n4. 持續追蹤 AI 技術，探索新的應用場景\n\n【職務需求】\n\n1. 熟悉 Pyt"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 150
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[3]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[3]",
+            "text": "跨職能團隊合作"
+          },
+          "text": "跨職能團隊合作",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399559818,
+          "id": "hk-1763399559817-24606",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399559817,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 220
+              },
+              "quote": {
+                "exact": "Python",
+                "prefix": "隊合作，將 AI 整合到我們的產品和服務中\n4. 持續追蹤 AI 技術，探索新的應用場景\n\n【職務需求】\n\n1. 熟悉 ",
+                "suffix": " 程式語言\n2. 具備機器學習與深度學習基礎知識\n3. 具備 AI 或 LLM 應用整合經驗\n4. 對人工智慧領域有興趣"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 214
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[4]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[4]",
+            "text": "Python"
+          },
+          "text": "Python",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399563148,
+          "id": "hk-1763399563147-9606",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399563147,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 244
+              },
+              "quote": {
+                "exact": "具備機器學習與深度學習基礎知識",
+                "prefix": "產品和服務中\n4. 持續追蹤 AI 技術，探索新的應用場景\n\n【職務需求】\n\n1. 熟悉 Python 程式語言\n2. ",
+                "suffix": "\n3. 具備 AI 或 LLM 應用整合經驗\n4. 對人工智慧領域有興趣、有熱情\n職務類別 AI工程師認識AI工程師職務"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 229
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[5]",
+            "text": "具備機器學習與深度學習基礎知識"
+          },
+          "text": "具備機器學習與深度學習基礎知識",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399565250,
+          "id": "hk-1763399565249-61282",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399565249,
+              "end": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 266
+              },
+              "quote": {
+                "exact": "具備 AI 或 LLM 應用整合經驗",
+                "prefix": "術，探索新的應用場景\n\n【職務需求】\n\n1. 熟悉 Python 程式語言\n2. 具備機器學習與深度學習基礎知識\n3. ",
+                "suffix": "\n4. 對人工智慧領域有興趣、有熱情\n職務類別 AI工程師認識AI工程師職務 更多AI工程師相關工作AI工程師-求職面試"
+              },
+              "start": {
+                "css": "div.row > div.col.main > div.dialog.container-fluid > div.job-description-table.row:nth-of-type(2) > div.job-description.col-12 > p.mb-5.r3",
+                "textOffset": 248
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[6]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[6]",
+            "text": "具備 AI 或 LLM 應用整合經驗"
+          },
+          "text": "具備 AI 或 LLM 應用整合經驗",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399568962,
+          "id": "hk-1763399568962-24946",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399568962,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "Flask",
+                "prefix": "碩士 科系要求 不拘語文條件 不拘擅長工具 不拘工作技能 不拘其他條件 【加分能力】\n\n1. 熟悉 FastAPI 或 ",
+                "suffix": "\n2. 熟悉 PyTorch 或 Tensorflow 深度學習框架\n3. 實際訓練和部署模型相關經驗\n4. 具備 RA"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Flask"
+          },
+          "text": "Flask",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399573272,
+          "id": "hk-1763399573271-72345",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399573271,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 56
+              },
+              "quote": {
+                "exact": "Tensorflow",
+                "prefix": "不拘工作技能 不拘其他條件 【加分能力】\n\n1. 熟悉 FastAPI 或 Flask\n2. 熟悉 PyTorch 或 ",
+                "suffix": " 深度學習框架\n3. 實際訓練和部署模型相關經驗\n4. 具備 RAG 相關應用經驗\n5. 具備 AI 工具輔助、加速工作"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 46
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Tensorflow"
+          },
+          "text": "Tensorflow",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399574987,
+          "id": "hk-1763399574986-56735",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399574986,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "實際訓練和部署模型相關經驗",
+                "prefix": "\n1. 熟悉 FastAPI 或 Flask\n2. 熟悉 PyTorch 或 Tensorflow 深度學習框架\n3. ",
+                "suffix": "\n4. 具備 RAG 相關應用經驗\n5. 具備 AI 工具輔助、加速工作流程經驗\n6. 具備 Docker 或 Kube"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 67
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "實際訓練和部署模型相關經驗"
+          },
+          "text": "實際訓練和部署模型相關經驗",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399576340,
+          "id": "hk-1763399576339-2681",
+          "note": "RAG, GraphRAG, LightRAG, Agentic RAG",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399576339,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 90
+              },
+              "quote": {
+                "exact": "RAG",
+                "prefix": "sk\n2. 熟悉 PyTorch 或 Tensorflow 深度學習框架\n3. 實際訓練和部署模型相關經驗\n4. 具備 ",
+                "suffix": " 相關應用經驗\n5. 具備 AI 工具輔助、加速工作流程經驗\n6. 具備 Docker 或 Kubernetes 相關經"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 87
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "text": "RAG"
+          },
+          "text": "RAG",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399578306,
+          "id": "hk-1763399578305-48143",
+          "note": "Codex, Github Copliot",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399578305,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 111
+              },
+              "quote": {
+                "exact": "AI 工具輔助",
+                "prefix": "或 Tensorflow 深度學習框架\n3. 實際訓練和部署模型相關經驗\n4. 具備 RAG 相關應用經驗\n5. 具備 ",
+                "suffix": "、加速工作流程經驗\n6. 具備 Docker 或 Kubernetes 相關經驗歡迎所有求職者，與應屆畢業生 等公司環境"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 104
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "text": "AI 工具輔助"
+          },
+          "text": "AI 工具輔助",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399605008,
+          "id": "hk-1763399605008-97746",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399605007,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 133
+              },
+              "quote": {
+                "exact": "Docker",
+                "prefix": "實際訓練和部署模型相關經驗\n4. 具備 RAG 相關應用經驗\n5. 具備 AI 工具輔助、加速工作流程經驗\n6. 具備 ",
+                "suffix": " 或 Kubernetes 相關經驗歡迎所有求職者，與應屆畢業生 等公司環境照片(4張) 辦公環境舒適且有專屬辦公座位("
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 127
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[6]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[6]",
+            "text": "Docker"
+          },
+          "text": "Docker",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1763399609781,
+          "id": "hk-1763399609780-2100",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399609780,
+              "end": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 146
+              },
+              "quote": {
+                "exact": "Kubernetes",
+                "prefix": "相關經驗\n4. 具備 RAG 相關應用經驗\n5. 具備 AI 工具輔助、加速工作流程經驗\n6. 具備 Docker 或 ",
+                "suffix": " 相關經驗歡迎所有求職者，與應屆畢業生 等公司環境照片(4張) 辦公環境舒適且有專屬辦公座位(新竹總公司)辦公環境舒適且"
+              },
+              "start": {
+                "css": "div.job-requirement.col:nth-of-type(3) > div.list-row.row > div.col.p-0:nth-of-type(2) > div.t3.mb-0 > div.col.p-0 > p.m-0.r3",
+                "textOffset": 136
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[7]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[7]",
+            "text": "Kubernetes"
+          },
+          "text": "Kubernetes",
+          "url": "https://www.104.com.tw/job/8cssw"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763399620554,
+          "id": "hk-1763399620553-80204",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763399620553,
+              "end": {
+                "css": "div.col.main > div.dialog.container-fluid:nth-of-type(2) > div.job-requirement-table.row:nth-of-type(2) > div.list-row.row:nth-of-type(2) > div.col.p-0:nth-of-type(2) > div.t3.mb-0",
+                "textOffset": 5
+              },
+              "quote": {
+                "exact": "碩士",
+                "prefix": "18:30(含午休1.5小時) 休假制度週休二日 可上班日一個月內 需求人數1人 條件要求 工作經歷不拘 學歷要求大學、",
+                "suffix": " 科系要求 不拘語文條件 不拘擅長工具 不拘工作技能 不拘其他條件 【加分能力】\n\n1. 熟悉 FastAPI 或 Fl"
+              },
+              "start": {
+                "css": "div.col.main > div.dialog.container-fluid:nth-of-type(2) > div.job-requirement-table.row:nth-of-type(2) > div.list-row.row:nth-of-type(2) > div.col.p-0:nth-of-type(2) > div.t3.mb-0",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[2]/div[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[2]/div[1]/text()[1]",
+            "text": "碩士"
+          },
+          "text": "碩士",
+          "url": "https://www.104.com.tw/job/8cssw"
+        }
+      ]
+    },
     {
       "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai",
       "title": "Kosmos: An AI Scientist for Autonomous Discovery",
