@@ -1,11 +1,11 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1763396564871,
+  "exportedAt": 1763396935900,
   "pages": [
     {
       "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai",
-      "title": "Kosmos：自主發現的人工智慧科學家 --- Kosmos: An AI Scientist for Autonomous Discovery",
+      "title": "Kosmos: An AI Scientist for Autonomous Discovery",
       "entries": [
         {
           "color": "#ffeb3b",
@@ -41,73 +41,9 @@
         },
         {
           "color": "#ffeb3b",
-          "createdAt": 1763396297674,
-          "id": "hk-1763396297673-16376",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1763396297672,
-              "end": {
-                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
-                "textOffset": 2279
-              },
-              "quote": {
-                "exact": " Our beta users estimate that Kosmos can do in one day what would take them 6 months, and we find that 79.4% of its conclusions are accurate.",
-                "prefix": "more sophisticated analyses than previous tools, like Robin.",
-                "suffix": " The six month number shocked us, and we discuss it in more "
-              },
-              "start": {
-                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
-                "textOffset": 2138
-              },
-              "version": 1
-            },
-            "endOffset": 1,
-            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[4]/text()[3]",
-            "startOffset": 97,
-            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[4]/text()[2]",
-            "text": " Our beta users estimate that Kosmos can do in one day what would take them 6 months, and we find that 79.4% of its conclusions are accurate."
-          },
-          "text": " Our beta users estimate that Kosmos can do in one day what would take them 6 months, and we find that 79.4% of its conclusions are accurate.",
-          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
-        },
-        {
-          "color": "#ffeb3b",
-          "createdAt": 1763396342695,
-          "id": "hk-1763396342694-73979",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1763396342693,
-              "end": {
-                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
-                "textOffset": 8973
-              },
-              "quote": {
-                "exact": " We are launching it at $200/run (200 credits per run, and $1/credit), with some free tier usage for academics.",
-                "prefix": "ave tried to include guidelines on this to help (see below).",
-                "suffix": " This is heavily discounted; people who sign up for Founding"
-              },
-              "start": {
-                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
-                "textOffset": 8862
-              },
-              "version": 1
-            },
-            "endOffset": 94,
-            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[15]/text()[3]",
-            "startOffset": 418,
-            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[15]/text()[2]",
-            "text": " We are launching it at $200/run (200 credits per run, and $1/credit), with some free tier usage for academics."
-          },
-          "text": " We are launching it at $200/run (200 credits per run, and $1/credit), with some free tier usage for academics.",
-          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
-        },
-        {
-          "color": "#ffeb3b",
           "createdAt": 1763396356241,
           "id": "hk-1763396356240-59627",
-          "note": "",
+          "note": "不斷從一個連結或話題跳轉到下一個，最終花費大量時間，甚至迷失",
           "range": {
             "anchors": {
               "createdAt": 1763396356240,
@@ -133,6 +69,70 @@
             "text": "but it also often goes down rabbit holes or chases statistically significant yet scientifically irrelevant findings."
           },
           "text": "but it also often goes down rabbit holes or chases statistically significant yet scientifically irrelevant findings.",
+          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763396866915,
+          "id": "hk-1763396866914-14791",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763396866914,
+              "end": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 8980
+              },
+              "quote": {
+                "exact": "technical report had been made previously by humans, but were either unpublished when we ran Kosmos, or (in one case)",
+                "prefix": "s’ time. Firstly, three of the discoveries presented in the ",
+                "suffix": " had been published after the cutoff of Kosmos’ models (and "
+              },
+              "start": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 8863
+              },
+              "version": 1
+            },
+            "endOffset": 342,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[19]/text()[1]",
+            "startOffset": 225,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[19]/text()[1]",
+            "text": "technical report had been made previously by humans, but were either unpublished when we ran Kosmos, or (in one case)"
+          },
+          "text": "technical report had been made previously by humans, but were either unpublished when we ran Kosmos, or (in one case)",
+          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763396885575,
+          "id": "hk-1763396885574-42072",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763396885573,
+              "end": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 2256
+              },
+              "quote": {
+                "exact": "Scientific conclusions must be grounded in fact, but too many AI systems these days produce conclusions without clear provenance.",
+                "prefix": "mos is designed with transparency and traceability in mind. ",
+                "suffix": " By contrast, every conclusion in a Kosmos report can be tra"
+              },
+              "start": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 2127
+              },
+              "version": 1
+            },
+            "endOffset": 231,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 102,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "Scientific conclusions must be grounded in fact, but too many AI systems these days produce conclusions without clear provenance."
+          },
+          "text": "Scientific conclusions must be grounded in fact, but too many AI systems these days produce conclusions without clear provenance.",
           "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
         }
       ]
