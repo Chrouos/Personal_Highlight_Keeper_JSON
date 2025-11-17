@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1763396935900,
+  "exportedAt": 1763397669989,
   "pages": [
     {
       "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai",
@@ -43,7 +43,7 @@
           "color": "#ffeb3b",
           "createdAt": 1763396356241,
           "id": "hk-1763396356240-59627",
-          "note": "不斷從一個連結或話題跳轉到下一個，最終花費大量時間，甚至迷失",
+          "note": "rabbit hole: 不斷從一個連結或話題跳轉到下一個，最終花費大量時間，甚至迷失",
           "range": {
             "anchors": {
               "createdAt": 1763396356240,
