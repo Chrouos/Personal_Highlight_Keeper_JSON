@@ -1,8 +1,1280 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1763381336040,
+  "exportedAt": 1763396564871,
   "pages": [
+    {
+      "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai",
+      "title": "Kosmos：自主發現的人工智慧科學家 --- Kosmos: An AI Scientist for Autonomous Discovery",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763396279297,
+          "id": "hk-1763396279296-5669",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763396279295,
+              "end": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 1788
+              },
+              "quote": {
+                "exact": "An individual Kosmos run involves reading 1500 papers and running 42,000 lines of analysis code, far more than any other agent we are aware of.",
+                "prefix": "pecific research objective over tens of millions of tokens. ",
+                "suffix": "前幾代人工智慧科學家，例如 FutureHouse 的 Robin，主要在合成大量資訊的能力方面受到限制。語言模型的有限"
+              },
+              "start": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 1645
+              },
+              "version": 1
+            },
+            "endOffset": 778,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 635,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "An individual Kosmos run involves reading 1500 papers and running 42,000 lines of analysis code, far more than any other agent we are aware of."
+          },
+          "text": "An individual Kosmos run involves reading 1500 papers and running 42,000 lines of analysis code, far more than any other agent we are aware of.",
+          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763396297674,
+          "id": "hk-1763396297673-16376",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763396297672,
+              "end": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 2279
+              },
+              "quote": {
+                "exact": " Our beta users estimate that Kosmos can do in one day what would take them 6 months, and we find that 79.4% of its conclusions are accurate.",
+                "prefix": "more sophisticated analyses than previous tools, like Robin.",
+                "suffix": " The six month number shocked us, and we discuss it in more "
+              },
+              "start": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 2138
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[4]/text()[3]",
+            "startOffset": 97,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[4]/text()[2]",
+            "text": " Our beta users estimate that Kosmos can do in one day what would take them 6 months, and we find that 79.4% of its conclusions are accurate."
+          },
+          "text": " Our beta users estimate that Kosmos can do in one day what would take them 6 months, and we find that 79.4% of its conclusions are accurate.",
+          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763396342695,
+          "id": "hk-1763396342694-73979",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763396342693,
+              "end": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 8973
+              },
+              "quote": {
+                "exact": " We are launching it at $200/run (200 credits per run, and $1/credit), with some free tier usage for academics.",
+                "prefix": "ave tried to include guidelines on this to help (see below).",
+                "suffix": " This is heavily discounted; people who sign up for Founding"
+              },
+              "start": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 8862
+              },
+              "version": 1
+            },
+            "endOffset": 94,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[15]/text()[3]",
+            "startOffset": 418,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[15]/text()[2]",
+            "text": " We are launching it at $200/run (200 credits per run, and $1/credit), with some free tier usage for academics."
+          },
+          "text": " We are launching it at $200/run (200 credits per run, and $1/credit), with some free tier usage for academics.",
+          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763396356241,
+          "id": "hk-1763396356240-59627",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763396356240,
+              "end": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 9785
+              },
+              "quote": {
+                "exact": "but it also often goes down rabbit holes or chases statistically significant yet scientifically irrelevant findings.",
+                "prefix": "s that are the equivalent of several months of human labor, ",
+                "suffix": " We often run Kosmos multiple times on the same objective in"
+              },
+              "start": {
+                "css": "div#w-node-_7af3470c-063d-8b82-01ae-4f7784d07e05-64430541 > div.rich-text.resource-body",
+                "textOffset": 9669
+              },
+              "version": 1
+            },
+            "endOffset": 222,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[16]/text()[1]",
+            "startOffset": 106,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[16]/text()[1]",
+            "text": "but it also often goes down rabbit holes or chases statistically significant yet scientifically irrelevant findings."
+          },
+          "text": "but it also often goes down rabbit holes or chases statistically significant yet scientifically irrelevant findings.",
+          "url": "https://edisonscientific.com/articles/announcing-kosmos?utm_source=tldrai"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a",
+      "title": "深度學習基本概念：Activation functions. 前陣子收到某家公司的線上筆試，看到時間限制只有 40 分鐘但竟然有兩題… | by Ying-Yu Chen | Medium",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393179242,
+          "id": "hk-1763393179240-90705",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393179240,
+              "end": {
+                "css": "p#a8c4",
+                "textOffset": 127
+              },
+              "quote": {
+                "exact": "透過非線性的 activation functions 的堆疊，模型可以捕捉到複雜的資料背後蘊含的規則。",
+                "prefix": "works 所使用的 activation functions 通常是非線性的，最重要的目的就是為模型加入非線性的特性。",
+                "suffix": "這也是深度學習能夠如此強大的原因之一。如果深度模型都是由線性函數堆疊而成，其實就完全可以用一層線性函數表示，如此就無法捕"
+              },
+              "start": {
+                "css": "p#a8c4",
+                "textOffset": 75
+              },
+              "version": 1
+            },
+            "endOffset": 127,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 75,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "透過非線性的 activation functions 的堆疊，模型可以捕捉到複雜的資料背後蘊含的規則。"
+          },
+          "text": "透過非線性的 activation functions 的堆疊，模型可以捕捉到複雜的資料背後蘊含的規則。",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393182343,
+          "id": "hk-1763393182342-85257",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393182342,
+              "end": {
+                "css": "p#\\38 3cc",
+                "textOffset": 34
+              },
+              "quote": {
+                "exact": "具有明確的輸出範圍",
+                "prefix": "層線性函數表示，如此就無法捕捉非線性的變化，也失去堆疊深度模型的意義。另外，activation functions 也",
+                "suffix": "，因此我們可以針對輸出的特性選擇合適的 activation function，例如如果預期輸出為機率，則可以選擇輸出範"
+              },
+              "start": {
+                "css": "p#\\38 3cc",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "具有明確的輸出範圍"
+          },
+          "text": "具有明確的輸出範圍",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393187649,
+          "id": "hk-1763393187648-25627",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393187646,
+              "end": {
+                "css": "li#d3c4",
+                "textOffset": 17
+              },
+              "quote": {
+                "exact": "可微分且有平滑的 gradient",
+                "prefix": "的 activation functions 類型Sigmoid數學表示：f(x) = 1/(1+exp(-x))特性：",
+                "suffix": "。輸出範圍為 0~1，輸入數值越大（正值）則輸出越接近 1，輸入數值越小（負值）則輸出越接近 0，因此適合做為機率預測模"
+              },
+              "start": {
+                "css": "li#d3c4",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[1]/text()[1]",
+            "text": "可微分且有平滑的 gradient"
+          },
+          "text": "可微分且有平滑的 gradient",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393199768,
+          "id": "hk-1763393199767-79152",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393199767,
+              "end": {
+                "css": "li#f1fa",
+                "textOffset": 150
+              },
+              "quote": {
+                "exact": "這樣的問題在深度模型會更明顯，因為變化極大的輸入經過多次的壓縮到很小的輸出範圍，gradient 更可能小到無法有效訓練模型",
+                "prefix": "差異不大，因此 gradient 極小，這會導致訓練模型時遭遇梯度消失（vanishing gradients）的問題。",
+                "suffix": "。Tanh數學表示：f(x) = (exp(x)-exp(-x))/(exp(x)+exp(-x))特性：可微分且有平滑"
+              },
+              "start": {
+                "css": "li#f1fa",
+                "textOffset": 88
+              },
+              "version": 1
+            },
+            "endOffset": 150,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "startOffset": 88,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "text": "這樣的問題在深度模型會更明顯，因為變化極大的輸入經過多次的壓縮到很小的輸出範圍，gradient 更可能小到無法有效訓練模型"
+          },
+          "text": "這樣的問題在深度模型會更明顯，因為變化極大的輸入經過多次的壓縮到很小的輸出範圍，gradient 更可能小到無法有效訓練模型",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393206036,
+          "id": "hk-1763393206035-85264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393206035,
+              "end": {
+                "css": "li#f1fa",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "當輸入數值大於或小於一定的範圍時，sigmoid 的輸出差異不大",
+                "prefix": " 0~1，輸入數值越大（正值）則輸出越接近 1，輸入數值越小（負值）則輸出越接近 0，因此適合做為機率預測模型的輸出層。",
+                "suffix": "，因此 gradient 極小，這會導致訓練模型時遭遇梯度消失（vanishing gradients）的問題。這樣的問"
+              },
+              "start": {
+                "css": "li#f1fa",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "text": "當輸入數值大於或小於一定的範圍時，sigmoid 的輸出差異不大"
+          },
+          "text": "當輸入數值大於或小於一定的範圍時，sigmoid 的輸出差異不大",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1763393215446,
+          "id": "hk-1763393215444-59557",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393215444,
+              "end": {
+                "css": "li#\\35 b34",
+                "textOffset": 9
+              },
+              "quote": {
+                "exact": " 0~1",
+                "prefix": "類型Sigmoid數學表示：f(x) = 1/(1+exp(-x))特性：可微分且有平滑的 gradient。輸出範圍為",
+                "suffix": "，輸入數值越大（正值）則輸出越接近 1，輸入數值越小（負值）則輸出越接近 0，因此適合做為機率預測模型的輸出層。當輸入數"
+              },
+              "start": {
+                "css": "li#\\35 b34",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[2]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[2]/text()[1]",
+            "text": " 0~1"
+          },
+          "text": " 0~1",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393219314,
+          "id": "hk-1763393219313-17575",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393219312,
+              "end": {
+                "css": "h3#\\32 8b5",
+                "textOffset": 7
+              },
+              "quote": {
+                "exact": "Sigmoid",
+                "prefix": "出範圍為 0 到 1 的 activation function。常見的 activation functions 類型",
+                "suffix": "數學表示：f(x) = 1/(1+exp(-x))特性：可微分且有平滑的 gradient。輸出範圍為 0~1，輸入數值"
+              },
+              "start": {
+                "css": "h3#\\32 8b5",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h3[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h3[1]/text()[1]",
+            "text": "Sigmoid"
+          },
+          "text": "Sigmoid",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393223370,
+          "id": "hk-1763393223369-71723",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393223369,
+              "end": {
+                "css": "h3#\\38 105",
+                "textOffset": 4
+              },
+              "quote": {
+                "exact": "Tanh",
+                "prefix": "問題在深度模型會更明顯，因為變化極大的輸入經過多次的壓縮到很小的輸出範圍，gradient 更可能小到無法有效訓練模型。",
+                "suffix": "數學表示：f(x) = (exp(x)-exp(-x))/(exp(x)+exp(-x))特性：可微分且有平滑的 gra"
+              },
+              "start": {
+                "css": "h3#\\38 105",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h3[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h3[2]/text()[1]",
+            "text": "Tanh"
+          },
+          "text": "Tanh",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1763393231563,
+          "id": "hk-1763393231561-34255",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393231561,
+              "end": {
+                "css": "li#\\34 028",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "-1~1",
+                "prefix": "))/(exp(x)+exp(-x))特性：可微分且有平滑的 gradient。與 sigmoid 相似，但輸出範圍為 ",
+                "suffix": "。由於輸出以 0 為中心，適合用在預測正向、中性與負向關係模型的輸出層。另外用於 hidden layers 時可以將輸"
+              },
+              "start": {
+                "css": "li#\\34 028",
+                "textOffset": 20
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[2]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[2]/text()[1]",
+            "text": "-1~1"
+          },
+          "text": "-1~1",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393237301,
+          "id": "hk-1763393237299-75199",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393237299,
+              "end": {
+                "css": "li#\\34 028",
+                "textOffset": 59
+              },
+              "quote": {
+                "exact": "正向、中性與負向關係模型的輸出層",
+                "prefix": "微分且有平滑的 gradient。與 sigmoid 相似，但輸出範圍為 -1~1。由於輸出以 0 為中心，適合用在預測",
+                "suffix": "。另外用於 hidden layers 時可以將輸入標準化（normalization）且以 0 為中心，據說（？）有助"
+              },
+              "start": {
+                "css": "li#\\34 028",
+                "textOffset": 43
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[2]/text()[2]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[2]/text()[2]",
+            "text": "正向、中性與負向關係模型的輸出層"
+          },
+          "text": "正向、中性與負向關係模型的輸出層",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393243901,
+          "id": "hk-1763393243900-23197",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393243900,
+              "end": {
+                "css": "li#\\34 028",
+                "textOffset": 111
+              },
+              "quote": {
+                "exact": "輸入標準化（normalization）且以 0 為中心",
+                "prefix": "1。由於輸出以 0 為中心，適合用在預測正向、中性與負向關係模型的輸出層。另外用於 hidden layers 時可以將",
+                "suffix": "，據說（？）有助於後面的 layers 的學習。另一個與 sigmoid 相似的點是 tanh 也會遭遇梯度消失（van"
+              },
+              "start": {
+                "css": "li#\\34 028",
+                "textOffset": 83
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[2]/text()[3]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[2]/text()[3]",
+            "text": "輸入標準化（normalization）且以 0 為中心"
+          },
+          "text": "輸入標準化（normalization）且以 0 為中心",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393251643,
+          "id": "hk-1763393251641-35542",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393251641,
+              "end": {
+                "css": "li#\\38 061",
+                "textOffset": 56
+              },
+              "quote": {
+                "exact": "sigmoid 相似的點是 tanh 也會遭遇梯度消失（vanishing gradients）的問題",
+                "prefix": "可以將輸入標準化（normalization）且以 0 為中心，據說（？）有助於後面的 layers 的學習。另一個與 ",
+                "suffix": "，儘管 tanh 的 gradient 已經比 sigmoid 的 gradient 更陡峭。ReLU數學表示：f(x)"
+              },
+              "start": {
+                "css": "li#\\38 061",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[3]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[2]/li[3]/text()[1]",
+            "text": "sigmoid 相似的點是 tanh 也會遭遇梯度消失（vanishing gradients）的問題"
+          },
+          "text": "sigmoid 相似的點是 tanh 也會遭遇梯度消失（vanishing gradients）的問題",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1763393268690,
+          "id": "hk-1763393268689-23114",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393268689,
+              "end": {
+                "css": "li#f1fa",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "梯度消失",
+                "prefix": "。當輸入數值大於或小於一定的範圍時，sigmoid 的輸出差異不大，因此 gradient 極小，這會導致訓練模型時遭遇",
+                "suffix": "（vanishing gradients）的問題。這樣的問題在深度模型會更明顯，因為變化極大的輸入經過多次的壓縮到很小的"
+              },
+              "start": {
+                "css": "li#f1fa",
+                "textOffset": 59
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "text": "梯度消失"
+          },
+          "text": "梯度消失",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393283451,
+          "id": "hk-1763393283449-77198",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393283449,
+              "end": {
+                "css": "h3#\\34 a13",
+                "textOffset": 4
+              },
+              "quote": {
+                "exact": "ReLU",
+                "prefix": "gradients）的問題，儘管 tanh 的 gradient 已經比 sigmoid 的 gradient 更陡峭。",
+                "suffix": "數學表示：f(x) = max(0, x)特性：只將大於 0 的輸入維持原樣輸出，小於 0 的輸入全都轉換為 0。可以想"
+              },
+              "start": {
+                "css": "h3#\\34 a13",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h3[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h3[3]/text()[1]",
+            "text": "ReLU"
+          },
+          "text": "ReLU",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393293861,
+          "id": "hk-1763393293860-87337",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393293860,
+              "end": {
+                "css": "li#\\30 801",
+                "textOffset": 33
+              },
+              "quote": {
+                "exact": "只將大於 0 的輸入維持原樣輸出，小於 0 的輸入全都轉換為 0。",
+                "prefix": "ient 已經比 sigmoid 的 gradient 更陡峭。ReLU數學表示：f(x) = max(0, x)特性：",
+                "suffix": "可以想成只在輸入大於 0 時 activated，計算上比較有效率。不會飽和（non-saturating）的特性可免於"
+              },
+              "start": {
+                "css": "li#\\30 801",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[3]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[3]/li[1]/text()[1]",
+            "text": "只將大於 0 的輸入維持原樣輸出，小於 0 的輸入全都轉換為 0。"
+          },
+          "text": "只將大於 0 的輸入維持原樣輸出，小於 0 的輸入全都轉換為 0。",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393303187,
+          "id": "hk-1763393303185-9465",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393303185,
+              "end": {
+                "css": "li#f24b",
+                "textOffset": 64
+              },
+              "quote": {
+                "exact": "不會飽和（non-saturating）的特性可免於梯度消失（vanishing gradients）的問題，使得模型更容易收斂",
+                "prefix": "的輸入維持原樣輸出，小於 0 的輸入全都轉換為 0。可以想成只在輸入大於 0 時 activated，計算上比較有效率。",
+                "suffix": "，是目前很常使用的 activation function。如果輸入都是負的，將會全部被轉換為 0，使得梯度為 0，因此"
+              },
+              "start": {
+                "css": "li#f24b",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[3]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[3]/li[2]/text()[1]",
+            "text": "不會飽和（non-saturating）的特性可免於梯度消失（vanishing gradients）的問題，使得模型更容易收斂"
+          },
+          "text": "不會飽和（non-saturating）的特性可免於梯度消失（vanishing gradients）的問題，使得模型更容易收斂",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393317214,
+          "id": "hk-1763393317211-53809",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393317210,
+              "end": {
+                "css": "li#ee14",
+                "textOffset": 57
+              },
+              "quote": {
+                "exact": "如果輸入都是負的，將會全部被轉換為 0，使得梯度為 0，因此部分的 weights 和 biases 就無法被更新",
+                "prefix": "ishing gradients）的問題，使得模型更容易收斂，是目前很常使用的 activation function。",
+                "suffix": "，進而可能使得 neurons 成為永遠不會 activated 的 dead neurons，這會讓訓練模型缺乏效率（"
+              },
+              "start": {
+                "css": "li#ee14",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[3]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[3]/li[3]/text()[1]",
+            "text": "如果輸入都是負的，將會全部被轉換為 0，使得梯度為 0，因此部分的 weights 和 biases 就無法被更新"
+          },
+          "text": "如果輸入都是負的，將會全部被轉換為 0，使得梯度為 0，因此部分的 weights 和 biases 就無法被更新",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393327890,
+          "id": "hk-1763393327889-44607",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393327889,
+              "end": {
+                "css": "li#cf24",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "將一個數值陣列轉換為總合為 1 的機率分布，適合做為多類別分類",
+                "prefix": "加計算時間。Softmax數學表示：Softmax(x_i) = exp(x_i)/sum_j(exp(x_j))特性：",
+                "suffix": "（multi-class classification）模型的輸出層。-其實後來還發展出非常多複雜的 activatio"
+              },
+              "start": {
+                "css": "li#cf24",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[5]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[5]/li[1]/text()[1]",
+            "text": "將一個數值陣列轉換為總合為 1 的機率分布，適合做為多類別分類"
+          },
+          "text": "將一個數值陣列轉換為總合為 1 的機率分布，適合做為多類別分類",
+          "url": "https://medium.com/@yingyuchentw003/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5-activation-functions-8d890d650e8a"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4",
+      "title": "【ML09】Activation Function 是什麼?. NN 的 neurons ，除了input node及output node… | by Tim Wong | 深思心思 | Medium",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393036885,
+          "id": "hk-1763393036882-93302",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393036880,
+              "end": {
+                "css": "p#\\37 6ac",
+                "textOffset": 76
+              },
+              "quote": {
+                "exact": "Activation Function，就是把計算好了的輸入值standardize 好，規範它的「輸出數值之範圍」，「輸出數值的相互關係」。",
+                "prefix": ") 之外還會有Activation Function 的計算(ACT)。它有什麼用？它有什麼形式？如何選擇呢？簡而言之，",
+                "suffix": "之前的blog 有說過pre-processing raw data, 對不？其實，Activation Functio"
+              },
+              "start": {
+                "css": "p#\\37 6ac",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 76,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Activation Function，就是把計算好了的輸入值standardize 好，規範它的「輸出數值之範圍」，「輸出數值的相互關係」。"
+          },
+          "text": "Activation Function，就是把計算好了的輸入值standardize 好，規範它的「輸出數值之範圍」，「輸出數值的相互關係」。",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393066239,
+          "id": "hk-1763393066238-38866",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393066238,
+              "end": {
+                "css": "p#a527",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "ReLU (Rectified Linear Units) ",
+                "prefix": " Function 〗Press enter or click to view image in full size1.",
+                "suffix": "是最簡單又最常用的，它是把負數先轉為零，正數就什麼都不做直接離開node。用意係把負值關係排除掉。例如據說，跑步x 跟做"
+              },
+              "start": {
+                "css": "p#a527",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "ReLU (Rectified Linear Units) "
+          },
+          "text": "ReLU (Rectified Linear Units) ",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393073310,
+          "id": "hk-1763393073309-29531",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393073308,
+              "end": {
+                "css": "p#a527",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "負值關係排除掉",
+                "prefix": "fied Linear Units) 是最簡單又最常用的，它是把負數先轉為零，正數就什麼都不做直接離開node。用意係把",
+                "suffix": "。例如據說，跑步x 跟做Gym y 是相輔相承的，你不可以只專注做其中一種的。如用neuron 來判定健康與否，就要先自"
+              },
+              "start": {
+                "css": "p#a527",
+                "textOffset": 73
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[2]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[2]",
+            "text": "負值關係排除掉"
+          },
+          "text": "負值關係排除掉",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393106520,
+          "id": "hk-1763393106519-3623",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393106519,
+              "end": {
+                "css": "p#bd65",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "Leaky ReLU 就是不想放棄那些負數，只是負數的影響力小一點。",
+                "prefix": "麼？你的輸出是0 ? 你想說你沒有頁獻這次的delta? OKOK，如果是零的，就不會分到delta 了，放心 。」2.",
+                "suffix": "例如把負數乘0.1 或乘 0.01。3.ELU 是進一步把Leaky ReLU 跟 ReLU 的硬朗線條改smooth "
+              },
+              "start": {
+                "css": "p#bd65",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "Leaky ReLU 就是不想放棄那些負數，只是負數的影響力小一點。"
+          },
+          "text": "Leaky ReLU 就是不想放棄那些負數，只是負數的影響力小一點。",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393126893,
+          "id": "hk-1763393126892-98881",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393126891,
+              "end": {
+                "css": "p#\\30 2df",
+                "textOffset": 34
+              },
+              "quote": {
+                "exact": "Sigmoid",
+                "prefix": "n 的概率，75%。下次我們用在classification 吧!5.有如ReLu 跟Leaky ReLU 的關係一樣，",
+                "suffix": " 跟 tanh 有同樣的關係。前者不處理負數，它總會在有很多負數輸入值的應用上遇到麻煩，包搭NN 跑不動。那當然會有人跑"
+              },
+              "start": {
+                "css": "p#\\30 2df",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[16]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[16]/text()[1]",
+            "text": "Sigmoid"
+          },
+          "text": "Sigmoid",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393133898,
+          "id": "hk-1763393133896-71050",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393133896,
+              "end": {
+                "css": "p#\\30 2df",
+                "textOffset": 87
+              },
+              "quote": {
+                "exact": "不處理負數，它總會在有很多負數輸入值的應用上遇到麻煩，包搭NN 跑不動。",
+                "prefix": "cation 吧!5.有如ReLu 跟Leaky ReLU 的關係一樣，Sigmoid 跟 tanh 有同樣的關係。前者",
+                "suffix": "那當然會有人跑出來發明差不多但又可處理負數的Function。tanh 會輸出由-1 至1 的sigmoid 呀!6. "
+              },
+              "start": {
+                "css": "p#\\30 2df",
+                "textOffset": 51
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[16]/text()[2]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[16]/text()[2]",
+            "text": "不處理負數，它總會在有很多負數輸入值的應用上遇到麻煩，包搭NN 跑不動。"
+          },
+          "text": "不處理負數，它總會在有很多負數輸入值的應用上遇到麻煩，包搭NN 跑不動。",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763393138269,
+          "id": "hk-1763393138267-80053",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763393138267,
+              "end": {
+                "css": "p#\\34 be6",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "tanh 會輸出由-1 至1 的sigmoid ",
+                "prefix": "總會在有很多負數輸入值的應用上遇到麻煩，包搭NN 跑不動。那當然會有人跑出來發明差不多但又可處理負數的Function。",
+                "suffix": "呀!6. Maxout 是比較復雜的方法，是在相鄰兩個neurons 先算好 x+y-b ，再比較它們並使用當中較大的數"
+              },
+              "start": {
+                "css": "p#\\34 be6",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[17]/text()[1]",
+            "text": "tanh 會輸出由-1 至1 的sigmoid "
+          },
+          "text": "tanh 會輸出由-1 至1 的sigmoid ",
+          "url": "https://medium.com/%E6%B7%B1%E6%80%9D%E5%BF%83%E6%80%9D/ml08-activation-function-%E6%98%AF%E4%BB%80%E9%BA%BC-15ec78fa1ce4"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10376247",
+      "title": "AI Agent 與 Agent Workflow 設計 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381646436,
+          "id": "hk-1763381646436-18156",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381646435,
+              "end": {
+                "css": "div.col-md-12.clearfix > div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-header > h2.qa-header__title.ir-article__title",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "Agent Workflow",
+                "prefix": "\n                                                AI Agent 與 ",
+                "suffix": " 設計\n                    \n\n                    \n             "
+              },
+              "start": {
+                "css": "div.col-md-12.clearfix > div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-header > h2.qa-header__title.ir-article__title",
+                "textOffset": 60
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/text()[1]",
+            "startOffset": 60,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/text()[1]",
+            "text": "Agent Workflow"
+          },
+          "text": "Agent Workflow",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381662258,
+          "id": "hk-1763381662257-54196",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381662257,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "目標導向 (Goal-Oriented)",
+                "prefix": "rkflow 的設計原則設計一個好的 Agent Workflow，需要兼顧 靈活性 與 可控性。以下是常見的設計原則：",
+                "suffix": "Workflow 必須圍繞任務目標設計，而非只做單一步驟。例如：完成「資料分析報告」= 收集資料 → 整理 → 視覺化 "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 309
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[3]",
+            "text": "目標導向 (Goal-Oriented)"
+          },
+          "text": "目標導向 (Goal-Oriented)",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381664452,
+          "id": "hk-1763381664451-86737",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381664451,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 348
+              },
+              "quote": {
+                "exact": "圍繞任務目標設計",
+                "prefix": "ow，需要兼顧 靈活性 與 可控性。以下是常見的設計原則：目標導向 (Goal-Oriented)Workflow 必須",
+                "suffix": "，而非只做單一步驟。例如：完成「資料分析報告」= 收集資料 → 整理 → 視覺化 → 撰寫結論。任務分解 (Task D"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 340
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[5]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[5]",
+            "text": "圍繞任務目標設計"
+          },
+          "text": "圍繞任務目標設計",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381667549,
+          "id": "hk-1763381667548-65260",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381667548,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 396
+              },
+              "quote": {
+                "exact": "「資料分析報告」= 收集資料 → 整理 → 視覺化 → 撰寫結論。",
+                "prefix": "的設計原則：目標導向 (Goal-Oriented)Workflow 必須圍繞任務目標設計，而非只做單一步驟。例如：完成",
+                "suffix": "任務分解 (Task Decomposition)將大目標拆解成多個小步驟，方便 Agent 理解並逐一完成。方法包含："
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 363
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[7]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[7]",
+            "text": "「資料分析報告」= 收集資料 → 整理 → 視覺化 → 撰寫結論。"
+          },
+          "text": "「資料分析報告」= 收集資料 → 整理 → 視覺化 → 撰寫結論。",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381670498,
+          "id": "hk-1763381670497-82472",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381670497,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 421
+              },
+              "quote": {
+                "exact": "任務分解 (Task Decomposition)",
+                "prefix": "w 必須圍繞任務目標設計，而非只做單一步驟。例如：完成「資料分析報告」= 收集資料 → 整理 → 視覺化 → 撰寫結論。",
+                "suffix": "將大目標拆解成多個小步驟，方便 Agent 理解並逐一完成。方法包含：LLM 自動規劃、人工預設流程、或混合模式。條件控"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 396
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[9]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[9]",
+            "text": "任務分解 (Task Decomposition)"
+          },
+          "text": "任務分解 (Task Decomposition)",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381674367,
+          "id": "hk-1763381674366-42065",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381674366,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 433
+              },
+              "quote": {
+                "exact": "大目標拆解成多個小步驟",
+                "prefix": "成「資料分析報告」= 收集資料 → 整理 → 視覺化 → 撰寫結論。任務分解 (Task Decomposition)將",
+                "suffix": "，方便 Agent 理解並逐一完成。方法包含：LLM 自動規劃、人工預設流程、或混合模式。條件控制 (Condition"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 422
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[11]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[11]",
+            "text": "大目標拆解成多個小步驟"
+          },
+          "text": "大目標拆解成多個小步驟",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381676693,
+          "id": "hk-1763381676692-10890",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381676692,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 502
+              },
+              "quote": {
+                "exact": "條件控制 (Conditional Logic)",
+                "prefix": "on)將大目標拆解成多個小步驟，方便 Agent 理解並逐一完成。方法包含：LLM 自動規劃、人工預設流程、或混合模式。",
+                "suffix": "Workflow 需要設計分支：若失敗，如何重試？若資料不足，是否請求更多輸入？避免 Agent 一路執行到錯誤結果而不"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 478
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[14]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[14]",
+            "text": "條件控制 (Conditional Logic)"
+          },
+          "text": "條件控制 (Conditional Logic)",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381678751,
+          "id": "hk-1763381678749-31153",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381678748,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 542
+              },
+              "quote": {
+                "exact": "若失敗，如何重試？若資料不足，是否請求更多輸入？",
+                "prefix": "M 自動規劃、人工預設流程、或混合模式。條件控制 (Conditional Logic)Workflow 需要設計分支：",
+                "suffix": "避免 Agent 一路執行到錯誤結果而不自知。工具調用 (Tool Usage)Agent 常需外部資源（API、資料庫"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 518
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[16]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[16]",
+            "text": "若失敗，如何重試？若資料不足，是否請求更多輸入？"
+          },
+          "text": "若失敗，如何重試？若資料不足，是否請求更多輸入？",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381681021,
+          "id": "hk-1763381681020-12129",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381681020,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 582
+              },
+              "quote": {
+                "exact": "工具調用 (Tool Usage)",
+                "prefix": "kflow 需要設計分支：若失敗，如何重試？若資料不足，是否請求更多輸入？避免 Agent 一路執行到錯誤結果而不自知。",
+                "suffix": "Agent 常需外部資源（API、資料庫、搜尋引擎）。Workflow 應明確定義何時該呼叫哪個工具。記憶與上下文管理 "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 565
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[19]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[19]",
+            "text": "工具調用 (Tool Usage)"
+          },
+          "text": "工具調用 (Tool Usage)",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381684166,
+          "id": "hk-1763381684164-84213",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381684164,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 660
+              },
+              "quote": {
+                "exact": "記憶與上下文管理 (Memory & Context)",
+                "prefix": "ol Usage)Agent 常需外部資源（API、資料庫、搜尋引擎）。Workflow 應明確定義何時該呼叫哪個工具。",
+                "suffix": "長任務中，Agent 必須記得前一步做了什麼。Workflow 設計中會包含 短期記憶（任務上下文）與 長期記憶（知識庫"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 633
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[23]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[23]",
+            "text": "記憶與上下文管理 (Memory & Context)"
+          },
+          "text": "記憶與上下文管理 (Memory & Context)",
+          "url": "https://ithelp.ithome.com.tw/articles/10376247"
+        }
+      ]
+    },
     {
       "url": "https://www.perform-global.com/blog/what-is-ai-agent",
       "title": "AI Agent 是什麼？為什麼要用 RPA+AI 實現 Agentic Workflow",
