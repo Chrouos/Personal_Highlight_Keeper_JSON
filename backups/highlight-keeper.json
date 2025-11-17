@@ -1,8 +1,372 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1763303514635,
+  "exportedAt": 1763381336040,
   "pages": [
+    {
+      "url": "https://www.perform-global.com/blog/what-is-ai-agent",
+      "title": "AI Agent 是什麼？為什麼要用 RPA+AI 實現 Agentic Workflow",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381194154,
+          "id": "hk-1763381194152-71299",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381194149,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 197
+              },
+              "quote": {
+                "exact": "傳統 AI 聊天機器人僅能基於輸入產生單一回應",
+                "prefix": " 年十大技術趨勢之一，並預測到 2028 年，至少有 15% 的日常工作決策將由 Agentic AI 自主完成。不同於",
+                "suffix": "，AI Agent 具備自主決策、規劃與執行能力，能夠運用外部工具、動態適應環境，甚至進行多輪優化，以完成複雜的目標導向"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 174
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[2]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[2]/text()[1]",
+            "text": "傳統 AI 聊天機器人僅能基於輸入產生單一回應"
+          },
+          "text": "傳統 AI 聊天機器人僅能基於輸入產生單一回應",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1763381197682,
+          "id": "hk-1763381197680-14214",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381197680,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 260
+              },
+              "quote": {
+                "exact": "AI Agent 具備自主決策、規劃與執行能力，能夠運用外部工具、動態適應環境，甚至進行多輪優化，以完成複雜的目標導向任務。",
+                "prefix": "少有 15% 的日常工作決策將由 Agentic AI 自主完成。不同於傳統 AI 聊天機器人僅能基於輸入產生單一回應，",
+                "suffix": "本文除了全面解析理想上的 AI Agent 核心概念、運作機制、應用場景外，也更落地的幫助你掌握這項顛覆性技術的現階段挑"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 198
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[2]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[2]/text()[2]",
+            "text": "AI Agent 具備自主決策、規劃與執行能力，能夠運用外部工具、動態適應環境，甚至進行多輪優化，以完成複雜的目標導向任務。"
+          },
+          "text": "AI Agent 具備自主決策、規劃與執行能力，能夠運用外部工具、動態適應環境，甚至進行多輪優化，以完成複雜的目標導向任務。",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381216024,
+          "id": "hk-1763381216021-56176",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381216021,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 615
+              },
+              "quote": {
+                "exact": "大型語言模型（LLM）作為大腦，能夠規劃、記憶、反思、使用工具來執行任務，並有能力適應變化",
+                "prefix": "t ？ 一個完整的 AI Agent 具備什麼特徵？AI Agent (AI 代理) 是一種具備自主決策能力的程式，透過",
+                "suffix": "，以完成複雜的目標導向任務這與僅回應使用者輸入的 AI 聊天機器人不同，AI 代理擁有更高層次的自動化能力，能夠自行決定"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 570
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[5]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[5]/strong[2]/text()[1]",
+            "text": "大型語言模型（LLM）作為大腦，能夠規劃、記憶、反思、使用工具來執行任務，並有能力適應變化"
+          },
+          "text": "大型語言模型（LLM）作為大腦，能夠規劃、記憶、反思、使用工具來執行任務，並有能力適應變化",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381252652,
+          "id": "hk-1763381252650-31604",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381252648,
+              "end": {
+                "css": "h2#toc-六、透過-rpa-＋-ai-agent-實現-agentic-workflow（智慧型代理工作流程）",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "透過 RPA ＋ AI Agent 實現 Agentic Workflow",
+                "prefix": "I 代理人的持續學習和改進：AI 代理人並非「設定後就忘記」的工具，需要持續的監控、回饋和改進，以確保其效能和準確性六、",
+                "suffix": "（智慧型代理工作流程）雖然有上述挑戰，在企業數位轉型的進程中，等待三年才導入 AI 顯然不是選項。我們主張以 RPA 為"
+              },
+              "start": {
+                "css": "h2#toc-六、透過-rpa-＋-ai-agent-實現-agentic-workflow（智慧型代理工作流程）",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/h2[5]/strong[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/h2[5]/strong[1]/text()[1]",
+            "text": "透過 RPA ＋ AI Agent 實現 Agentic Workflow"
+          },
+          "text": "透過 RPA ＋ AI Agent 實現 Agentic Workflow",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381256353,
+          "id": "hk-1763381256351-86840",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381256350,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5540
+              },
+              "quote": {
+                "exact": "以 RPA 為自動化系統的核心骨架，並在適當的節點引入 AI Agent 的能力",
+                "prefix": "orkflow（智慧型代理工作流程）雖然有上述挑戰，在企業數位轉型的進程中，等待三年才導入 AI 顯然不是選項。我們主張",
+                "suffix": "（如 Tool 使用、長短期記憶），逐步引入 AI 提升智能化程度，同時降低系統的不可預測性。從傳統自動化到智慧型代理工"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5500
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[34]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[34]/strong[1]/text()[1]",
+            "text": "以 RPA 為自動化系統的核心骨架，並在適當的節點引入 AI Agent 的能力"
+          },
+          "text": "以 RPA 為自動化系統的核心骨架，並在適當的節點引入 AI Agent 的能力",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381292055,
+          "id": "hk-1763381292052-2041",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381292052,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5811
+              },
+              "quote": {
+                "exact": "整合 RPA 與 AI Agent，不僅能突破傳統流程自動化的彈性瓶頸，更讓企業即刻啟動智慧化流程轉型",
+                "prefix": "節點執行特定任務（如自動生成採購申請、比價、發送通知），而整體框架與觸發條件則由 RPA 負責，確保流程的穩定性與可控性",
+                "suffix": "。這種混合模式能降低系統不可預測性，並逐步引入 AI 的強大能力（如決策輔助、工具應用、記憶能力），提升自動化流程的效率"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5760
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[36]/strong[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[36]/text()[1]",
+            "text": "整合 RPA 與 AI Agent，不僅能突破傳統流程自動化的彈性瓶頸，更讓企業即刻啟動智慧化流程轉型"
+          },
+          "text": "整合 RPA 與 AI Agent，不僅能突破傳統流程自動化的彈性瓶頸，更讓企業即刻啟動智慧化流程轉型",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381294160,
+          "id": "hk-1763381294158-70153",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381294158,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5859
+              },
+              "quote": {
+                "exact": "如決策輔助、工具應用、記憶能力",
+                "prefix": "統流程自動化的彈性瓶頸，更讓企業即刻啟動智慧化流程轉型。這種混合模式能降低系統不可預測性，並逐步引入 AI 的強大能力（",
+                "suffix": "），提升自動化流程的效率與智慧性UiPath Agentic AutomationUiPath 在領先的企業自動化技術的"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5844
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[36]/text()[2]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/p[36]/text()[2]",
+            "text": "如決策輔助、工具應用、記憶能力"
+          },
+          "text": "如決策輔助、工具應用、記憶能力",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763381305905,
+          "id": "hk-1763381305903-4275",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381305903,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5144
+              },
+              "quote": {
+                "exact": "不可預測性和信任問題",
+                "prefix": "用 RPA 設計行動框架，然後從框架中插入 Agent 的能力 當未來核心技術真的成熟時，在管理面的不確定性與挑戰包含：",
+                "suffix": "：由於 AI 代理人具有自主性，其行為可能難以完全預測。如果 AI 代理人在執行任務時出錯，可能會對企業造成損害。因此，"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5134
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/ol[3]/li[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/ol[3]/li[1]/strong[1]/text()[1]",
+            "text": "不可預測性和信任問題"
+          },
+          "text": "不可預測性和信任問題",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        },
+        {
+          "color": "#ffb8b8",
+          "createdAt": 1763381313780,
+          "id": "hk-1763381313778-45937",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763381313777,
+              "end": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5201
+              },
+              "quote": {
+                "exact": "如果 AI 代理人在執行任務時出錯，可能會對企業造成損害。",
+                "prefix": "術真的成熟時，在管理面的不確定性與挑戰包含：不可預測性和信任問題：由於 AI 代理人具有自主性，其行為可能難以完全預測。",
+                "suffix": "因此，建立對 AI 代理人決策的信任至關重要資料安全和合規性：AI 代理人在處理敏感資料時，必須遵守相關的法規，例如 G"
+              },
+              "start": {
+                "css": "div.padding-global > div.container-large.is-blog > div.padding-section-large.padding-top-0 > div.blog-container-grid > div.w-layout-vflex.blog-body-wrap > div.blog-rte.w-richtext:nth-of-type(5)",
+                "textOffset": 5172
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/ol[3]/li[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/ol[3]/li[1]/text()[1]",
+            "text": "如果 AI 代理人在執行任務時出錯，可能會對企業造成損害。"
+          },
+          "text": "如果 AI 代理人在執行任務時出錯，可能會對企業造成損害。",
+          "url": "https://www.perform-global.com/blog/what-is-ai-agent"
+        }
+      ]
+    },
+    {
+      "url": "https://www.104.com.tw/company/7lka688?jobsource=google",
+      "title": "凌網科技股份有限公司｜徵才中－104人力銀行",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763369301658,
+          "id": "hk-1763369301656-60346",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763369301655,
+              "end": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(2) > div.col > p.r3.mb-0",
+                "textOffset": 151
+              },
+              "quote": {
+                "exact": "分紅",
+                "prefix": "優渥的薪資福利措施。\n\n凡成為凌網之正式員工即享有下列福利措施：\n\n▓  優渥的薪資，員工生活品質的保障\n  -享有員工",
+                "suffix": "\n  -享有員工認股權\n  -享有績效獎金 \n  -享有專利獎金\n\n▓  貼心照顧員工生活\n   -員工福利委員會提供多"
+              },
+              "start": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(2) > div.col > p.r3.mb-0",
+                "textOffset": 149
+              },
+              "version": 1
+            },
+            "endOffset": 151,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 149,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "分紅"
+          },
+          "text": "分紅",
+          "url": "https://www.104.com.tw/company/7lka688?jobsource=google"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1763369315172,
+          "id": "hk-1763369315171-64800",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1763369315171,
+              "end": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(2) > div.col > p.r3.mb-0",
+                "textOffset": 162
+              },
+              "quote": {
+                "exact": "享有員工認股權",
+                "prefix": "利措施。\n\n凡成為凌網之正式員工即享有下列福利措施：\n\n▓  優渥的薪資，員工生活品質的保障\n  -享有員工分紅\n  -",
+                "suffix": "\n  -享有績效獎金 \n  -享有專利獎金\n\n▓  貼心照顧員工生活\n   -員工福利委員會提供多采多姿的員工活動(例:"
+              },
+              "start": {
+                "css": "div#benefits > div.row.benefits-description:nth-of-type(2) > div.col > p.r3.mb-0",
+                "textOffset": 155
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[4]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "享有員工認股權"
+          },
+          "text": "享有員工認股權",
+          "url": "https://www.104.com.tw/company/7lka688?jobsource=google"
+        }
+      ]
+    },
     {
       "url": "https://tw.alphacamp.co/blog/how-to-make-a-chrome-extension",
       "title": "Chrome Extension 實戰經驗分享，從發想、實作、上架到萬人下載 - ALPHA Camp",
