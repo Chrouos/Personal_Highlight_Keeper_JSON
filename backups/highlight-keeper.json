@@ -1,8 +1,396 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1763399691759,
+  "exportedAt": 1766024414101,
   "pages": [
+    {
+      "url": "https://3c.ltn.com.tw/news/64295",
+      "title": "Google 正式推出 Gemini 3 Flash 模型！速度超快、也更聰明 - 自由電子報 3C科技",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766020260194,
+          "id": "hk-1766020260193-37402",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766020260192,
+              "end": {
+                "css": "body#c3_rwd > div.content:nth-of-type(9) > section.content940 > div.whitecon.borderline:nth-of-type(2) > div.text:nth-of-type(2)",
+                "textOffset": 316
+              },
+              "quote": {
+                "exact": "Google 更提到 Gemini 3 Flash 每百萬輸入詞元只要 0.50 美元、每百萬輸出詞元 3 美元，App 開發成本更低。",
+                "prefix": "平均用詞更簡潔，能比 2.5 Pro 減少了 30%、速度提升 3 倍，表現也更為優異，確保高效率與準確度。面對開發者，",
+                "suffix": "請繼續往下閱讀...    \n    \n            \n    \n    \n    \n\n不只要快，也要聰明！G"
+              },
+              "start": {
+                "css": "body#c3_rwd > div.content:nth-of-type(9) > section.content940 > div.whitecon.borderline:nth-of-type(2) > div.text:nth-of-type(2)",
+                "textOffset": 248
+              },
+              "version": 1
+            },
+            "endOffset": 193,
+            "endXPath": "/html[1]/body[1]/div[9]/section[1]/div[2]/div[2]/p[3]/text()[1]",
+            "startOffset": 125,
+            "startXPath": "/html[1]/body[1]/div[9]/section[1]/div[2]/div[2]/p[3]/text()[1]",
+            "text": "Google 更提到 Gemini 3 Flash 每百萬輸入詞元只要 0.50 美元、每百萬輸出詞元 3 美元，App 開發成本更低。"
+          },
+          "text": "Google 更提到 Gemini 3 Flash 每百萬輸入詞元只要 0.50 美元、每百萬輸出詞元 3 美元，App 開發成本更低。",
+          "url": "https://3c.ltn.com.tw/news/64295"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766020815651,
+          "id": "hk-1766020815650-89945",
+          "note": "多模態的評測資料集",
+          "range": {
+            "anchors": {
+              "createdAt": 1766020815649,
+              "end": {
+                "css": "body#c3_rwd > div.content:nth-of-type(9) > section.content940 > div.whitecon.borderline:nth-of-type(2) > div.text:nth-of-type(2)",
+                "textOffset": 400
+              },
+              "quote": {
+                "exact": "MMMU Pro",
+                "prefix": "   \n            \n    \n    \n    \n\n不只要快，也要聰明！Gemini 3 Flash 在 ",
+                "suffix": " 測試中獲得 81.2% 的優異成績，幾乎與 Gemini 3 Pro 相當，甚至在評估程式設計代理能力的基準測試 SW"
+              },
+              "start": {
+                "css": "body#c3_rwd > div.content:nth-of-type(9) > section.content940 > div.whitecon.borderline:nth-of-type(2) > div.text:nth-of-type(2)",
+                "textOffset": 392
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[9]/section[1]/div[2]/div[2]/p[6]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[9]/section[1]/div[2]/div[2]/p[6]/text()[1]",
+            "text": "MMMU Pro"
+          },
+          "text": "MMMU Pro",
+          "url": "https://3c.ltn.com.tw/news/64295"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.volcengine.com/articles/7413673428802076683?utm_source=chatgpt.com",
+      "title": "超越文本理解：MMMU-Pro对多模态模型真实推理能力的评估！ - 文章 - 开发者社区 - 火山引擎",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766020676882,
+          "id": "hk-1766020676880-37979",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766020676879,
+              "end": {
+                "css": "div#main > article > div.markdown-body",
+                "textOffset": 809
+              },
+              "quote": {
+                "exact": "过滤掉可以由纯文本语言模型回答的问题",
+                "prefix": "MMMU-Pro采用了一个严谨的三步构建过程（如图2所示），该过程建立在MMMU（Yue等人，2024）基础上：\n（1）",
+                "suffix": "，（2）增强候选选项以减少基于选项的猜测效果，（3）引入单眼输入设置（如图3所示），其中模型遇到嵌入在截图或照片中的问题"
+              },
+              "start": {
+                "css": "div#main > article > div.markdown-body",
+                "textOffset": 791
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/article[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/article[1]/div[1]/p[9]/text()[1]",
+            "text": "过滤掉可以由纯文本语言模型回答的问题"
+          },
+          "text": "过滤掉可以由纯文本语言模型回答的问题",
+          "url": "https://developer.volcengine.com/articles/7413673428802076683?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766020681326,
+          "id": "hk-1766020681325-97257",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766020681324,
+              "end": {
+                "css": "div#main > article > div.markdown-body",
+                "textOffset": 831
+              },
+              "quote": {
+                "exact": "增强候选选项以减少基于选项的猜测效果",
+                "prefix": "（如图2所示），该过程建立在MMMU（Yue等人，2024）基础上：\n（1）过滤掉可以由纯文本语言模型回答的问题，（2）",
+                "suffix": "，（3）引入单眼输入设置（如图3所示），其中模型遇到嵌入在截图或照片中的问题。\n\n\n引入单眼输入设置尤其关键，因为它测试"
+              },
+              "start": {
+                "css": "div#main > article > div.markdown-body",
+                "textOffset": 813
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/article[1]/div[1]/p[9]/text()[2]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/article[1]/div[1]/p[9]/text()[2]",
+            "text": "增强候选选项以减少基于选项的猜测效果"
+          },
+          "text": "增强候选选项以减少基于选项的猜测效果",
+          "url": "https://developer.volcengine.com/articles/7413673428802076683?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766020684059,
+          "id": "hk-1766020684058-85315",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766020684057,
+              "end": {
+                "css": "div#main > article > div.markdown-body",
+                "textOffset": 869
+              },
+              "quote": {
+                "exact": "引入单眼输入设置（如图3所示），其中模型遇到嵌入在截图或照片中的问题",
+                "prefix": "等人，2024）基础上：\n（1）过滤掉可以由纯文本语言模型回答的问题，（2）增强候选选项以减少基于选项的猜测效果，（3）",
+                "suffix": "。\n\n\n引入单眼输入设置尤其关键，因为它测试了人的基本认知能力： _视觉和文本信息的无缝集成和切换_。这个设置挑战模型开"
+              },
+              "start": {
+                "css": "div#main > article > div.markdown-body",
+                "textOffset": 835
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/article[1]/div[1]/p[9]/text()[3]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/article[1]/div[1]/p[9]/text()[3]",
+            "text": "引入单眼输入设置（如图3所示），其中模型遇到嵌入在截图或照片中的问题"
+          },
+          "text": "引入单眼输入设置（如图3所示），其中模型遇到嵌入在截图或照片中的问题",
+          "url": "https://developer.volcengine.com/articles/7413673428802076683?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://www.theneurondaily.com/p/google-vs-microsoft-who-gets-to-define-agi?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=google-vs-microsoft-who-gets-to-define-agi&_bhlid=f2f6e8eb18df1c98eaec23387e58c37a516d74a6&last_resource_guid=Post%3A431175ce-902a-4198-80fe-ea4d6102e9aa#beehiiv-audio-tts-id",
+      "title": "😸 Google vs Microsoft; who gets to define AGI?",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766020076908,
+          "id": "hk-1766020076907-44628",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766020076907,
+              "end": {
+                "css": "div#content-blocks",
+                "textOffset": 1081
+              },
+              "quote": {
+                "exact": "Gemini 3 Flash",
+                "prefix": "oft AI Leads outlined rival AGI playbooks.  Google released ",
+                "suffix": " and made it the Gemini the default.  OpenAI added Apple Mus"
+              },
+              "start": {
+                "css": "div#content-blocks",
+                "textOffset": 1067
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[9]/ul[1]/li[2]/p[1]/text()[2]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[9]/ul[1]/li[2]/p[1]/text()[2]",
+            "text": "Gemini 3 Flash"
+          },
+          "text": "Gemini 3 Flash",
+          "url": "https://www.theneurondaily.com/p/google-vs-microsoft-who-gets-to-define-agi?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=google-vs-microsoft-who-gets-to-define-agi&_bhlid=f2f6e8eb18df1c98eaec23387e58c37a516d74a6&last_resource_guid=Post%3A431175ce-902a-4198-80fe-ea4d6102e9aa#beehiiv-audio-tts-id"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html?utm_source=tldrai",
+      "title": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1764182641504,
+          "id": "hk-1764182641503-47057",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1764182641502,
+              "end": {
+                "css": "div#RegularArticle-ArticleBody-5 > div.group:nth-of-type(3)",
+                "textOffset": 374
+              },
+              "quote": {
+                "exact": "We’re delighted by Google’s success — they’ve made great advances in AI and we continue to supply to Google,",
+                "prefix": "hips.AI 晶片。週二表示，其技術仍領先產業一代，回應華爾街擔憂該公司在人工智慧基礎建設的主導地位可能受到谷歌威脅“",
+                "suffix": "” Nvidia said in a post on X. “NVIDIA is a generation ahead "
+              },
+              "start": {
+                "css": "div#RegularArticle-ArticleBody-5 > div.group:nth-of-type(3)",
+                "textOffset": 266
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[3]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[3]/p[2]/text()[1]",
+            "text": "We’re delighted by Google’s success — they’ve made great advances in AI and we continue to supply to Google,"
+          },
+          "text": "We’re delighted by Google’s success — they’ve made great advances in AI and we continue to supply to Google,",
+          "url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html?utm_source=tldrai"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1764182660599,
+          "id": "hk-1764182660598-61202",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1764182660598,
+              "end": {
+                "css": "div#RegularArticle-ArticleBody-5 > div.group:nth-of-type(3)",
+                "textOffset": 1084
+              },
+              "quote": {
+                "exact": "such as Google’s TPUs",
+                "prefix": " flexible and powerful compared with so-called ASIC chips — ",
+                "suffix": " — which are designed for a single company or function. Nvid"
+              },
+              "start": {
+                "css": "div#RegularArticle-ArticleBody-5 > div.group:nth-of-type(3)",
+                "textOffset": 1063
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[3]/p[4]/text()[2]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[3]/p[4]/text()[2]",
+            "text": "such as Google’s TPUs"
+          },
+          "text": "such as Google’s TPUs",
+          "url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html?utm_source=tldrai"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1764182665967,
+          "id": "hk-1764182665966-4329",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1764182665965,
+              "end": {
+                "css": "div#RegularArticle-ArticleBody-5 > div.group:nth-of-type(3)",
+                "textOffset": 1395
+              },
+              "quote": {
+                "exact": "“NVIDIA offers greater performance, versatility, and fungibility than ASICs,” Nvidia said in its post.",
+                "prefix": "如谷歌的 TPU——更靈活且強大，後者是為單一公司或功能設計的。Nvidia 最新一代的晶片被稱為 Blackwell。",
+                "suffix": " Nvidia 在貼文中表示：「NVIDIA 提供比 ASIC 更高的效能、多功能性與可替代性。」Nvidia has "
+              },
+              "start": {
+                "css": "div#RegularArticle-ArticleBody-5 > div.group:nth-of-type(3)",
+                "textOffset": 1293
+              },
+              "version": 1
+            },
+            "endOffset": 102,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[3]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/div[3]/p[5]/text()[1]",
+            "text": "“NVIDIA offers greater performance, versatility, and fungibility than ASICs,” Nvidia said in its post."
+          },
+          "text": "“NVIDIA offers greater performance, versatility, and fungibility than ASICs,” Nvidia said in its post.",
+          "url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html?utm_source=tldrai"
+        }
+      ]
+    },
+    {
+      "url": "https://www.superhuman.ai/p/the-manhattain-project?utm_source=superhuman&utm_medium=newsletter&utm_campaign=the-manhatt-ai-n-project&_bhlid=759e2dc0a753fe9c87876c44e011d3ecf26bfe95&last_resource_guid=Post%3Aabdcec29-31ff-4c3b-b51c-f3ef68e5fe55",
+      "title": "The Manhatt(AI)n Project",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1764182386442,
+          "id": "hk-1764182386441-88745",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1764182386439,
+              "end": {
+                "css": "div#content-blocks",
+                "textOffset": 3366
+              },
+              "quote": {
+                "exact": "Whenever you delegate a task to AI, you’re at risk of a prompt injection.",
+                "prefix": "productivity gains are hard to ignore. But there's a catch: ",
+                "suffix": " 人工智慧帶來越來越多的好處......以及風險。AI 工具已從對話式聊天機器人演變成能代表你行動的代理助理。對於忙碌的"
+              },
+              "start": {
+                "css": "div#content-blocks",
+                "textOffset": 3293
+              },
+              "version": 1
+            },
+            "endOffset": 268,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[10]/div[1]/p[1]/span[2]/text()[1]",
+            "startOffset": 195,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[10]/div[1]/p[1]/span[2]/text()[1]",
+            "text": "Whenever you delegate a task to AI, you’re at risk of a prompt injection."
+          },
+          "text": "Whenever you delegate a task to AI, you’re at risk of a prompt injection.",
+          "url": "https://www.superhuman.ai/p/the-manhattain-project?utm_source=superhuman&utm_medium=newsletter&utm_campaign=the-manhatt-ai-n-project&_bhlid=759e2dc0a753fe9c87876c44e011d3ecf26bfe95&last_resource_guid=Post%3Aabdcec29-31ff-4c3b-b51c-f3ef68e5fe55"
+        }
+      ]
+    },
+    {
+      "url": "https://gototravel.tw/daiba-1-chome-shoutengai/",
+      "title": "東京DECK百貨4樓台場一丁目商店街|卡通商品、懷舊零食雜貨 @來一球叭噗",
+      "entries": [
+        {
+          "color": "#b3ccff",
+          "createdAt": 1764058807480,
+          "id": "hk-1764058807478-56331",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1764058807476,
+              "end": {
+                "css": "article#post-8791 > div.entry-content",
+                "textOffset": 159
+              },
+              "quote": {
+                "exact": "周邊商品、日式糖果、懷舊小物、遊戲區…",
+                "prefix": "呈現日本昭和時代懷舊風格的商店街，可以看到懷舊的電話亭、遊樂場…等擺設，約有20幾間店家進駐。\n台場一丁目商店街販售卡通",
+                "suffix": "等，算是DECK百貨當中最好逛的區域，除了台場一丁目商店街外，這邊還有台場樂高樂園、東京杜莎夫人蠟像館、東京Joypol"
+              },
+              "start": {
+                "css": "article#post-8791 > div.entry-content",
+                "textOffset": 140
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/p[1]/strong[3]/text()[1]",
+            "text": "周邊商品、日式糖果、懷舊小物、遊戲區…"
+          },
+          "text": "周邊商品、日式糖果、懷舊小物、遊戲區…",
+          "url": "https://gototravel.tw/daiba-1-chome-shoutengai/"
+        }
+      ]
+    },
     {
       "url": "https://www.104.com.tw/job/8cssw",
       "title": "AI工程師-台北(R)｜凌網科技｜台北市－104 人力銀行",
@@ -5134,11 +5522,6 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ]
-    },
-    {
-      "url": "https://redia.ai/zh-TW/book",
-      "title": "- Redia",
-      "entries": []
     }
   ]
 }
