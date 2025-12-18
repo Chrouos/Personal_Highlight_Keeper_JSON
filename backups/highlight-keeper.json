@@ -1,8 +1,780 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1766024414101,
+  "exportedAt": 1766029489985,
   "pages": [
+    {
+      "url": "https://vocus.cc/article/68bb4ad6fd897800012cccfa",
+      "title": "Feature Crossing",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029440545,
+          "id": "hk-1766029440544-29567",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029440543,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": "通過將兩個或多個原始特徵組合起來（例如相乘或串接），創造新的複合特徵",
+                "prefix": "/09/06 更新2025/09/06 發佈閱讀 2 分鐘分享段落Feature Crossing 是一種特徵工程技術，",
+                "suffix": "，以捕捉不同特徵之間的交互作用，從而提升模型對複雜關係的表達能力。Feature Crossing的原理：為什麼會看到廣"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[1]",
+            "text": "通過將兩個或多個原始特徵組合起來（例如相乘或串接），創造新的複合特徵"
+          },
+          "text": "通過將兩個或多個原始特徵組合起來（例如相乘或串接），創造新的複合特徵",
+          "url": "https://vocus.cc/article/68bb4ad6fd897800012cccfa"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029446764,
+          "id": "hk-1766029446763-80985",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029446763,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph:nth-of-type(5)",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "例如兩個分類特徵X和Y，Feature Cross會產生新的特徵XY",
+                "prefix": "Crossing的原理：為什麼會看到廣告- 將多個特徵進行組合，形成新的特徵空間，反映特徵之間潛在的非線性關係。  - ",
+                "suffix": "，表示X和Y類別的組合情況。  - 此方法特別適合線性模型，因為它通過顯式創造特徵交互，來解決線性模型表達能力有限的問題"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph:nth-of-type(5)",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[5]/span[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[5]/span[1]/text()[1]",
+            "text": "例如兩個分類特徵X和Y，Feature Cross會產生新的特徵XY"
+          },
+          "text": "例如兩個分類特徵X和Y，Feature Cross會產生新的特徵XY",
+          "url": "https://vocus.cc/article/68bb4ad6fd897800012cccfa"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029451632,
+          "id": "hk-1766029451631-81111",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029451631,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph:nth-of-type(6)",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "適合線性模型，因為它通過顯式創造特徵交互",
+                "prefix": " - 例如兩個分類特徵X和Y，Feature Cross會產生新的特徵XY，表示X和Y類別的組合情況。  - 此方法特別",
+                "suffix": "，來解決線性模型表達能力有限的問題。Feature Crossing的優勢：- 增加模型對複雜模式的識別。  - 幫助模"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph:nth-of-type(6)",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[6]/span[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[6]/span[1]/text()[1]",
+            "text": "適合線性模型，因為它通過顯式創造特徵交互"
+          },
+          "text": "適合線性模型，因為它通過顯式創造特徵交互",
+          "url": "https://vocus.cc/article/68bb4ad6fd897800012cccfa"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029476715,
+          "id": "hk-1766029476714-85692",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029476714,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph:nth-of-type(9)",
+                "textOffset": 28
+              },
+              "quote": {
+                "exact": "幫助模型「記憶」類似特徵之間的特殊組合，提高預測效果",
+                "prefix": "徵交互，來解決線性模型表達能力有限的問題。Feature Crossing的優勢：- 增加模型對複雜模式的識別。  - ",
+                "suffix": "。  - 在數據量充足時效果顯著，尤其在表格數據中廣泛應用。注意事項：- 過多交叉特徵會導致維度爆炸，增加計算與存儲成本"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68bb4ad6fd897800012cccfa > p.lexical__paragraph:nth-of-type(9)",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[9]/span[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[9]/span[1]/text()[1]",
+            "text": "幫助模型「記憶」類似特徵之間的特殊組合，提高預測效果"
+          },
+          "text": "幫助模型「記憶」類似特徵之間的特殊組合，提高預測效果",
+          "url": "https://vocus.cc/article/68bb4ad6fd897800012cccfa"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10201246?sc=iThelpR",
+      "title": "[Day 13] Feature Crosses特徵組合 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029410647,
+          "id": "hk-1766029410646-48742",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029410644,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 138
+              },
+              "quote": {
+                "exact": "把Feature組合在一起餵進model",
+                "prefix": "   \nRef.: Feature Crosses\n\nEncoding Nonlinearity\n這邊的概念很簡單，就是",
+                "suffix": "。主要的問題像是下面這張圖，我們很難用單一的feature去分類。單獨以x or y當特性實在無法，但z = xy就有正"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 118
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "把Feature組合在一起餵進model"
+          },
+          "text": "把Feature組合在一起餵進model",
+          "url": "https://ithelp.ithome.com.tw/articles/10201246?sc=iThelpR"
+        }
+      ]
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course/categorical-data/feature-crosses?hl=zh-tw",
+      "title": "類別資料：特徵交叉點  |  Machine Learning  |  Google for Developers",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766028416538,
+          "id": "hk-1766028416535-35755",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766028416534,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "特徵交叉 是透過交叉 (取笛卡兒乘積) 資料集的兩個或多個分類或分割特徵來建立",
+                "prefix": "  \n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                "suffix": "。與多項式轉換一樣，特徵交叉可讓線性模型處理非線性問題。地圖交叉點也會對地圖項目之間的互動進行編碼。\n\n舉例來說，請考慮"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 62
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[2]/a[1]/strong[1]/text()[1]",
+            "text": "特徵交叉 是透過交叉 (取笛卡兒乘積) 資料集的兩個或多個分類或分割特徵來建立"
+          },
+          "text": "特徵交叉 是透過交叉 (取笛卡兒乘積) 資料集的兩個或多個分類或分割特徵來建立",
+          "url": "https://developers.google.com/machine-learning/crash-course/categorical-data/feature-crosses?hl=zh-tw"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10226598",
+      "title": "Day23: Feature Crosses - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766028351101,
+          "id": "hk-1766028351099-78762",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766028351098,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 235
+              },
+              "quote": {
+                "exact": "說明事物的組合單元，都可以稱為特徵",
+                "prefix": "做什麼。\nFeature就是某種形式的特徵，以描述一個人來說，可能是有無戴眼鏡、長短頭髮或是性別。凡是可以用來描述我們想",
+                "suffix": "。\nCrosses就有趣了，他可以代表所謂的交叉符(X)。但我想在科學上更接近的是彼此交錯的關係，就像Crossover"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 218
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[6]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[5]",
+            "text": "說明事物的組合單元，都可以稱為特徵"
+          },
+          "text": "說明事物的組合單元，都可以稱為特徵",
+          "url": "https://ithelp.ithome.com.tw/articles/10226598"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766028355532,
+          "id": "hk-1766028355530-83420",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766028355529,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 263
+              },
+              "quote": {
+                "exact": "Crosses就有趣了，他可以代表所謂的交叉符(X)",
+                "prefix": "特徵，以描述一個人來說，可能是有無戴眼鏡、長短頭髮或是性別。凡是可以用來描述我們想說明事物的組合單元，都可以稱為特徵。\n",
+                "suffix": "。但我想在科學上更接近的是彼此交錯的關係，就像Crossover之於基因體學。既然是指彼此，就代表Crosses影響的項"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 237
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "Crosses就有趣了，他可以代表所謂的交叉符(X)"
+          },
+          "text": "Crosses就有趣了，他可以代表所謂的交叉符(X)",
+          "url": "https://ithelp.ithome.com.tw/articles/10226598"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766028361879,
+          "id": "hk-1766028361877-41992",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766028361877,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 340
+              },
+              "quote": {
+                "exact": "Crosses影響的項目是由基本的複數量所衍生的高維度量",
+                "prefix": "代表所謂的交叉符(X)。但我想在科學上更接近的是彼此交錯的關係，就像Crossover之於基因體學。既然是指彼此，就代表",
+                "suffix": "。比如在平面上，x軸與y軸可說是彼此正交的基底，而(xy)這種相乘的結果就會是一種Crosses的結果。\n好抽象呀，有沒"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 312
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[6]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[6]",
+            "text": "Crosses影響的項目是由基本的複數量所衍生的高維度量"
+          },
+          "text": "Crosses影響的項目是由基本的複數量所衍生的高維度量",
+          "url": "https://ithelp.ithome.com.tw/articles/10226598"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766028376627,
+          "id": "hk-1766028376625-48232",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766028376624,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 642
+              },
+              "quote": {
+                "exact": "Feature Crosses幫助我們的地方，不正是找出非線性項目嗎",
+                "prefix": "minator要做的事情，或者我們也可以稱為一種分類問題\n\n看起來真厲害，該怎麼想出來交互的關係\n別擔心，可以仔細觀察，",
+                "suffix": "？如果可以用線性組合完成這個問題，那就老老實實觀察線性的可能。如果發現(在白紙上)怎麼畫都無法給出一個合理的切割面，代表"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 608
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[2]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "Feature Crosses幫助我們的地方，不正是找出非線性項目嗎"
+          },
+          "text": "Feature Crosses幫助我們的地方，不正是找出非線性項目嗎",
+          "url": "https://ithelp.ithome.com.tw/articles/10226598"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/@flyotlin/%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E6%87%82%E7%9A%84git%E6%95%99%E5%AD%B8-c5dc0639dd9",
+      "title": "新手也能懂的Git教學. 由各種使用情境了解Git的使用方法 | by FlyotLin | Medium",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766027540668,
+          "id": "hk-1766027540666-62946",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766027540664,
+              "end": {
+                "css": "p#\\37 40c",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "git版本控制",
+                "prefix": " view image in full size前情提要最近在多人團隊裡寫網站，包辦某一頁面的前後端功能，所以常常要用到",
+                "suffix": "。之前雖然知道git基本的指令跟背後邏輯，但在團體裡經歷了各種分支(branch)、合併(merge)的洗禮後，才發現其"
+              },
+              "start": {
+                "css": "p#\\37 40c",
+                "textOffset": 32
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "git版本控制"
+          },
+          "text": "git版本控制",
+          "url": "https://medium.com/@flyotlin/%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E6%87%82%E7%9A%84git%E6%95%99%E5%AD%B8-c5dc0639dd9"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766027556237,
+          "id": "hk-1766027556236-4096",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766027556235,
+              "end": {
+                "css": "p#\\32 e4c > strong.ol.hm",
+                "textOffset": 21
+              },
+              "quote": {
+                "exact": "版本控制(Version Control)",
+                "prefix": "文件中究竟做了什麼變動，想知道昨天跟今天新增/減少了那些檔案，這種方法也沒辦法提供有效的幫助。也就是因為這樣，才催生出了",
+                "suffix": "的想法。根據維基百科的簡單定義，藉由版本控制能在軟體開發的過程中，確保由不同人所編輯的同一程式檔案都得到同步，是一種軟體"
+              },
+              "start": {
+                "css": "p#\\32 e4c > strong.ol.hm",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "text": "版本控制(Version Control)"
+          },
+          "text": "版本控制(Version Control)",
+          "url": "https://medium.com/@flyotlin/%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E6%87%82%E7%9A%84git%E6%95%99%E5%AD%B8-c5dc0639dd9"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766027582998,
+          "id": "hk-1766027582994-83512",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766027582994,
+              "end": {
+                "css": "p#\\38 e1c > strong.ol.hm:nth-of-type(2)",
+                "textOffset": 23
+              },
+              "quote": {
+                "exact": "github、gitlab等網站則是在網路上提供遠端儲存空間remote repository",
+                "prefix": "塊的人應該會對git、github，或是gitlab等git字輩的名詞給搞得頭暈目眩。簡單來說，git是版本控制系統，而",
+                "suffix": "(下面會更詳細解釋這是什麼)，讓我們只要能連上網路就能隨時存取自己的Code。git在記錄版本之間的更動、新增、刪除的方"
+              },
+              "start": {
+                "css": "p#\\38 e1c",
+                "textOffset": 17
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[6]/div[1]/div[1]/p[3]/strong[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[6]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "github、gitlab等網站則是在網路上提供遠端儲存空間remote repository"
+          },
+          "text": "github、gitlab等網站則是在網路上提供遠端儲存空間remote repository",
+          "url": "https://medium.com/@flyotlin/%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E6%87%82%E7%9A%84git%E6%95%99%E5%AD%B8-c5dc0639dd9"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766027588147,
+          "id": "hk-1766027588145-50903",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766027588145,
+              "end": {
+                "css": "p#c868",
+                "textOffset": 38
+              },
+              "quote": {
+                "exact": "git在記錄版本之間的更動、新增、刪除的方式採用的是快照(snapshot)",
+                "prefix": "儲存空間remote repository(下面會更詳細解釋這是什麼)，讓我們只要能連上網路就能隨時存取自己的Code。",
+                "suffix": "。git採用這種方式，只會紀錄版本與版本之間的相異之處。如此一來就能讓速度提升，也讓其所占的體積減小了不少。p.s. 常"
+              },
+              "start": {
+                "css": "p#c868",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[6]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[6]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "git在記錄版本之間的更動、新增、刪除的方式採用的是快照(snapshot)"
+          },
+          "text": "git在記錄版本之間的更動、新增、刪除的方式採用的是快照(snapshot)",
+          "url": "https://medium.com/@flyotlin/%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E6%87%82%E7%9A%84git%E6%95%99%E5%AD%B8-c5dc0639dd9"
+        }
+      ]
+    },
+    {
+      "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg",
+      "title": "TCP 和 UDP 是什麼：簡單的說明 | NordVPN",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026599926,
+          "id": "hk-1766026599925-40644",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026599924,
+              "end": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "TCP（通訊控制協定）",
+                "prefix": "OpenVPN：TCP 與 UDPNordVPN 使用哪些協定？結論顯示全部⁠‌      TCP 和 UDP 是什麼？",
+                "suffix": "和 UDP（用戶資料包協定）都是網際網路中常見的協定，它們負責在網際網路將資料從設備傳輸到伺服器。當您使用通訊軟體聊天、"
+              },
+              "start": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "TCP（通訊控制協定）"
+          },
+          "text": "TCP（通訊控制協定）",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026602053,
+          "id": "hk-1766026602051-72860",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026602051,
+              "end": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg",
+                "textOffset": 25
+              },
+              "quote": {
+                "exact": "UDP（用戶資料包協定）",
+                "prefix": " UDPNordVPN 使用哪些協定？結論顯示全部⁠‌      TCP 和 UDP 是什麼？TCP（通訊控制協定）和 ",
+                "suffix": "都是網際網路中常見的協定，它們負責在網際網路將資料從設備傳輸到伺服器。當您使用通訊軟體聊天、發送電子郵件、觀看直播或瀏覽"
+              },
+              "start": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[1]/text()[2]",
+            "text": "UDP（用戶資料包協定）"
+          },
+          "text": "UDP（用戶資料包協定）",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026605967,
+          "id": "hk-1766026605965-36765",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026605965,
+              "end": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(2)",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "資料分隔成更小的單元進行傳輸",
+                "prefix": "傳輸到伺服器。當您使用通訊軟體聊天、發送電子郵件、觀看直播或瀏覽網頁時，都會使用到這兩種協定。UDP 和 TCP 都會將",
+                "suffix": "。這些小單元稱為封包，封包中包含發送端和接收端的 IP 位址、各種配置、使用者傳送的實際資料等。TCP 和 UDP 如何"
+              },
+              "start": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(2)",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[2]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[2]/text()[1]",
+            "text": "資料分隔成更小的單元進行傳輸"
+          },
+          "text": "資料分隔成更小的單元進行傳輸",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026611560,
+          "id": "hk-1766026611558-26784",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026611557,
+              "end": {
+                "css": "div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > ol.flex.flex-col > li.flex.text-primary",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "TCP 為每個封包分配一個唯一的識別碼和一個序號",
+                "prefix": "者傳送的實際資料等。TCP 和 UDP 如何運作？TCP 是網際網路上最常用的協定，這種協定較為可靠，運作方法如下：1.",
+                "suffix": "，這些號碼能讓接收端識別封包的完整性，以及封包的順序。2.當接收端收到封包後，如果順序正確，會向發送端傳送一個確認信號（"
+              },
+              "start": {
+                "css": "div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > ol.flex.flex-col > li.flex.text-primary",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1]/span[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[1]/span[2]/text()[1]",
+            "text": "TCP 為每個封包分配一個唯一的識別碼和一個序號"
+          },
+          "text": "TCP 為每個封包分配一個唯一的識別碼和一個序號",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026617826,
+          "id": "hk-1766026617824-87274",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026617824,
+              "end": {
+                "css": "div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > ol.flex.flex-col > li.flex.text-primary:nth-of-type(2)",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "會向發送端傳送一個確認信號（Acknowledgement），以此確認接收端已經收到封包",
+                "prefix": "配一個唯一的識別碼和一個序號，這些號碼能讓接收端識別封包的完整性，以及封包的順序。2.當接收端收到封包後，如果順序正確，",
+                "suffix": "。3.發送端傳送另一個封包。4.如果封包遺失或發送順序錯誤，接收端會保持沈默，不發送確認信號。這表示發送端需要重新傳送封"
+              },
+              "start": {
+                "css": "div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > ol.flex.flex-col > li.flex.text-primary:nth-of-type(2)",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2]/span[2]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[2]/span[2]/text()[1]",
+            "text": "會向發送端傳送一個確認信號（Acknowledgement），以此確認接收端已經收到封包"
+          },
+          "text": "會向發送端傳送一個確認信號（Acknowledgement），以此確認接收端已經收到封包",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026622676,
+          "id": "hk-1766026622674-34231",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026622674,
+              "end": {
+                "css": "div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > ol.flex.flex-col > li.flex.text-primary:nth-of-type(4)",
+                "textOffset": 33
+              },
+              "quote": {
+                "exact": "如果封包遺失或發送順序錯誤，接收端會保持沈默，不發送確認信號。",
+                "prefix": "會向發送端傳送一個確認信號（Acknowledgement），以此確認接收端已經收到封包。3.發送端傳送另一個封包。4.",
+                "suffix": "這表示發送端需要重新傳送封包。        因為資料是按照順序發送的，有助於流量控制和解決資料壅塞的問題，並容易發現和"
+              },
+              "start": {
+                "css": "div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > ol.flex.flex-col > li.flex.text-primary:nth-of-type(4)",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/span[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ol[1]/li[4]/span[2]/text()[1]",
+            "text": "如果封包遺失或發送順序錯誤，接收端會保持沈默，不發送確認信號。"
+          },
+          "text": "如果封包遺失或發送順序錯誤，接收端會保持沈默，不發送確認信號。",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026632106,
+          "id": "hk-1766026632103-65572",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026632103,
+              "end": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(4)",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "不過 TCP 也有缺點，發送端和接收端之間有很多往來的通訊，因此建立連線和交換資料需要更多的時間。",
+                "prefix": "壅塞的問題，並容易發現和修復錯誤。因此，經由 TCP 發送的資料能完全到達目的地。即使網路阻塞，傳輸的資料也不會出問題。",
+                "suffix": "UDP 不需要唯一識別碼和序號就能完成相同的工作。這種協定以串流方式傳送資料，發送端不會等待接收端的確認信號，會繼續不斷"
+              },
+              "start": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(4)",
+                "textOffset": 85
+              },
+              "version": 1
+            },
+            "endOffset": 134,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]/text()[1]",
+            "startOffset": 85,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[4]/text()[1]",
+            "text": "不過 TCP 也有缺點，發送端和接收端之間有很多往來的通訊，因此建立連線和交換資料需要更多的時間。"
+          },
+          "text": "不過 TCP 也有缺點，發送端和接收端之間有很多往來的通訊，因此建立連線和交換資料需要更多的時間。",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026636858,
+          "id": "hk-1766026636855-97120",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026636855,
+              "end": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(5)",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "UDP 不需要唯一識別碼和序號就能完成相同的工作",
+                "prefix": "輸的資料也不會出問題。不過 TCP 也有缺點，發送端和接收端之間有很多往來的通訊，因此建立連線和交換資料需要更多的時間。",
+                "suffix": "。這種協定以串流方式傳送資料，發送端不會等待接收端的確認信號，會繼續不斷發送封包資料。UDP 幾乎沒有錯誤修正功能，也不"
+              },
+              "start": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(5)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]/text()[1]",
+            "text": "UDP 不需要唯一識別碼和序號就能完成相同的工作"
+          },
+          "text": "UDP 不需要唯一識別碼和序號就能完成相同的工作",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766026643431,
+          "id": "hk-1766026643429-1361",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766026643428,
+              "end": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(5)",
+                "textOffset": 113
+              },
+              "quote": {
+                "exact": "UDP 幾乎沒有錯誤修正功能，也不在乎封包遺失，因此很容易出錯，但傳輸速度比 TCP 更快。",
+                "prefix": "唯一識別碼和序號就能完成相同的工作。這種協定以串流方式傳送資料，發送端不會等待接收端的確認信號，會繼續不斷發送封包資料。",
+                "suffix": "串流媒體、VoIP 語音、網路遊戲等服務經常使用 UDP 協定，這網路應用不太需要可靠性機制，封包遺失不會導致服務中斷。"
+              },
+              "start": {
+                "css": "div.grid.sm\\:gap-x-8 > div.col-span-12.lg\\:odd\\:col-start-2 > div.flex.flex-col > div.blog-article-content:nth-of-type(2) > div.rich-text.min-w-0 > p.body-lg:nth-of-type(5)",
+                "textOffset": 67
+              },
+              "version": 1
+            },
+            "endOffset": 89,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]/text()[2]",
+            "startOffset": 43,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[5]/text()[2]",
+            "text": "UDP 幾乎沒有錯誤修正功能，也不在乎封包遺失，因此很容易出錯，但傳輸速度比 TCP 更快。"
+          },
+          "text": "UDP 幾乎沒有錯誤修正功能，也不在乎封包遺失，因此很容易出錯，但傳輸速度比 TCP 更快。",
+          "url": "https://nordvpn.com/zh-tw/blog/tcp-udp-bijiao/?srsltid=AfmBOoqMNWrw7eet81Q-8sZ3oXDdq8vzfTJJyNasMXmvfTD0yS7Avikg"
+        }
+      ]
+    },
     {
       "url": "https://3c.ltn.com.tw/news/64295",
       "title": "Google 正式推出 Gemini 3 Flash 模型！速度超快、也更聰明 - 自由電子報 3C科技",
