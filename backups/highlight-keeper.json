@@ -1,8 +1,1208 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1766029489985,
+  "exportedAt": 1766048638127,
   "pages": [
+    {
+      "url": "https://vocus.cc/article/6831935dfd897800010cf353",
+      "title": "梯度爆炸(Exploding Gradients)",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048172582,
+          "id": "hk-1766048172581-24747",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048172580,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > p.lexical__paragraph",
+                "textOffset": 68
+              },
+              "quote": {
+                "exact": "遞迴神經網路 (RNNs)",
+                "prefix": "鐘分享段落「梯度爆炸 (Exploding Gradients)」就是另一個在訓練深度神經網路時可能遇到的問題，尤其是在",
+                "suffix": " 中。梯度爆炸是指在反向傳播 (Backpropagation) 演算法中，當梯度從輸出層向輸入層傳播時，可能會變得異常"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > p.lexical__paragraph",
+                "textOffset": 55
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[1]",
+            "text": "遞迴神經網路 (RNNs)"
+          },
+          "text": "遞迴神經網路 (RNNs)",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048309183,
+          "id": "hk-1766048309182-45274",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048309181,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > p.lexical__paragraph:nth-of-type(2)",
+                "textOffset": 34
+              },
+              "quote": {
+                "exact": "梯度爆炸是指在反向傳播 (Backpropagation) 演算法中",
+                "prefix": "oding Gradients)」就是另一個在訓練深度神經網路時可能遇到的問題，尤其是在遞迴神經網路 (RNNs) 中。",
+                "suffix": "，當梯度從輸出層向輸入層傳播時，可能會變得異常的大。為什麼會看到廣告為什麼會發生梯度爆炸？梯度爆炸通常發生在以下情況：激"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > p.lexical__paragraph:nth-of-type(2)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[2]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[2]/span[1]/text()[1]",
+            "text": "梯度爆炸是指在反向傳播 (Backpropagation) 演算法中"
+          },
+          "text": "梯度爆炸是指在反向傳播 (Backpropagation) 演算法中",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048355336,
+          "id": "hk-1766048355335-6500",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048355335,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "如果使用的激活函數的導數值很大（大於 1）",
+                "prefix": "入層傳播時，可能會變得異常的大。為什麼會看到廣告為什麼會發生梯度爆炸？梯度爆炸通常發生在以下情況：激活函數的導數過大： ",
+                "suffix": "，那麼在反向傳播的過程中，每一層的梯度都會被放大。當網路層數很深或者存在循環連接（如在 RNN 中）時，這種放大效應會被"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[1]/span[1]/text()[1]",
+            "text": "如果使用的激活函數的導數值很大（大於 1）"
+          },
+          "text": "如果使用的激活函數的導數值很大（大於 1）",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048357519,
+          "id": "hk-1766048357518-73016",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048357518,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem",
+                "textOffset": 56
+              },
+              "quote": {
+                "exact": "梯度都會被放大",
+                "prefix": "炸通常發生在以下情況：激活函數的導數過大： 如果使用的激活函數的導數值很大（大於 1），那麼在反向傳播的過程中，每一層的",
+                "suffix": "。當網路層數很深或者存在循環連接（如在 RNN 中）時，這種放大效應會被累加，導致梯度變得非常大。權重過大： 如果網路的"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem",
+                "textOffset": 49
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[1]/span[1]/text()[2]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[1]/span[1]/text()[2]",
+            "text": "梯度都會被放大"
+          },
+          "text": "梯度都會被放大",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048359513,
+          "id": "hk-1766048359512-49630",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048359512,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem",
+                "textOffset": 105
+              },
+              "quote": {
+                "exact": "這種放大效應會被累加，導致梯度變得非常大。",
+                "prefix": "很大（大於 1），那麼在反向傳播的過程中，每一層的梯度都會被放大。當網路層數很深或者存在循環連接（如在 RNN 中）時，",
+                "suffix": "權重過大： 如果網路的初始權重設定得過大，或者在訓練過程中權重持續增大，也會導致梯度在反向傳播時被放大。RNN 中的循環"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem",
+                "textOffset": 84
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[1]/span[1]/text()[3]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[1]/span[1]/text()[3]",
+            "text": "這種放大效應會被累加，導致梯度變得非常大。"
+          },
+          "text": "這種放大效應會被累加，導致梯度變得非常大。",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048365123,
+          "id": "hk-1766048365122-68114",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048365121,
+              "end": {
+                "css": "div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem:nth-of-type(3) > b > strong.lexical__textBold",
+                "textOffset": 10
+              },
+              "quote": {
+                "exact": "RNN 中的循環連接",
+                "prefix": "梯度變得非常大。權重過大： 如果網路的初始權重設定得過大，或者在訓練過程中權重持續增大，也會導致梯度在反向傳播時被放大。",
+                "suffix": "： 在 RNN 中，由於每個時間步的梯度都會受到前一個時間步梯度的影響，如果梯度在某個時間步變得很大，這個大的梯度可能會"
+              },
+              "start": {
+                "css": "div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem:nth-of-type(3) > b > strong.lexical__textBold",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[3]/b[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[3]/b[1]/strong[1]/text()[1]",
+            "text": "RNN 中的循環連接"
+          },
+          "text": "RNN 中的循環連接",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048369592,
+          "id": "hk-1766048369591-19026",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048369591,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem:nth-of-type(3)",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "都會受到前一個時間步梯度的影響，如果梯度在某個時間步變得很大",
+                "prefix": "者在訓練過程中權重持續增大，也會導致梯度在反向傳播時被放大。RNN 中的循環連接： 在 RNN 中，由於每個時間步的梯度",
+                "suffix": "，這個大的梯度可能會在時間上不斷累積，導致梯度爆炸。梯度爆炸會帶來什麼問題？訓練不穩定： 極大的梯度會導致權重在一次更新"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem:nth-of-type(3)",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[3]/span[1]/text()[1]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[3]/span[1]/text()[1]",
+            "text": "都會受到前一個時間步梯度的影響，如果梯度在某個時間步變得很大"
+          },
+          "text": "都會受到前一個時間步梯度的影響，如果梯度在某個時間步變得很大",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048373481,
+          "id": "hk-1766048373480-14659",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048373480,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem:nth-of-type(3)",
+                "textOffset": 78
+              },
+              "quote": {
+                "exact": "不斷累積",
+                "prefix": "RNN 中，由於每個時間步的梯度都會受到前一個時間步梯度的影響，如果梯度在某個時間步變得很大，這個大的梯度可能會在時間上",
+                "suffix": "，導致梯度爆炸。梯度爆炸會帶來什麼問題？訓練不穩定： 極大的梯度會導致權重在一次更新中發生劇烈的變化，使得訓練過程變得非"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ol.lexical__ol > li.lexical__listItem:nth-of-type(3)",
+                "textOffset": 74
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[3]/span[1]/text()[2]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ol[1]/li[3]/span[1]/text()[2]",
+            "text": "不斷累積"
+          },
+          "text": "不斷累積",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048494229,
+          "id": "hk-1766048494228-93328",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048494228,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul > li.lexical__listItem",
+                "textOffset": 53
+              },
+              "quote": {
+                "exact": "在一次更新中發生劇烈的變化，使得訓練過程變得非常不穩定，模型可能無法收斂",
+                "prefix": "步變得很大，這個大的梯度可能會在時間上不斷累積，導致梯度爆炸。梯度爆炸會帶來什麼問題？訓練不穩定： 極大的梯度會導致權重",
+                "suffix": "。權重溢出 (NaN)： 過大的梯度可能導致權重的值超出計算機所能表示的範圍，從而出現 NaN (Not a Numbe"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul > li.lexical__listItem",
+                "textOffset": 17
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "在一次更新中發生劇烈的變化，使得訓練過程變得非常不穩定，模型可能無法收斂"
+          },
+          "text": "在一次更新中發生劇烈的變化，使得訓練過程變得非常不穩定，模型可能無法收斂",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048499944,
+          "id": "hk-1766048499942-89515",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048499942,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul > li.lexical__listItem:nth-of-type(2)",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": " NaN (Not a Number) 的情況，使得訓練完全失敗",
+                "prefix": "程變得非常不穩定，模型可能無法收斂。權重溢出 (NaN)： 過大的梯度可能導致權重的值超出計算機所能表示的範圍，從而出現",
+                "suffix": "。模型性能下降： 即使沒有導致權重溢出，不穩定的訓練也可能導致模型無法學習到有效的表示，從而影響最終的性能。在 RNN "
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul > li.lexical__listItem:nth-of-type(2)",
+                "textOffset": 42
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "startOffset": 31,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "text": " NaN (Not a Number) 的情況，使得訓練完全失敗"
+          },
+          "text": " NaN (Not a Number) 的情況，使得訓練完全失敗",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048507165,
+          "id": "hk-1766048507163-94654",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048507163,
+              "end": {
+                "css": "div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem > b > strong.lexical__textBold",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "梯度裁剪 (Gradient Clipping)",
+                "prefix": "的權重更新，進而破壞已經學到的信息。這會使得模型的訓練非常難以控制。如何緩解梯度爆炸問題？常見的緩解梯度爆炸的方法包括：",
+                "suffix": ": 這是最常用的方法之一。它設定一個梯度閾值，當梯度的範數（例如 L2 範數）超過這個閾值時，就將梯度縮放到閾值範圍內。"
+              },
+              "start": {
+                "css": "div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem > b > strong.lexical__textBold",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[1]/b[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[1]/b[1]/strong[1]/text()[1]",
+            "text": "梯度裁剪 (Gradient Clipping)"
+          },
+          "text": "梯度裁剪 (Gradient Clipping)",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048511246,
+          "id": "hk-1766048511245-81188",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048511245,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem",
+                "textOffset": 84
+              },
+              "quote": {
+                "exact": "設定一個梯度閾值，當梯度的範數（例如 L2 範數）超過這個閾值時，就將梯度縮放到閾值範圍內。",
+                "prefix": "梯度爆炸問題？常見的緩解梯度爆炸的方法包括：梯度裁剪 (Gradient Clipping): 這是最常用的方法之一。它",
+                "suffix": "這樣可以限制梯度的最大值，防止梯度過大。使用 L1 或 L2 正規化 (Regularization): 正規化可以限制"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem",
+                "textOffset": 38
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[1]/span[1]/text()[1]",
+            "text": "設定一個梯度閾值，當梯度的範數（例如 L2 範數）超過這個閾值時，就將梯度縮放到閾值範圍內。"
+          },
+          "text": "設定一個梯度閾值，當梯度的範數（例如 L2 範數）超過這個閾值時，就將梯度縮放到閾值範圍內。",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048512924,
+          "id": "hk-1766048512923-73186",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048512923,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem",
+                "textOffset": 104
+              },
+              "quote": {
+                "exact": "防止梯度過大。",
+                "prefix": "它設定一個梯度閾值，當梯度的範數（例如 L2 範數）超過這個閾值時，就將梯度縮放到閾值範圍內。這樣可以限制梯度的最大值，",
+                "suffix": "使用 L1 或 L2 正規化 (Regularization): 正規化可以限制模型權重的大小，從而在一定程度上防止梯度"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem",
+                "textOffset": 97
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[1]/span[1]/text()[2]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[1]/span[1]/text()[2]",
+            "text": "防止梯度過大。"
+          },
+          "text": "防止梯度過大。",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048517517,
+          "id": "hk-1766048517516-58435",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048517516,
+              "end": {
+                "css": "div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem:nth-of-type(2) > b > strong.lexical__textBold",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "使用 L1 或 L2 正規化 (Regularization)",
+                "prefix": "閾值，當梯度的範數（例如 L2 範數）超過這個閾值時，就將梯度縮放到閾值範圍內。這樣可以限制梯度的最大值，防止梯度過大。",
+                "suffix": ": 正規化可以限制模型權重的大小，從而在一定程度上防止梯度爆炸。調整學習率 (Learning Rate): 使用較小的"
+              },
+              "start": {
+                "css": "div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem:nth-of-type(2) > b > strong.lexical__textBold",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[2]/b[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[2]/b[1]/strong[1]/text()[1]",
+            "text": "使用 L1 或 L2 正規化 (Regularization)"
+          },
+          "text": "使用 L1 或 L2 正規化 (Regularization)",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766048519765,
+          "id": "hk-1766048519764-2712",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766048519763,
+              "end": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem:nth-of-type(2)",
+                "textOffset": 47
+              },
+              "quote": {
+                "exact": "限制模型權重的大小",
+                "prefix": "內。這樣可以限制梯度的最大值，防止梯度過大。使用 L1 或 L2 正規化 (Regularization): 正規化可以",
+                "suffix": "，從而在一定程度上防止梯度爆炸。調整學習率 (Learning Rate): 使用較小的學習率可以減緩權重更新的速度，從"
+              },
+              "start": {
+                "css": "div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-6831935dfd897800010cf353 > ul.lexical__ul:nth-of-type(2) > li.lexical__listItem:nth-of-type(2)",
+                "textOffset": 38
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[2]/span[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/ul[2]/li[2]/span[1]/text()[1]",
+            "text": "限制模型權重的大小"
+          },
+          "text": "限制模型權重的大小",
+          "url": "https://vocus.cc/article/6831935dfd897800010cf353"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/TheAtticusProject/cuad",
+      "title": "TheAtticusProject/cuad: CUAD (NeurIPS 2021)",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766046914312,
+          "id": "hk-1766046914309-33471",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766046985527,
+              "end": {
+                "css": "div.OverviewContent-module__Box--uNd1J > div.OverviewContent-module__Box_11--Tqhu2:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--xSt0T:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--yIjMp > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 558
+              },
+              "quote": {
+                "exact": "luenced by mode",
+                "prefix": "rformance on CUAD, but that this performance is strongly inf",
+                "suffix": "l design and training dataset size. Despite some promising r"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--uNd1J > div.OverviewContent-module__Box_11--Tqhu2:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--xSt0T:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--yIjMp > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 543
+              },
+              "version": 1
+            },
+            "endOffset": 187,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
+            "startOffset": 172,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
+            "text": "luenced by mode"
+          },
+          "text": "luenced by mode",
+          "url": "https://github.com/TheAtticusProject/cuad"
+        }
+      ]
+    },
+    {
+      "url": "https://www.deepchecks.com/5-approaches-to-solve-llm-token-limits/",
+      "title": "5 Approaches to Solve LLM Token Limits | Deepchecks",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766043240924,
+          "id": "hk-1766043240923-76328",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766043240922,
+              "end": {
+                "css": "div.card-column > div.col-post-right:nth-of-type(2) > div.single-contnet > div.entry-content > div.post-sticky-contents:nth-of-type(2) > div.post-sticky-content.mb-4:nth-of-type(3)",
+                "textOffset": 2486
+              },
+              "quote": {
+                "exact": "Splitting Further",
+                "prefix": "為它們可以單獨處理。然而，在現代大型語言模型中，分詞不僅僅是空白分割，縮寫與標點常被分開以求精確，如上方視覺範例所示。\n",
+                "suffix": "進一步分裂\nThe sentence we used in the previous example contains "
+              },
+              "start": {
+                "css": "div.card-column > div.col-post-right:nth-of-type(2) > div.single-contnet > div.entry-content > div.post-sticky-contents:nth-of-type(2) > div.post-sticky-content.mb-4:nth-of-type(3)",
+                "textOffset": 2469
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/h3[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div[1]/h3[2]/text()[1]",
+            "text": "Splitting Further"
+          },
+          "text": "Splitting Further",
+          "url": "https://www.deepchecks.com/5-approaches-to-solve-llm-token-limits/"
+        }
+      ]
+    },
+    {
+      "url": "https://leemeng.tw/intuitive-understandind-of-bayes-rules-and-learn-from-experience.html",
+      "title": "LeeMeng - 從經驗中學習 - 直觀理解貝氏定理及其應用",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766037976341,
+          "id": "hk-1766037976339-89557",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766037976337,
+              "end": {
+                "css": "article.blog-single > div.row.blog-content:nth-of-type(3) > div.col-full.blog-content__main:nth-of-type(2) > div.cell.border-box-sizing > div.inner_cell > div.text_cell_render.border-box-sizing",
+                "textOffset": 41
+              },
+              "quote": {
+                "exact": "機率論中，一個概念簡單卻非常強大的定理",
+                "prefix": "   \n\n\n\n            \n\n                \n\n貝氏定理（Bayes' theorem）是",
+                "suffix": "。有了機率論的存在，人們才能理性且合理地評估未知事物發生的可能性（例：今天的下雨機率有多少？我中樂透的可能性有多高？），"
+              },
+              "start": {
+                "css": "article.blog-single > div.row.blog-content:nth-of-type(3) > div.col-full.blog-content__main:nth-of-type(2) > div.cell.border-box-sizing > div.inner_cell > div.text_cell_render.border-box-sizing",
+                "textOffset": 22
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/article[1]/div[3]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/article[1]/div[3]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "機率論中，一個概念簡單卻非常強大的定理"
+          },
+          "text": "機率論中，一個概念簡單卻非常強大的定理",
+          "url": "https://leemeng.tw/intuitive-understandind-of-bayes-rules-and-learn-from-experience.html"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766038092535,
+          "id": "hk-1766038092534-46530",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766038092532,
+              "end": {
+                "css": "article.blog-single > div.row.blog-content:nth-of-type(3) > div.col-full.blog-content__main:nth-of-type(2) > div.cell.border-box-sizing:nth-of-type(10) > div.inner_cell > div.text_cell_render.border-box-sizing",
+                "textOffset": 62
+              },
+              "quote": {
+                "exact": "針對眼前發生的現象以及獲得的新資訊，搭配過往經驗，來修正一開始的想法。",
+                "prefix": "帶傘出門。\n這個決策的轉變過程，其實就是貝氏定理的精神：\n\n\n\n\n\n\n\n                        ",
+                "suffix": "\n                        \n\n\n\n\n\n\n\n\n實際上，大雄已經在腦海中進行了多次貝氏定理的運算而不"
+              },
+              "start": {
+                "css": "article.blog-single > div.row.blog-content:nth-of-type(3) > div.col-full.blog-content__main:nth-of-type(2) > div.cell.border-box-sizing:nth-of-type(10) > div.inner_cell > div.text_cell_render.border-box-sizing",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/article[1]/div[3]/div[2]/div[10]/div[1]/div[1]/blockquote[1]/p[1]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/article[1]/div[3]/div[2]/div[10]/div[1]/div[1]/blockquote[1]/p[1]/text()[1]",
+            "text": "針對眼前發生的現象以及獲得的新資訊，搭配過往經驗，來修正一開始的想法。"
+          },
+          "text": "針對眼前發生的現象以及獲得的新資訊，搭配過往經驗，來修正一開始的想法。",
+          "url": "https://leemeng.tw/intuitive-understandind-of-bayes-rules-and-learn-from-experience.html"
+        }
+      ]
+    },
+    {
+      "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL",
+      "title": "想要搞懂ETL，看這一篇就夠了~｜帆軟軟體",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031848143,
+          "id": "hk-1766031848143-66186",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031848142,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 350
+              },
+              "quote": {
+                "exact": "將資料從源系統中擷取出來，準備進行後續的處理。",
+                "prefix": "料擷取是 ETL 過程的第一步。這一步從不同的資料來源中收集資料。資料來源可以是資料庫、檔案系統或 API。提取的目的是",
+                "suffix": "常見的資料擷取方法包括全量擷取和增量擷取。‌全量擷取類似於資料遷移或資料複製，‌它將資料來源中的表或檢視的資料原封不動地"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 327
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[4]/span[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[4]/span[1]/strong[1]/text()[1]",
+            "text": "將資料從源系統中擷取出來，準備進行後續的處理。"
+          },
+          "text": "將資料從源系統中擷取出來，準備進行後續的處理。",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031874702,
+          "id": "hk-1766031874701-67428",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031874701,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 414
+              },
+              "quote": {
+                "exact": "類似於資料遷移或資料複製，‌它將資料來源中的表或檢視的資料原封不動地擷取出來",
+                "prefix": " API。提取的目的是將資料從源系統中擷取出來，準備進行後續的處理。常見的資料擷取方法包括全量擷取和增量擷取。‌全量擷取",
+                "suffix": "，‌並轉換成自己的ETL工具可以識別的格式。‌這種方法相對簡單，‌適用於需要獲取資料來源中所有資料的場景。‌增量擷取增量"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 376
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "類似於資料遷移或資料複製，‌它將資料來源中的表或檢視的資料原封不動地擷取出來"
+          },
+          "text": "類似於資料遷移或資料複製，‌它將資料來源中的表或檢視的資料原封不動地擷取出來",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031880994,
+          "id": "hk-1766031880993-35257",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031880993,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 376
+              },
+              "quote": {
+                "exact": "全量擷取",
+                "prefix": "案系統或 API。提取的目的是將資料從源系統中擷取出來，準備進行後續的處理。常見的資料擷取方法包括全量擷取和增量擷取。‌",
+                "suffix": "類似於資料遷移或資料複製，‌它將資料來源中的表或檢視的資料原封不動地擷取出來，‌並轉換成自己的ETL工具可以識別的格式。"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 372
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[5]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[5]/strong[1]/text()[1]",
+            "text": "全量擷取"
+          },
+          "text": "全量擷取",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031882520,
+          "id": "hk-1766031882519-33026",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031882518,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 472
+              },
+              "quote": {
+                "exact": "增量擷取",
+                "prefix": "動地擷取出來，‌並轉換成自己的ETL工具可以識別的格式。‌這種方法相對簡單，‌適用於需要獲取資料來源中所有資料的場景。‌",
+                "suffix": "增量擷取指擷取自上次擷取以來資料庫中要擷取的表中新增、‌修改、‌刪除的資料。‌這種方法要求能夠準確地捕獲業務系統中的變化"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 468
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "text": "增量擷取"
+          },
+          "text": "增量擷取",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031892178,
+          "id": "hk-1766031892177-92462",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031892176,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 511
+              },
+              "quote": {
+                "exact": "指擷取自上次擷取以來資料庫中要擷取的表中新增、‌修改、‌刪除的資料。‌",
+                "prefix": "並轉換成自己的ETL工具可以識別的格式。‌這種方法相對簡單，‌適用於需要獲取資料來源中所有資料的場景。‌增量擷取增量擷取",
+                "suffix": "這種方法要求能夠準確地捕獲業務系統中的變化資料，‌同時儘量減少對業務系統造成太大的壓力。‌增量資料擷取中常用的捕獲變化資"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 476
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[8]/text()[1]",
+            "text": "指擷取自上次擷取以來資料庫中要擷取的表中新增、‌修改、‌刪除的資料。‌"
+          },
+          "text": "指擷取自上次擷取以來資料庫中要擷取的表中新增、‌修改、‌刪除的資料。‌",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031894822,
+          "id": "hk-1766031894821-15474",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031894821,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 556
+              },
+              "quote": {
+                "exact": "同時儘量減少對業務系統造成太大的壓力。‌",
+                "prefix": "指擷取自上次擷取以來資料庫中要擷取的表中新增、‌修改、‌刪除的資料。‌這種方法要求能夠準確地捕獲業務系統中的變化資料，‌",
+                "suffix": "增量資料擷取中常用的捕獲變化資料的方法包括觸發器和時間戳。‌觸發器方式優點是資料擷取的效能較高，‌缺點是要求在業務資料庫"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 536
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[8]/text()[2]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[8]/text()[2]",
+            "text": "同時儘量減少對業務系統造成太大的壓力。‌"
+          },
+          "text": "同時儘量減少對業務系統造成太大的壓力。‌",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031907788,
+          "id": "hk-1766031907787-71529",
+          "note": "CRUD 的當下就進行擷取吧",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031907787,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 622
+              },
+              "quote": {
+                "exact": "觸發器方式優點是資料擷取的效能較高，‌缺點是要求在業務資料庫中建立觸發器",
+                "prefix": "系統中的變化資料，‌同時儘量減少對業務系統造成太大的壓力。‌增量資料擷取中常用的捕獲變化資料的方法包括觸發器和時間戳。‌",
+                "suffix": "，‌可能對業務系統有一定的效能影響。‌時間戳方式則是一種基於遞增資料比較的增量資料捕獲方式，‌透過比較系統時間與時間戳欄"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 586
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "觸發器方式優點是資料擷取的效能較高，‌缺點是要求在業務資料庫中建立觸發器"
+          },
+          "text": "觸發器方式優點是資料擷取的效能較高，‌缺點是要求在業務資料庫中建立觸發器",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031923276,
+          "id": "hk-1766031923275-46514",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031923274,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 696
+              },
+              "quote": {
+                "exact": "透過比較系統時間與時間戳欄位的值來決定擷取哪些資料。‌",
+                "prefix": "求在業務資料庫中建立觸發器，‌可能對業務系統有一定的效能影響。‌時間戳方式則是一種基於遞增資料比較的增量資料捕獲方式，‌",
+                "suffix": "這兩種方法各有特點，‌全量擷取適用於需要獲取完整資料來源的情況，‌而增量擷取則更適合於需要更新或補充資料的場景，‌能夠提"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 669
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "透過比較系統時間與時間戳欄位的值來決定擷取哪些資料。‌"
+          },
+          "text": "透過比較系統時間與時間戳欄位的值來決定擷取哪些資料。‌",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031929696,
+          "id": "hk-1766031929694-27721",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031929694,
+              "end": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 812
+              },
+              "quote": {
+                "exact": "清理、格式化和重組",
+                "prefix": "或補充資料的場景，‌能夠提高資料處理的效率和準確性。2、資料轉換資料轉換是 ETL 過程的第二步。這一步將提取的資料進行",
+                "suffix": "。資料轉化的主要目的是透過去除無用資料、填充缺失值、糾正錯誤資料等方法，確保資料的準確性和一致性，提高資料的可靠性。此外"
+              },
+              "start": {
+                "css": "div.font-misans > div.font-misans > section.flex.flex-col:nth-of-type(2) > div.container.flex > div.relative.max-w-\\[770px\\] > div.prose-tw.prose",
+                "textOffset": 803
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[11]/strong[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/p[11]/strong[1]/text()[1]",
+            "text": "清理、格式化和重組"
+          },
+          "text": "清理、格式化和重組",
+          "url": "https://www.fanruan.com/zh-tw/blog/what-is-ETL"
+        }
+      ]
+    },
+    {
+      "url": "https://tomohiroliu22.medium.com/66%E5%80%8B%E8%A6%96%E8%A6%BA%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8Bvlm%E7%B6%93%E5%85%B8%E8%AB%96%E6%96%87-f44f280a7f62",
+      "title": "66個視覺語言模型VLM經典論文. 隨著各個大型語言模型LLM的進展，也開始帶動了視覺語言模型VLM的發展，最經典的… | by 劉智皓 (Chih-Hao Liu) | Medium",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031301017,
+          "id": "hk-1766031301013-67216",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031301011,
+              "end": {
+                "css": "p#b5d6",
+                "textOffset": 86
+              },
+              "quote": {
+                "exact": "各個大型語言模型(Large Language Models, LLM)的進展，也開始帶動了視覺語言模型(Vision Language Models, VLM)的發展",
+                "prefix": "論文劉智皓 (Chih-Hao Liu)Follow93 min read·Dec 22, 2023200Share隨著",
+                "suffix": "，最經典的模型像是GPT-4V和Gemini，以及開源社群LLaVA等，所以今天要來帶大家看我自己看過的各個經典視覺語言"
+              },
+              "start": {
+                "css": "p#b5d6",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "各個大型語言模型(Large Language Models, LLM)的進展，也開始帶動了視覺語言模型(Vision Language Models, VLM)的發展"
+          },
+          "text": "各個大型語言模型(Large Language Models, LLM)的進展，也開始帶動了視覺語言模型(Vision Language Models, VLM)的發展",
+          "url": "https://tomohiroliu22.medium.com/66%E5%80%8B%E8%A6%96%E8%A6%BA%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8Bvlm%E7%B6%93%E5%85%B8%E8%AB%96%E6%96%87-f44f280a7f62"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031305377,
+          "id": "hk-1766031305375-84864",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031305375,
+              "end": {
+                "css": "p#b5d6",
+                "textOffset": 285
+              },
+              "quote": {
+                "exact": "能夠吃image、text、video、audio，甚至是action。",
+                "prefix": "片生成的模型，關於這些之後我會出另外一篇講經典的擴散模型論文、有機會的話也希望可以出一個講multimodality的，",
+                "suffix": "OK那我們就趕快開始吧！1. VSE論文名稱：Deep Visual-Semantic Alignments for G"
+              },
+              "start": {
+                "css": "p#b5d6",
+                "textOffset": 249
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[5]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[5]",
+            "text": "能夠吃image、text、video、audio，甚至是action。"
+          },
+          "text": "能夠吃image、text、video、audio，甚至是action。",
+          "url": "https://tomohiroliu22.medium.com/66%E5%80%8B%E8%A6%96%E8%A6%BA%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8Bvlm%E7%B6%93%E5%85%B8%E8%AB%96%E6%96%87-f44f280a7f62"
+        }
+      ]
+    },
+    {
+      "url": "https://tengyuanchang.medium.com/%E8%AE%93%E9%9B%BB%E8%85%A6%E8%81%BD%E6%87%82%E4%BA%BA%E8%A9%B1-%E7%90%86%E8%A7%A3-nlp-%E9%87%8D%E8%A6%81%E6%8A%80%E8%A1%93-word2vec-%E7%9A%84-skip-gram-%E6%A8%A1%E5%9E%8B-73d0239ad698",
+      "title": "讓電腦聽懂人話: 直觀理解 Word2Vec 模型. Word2Vec 是 Google 於 2013 年由 Tomas… | by TengYuan Chang | Medium",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766031102740,
+          "id": "hk-1766031102737-37534",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766031102735,
+              "end": {
+                "css": "p#\\31 928",
+                "textOffset": 196
+              },
+              "quote": {
+                "exact": "Word2Vec 模型可以說是扮演極為重要的角色。Word2Vec 是 Google 於 2013 年由 Tomas Mikolov 等人所提出，透過學習大量文本資料，將字詞用數學向量的方式來代表他們的語意。",
+                "prefix": "ing) 是近年來在機器學習領域取得重大進展的應用之一，除了歸功於進 5–10 年來資料量的大幅增加與運算能力的提升外，",
+                "suffix": "並將字詞嵌入到一個空間後，讓語意相似的單字可以有較近的距離。本文則試著透過比較直觀，不使用到數學公式的方式，來理解 Wo"
+              },
+              "start": {
+                "css": "p#\\31 928",
+                "textOffset": 92
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Word2Vec 模型可以說是扮演極為重要的角色。Word2Vec 是 Google 於 2013 年由 Tomas Mikolov 等人所提出，透過學習大量文本資料，將字詞用數學向量的方式來代表他們的語意。"
+          },
+          "text": "Word2Vec 模型可以說是扮演極為重要的角色。Word2Vec 是 Google 於 2013 年由 Tomas Mikolov 等人所提出，透過學習大量文本資料，將字詞用數學向量的方式來代表他們的語意。",
+          "url": "https://tengyuanchang.medium.com/%E8%AE%93%E9%9B%BB%E8%85%A6%E8%81%BD%E6%87%82%E4%BA%BA%E8%A9%B1-%E7%90%86%E8%A7%A3-nlp-%E9%87%8D%E8%A6%81%E6%8A%80%E8%A1%93-word2vec-%E7%9A%84-skip-gram-%E6%A8%A1%E5%9E%8B-73d0239ad698"
+        }
+      ]
+    },
+    {
+      "url": "https://cloud.google.com/learn/what-is-etl?hl=zh-TW",
+      "title": "什麼是 ETL？| Google Cloud",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029669916,
+          "id": "hk-1766029669913-85281",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029669911,
+              "end": {
+                "css": "div#module-2 > div > div.qPg9F:nth-of-type(2) > div.HOEmmf > div > div.EAoy4b.UAquKe",
+                "textOffset": 49
+              },
+              "quote": {
+                "exact": "擷取 (extract)、轉換 (transform) 和載入 (load) 的英文縮寫",
+                "prefix": "較 ETL 與 ELTETL 用途相關產品和服務展開下一步行動主題擷取、轉換和載入 (ETL)什麼是 ETL？ETL 是",
+                "suffix": "，組織過去使用這個方式，將多個系統中的資料整合到單一資料庫、資料儲存庫、data warehouse 或 data la"
+              },
+              "start": {
+                "css": "div#module-2 > div > div.qPg9F:nth-of-type(2) > div.HOEmmf > div > div.EAoy4b.UAquKe",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "擷取 (extract)、轉換 (transform) 和載入 (load) 的英文縮寫"
+          },
+          "text": "擷取 (extract)、轉換 (transform) 和載入 (load) 的英文縮寫",
+          "url": "https://cloud.google.com/learn/what-is-etl?hl=zh-TW"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029673942,
+          "id": "hk-1766029673940-89193",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029673939,
+              "end": {
+                "css": "div#module-2 > div > div.qPg9F:nth-of-type(2) > div.HOEmmf > div > div.EAoy4b.UAquKe",
+                "textOffset": 114
+              },
+              "quote": {
+                "exact": "將多個系統中的資料整合到單一資料庫、資料儲存庫、data warehouse 或 data lake 中。",
+                "prefix": "TL 是擷取 (extract)、轉換 (transform) 和載入 (load) 的英文縮寫，組織過去使用這個方式，",
+                "suffix": "ETL 可以用來儲存舊版資料，目前更常用於匯總資料，以便進行分析和制定業務決策。  機構使用 ETL 已有數十年之久，但"
+              },
+              "start": {
+                "css": "div#module-2 > div > div.qPg9F:nth-of-type(2) > div.HOEmmf > div > div.EAoy4b.UAquKe",
+                "textOffset": 61
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "將多個系統中的資料整合到單一資料庫、資料儲存庫、data warehouse 或 data lake 中。"
+          },
+          "text": "將多個系統中的資料整合到單一資料庫、資料儲存庫、data warehouse 或 data lake 中。",
+          "url": "https://cloud.google.com/learn/what-is-etl?hl=zh-TW"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029809413,
+          "id": "hk-1766029809412-94011",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029809412,
+              "end": {
+                "css": "div.ijLgjc > div.d97h9.vpWAad > div.agXpqd > div > div.yTFDmd > div.wlROcd.giuCWe",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "ETL 是端對端的程序",
+                "prefix": "情試用 Google Cloud 的各項功能。免費試用運用 Dataflow 即時執行 ETL 和整合作業ETL 的定義",
+                "suffix": "，公司利用此程序獲取全部資料 (結構化、非結構化，由世界各地任何數量的團隊管理)，並使資料達到實際可用於業務目的的狀態。"
+              },
+              "start": {
+                "css": "div.ijLgjc > div.d97h9.vpWAad > div.agXpqd > div > div.yTFDmd > div.wlROcd.giuCWe",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "ETL 是端對端的程序"
+          },
+          "text": "ETL 是端對端的程序",
+          "url": "https://cloud.google.com/learn/what-is-etl?hl=zh-TW"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766029821444,
+          "id": "hk-1766029821442-94732",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766029821442,
+              "end": {
+                "css": "div#module-3 > div > div.UAquKe.dK1mgd:nth-of-type(3)",
+                "textOffset": 109
+              },
+              "quote": {
+                "exact": "可以即時擷取、充實和管理任何來源 (無論是地端部署還是雲端) 的交易，並且能同時支援結構化和非結構化資料",
+                "prefix": "狀態。當今現代化的 ETL 解決方案必須能因應不斷增加的資料量和速度。此外，現在企業 ETL 解決方案的最基本要求，就是",
+                "suffix": "。ETL 的重要性數十年來，ETL (擷取、轉換、載入) 一直都是資料整合的基礎，即使在現代資料架構中，仍然扮演著重要角"
+              },
+              "start": {
+                "css": "div#module-3 > div > div.UAquKe.dK1mgd:nth-of-type(3)",
+                "textOffset": 57
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[3]/p[1]/text()[1]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[2]/div[1]/div[1]/div[3]/p[1]/text()[1]",
+            "text": "可以即時擷取、充實和管理任何來源 (無論是地端部署還是雲端) 的交易，並且能同時支援結構化和非結構化資料"
+          },
+          "text": "可以即時擷取、充實和管理任何來源 (無論是地端部署還是雲端) 的交易，並且能同時支援結構化和非結構化資料",
+          "url": "https://cloud.google.com/learn/what-is-etl?hl=zh-TW"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766030605492,
+          "id": "hk-1766030605490-22710",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766030605489,
+              "end": {
+                "css": "div#module-13 > div.qPg9F > div.pdL7Ue > div.EAoy4b.UAquKe",
+                "textOffset": 18
+              },
+              "quote": {
+                "exact": "ETL 和 ELT 都是資料整合方法",
+                "prefix": "顯錯誤的記錄。載入中載入是將格式化後的資料插入目標資料庫、資料儲存庫、資料倉儲或資料湖泊的程序。比較 ETL 與 ELT",
+                "suffix": "，但兩者主要的差異在於資料轉換的時間點。ETL 處理資料的方式是先轉換，再載入目的地系統，ELT 則是先將資料以原始格式"
+              },
+              "start": {
+                "css": "div#module-13 > div.qPg9F > div.pdL7Ue > div.EAoy4b.UAquKe",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[5]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "ETL 和 ELT 都是資料整合方法"
+          },
+          "text": "ETL 和 ELT 都是資料整合方法",
+          "url": "https://cloud.google.com/learn/what-is-etl?hl=zh-TW"
+        }
+      ]
+    },
     {
       "url": "https://vocus.cc/article/68bb4ad6fd897800012cccfa",
       "title": "Feature Crossing",
@@ -6294,6 +7494,11 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ]
+    },
+    {
+      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
+      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
+      "entries": []
     }
   ]
 }
