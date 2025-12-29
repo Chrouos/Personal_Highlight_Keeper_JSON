@@ -1,8 +1,2458 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1766048638127,
+  "exportedAt": 1766981327758,
   "pages": [
+    {
+      "url": "https://ywctech.net/ml-ai/what-is-bm25/",
+      "title": "白話圖解 - 什麼是 BM25 · YWC 科技筆記",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766739774522,
+          "id": "hk-1766739774521-57001",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766739774520,
+              "end": {
+                "css": "main#main-content > article > header.max-w-prose > h1.mt-0.text-4xl",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "什麼是 BM25",
+                "prefix": " YWC 科技筆記\n\n↓快轉到主要內容YWC 科技筆記ML/AI軟體/科技分類\nML/AI軟體/科技分類\n白話圖解 - ",
+                "suffix": "July 17, 2024Search\n白話文目錄IDF 項特殊參數之下的 TF 項次數兩倍，TF 不到兩倍文越長，TF"
+              },
+              "start": {
+                "css": "main#main-content > article > header.max-w-prose > h1.mt-0.text-4xl",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/header[1]/h1[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/header[1]/h1[1]/text()[1]",
+            "text": "什麼是 BM25"
+          },
+          "text": "什麼是 BM25",
+          "url": "https://ywctech.net/ml-ai/what-is-bm25/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766739777745,
+          "id": "hk-1766739777745-87625",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766739777744,
+              "end": {
+                "css": "main#main-content > article > section.flex.flex-col > div.min-w-0.min-h-0:nth-of-type(2)",
+                "textOffset": 99
+              },
+              "quote": {
+                "exact": "BM25 就是一種 TF-IDF",
+                "prefix": "與關鍵字的相關度」，常被搜尋引擎如 Elasticsearch 使用 – 聽起來很像\n上一篇的 TF-IDF？那是因為，",
+                "suffix": "只不過 BM25 的 TF 項與 IDF 項比較細膩，而且有「特性參數」可調整：小美用的 BM25 跟小明用的 BM25"
+              },
+              "start": {
+                "css": "main#main-content > article > section.flex.flex-col > div.min-w-0.min-h-0:nth-of-type(2)",
+                "textOffset": 83
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/div[2]/p[2]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/div[2]/p[2]/strong[1]/text()[1]",
+            "text": "BM25 就是一種 TF-IDF"
+          },
+          "text": "BM25 就是一種 TF-IDF",
+          "url": "https://ywctech.net/ml-ai/what-is-bm25/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766739785475,
+          "id": "hk-1766739785474-29522",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766739785474,
+              "end": {
+                "css": "main#main-content > article > section.flex.flex-col > div.min-w-0.min-h-0:nth-of-type(2)",
+                "textOffset": 138
+              },
+              "quote": {
+                "exact": " BM25 的 TF 項與 IDF 項比較細膩，而且有「特性參數」可調整",
+                "prefix": "lasticsearch 使用 – 聽起來很像\n上一篇的 TF-IDF？那是因為，BM25 就是一種 TF-IDF只不過",
+                "suffix": "：小美用的 BM25 跟小明用的 BM25 可以不一樣！BM25 是一種 TF-IDF, 且有 k1, b 兩個參數可調"
+              },
+              "start": {
+                "css": "main#main-content > article > section.flex.flex-col > div.min-w-0.min-h-0:nth-of-type(2)",
+                "textOffset": 102
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/div[2]/p[3]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/div[2]/p[3]/text()[1]",
+            "text": " BM25 的 TF 項與 IDF 項比較細膩，而且有「特性參數」可調整"
+          },
+          "text": " BM25 的 TF 項與 IDF 項比較細膩，而且有「特性參數」可調整",
+          "url": "https://ywctech.net/ml-ai/what-is-bm25/"
+        }
+      ]
+    },
+    {
+      "url": "https://ihower.tw/blog/12227-reranker",
+      "title": "使用繁體中文評測各家 Reranker 模型的重排能力 – ihower { blogging }",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731842324,
+          "id": "hk-1766731842322-14255",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731842320,
+              "end": {
+                "css": "article#post-12227 > div.entry-content",
+                "textOffset": 221
+              },
+              "quote": {
+                "exact": "Reranker",
+                "prefix": "Your Search and RAG with Voyage’s Rerankers\n\n\n\n什麼是二階段檢索?\n\n\n\n",
+                "suffix": " 模型是另一種不一樣的模型(學名叫做 Cross-Encoder)，不同於 embedding 模型(學名叫做 Bi-E"
+              },
+              "start": {
+                "css": "article#post-12227 > div.entry-content",
+                "textOffset": 213
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[3]/text()[1]",
+            "text": "Reranker"
+          },
+          "text": "Reranker",
+          "url": "https://ihower.tw/blog/12227-reranker"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731848326,
+          "id": "hk-1766731848325-66667",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731848325,
+              "end": {
+                "css": "article#post-12227 > div.entry-content",
+                "textOffset": 253
+              },
+              "quote": {
+                "exact": "Cross-Encoder",
+                "prefix": "yage’s Rerankers\n\n\n\n什麼是二階段檢索?\n\n\n\nReranker 模型是另一種不一樣的模型(學名叫做 ",
+                "suffix": ")，不同於 embedding 模型(學名叫做 Bi-Encoder) 輸入是文字，輸出是高維度向量。Reranker "
+              },
+              "start": {
+                "css": "article#post-12227 > div.entry-content",
+                "textOffset": 240
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[3]/text()[1]",
+            "text": "Cross-Encoder"
+          },
+          "text": "Cross-Encoder",
+          "url": "https://ihower.tw/blog/12227-reranker"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731964502,
+          "id": "hk-1766731964500-54670",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731964499,
+              "end": {
+                "css": "article#post-12227 > div.entry-content",
+                "textOffset": 2310
+              },
+              "quote": {
+                "exact": "基本就四家 Voyage, Cohere, Jina 跟開源的 bge 系列:",
+                "prefix": "入長度、API 計費方式或是開源部署成本。\n\n\n\n\n結論\n\n\n\nReranker 做的人比較少，有做中文的選擇又更少了，",
+                "suffix": "\n\n\n\n\n性能: Voyage >  bge-m3 > Cohere > Jina \n\n\n\n速度: bge-m3(有 A"
+              },
+              "start": {
+                "css": "article#post-12227 > div.entry-content",
+                "textOffset": 2271
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[11]/text()[5]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[11]/text()[1]",
+            "text": "基本就四家 Voyage, Cohere, Jina 跟開源的 bge 系列:"
+          },
+          "text": "基本就四家 Voyage, Cohere, Jina 跟開源的 bge 系列:",
+          "url": "https://ihower.tw/blog/12227-reranker"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766734879840,
+          "id": "hk-1766734879839-16262",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766734879837,
+              "end": {
+                "css": "article#post-12227 > div.entry-content > ul.wp-block-list:nth-of-type(5)",
+                "textOffset": 30
+              },
+              "quote": {
+                "exact": "企業內",
+                "prefix": " 才能把重排速度壓到 1 秒以內\n\n\n\n\n從應用場景探討:\n\n\n\n\n如果你有很多很多文件，但是用戶查詢量其實不算多，例如",
+                "suffix": "場景\n\n這樣適合用便宜的 embeddings 模型，搭配 top-k 100 做重排取前3前5，把成本花在後期 que"
+              },
+              "start": {
+                "css": "article#post-12227 > div.entry-content > ul.wp-block-list:nth-of-type(5)",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/ul[5]/li[1]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/ul[5]/li[1]/text()[1]",
+            "text": "企業內"
+          },
+          "text": "企業內",
+          "url": "https://ihower.tw/blog/12227-reranker"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/29977179977",
+      "title": "關於Reranker的那點事兒- 知乎",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766732277203,
+          "id": "hk-1766732277201-60276",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766732277199,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "重排序模型（rerank模型）",
+                "prefix": "here Rebank：rerank-v3.51、概述2、模型位址3.模型使用附錄：參考資料  一、Rerank模型概述",
+                "suffix": "是對初步檢索結果進行再排序的演算法或模型。在RAG 應用程式中，在拿到向量查詢（ANN）的結果後使用Reranker，能"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 12
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[1]/font[1]/font[1]/text()[1]",
+            "text": "重排序模型（rerank模型）"
+          },
+          "text": "重排序模型（rerank模型）",
+          "url": "https://zhuanlan.zhihu.com/p/29977179977"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766732286160,
+          "id": "hk-1766732286158-36990",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766732286157,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 127
+              },
+              "quote": {
+                "exact": "在拿到向量查詢（ANN）的結果後使用Reranker，能夠更有效地確定文件和查詢之間的語意相關性，更精細地對結果重排，最終提高搜尋品質。",
+                "prefix": " 一、Rerank模型概述重排序模型（rerank模型）是對初步檢索結果進行再排序的演算法或模型。在RAG 應用程式中，",
+                "suffix": " Reranker 能夠在單路或多路的召回結果中挑選出和問題最接近的文檔。擴大檢索結果的豐富度（例如多路召回）配合精細化"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 59
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[1]/font[2]/font[1]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[1]/font[1]/font[1]/text()[2]",
+            "text": "在拿到向量查詢（ANN）的結果後使用Reranker，能夠更有效地確定文件和查詢之間的語意相關性，更精細地對結果重排，最終提高搜尋品質。"
+          },
+          "text": "在拿到向量查詢（ANN）的結果後使用Reranker，能夠更有效地確定文件和查詢之間的語意相關性，更精細地對結果重排，最終提高搜尋品質。",
+          "url": "https://zhuanlan.zhihu.com/p/29977179977"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766732293916,
+          "id": "hk-1766732293914-92307",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766732293914,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 408
+              },
+              "quote": {
+                "exact": "評分系統，即重排序模型（Rerank Model），它有助於進一步優化和精煉檢索結果。",
+                "prefix": "於更有效地進行比較、分析和處理。在完成這些步驟後，這些數據將整合並提供給大型模型進行處理。為了實現這一過程，需要引入一個",
+                "suffix": " Rerank模型透過對候選文件清單進行重新排序，以提高其與使用者查詢語意的匹配度，從而優化排序結果。此模型的核心在於評"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 365
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[3]/font[2]/font[1]/text()[1]",
+            "startOffset": 149,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[3]/font[1]/font[1]/text()[1]",
+            "text": "評分系統，即重排序模型（Rerank Model），它有助於進一步優化和精煉檢索結果。"
+          },
+          "text": "評分系統，即重排序模型（Rerank Model），它有助於進一步優化和精煉檢索結果。",
+          "url": "https://zhuanlan.zhihu.com/p/29977179977"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766732298209,
+          "id": "hk-1766732298207-56809",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766732298207,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 631
+              },
+              "quote": {
+                "exact": " 市場上已有一些流行的重新排序模型，例如Cohere rerank、bge-reranker 等，它們在不同的應用場景中表現出了優異的性能。",
+                "prefix": "，使得與使用者問題更為相關的文件排在更前的位置。這種模型的實現通常涉及計算相關性分數，然後按照這些分數從高到低排列文件。",
+                "suffix": "以下介紹一些典型的Rerank模型：2. BCE 重新排序：bce-reranker-base_v11、概述BCEmbe"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 561
+              },
+              "version": 1
+            },
+            "endOffset": 223,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[3]/font[2]/font[1]/text()[1]",
+            "startOffset": 153,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[3]/font[2]/font[1]/text()[1]",
+            "text": " 市場上已有一些流行的重新排序模型，例如Cohere rerank、bge-reranker 等，它們在不同的應用場景中表現出了優異的性能。"
+          },
+          "text": " 市場上已有一些流行的重新排序模型，例如Cohere rerank、bge-reranker 等，它們在不同的應用場景中表現出了優異的性能。",
+          "url": "https://zhuanlan.zhihu.com/p/29977179977"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766732301197,
+          "id": "hk-1766732301196-53729",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766732301196,
+              "end": {
+                "css": "h2#h_29977179977_1",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "BCE 重新排序：bce-reranker-base_v1",
+                "prefix": "nk、bge-reranker 等，它們在不同的應用場景中表現出了優異的性能。以下介紹一些典型的Rerank模型：2. ",
+                "suffix": "1、概述BCEmbedding在  張小白：關於Embedding模型的那點事兒  已有描述。其中bce-reranke"
+              },
+              "start": {
+                "css": "h2#h_29977179977_1",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/h2[2]/b[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/h2[2]/b[1]/font[1]/font[1]/text()[1]",
+            "text": "BCE 重新排序：bce-reranker-base_v1"
+          },
+          "text": "BCE 重新排序：bce-reranker-base_v1",
+          "url": "https://zhuanlan.zhihu.com/p/29977179977"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/@bohachu/%E5%9F%BA%E7%A4%8Erag%E9%80%80%E6%95%A3-reranker%E4%BE%86%E4%BE%86-5c2304d1b87d",
+      "title": "基礎RAG退散，小模型Reranker來來 - Bowen Chiu - Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731890066,
+          "id": "hk-1766731890064-84751",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731890063,
+              "end": {
+                "css": "p#\\34 fd4",
+                "textOffset": 12
+              },
+              "quote": {
+                "exact": "RAG",
+                "prefix": "nter or click to view image in full size🌟傳統基礎RAG缺點傳統的檢索-生成（",
+                "suffix": "）系統依賴於以下幾個步驟：文字標記化、嵌入生成、向量資料庫建立和相似性搜尋。然而，這些方法存在一些明顯的缺點：● 嵌入的"
+              },
+              "start": {
+                "css": "p#\\34 fd4",
+                "textOffset": 9
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "RAG"
+          },
+          "text": "RAG",
+          "url": "https://medium.com/@bohachu/%E5%9F%BA%E7%A4%8Erag%E9%80%80%E6%95%A3-reranker%E4%BE%86%E4%BE%86-5c2304d1b87d"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731893370,
+          "id": "hk-1766731893369-71214",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731893369,
+              "end": {
+                "css": "p#\\34 fd4",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "文字標記化、嵌入生成、向量資料庫建立和相似性搜尋。",
+                "prefix": " view image in full size🌟傳統基礎RAG缺點傳統的檢索-生成（RAG）系統依賴於以下幾個步驟：",
+                "suffix": "然而，這些方法存在一些明顯的缺點：● 嵌入的侷限性：傳統的嵌入方法（如使用固定維度的嵌入向量）在捕捉語意資訊方面具有一定"
+              },
+              "start": {
+                "css": "p#\\34 fd4",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "文字標記化、嵌入生成、向量資料庫建立和相似性搜尋。"
+          },
+          "text": "文字標記化、嵌入生成、向量資料庫建立和相似性搜尋。",
+          "url": "https://medium.com/@bohachu/%E5%9F%BA%E7%A4%8Erag%E9%80%80%E6%95%A3-reranker%E4%BE%86%E4%BE%86-5c2304d1b87d"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731897094,
+          "id": "hk-1766731897093-47605",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731897093,
+              "end": {
+                "css": "p#ad22",
+                "textOffset": 47
+              },
+              "quote": {
+                "exact": "在捕捉語意資訊方面具有一定的侷限性",
+                "prefix": "量資料庫建立和相似性搜尋。然而，這些方法存在一些明顯的缺點：● 嵌入的侷限性：傳統的嵌入方法（如使用固定維度的嵌入向量）",
+                "suffix": "，特別是在區分相似短語的細微差異時。此外，嵌入的維度通常是固定的，這限制了對複雜或長篇檔案和查詢的表示能力。● 無法有效"
+              },
+              "start": {
+                "css": "p#ad22",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "在捕捉語意資訊方面具有一定的侷限性"
+          },
+          "text": "在捕捉語意資訊方面具有一定的侷限性",
+          "url": "https://medium.com/@bohachu/%E5%9F%BA%E7%A4%8Erag%E9%80%80%E6%95%A3-reranker%E4%BE%86%E4%BE%86-5c2304d1b87d"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766731923988,
+          "id": "hk-1766731923987-24704",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766731923986,
+              "end": {
+                "css": "p#fea2",
+                "textOffset": 78
+              },
+              "quote": {
+                "exact": "利用開放原始碼的cross-encoder模型，如“ms-marco-MiniLM-L-6-v2”，這些模型由社群提供和維護，免費且高效",
+                "prefix": "ndices]    return top_pairs🌟高效能做法1️⃣ 使用開放原始碼工具和模型● 開放原始碼模型：",
+                "suffix": "。2️⃣ 社群支援和資助● 本地計算資源：充分利用本地資源，避免高成本的雲端服務。● 快取機制：快取技術保存前處理結果，"
+              },
+              "start": {
+                "css": "p#fea2",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[17]/text()[1]",
+            "text": "利用開放原始碼的cross-encoder模型，如“ms-marco-MiniLM-L-6-v2”，這些模型由社群提供和維護，免費且高效"
+          },
+          "text": "利用開放原始碼的cross-encoder模型，如“ms-marco-MiniLM-L-6-v2”，這些模型由社群提供和維護，免費且高效",
+          "url": "https://medium.com/@bohachu/%E5%9F%BA%E7%A4%8Erag%E9%80%80%E6%95%A3-reranker%E4%BE%86%E4%BE%86-5c2304d1b87d"
+        }
+      ]
+    },
+    {
+      "url": "https://huggingface.co/intfloat/multilingual-e5-large-instruct",
+      "title": "intfloat/multilingual-e5-large-instruct · Hugging Face",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766727409998,
+          "id": "hk-1766727409996-98032",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766727409993,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 246
+              },
+              "quote": {
+                "exact": "This model has 24 layers and the embedding size is 1024.",
+                "prefix": "g Huang, Linjun Yang, Rangan Majumder, Furu Wei, arXiv 2024\n",
+                "suffix": "\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nBelow are examples to encode queries a"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 190
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "text": "This model has 24 layers and the embedding size is 1024."
+          },
+          "text": "This model has 24 layers and the embedding size is 1024.",
+          "url": "https://huggingface.co/intfloat/multilingual-e5-large-instruct"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ithome.com.tw/review/162038",
+      "title": "GPU內建94GB記憶體，首款搭輝達H100 NVL的雲端服務上線 | iThome",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721071789,
+          "id": "hk-1766721071788-93828",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721071787,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 824
+              },
+              "quote": {
+                "exact": "Nvidia H100 GPU的機密運算虛擬機器服務，稱為NCC H100 v5系列",
+                "prefix": "微軟發表NC H100 v5系列，呼應原本的H100 NVL上市時程之餘，他們進一步基於這樣的組態而延伸，宣布將推出搭配",
+                "suffix": "，同樣適合常見開放原始碼AI模型與語言模型的訓練、微調，針對雲端服務環境執行的資料與應用程式工作負載，提供更多兼顧效率與"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 782
+              },
+              "version": 1
+            },
+            "endOffset": 113,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 71,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "Nvidia H100 GPU的機密運算虛擬機器服務，稱為NCC H100 v5系列"
+          },
+          "text": "Nvidia H100 GPU的機密運算虛擬機器服務，稱為NCC H100 v5系列",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721074476,
+          "id": "hk-1766721074475-25997",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721074474,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 915
+              },
+              "quote": {
+                "exact": "這個GPU機密運算服務將提供4種機制",
+                "prefix": "I模型與語言模型的訓練、微調，針對雲端服務環境執行的資料與應用程式工作負載，提供更多兼顧效率與安全性保護的彈性選項。\n\n",
+                "suffix": "，首先是基於硬體而成的可信任執行環境（Trusted Execution Environment，TEE），可橫跨虛擬機"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 897
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "這個GPU機密運算服務將提供4種機制"
+          },
+          "text": "這個GPU機密運算服務將提供4種機制",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721076916,
+          "id": "hk-1766721076915-51585",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721076915,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 968
+              },
+              "quote": {
+                "exact": "執行環境（Trusted Execution Environment，TEE）",
+                "prefix": "式工作負載，提供更多兼顧效率與安全性保護的彈性選項。\n\n這個GPU機密運算服務將提供4種機制，首先是基於硬體而成的可信任",
+                "suffix": "，可橫跨虛擬機器本身使用的CPU與連結的GPU進行防護，可啟用資料、模型、運算安全卸載至GPU處理的機制；第二是虛擬機器"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 929
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[2]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[2]",
+            "text": "執行環境（Trusted Execution Environment，TEE）"
+          },
+          "text": "執行環境（Trusted Execution Environment，TEE）",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721080532,
+          "id": "hk-1766721080531-91822",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721080531,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1034
+              },
+              "quote": {
+                "exact": "虛擬機器的記憶體加密",
+                "prefix": "TEE），可橫跨虛擬機器本身使用的CPU與連結的GPU進行防護，可啟用資料、模型、運算安全卸載至GPU處理的機制；第二是",
+                "suffix": "，當中會運用硬體產生的加密金鑰；第三是加密通訊，當機密虛擬機器與GPU經由PCIe介面進行I/O存取時，可實施加密保護；"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1024
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[3]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[3]",
+            "text": "虛擬機器的記憶體加密"
+          },
+          "text": "虛擬機器的記憶體加密",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721085424,
+          "id": "hk-1766721085422-91536",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721085422,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1093
+              },
+              "quote": {
+                "exact": "加密通訊，當機密虛擬機器與GPU經由PCIe介面進行I/O存取時，可實施加密保護",
+                "prefix": "防護，可啟用資料、模型、運算安全卸載至GPU處理的機制；第二是虛擬機器的記憶體加密，當中會運用硬體產生的加密金鑰；第三是",
+                "suffix": "；第四是見證，賦予CPU與GPU產生遠端可驗證的見證報告能力，當中將會擷取CPU與GPU的安全性關鍵硬體與韌體組態。\n "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1053
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[4]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[4]",
+            "text": "加密通訊，當機密虛擬機器與GPU經由PCIe介面進行I/O存取時，可實施加密保護"
+          },
+          "text": "加密通訊，當機密虛擬機器與GPU經由PCIe介面進行I/O存取時，可實施加密保護",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721088277,
+          "id": "hk-1766721088276-77204",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721088276,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1124
+              },
+              "quote": {
+                "exact": "予CPU與GPU產生遠端可驗證的見證報告能力，",
+                "prefix": "體產生的加密金鑰；第三是加密通訊，當機密虛擬機器與GPU經由PCIe介面進行I/O存取時，可實施加密保護；第四是見證，賦",
+                "suffix": "當中將會擷取CPU與GPU的安全性關鍵硬體與韌體組態。\n  \n微軟表示，若使用這套解決方案，指派給虛擬機器的GPU會進入"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1101
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[5]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[5]",
+            "text": "予CPU與GPU產生遠端可驗證的見證報告能力，"
+          },
+          "text": "予CPU與GPU產生遠端可驗證的見證報告能力，",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721092295,
+          "id": "hk-1766721092294-89490",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721092294,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1432
+              },
+              "quote": {
+                "exact": "形同搭配記憶體容量更大的H100 PCIe",
+                "prefix": "境。基於上述的架構，包含Nvidia CUDA在內的加速應用，均能以透明且受保護的方式執行在這樣的虛擬機器上。\n  \n\n",
+                "suffix": "，且能透過NVLink兩兩相連，匯集188 GB的HBM3記憶體\n單就GPU規格而言，NC H100 v5系列最顯著的特"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1411
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h3[1]/span[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h3[1]/span[1]/strong[1]/text()[1]",
+            "text": "形同搭配記憶體容量更大的H100 PCIe"
+          },
+          "text": "形同搭配記憶體容量更大的H100 PCIe",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721101028,
+          "id": "hk-1766721101027-18471",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721101026,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1652
+              },
+              "quote": {
+                "exact": "每個執行個體的GPU記憶體容量為12 GB",
+                "prefix": "/s，兩個GPU為7.8 TB/s），而且這款GPU同樣支援多執行個體GPU（MIG），單張GPU可分割成7個執行個體，",
+                "suffix": "。\n縱觀目前已推出的Nvidia H100 GPU雲端執行個體服務，可區分為兩種配置，一種是透過NVSwitch與NVL"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1631
+              },
+              "version": 1
+            },
+            "endOffset": 187,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "startOffset": 166,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "text": "每個執行個體的GPU記憶體容量為12 GB"
+          },
+          "text": "每個執行個體的GPU記憶體容量為12 GB",
+          "url": "https://www.ithome.com.tw/review/162038"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721106475,
+          "id": "hk-1766721106474-2752",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721106474,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1630
+              },
+              "quote": {
+                "exact": "單張GPU可分割成7個執行個體",
+                "prefix": "頻寬單個GPU為3,938 GB/s，兩個GPU為7.8 TB/s），而且這款GPU同樣支援多執行個體GPU（MIG），",
+                "suffix": "，每個執行個體的GPU記憶體容量為12 GB。\n縱觀目前已推出的Nvidia H100 GPU雲端執行個體服務，可區分為"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1615
+              },
+              "version": 1
+            },
+            "endOffset": 165,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "startOffset": 150,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "text": "單張GPU可分割成7個執行個體"
+          },
+          "text": "單張GPU可分割成7個執行個體",
+          "url": "https://www.ithome.com.tw/review/162038"
+        }
+      ]
+    },
+    {
+      "url": "https://www.nvidia.com/zh-tw/data-center/h100/",
+      "title": "H100 GPU | NVIDIA",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766720899875,
+          "id": "hk-1766720899873-41812",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766720899868,
+              "end": {
+                "css": "div#nv-text-29245d36e6 > div.text-left.lap-text-left > div.description",
+                "textOffset": 69
+              },
+              "quote": {
+                "exact": "H100 配備第四代 Tensor 核心和具有 FP8 精確度的 Transformer Engine",
+                "prefix": "    \t\n     \n\t\t\n    \n\n\n\n\n \n \t\n    \n\t\t\t\n\t\t\t\t\n                \t",
+                "suffix": "，與前一代 GPT-3 (175B) 相比，訓練速度高達 4 倍。結合第四代 NVlink (每秒提供 900 GB G"
+              },
+              "start": {
+                "css": "div#nv-text-29245d36e6 > div.text-left.lap-text-left > div.description",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "H100 配備第四代 Tensor 核心和具有 FP8 精確度的 Transformer Engine"
+          },
+          "text": "H100 配備第四代 Tensor 核心和具有 FP8 精確度的 Transformer Engine",
+          "url": "https://www.nvidia.com/zh-tw/data-center/h100/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766720910090,
+          "id": "hk-1766720910085-54319",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766720910085,
+              "end": {
+                "css": "div#nv-text-29245d36e6 > div.text-left.lap-text-left > div.description",
+                "textOffset": 191
+              },
+              "quote": {
+                "exact": "結合第四代 NVlink (每秒提供 900 GB GPU 對 GPU 互連)、NDR Quantum-2 InfiniBand 網路 (加速所有 GPU 跨節點集體通訊能力)、",
+                "prefix": "FP8 精確度的 Transformer Engine，與前一代 GPT-3 (175B) 相比，訓練速度高達 4 倍。",
+                "suffix": "第五代 PCIe 及NVIDIA Magnum IO™ 軟體，提供小型企業到大規模統一 GPU 叢集高效率可擴充性。\n部"
+              },
+              "start": {
+                "css": "div#nv-text-29245d36e6 > div.text-left.lap-text-left > div.description",
+                "textOffset": 102
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "結合第四代 NVlink (每秒提供 900 GB GPU 對 GPU 互連)、NDR Quantum-2 InfiniBand 網路 (加速所有 GPU 跨節點集體通訊能力)、"
+          },
+          "text": "結合第四代 NVlink (每秒提供 900 GB GPU 對 GPU 互連)、NDR Quantum-2 InfiniBand 網路 (加速所有 GPU 跨節點集體通訊能力)、",
+          "url": "https://www.nvidia.com/zh-tw/data-center/h100/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766721031182,
+          "id": "hk-1766721031180-9900",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766721031180,
+              "end": {
+                "css": "div#nv-text-bfe5f9a2d8 > div.text-left.lap-text-left > div.description",
+                "textOffset": 246
+              },
+              "quote": {
+                "exact": "包括 FP64、TF32、FP32、FP16、INT8，以及目前的 FP8，能夠減少記憶體使用量並提升效能，且仍然能夠維持大型語言模型的正確度。",
+                "prefix": "先地位，並創造多項進展，包含加速推理速度達高達 30 倍，並實現最低延遲時間。第四代 Tensor 核心加速所有精確度，",
+                "suffix": "\n                \n\t\t\t\n\t\n\n    \n\n\n\n\n    \n\n\n        \n        \n "
+              },
+              "start": {
+                "css": "div#nv-text-bfe5f9a2d8 > div.text-left.lap-text-left > div.description",
+                "textOffset": 174
+              },
+              "version": 1
+            },
+            "endOffset": 160,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 88,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "包括 FP64、TF32、FP32、FP16、INT8，以及目前的 FP8，能夠減少記憶體使用量並提升效能，且仍然能夠維持大型語言模型的正確度。"
+          },
+          "text": "包括 FP64、TF32、FP32、FP16、INT8，以及目前的 FP8，能夠減少記憶體使用量並提升效能，且仍然能夠維持大型語言模型的正確度。",
+          "url": "https://www.nvidia.com/zh-tw/data-center/h100/"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.dataexpert.io/p/i-processed-1-tb-with-duckdb-in-30?utm_source=post-email-title&publication_id=1644342&post_id=181776346&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email",
+      "title": "Processing 1 TB with DuckDB in less than 30 seconds",
+      "entries": [
+        {
+          "color": "#a79e7b",
+          "createdAt": 1766711324383,
+          "id": "hk-1766711324381-88647",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766711324379,
+              "end": {
+                "css": "div.single-post > div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.available-content > div.body.markup",
+                "textOffset": 1838
+              },
+              "quote": {
+                "exact": "I first decided to go after ~200 GBs. DuckDB read that data in <10 seconds",
+                "prefix": "bstack, you can click here.另外——如果你想訂閱 Matt's Substack，可以點這裡。",
+                "suffix": ".我一開始決定要查 ~200 GB。DuckDB 在 < 10 秒內就讀到這些資料。This was too fast."
+              },
+              "start": {
+                "css": "div.single-post > div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.available-content > div.body.markup",
+                "textOffset": 1764
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/p[7]/span[1]/text()[1]",
+            "text": "I first decided to go after ~200 GBs. DuckDB read that data in <10 seconds"
+          },
+          "text": "I first decided to go after ~200 GBs. DuckDB read that data in <10 seconds",
+          "url": "https://blog.dataexpert.io/p/i-processed-1-tb-with-duckdb-in-30?utm_source=post-email-title&publication_id=1644342&post_id=181776346&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        }
+      ]
+    },
+    {
+      "url": "https://www.knews.com.tw/news/BF51D3743D506023587605752E284825",
+      "title": "微軟也沒轍！張文硬碟遭48位數加密鎖死　6大QA看懂BitLocker是什麼｜知新聞",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710839325,
+          "id": "hk-1766710839325-97510",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710839324,
+              "end": {
+                "css": "article#post-detail",
+                "textOffset": 7107
+              },
+              "quote": {
+                "exact": "BitLocker 磁碟加密功能解析",
+                "prefix": "                                                            ",
+                "suffix": "\n                                                           "
+              },
+              "start": {
+                "css": "article#post-detail",
+                "textOffset": 7089
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/article[1]/h3[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/article[1]/h3[1]/text()[1]",
+            "text": "BitLocker 磁碟加密功能解析"
+          },
+          "text": "BitLocker 磁碟加密功能解析",
+          "url": "https://www.knews.com.tw/news/BF51D3743D506023587605752E284825"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710869529,
+          "id": "hk-1766710869528-34947",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710869527,
+              "end": {
+                "css": "article#post-detail",
+                "textOffset": 8402
+              },
+              "quote": {
+                "exact": "BitLocker是微軟Windows中的一項安全與加密功能，包含在部分Windows版本內",
+                "prefix": "                                                          A：",
+                "suffix": "。BitLocker可讓使用者將安裝Windows的磁碟整顆加密，防止資料遭竊或被未經授權的人存取。\n推薦獨家｜張文筆電"
+              },
+              "start": {
+                "css": "article#post-detail",
+                "textOffset": 8356
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/article[1]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/article[1]/p[2]/text()[1]",
+            "text": "BitLocker是微軟Windows中的一項安全與加密功能，包含在部分Windows版本內"
+          },
+          "text": "BitLocker是微軟Windows中的一項安全與加密功能，包含在部分Windows版本內",
+          "url": "https://www.knews.com.tw/news/BF51D3743D506023587605752E284825"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710873249,
+          "id": "hk-1766710873248-75835",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710873247,
+              "end": {
+                "css": "article#post-detail",
+                "textOffset": 8451
+              },
+              "quote": {
+                "exact": "磁碟整顆加密，防止資料遭竊或被未經授權的人存取",
+                "prefix": "Windows中的一項安全與加密功能，包含在部分Windows版本內。BitLocker可讓使用者將安裝Windows的",
+                "suffix": "。\n推薦獨家｜張文筆電硬碟破解卡關！電競SSD遭48數碼加密　刑事局求助原廠碰壁試圖「暴力破解」\nBitLocker是W"
+              },
+              "start": {
+                "css": "article#post-detail",
+                "textOffset": 8428
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/article[1]/p[2]/text()[2]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]/article[1]/p[2]/text()[2]",
+            "text": "磁碟整顆加密，防止資料遭竊或被未經授權的人存取"
+          },
+          "text": "磁碟整顆加密，防止資料遭竊或被未經授權的人存取",
+          "url": "https://www.knews.com.tw/news/BF51D3743D506023587605752E284825"
+        }
+      ]
+    },
+    {
+      "url": "https://moda.gov.tw/press/press-releases/18314",
+      "title": "「臺灣主權AI訓練語料庫」上線！ 數位發展部攜手200個機關打造本土語料資源｜新聞發布 - 公告訊息｜moda — 數位發展部 Ministry of Digital Affairs",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710724724,
+          "id": "hk-1766710724721-51663",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710724716,
+              "end": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 70
+              },
+              "quote": {
+                "exact": "臺灣主權AI訓練語料庫",
+                "prefix": " \n                    在全球AI快速發展的浪潮下，臺灣當然也不能缺席！數位發展部今（24）日發布「",
+                "suffix": "」，廣納高品質正體中文語料，支援AI模型訓練更貼近臺灣的語言、文化與生活情境，促進AI模型具備更高的本土辨識力與語意理解"
+              },
+              "start": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 59
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[1]/span[1]/span[1]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[1]/span[1]/span[1]/text()[1]",
+            "text": "臺灣主權AI訓練語料庫"
+          },
+          "text": "臺灣主權AI訓練語料庫",
+          "url": "https://moda.gov.tw/press/press-releases/18314"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710728748,
+          "id": "hk-1766710728747-23501",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710728747,
+              "end": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 54
+              },
+              "quote": {
+                "exact": "數位發展部今（24",
+                "prefix": "               \n                    在全球AI快速發展的浪潮下，臺灣當然也不能缺席！",
+                "suffix": "）日發布「臺灣主權AI訓練語料庫」，廣納高品質正體中文語料，支援AI模型訓練更貼近臺灣的語言、文化與生活情境，促進AI模"
+              },
+              "start": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 45
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[1]/span[1]/span[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[1]/span[1]/span[1]/text()[1]",
+            "text": "數位發展部今（24"
+          },
+          "text": "數位發展部今（24",
+          "url": "https://moda.gov.tw/press/press-releases/18314"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710736216,
+          "id": "hk-1766710736215-37580",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710736215,
+              "end": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 231
+              },
+              "quote": {
+                "exact": "涵蓋語言、文化、教育、生物、地理環境等領域",
+                "prefix": "有超過200個政府機關投入，上架逾2,000筆資料集、超過6億tokens，收錄各機關具臺灣文化特色之高品質資料集，內容",
+                "suffix": "，這些資料就像AI的教材，幫助AI模型更了解臺灣，學會更自然、更貼近臺灣社會的語言表達能力。文化部綜合規劃司魏司長表示，"
+              },
+              "start": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 210
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[2]/span[1]/span[1]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[2]/span[1]/span[1]/text()[1]",
+            "text": "涵蓋語言、文化、教育、生物、地理環境等領域"
+          },
+          "text": "涵蓋語言、文化、教育、生物、地理環境等領域",
+          "url": "https://moda.gov.tw/press/press-releases/18314"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766710757914,
+          "id": "hk-1766710757913-30557",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766710757913,
+              "end": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 780
+              },
+              "quote": {
+                "exact": "誠摯邀請AI模型訓練者至語料庫（https://taic.moda.gov.tw）申請，用臺灣的語料，打造理解臺灣的AI！",
+                "prefix": "語料庫內容未來還會持續擴充，從中央機關一路推廣至地方政府及民間機構，讓更多人一起參與，透過公私協力共同促進主權AI發展。",
+                "suffix": "\n\n                \n                        \n                "
+              },
+              "start": {
+                "css": "body.d-flex.flex-column > main.main > div.wrap4.mx-auto:nth-of-type(2) > div.d-flex.twoColConWrap > div.rightMain > div.article1.cpArticle:nth-of-type(4)",
+                "textOffset": 719
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[5]/span[1]/span[1]/text()[2]",
+            "startOffset": 66,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/div[1]/div[4]/p[5]/span[1]/span[1]/text()[1]",
+            "text": "誠摯邀請AI模型訓練者至語料庫（https://taic.moda.gov.tw）申請，用臺灣的語料，打造理解臺灣的AI！"
+          },
+          "text": "誠摯邀請AI模型訓練者至語料庫（https://taic.moda.gov.tw）申請，用臺灣的語料，打造理解臺灣的AI！",
+          "url": "https://moda.gov.tw/press/press-releases/18314"
+        }
+      ]
+    },
+    {
+      "url": "https://read01.com/zh-tw/8z7mkDR.html#.ZBr87-xBwfg",
+      "title": "如何一步一步提高圖像分類準確率？ - 壹讀",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766375988198,
+          "id": "hk-1766375988197-80152",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766375988196,
+              "end": {
+                "css": "div#article > div.bd:nth-of-type(2) > div.content",
+                "textOffset": 2060
+              },
+              "quote": {
+                "exact": "使用數據增強技術（data augmentation），主要是在訓練數據上增加微小的擾動或者變化，一方面可以增加訓練數據，從而提升模型的泛化能力，另一方面可以增加噪聲數據，從而增強模型的魯棒性。",
+                "prefix": "%，也沒有達到很滿意的程度，說明我們對模型需要進行很大的改進，接下來進行漫長的調參之旅吧！\n 三、數據增強有很大的作用\n",
+                "suffix": "主要的數據增強方法有：翻轉變換 flip、隨機修剪（random crop）、色彩抖動（color\njittering）"
+              },
+              "start": {
+                "css": "div#article > div.bd:nth-of-type(2) > div.content",
+                "textOffset": 1963
+              },
+              "version": 1
+            },
+            "endOffset": 70,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[10]/span[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[10]/span[1]/text()[1]",
+            "text": "使用數據增強技術（data augmentation），主要是在訓練數據上增加微小的擾動或者變化，一方面可以增加訓練數據，從而提升模型的泛化能力，另一方面可以增加噪聲數據，從而增強模型的魯棒性。"
+          },
+          "text": "使用數據增強技術（data augmentation），主要是在訓練數據上增加微小的擾動或者變化，一方面可以增加訓練數據，從而提升模型的泛化能力，另一方面可以增加噪聲數據，從而增強模型的魯棒性。",
+          "url": "https://read01.com/zh-tw/8z7mkDR.html#.ZBr87-xBwfg"
+        }
+      ]
+    },
+    {
+      "url": "https://chtseng.wordpress.com/2017/11/11/data-augmentation-%E8%B3%87%E6%96%99%E5%A2%9E%E5%BC%B7/",
+      "title": "Data Augmentation 資料增強 – CH.Tseng",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766375924528,
+          "id": "hk-1766375924527-19379",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766375924525,
+              "end": {
+                "css": "article#post-4674 > div.entry-content:nth-of-type(2)",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": "需要海量的資料以確保訓練時不會產生過度擬合（over-fitting）",
+                "prefix": "頁導航\n\t\t上一個下一步\n\t\t\n\n\t\t\n\t\t\n\t\t\t\t\t\n\t\n\t\n\t\n\t\t        在進行深度學習訓練時，我們經常",
+                "suffix": "的現象，然而在現今數位時代，資料可是驅使AI引擎全力運轉的新石油，每家公司莫不紛求資料若渴，導致大部份有價值的資料都掌握"
+              },
+              "start": {
+                "css": "article#post-4674 > div.entry-content:nth-of-type(2)",
+                "textOffset": 26
+              },
+              "version": 1
+            },
+            "endOffset": 58,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[2]/div[1]/span[1]/text()[1]",
+            "startOffset": 23,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[2]/div[1]/span[1]/text()[1]",
+            "text": "需要海量的資料以確保訓練時不會產生過度擬合（over-fitting）"
+          },
+          "text": "需要海量的資料以確保訓練時不會產生過度擬合（over-fitting）",
+          "url": "https://chtseng.wordpress.com/2017/11/11/data-augmentation-%E8%B3%87%E6%96%99%E5%A2%9E%E5%BC%B7/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766375941689,
+          "id": "hk-1766375941684-48006",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766375941683,
+              "end": {
+                "css": "article#post-4674 > div.entry-content:nth-of-type(2)",
+                "textOffset": 206
+              },
+              "quote": {
+                "exact": "補足資料不足而導致的over-fitting問題",
+                "prefix": "資金雄厚公司或位於相關領域的企業，個人開發者或普通公司很難擁有或者搜集完整需要的資料。因此，一般我們會採取如下的作法，以",
+                "suffix": "：\n\nReview並重新組合或調整model架構。\n將資料進行正規化，如L1/L2 regularization。\n使用"
+              },
+              "start": {
+                "css": "article#post-4674 > div.entry-content:nth-of-type(2)",
+                "textOffset": 182
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[2]/div[1]/span[2]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[2]/div[1]/span[2]/text()[1]",
+            "text": "補足資料不足而導致的over-fitting問題"
+          },
+          "text": "補足資料不足而導致的over-fitting問題",
+          "url": "https://chtseng.wordpress.com/2017/11/11/data-augmentation-%E8%B3%87%E6%96%99%E5%A2%9E%E5%BC%B7/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766375954509,
+          "id": "hk-1766375954507-90128",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766375954507,
+              "end": {
+                "css": "article#post-4674 > div.entry-content:nth-of-type(2)",
+                "textOffset": 467
+              },
+              "quote": {
+                "exact": "創造更多的「假」資料，來彌補我們資料不足的缺憾",
+                "prefix": "ataset，Data augmentation則是從既有的dataset中產生出更多的資料讓系統去學習，說坦白一點，是",
+                "suffix": "。\n        雖然是假的資料，但也是從原始資料內容修改產生的，因此Data augmentation經過證實的確可"
+              },
+              "start": {
+                "css": "article#post-4674 > div.entry-content:nth-of-type(2)",
+                "textOffset": 444
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[1]/span[2]/text()[1]",
+            "startOffset": 137,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[1]/text()[1]",
+            "text": "創造更多的「假」資料，來彌補我們資料不足的缺憾"
+          },
+          "text": "創造更多的「假」資料，來彌補我們資料不足的缺憾",
+          "url": "https://chtseng.wordpress.com/2017/11/11/data-augmentation-%E8%B3%87%E6%96%99%E5%A2%9E%E5%BC%B7/"
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/",
+      "title": "Evaluating chain-of-thought monitorability | OpenAI",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374469951,
+          "id": "hk-1766374469935-37420",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374469934,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 115
+              },
+              "quote": {
+                "exact": "generate an explicit chain-of-thought before producing an answer. ",
+                "prefix": "al outputs.Modern reasoning models, such as GPT‑5 Thinking, ",
+                "suffix": "Monitoring these chains-of-thought for misbehavior can be fa"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 49
+              },
+              "version": 1
+            },
+            "endOffset": 115,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 49,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "text": "generate an explicit chain-of-thought before producing an answer. "
+          },
+          "text": "generate an explicit chain-of-thought before producing an answer. ",
+          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374475696,
+          "id": "hk-1766374475680-70606",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374475680,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 165
+              },
+              "quote": {
+                "exact": " chains-of-thought for misbehavior",
+                "prefix": "hain-of-thought before producing an answer. Monitoring these",
+                "suffix": " can be far more effective⁠ than monitoring a model’s action"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 131
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[2]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/text()[2]",
+            "text": " chains-of-thought for misbehavior"
+          },
+          "text": " chains-of-thought for misbehavior",
+          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/"
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com",
+      "title": "隆重推出gpt-oss |開放人工智慧",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374083466,
+          "id": "hk-1766374083463-96943",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374083462,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 35
+              },
+              "quote": {
+                "exact": "高效的 gpt-oss-120b 和 gpt-oss-20b",
+                "prefix": "-oss-20b推動了開放推理模型領域的邊界技術在抱臉上探索（在新聞中打開）閱讀系統卡（在新聞中打開）共享簡介我們發布了",
+                "suffix": "——兩款性能卓越的輕量級語言模型，可在目前實現下實現強大的實際應用效能。這些模型在靈活的 Apache 2.0 許可下提"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/font[1]/font[1]/text()[1]",
+            "text": "高效的 gpt-oss-120b 和 gpt-oss-20b"
+          },
+          "text": "高效的 gpt-oss-120b 和 gpt-oss-20b",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374095640,
+          "id": "hk-1766374095639-51836",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374095638,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "它們透過開放強化學習與 OpenAI 最先進的內部模型（包括 o3）及其他前沿系統）所授予的技術相結合進行訓練。",
+                "prefix": "許可下提供，與同等規模的開放模型相比，在推理任務中表現更優，論證出強大的工具使用能力，並針對在高端硬體上部署進行了優化。",
+                "suffix": "Gpt-oss-120b 模型在核心推理基準測試中與 OpenAI o4-mini 模型幾乎持平，同時能在單一 80GB"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 151
+              },
+              "version": 1
+            },
+            "endOffset": 172,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/font[1]/font[1]/text()[2]",
+            "startOffset": 116,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/font[1]/font[1]/text()[2]",
+            "text": "它們透過開放強化學習與 OpenAI 最先進的內部模型（包括 o3）及其他前沿系統）所授予的技術相結合進行訓練。"
+          },
+          "text": "它們透過開放強化學習與 OpenAI 最先進的內部模型（包括 o3）及其他前沿系統）所授予的技術相結合進行訓練。",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374337443,
+          "id": "hk-1766374337440-24673",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374337440,
+              "end": {
+                "css": "article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(4) > p.mb-sm.last\\:mb-0 > a.transition.ease-curve-a:nth-of-type(2) > span.sr-only",
+                "textOffset": 8
+              },
+              "quote": {
+                "exact": "它們完全可自訂，提供完整的思維鏈（CoT），並支援格式化輸出⁠（在新聞中打開）",
+                "prefix": "n程式碼執行）以及推理能力－包括根據任務需求調整推理強度的能力，尤其適用於產生複雜推理且/或需要極低延遲最終輸出的任務。",
+                "suffix": "。安全是我們發布所有模型時秉持的核心原則，開放對模型至關重要。除了對模型進行全面的安全訓練和評估之外，我們還透過在我們的"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(4) > p.mb-sm.last\\:mb-0",
+                "textOffset": 134
+              },
+              "version": 1
+            },
+            "endOffset": 0,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[4]/p[1]/span[3]",
+            "startOffset": 110,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[4]/p[1]/span[2]/font[1]/font[1]/text()[1]",
+            "text": "它們完全可自訂，提供完整的思維鏈（CoT），並支援格式化輸出⁠（在新聞中打開）"
+          },
+          "text": "它們完全可自訂，提供完整的思維鏈（CoT），並支援格式化輸出⁠（在新聞中打開）",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374357865,
+          "id": "hk-1766374357863-5401",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374357862,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(9) > p.mb-sm.last\\:mb-0",
+                "textOffset": 54
+              },
+              "quote": {
+                "exact": "每個模型一個都是 Transformer，它利用專家混合（MoE [2]）來減少處理輸入所需的激活參數數量。",
+                "prefix": "per ⁠和CLIP ⁠在內的其他模型，但 gpt-oss 模型是我們自 GPT-2 [1]以來的首個開放語言大型模型。",
+                "suffix": " Gpt-oss-120b 每個代幣啟動 51 億個參數，而 gpt-oss-20b 啟動 36 億個參數。這兩個模型的"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(9) > p.mb-sm.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[9]/p[1]/span[2]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[9]/p[1]/span[1]/font[1]/font[1]/text()[1]",
+            "text": "每個模型一個都是 Transformer，它利用專家混合（MoE [2]）來減少處理輸入所需的激活參數數量。"
+          },
+          "text": "每個模型一個都是 Transformer，它利用專家混合（MoE [2]）來減少處理輸入所需的激活參數數量。",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374367690,
+          "id": "hk-1766374367689-81632",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374367688,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(11) > p.mb-sm.last\\:mb-0",
+                "textOffset": 53
+              },
+              "quote": {
+                "exact": "我們使用了一個高品質、主要為中文的純文字資料集對模型進行了訓練，重點關注STEM、程式設計和通用知識領域。",
+                "prefix": "文長度gpt-oss-120b36117b5.1b1284128kgpt-oss-20b2421b3.6b324128k",
+                "suffix": "我們使用了OpenAI o4-mini和GPT-4o所用令牌化器的超集進行資料令牌化，即'o200k_harmony'，"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(11) > p.mb-sm.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[11]/p[1]/span[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[11]/p[1]/span[1]/font[1]/font[1]/text()[1]",
+            "text": "我們使用了一個高品質、主要為中文的純文字資料集對模型進行了訓練，重點關注STEM、程式設計和通用知識領域。"
+          },
+          "text": "我們使用了一個高品質、主要為中文的純文字資料集對模型進行了訓練，重點關注STEM、程式設計和通用知識領域。",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374385978,
+          "id": "hk-1766374385975-87506",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374385975,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(29) > p.mb-sm.last\\:mb-0 > a.transition.ease-curve-a",
+                "textOffset": 28
+              },
+              "quote": {
+                "exact": "我們的最新研究表明，監控推理模型的 CoT 有助於檢測異常行為",
+                "prefix": "個專家處於活動狀態）。Gpt-oss-120b 能夠透過瀏覽工具聚合最新訊息，包括佇列執行次後續呼叫。思維鏈 (CoT)",
+                "suffix": "，只需該模型在訓練過程中未直接運用針對 CoT 校準監督。這一觀點也得到了業界其他人士的認可⁠（在新聞中打開）自從推出O"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(29) > p.mb-sm.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[29]/p[1]/a[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[29]/p[1]/span[1]/font[1]/font[1]/text()[1]",
+            "text": "我們的最新研究表明，監控推理模型的 CoT 有助於檢測異常行為"
+          },
+          "text": "我們的最新研究表明，監控推理模型的 CoT 有助於檢測異常行為",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766374403656,
+          "id": "hk-1766374403655-49691",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766374403654,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(29) > p.mb-sm.last\\:mb-0",
+                "textOffset": 235
+              },
+              "quote": {
+                "exact": "為開發者和研究人員提供機會，讓他們能夠研究並實現自己的CoT監測系統。",
+                "prefix": "任何直接監督。我們認為，對於這個監測模型的不當行為、欺騙和脅迫。我們的期望是，透過發布一個開放模型並採用非監督式思維鏈，",
+                "suffix": "開發人員不應在應用程式中直接向使用者展示CoT。這些內容可能包含虛構或錯誤訊息，包括不符合OpenAI標準安全政策的語言"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(29) > p.mb-sm.last\\:mb-0",
+                "textOffset": 200
+              },
+              "version": 1
+            },
+            "endOffset": 126,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[29]/p[1]/span[4]/font[1]/font[1]/text()[1]",
+            "startOffset": 91,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[29]/p[1]/span[4]/font[1]/font[1]/text()[1]",
+            "text": "為開發者和研究人員提供機會，讓他們能夠研究並實現自己的CoT監測系統。"
+          },
+          "text": "為開發者和研究人員提供機會，讓他們能夠研究並實現自己的CoT監測系統。",
+          "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-oss/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=openai-s-new-research-paper-is-wild&_bhlid=8de745fb89678b2a5dbeb088ea521592ad416ffd",
+      "title": "Evaluating chain-of-thought monitorability | OpenAI",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766368019015,
+          "id": "hk-1766368018993-10691",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766368018993,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4 > p.mb-sm.last\\:mb-0",
+                "textOffset": 136
+              },
+              "quote": {
+                "exact": " important to understand how those decisions are made",
+                "prefix": "cisions that are difficult to supervise directly, it becomes",
+                "suffix": ". One promising approach is to monitor a model’s internal re"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4 > p.mb-sm.last\\:mb-0",
+                "textOffset": 83
+              },
+              "version": 1
+            },
+            "endOffset": 136,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[1]/p[1]/span[1]/text()[1]",
+            "text": " important to understand how those decisions are made"
+          },
+          "text": " important to understand how those decisions are made",
+          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=openai-s-new-research-paper-is-wild&_bhlid=8de745fb89678b2a5dbeb088ea521592ad416ffd"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766368066612,
+          "id": "hk-1766368066593-49272",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766368066592,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 114
+              },
+              "quote": {
+                "exact": "chain-of-thought before producing an answer.",
+                "prefix": "soning models, such as GPT‑5 Thinking, generate an explicit ",
+                "suffix": " Monitoring these chains-of-thought for misbehavior can be f"
+              },
+              "start": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 70
+              },
+              "version": 1
+            },
+            "endOffset": 114,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 70,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "text": "chain-of-thought before producing an answer."
+          },
+          "text": "chain-of-thought before producing an answer.",
+          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=openai-s-new-research-paper-is-wild&_bhlid=8de745fb89678b2a5dbeb088ea521592ad416ffd"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766368134404,
+          "id": "hk-1766368134385-2637",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766368134384,
+              "end": {
+                "css": "main#main > article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0",
+                "textOffset": 246
+              },
+              "quote": {
+                "exact": "far more effective⁠ than monitoring a model’s actions and outputs alone. ",
+                "prefix": ". Monitoring these chains-of-thought for misbehavior can be ",
+                "suffix": "However, researchers at OpenAI and across the broader indust"
+              },
+              "start": {
+                "css": "article.gap-lg.\\@md\\:gap-xl > div.\\@container.max-w-container:nth-of-type(2) > div.\\@md\\:col-span-6.\\@md\\:col-start-4:nth-of-type(2) > p.mb-sm.last\\:mb-0 > a.transition.ease-curve-a > u.decoration-1.underline-offset-\\[0\\.25rem\\]",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/span[3]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/main[1]/article[1]/div[2]/div[2]/p[1]/a[1]/u[1]/span[1]/text()[1]",
+            "text": "far more effective⁠ than monitoring a model’s actions and outputs alone. "
+          },
+          "text": "far more effective⁠ than monitoring a model’s actions and outputs alone. ",
+          "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability/?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=openai-s-new-research-paper-is-wild&_bhlid=8de745fb89678b2a5dbeb088ea521592ad416ffd"
+        }
+      ]
+    },
+    {
+      "url": "https://vocus.cc/article/644860c9fd897800017b4177",
+      "title": "【AI幫幫忙】機器如何識別我們的特徵？關鍵的Named Entity Recognition（NER）技術",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766367522974,
+          "id": "hk-1766367522973-6546",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766367522972,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-644860c9fd897800017b4177 > p.lexical__paragraph",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "Named Entity Recognition（NER）是一種自然語言處理技術",
+                "prefix": "n人氣格鬥士發佈於 阿Han的軟體技術棧 💡2023/04/27 更新2023/04/26 發佈閱讀 6 分鐘分享段落",
+                "suffix": "，它的目的是識別文本中的具有特定意義的實體（也稱為命名實體）。這些命名實體可以是人名、地名、組織名、日期、時間、數量等等"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-644860c9fd897800017b4177 > p.lexical__paragraph",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[1]",
+            "text": "Named Entity Recognition（NER）是一種自然語言處理技術"
+          },
+          "text": "Named Entity Recognition（NER）是一種自然語言處理技術",
+          "url": "https://vocus.cc/article/644860c9fd897800017b4177"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766367529515,
+          "id": "hk-1766367529514-40711",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766367529514,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-644860c9fd897800017b4177 > p.lexical__paragraph",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": "特定意義的實體",
+                "prefix": "分鐘分享段落Named Entity Recognition（NER）是一種自然語言處理技術，它的目的是識別文本中的具有",
+                "suffix": "（也稱為命名實體）。這些命名實體可以是人名、地名、組織名、日期、時間、數量等等。這項技術可以幫助機器更好地理解文本，提高"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-644860c9fd897800017b4177 > p.lexical__paragraph",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[2]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[1]/span[1]/text()[2]",
+            "text": "特定意義的實體"
+          },
+          "text": "特定意義的實體",
+          "url": "https://vocus.cc/article/644860c9fd897800017b4177"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43",
+      "title": "Named Entity Recognition 命名實體識別. NER又稱作專名識別，是自然語言處理中的一項基礎任務。 | by 陳明佐 | 我就問一句，怎麼寫？ | Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366932374,
+          "id": "hk-1766366932371-67515",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366932369,
+              "end": {
+                "css": "p#\\36 729",
+                "textOffset": 25
+              },
+              "quote": {
+                "exact": "非結構化的輸入文本中抽取出上述實體",
+                "prefix": "實體一般指的是文本中具有特定意義或者指代性強的實體，通常包括人名、地名、組織機構名、日期時間、專有名詞等NER系統就是從",
+                "suffix": "，並且可以按照業務需求識別出更多類別的實體，比如產品名稱、型號、價格等。因此實體這個概念可以很廣，只要是業務需要的特殊文"
+              },
+              "start": {
+                "css": "p#\\36 729",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "非結構化的輸入文本中抽取出上述實體"
+          },
+          "text": "非結構化的輸入文本中抽取出上述實體",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366942666,
+          "id": "hk-1766366942664-18641",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366942663,
+              "end": {
+                "css": "p#\\39 f52",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "NER任務中的常用模型包括生成式模型HMM、判別式模型CRF等。",
+                "prefix": "age in full sizeNER被當作序列標註問題，利用大規模語料來學習出標註模型，從而對句子的各個位置進行標註。",
+                "suffix": "條件隨機場（ConditionalRandom Field，CRF）是NER目前的主流模型。它的目標函數不僅考慮輸入的狀"
+              },
+              "start": {
+                "css": "p#\\39 f52",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[1]",
+            "text": "NER任務中的常用模型包括生成式模型HMM、判別式模型CRF等。"
+          },
+          "text": "NER任務中的常用模型包括生成式模型HMM、判別式模型CRF等。",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366945442,
+          "id": "hk-1766366945440-13411",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366945439,
+              "end": {
+                "css": "p#\\32 17c",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "條件隨機場（ConditionalRandom Field，CRF）是NER目前的主流模型",
+                "prefix": "規模語料來學習出標註模型，從而對句子的各個位置進行標註。NER任務中的常用模型包括生成式模型HMM、判別式模型CRF等。",
+                "suffix": "。它的目標函數不僅考慮輸入的狀態特徵函數，而且還包含了標籤轉移特徵函數。在已知模型時，給輸入序列求預測輸出序列即求使目標"
+              },
+              "start": {
+                "css": "p#\\32 17c",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[22]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[22]/text()[1]",
+            "text": "條件隨機場（ConditionalRandom Field，CRF）是NER目前的主流模型"
+          },
+          "text": "條件隨機場（ConditionalRandom Field，CRF）是NER目前的主流模型",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366954717,
+          "id": "hk-1766366954714-48647",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366954714,
+              "end": {
+                "css": "p#\\30 5ef",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "為一個位置進行標註的過程中可以利用豐富的內部及上下文特徵信息",
+                "prefix": "即求使目標函數最大化的最優序列，是一個動態規劃問題，可以使用Viterbi算法解碼來得到最優標籤序列。CRF的優點在於其",
+                "suffix": "。Press enter or click to view image in full sizeCRF Definiti"
+              },
+              "start": {
+                "css": "p#\\30 5ef",
+                "textOffset": 9
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[1]",
+            "text": "為一個位置進行標註的過程中可以利用豐富的內部及上下文特徵信息"
+          },
+          "text": "為一個位置進行標註的過程中可以利用豐富的內部及上下文特徵信息",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366979770,
+          "id": "hk-1766366979767-18274",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366979767,
+              "end": {
+                "css": "p#\\31 967",
+                "textOffset": 35
+              },
+              "quote": {
+                "exact": "特徵表示（word embedding）",
+                "prefix": "lick to view image in full sizeCRF Definition隨著硬體計算能力的發展以及詞的",
+                "suffix": "的提出，神經網絡可以有效處理許多NLP任務這類方法對於序列標註任務（如CWS、POS、NER）的處理方式是類似的：將to"
+              },
+              "start": {
+                "css": "p#\\31 967",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[26]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[26]/text()[1]",
+            "text": "特徵表示（word embedding）"
+          },
+          "text": "特徵表示（word embedding）",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366985290,
+          "id": "hk-1766366985287-4491",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366985287,
+              "end": {
+                "css": "p#\\39 9b4",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "序列標註任務（如CWS、POS、NER）",
+                "prefix": "硬體計算能力的發展以及詞的特徵表示（word embedding）的提出，神經網絡可以有效處理許多NLP任務這類方法對於",
+                "suffix": "的處理方式是類似的：將token從離散one-hot表示映射到低維空間中成為稠密的embedding，隨後將句子的emb"
+              },
+              "start": {
+                "css": "p#\\39 9b4",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[27]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[27]/text()[1]",
+            "text": "序列標註任務（如CWS、POS、NER）"
+          },
+          "text": "序列標註任務（如CWS、POS、NER）",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366992267,
+          "id": "hk-1766366992264-48557",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366992264,
+              "end": {
+                "css": "p#e32b",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "映射到低維空間中",
+                "prefix": "多NLP任務這類方法對於序列標註任務（如CWS、POS、NER）的處理方式是類似的：將token從離散one-hot表示",
+                "suffix": "成為稠密的embedding，隨後將句子的embedding序列輸入到RNN中，用神經網絡自動提取特徵，Softmax來"
+              },
+              "start": {
+                "css": "p#e32b",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[1]",
+            "text": "映射到低維空間中"
+          },
+          "text": "映射到低維空間中",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366994026,
+          "id": "hk-1766366994024-68381",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366994023,
+              "end": {
+                "css": "p#e32b",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "embedding",
+                "prefix": "列標註任務（如CWS、POS、NER）的處理方式是類似的：將token從離散one-hot表示映射到低維空間中成為稠密的",
+                "suffix": "，隨後將句子的embedding序列輸入到RNN中，用神經網絡自動提取特徵，Softmax來預測每個token的標籤Ge"
+              },
+              "start": {
+                "css": "p#e32b",
+                "textOffset": 31
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[2]",
+            "text": "embedding"
+          },
+          "text": "embedding",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366997098,
+          "id": "hk-1766366997095-705",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366997095,
+              "end": {
+                "css": "p#e32b",
+                "textOffset": 65
+              },
+              "quote": {
+                "exact": "輸入到RNN中",
+                "prefix": "的：將token從離散one-hot表示映射到低維空間中成為稠密的embedding，隨後將句子的embedding序列",
+                "suffix": "，用神經網絡自動提取特徵，Softmax來預測每個token的標籤Get 陳明佐’s stories in your i"
+              },
+              "start": {
+                "css": "p#e32b",
+                "textOffset": 58
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[3]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[3]",
+            "text": "輸入到RNN中"
+          },
+          "text": "輸入到RNN中",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766367001378,
+          "id": "hk-1766367001375-76051",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766367001375,
+              "end": {
+                "css": "p#e32b",
+                "textOffset": 98
+              },
+              "quote": {
+                "exact": "Softmax來預測每個token的標籤",
+                "prefix": "映射到低維空間中成為稠密的embedding，隨後將句子的embedding序列輸入到RNN中，用神經網絡自動提取特徵，",
+                "suffix": "Get 陳明佐’s stories in your inboxJoin Medium for free to get u"
+              },
+              "start": {
+                "css": "p#e32b",
+                "textOffset": 78
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[4]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[28]/text()[4]",
+            "text": "Softmax來預測每個token的標籤"
+          },
+          "text": "Softmax來預測每個token的標籤",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766367005538,
+          "id": "hk-1766367005535-68542",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766367005535,
+              "end": {
+                "css": "p#ff44",
+                "textOffset": 18
+              },
+              "quote": {
+                "exact": "端到端",
+                "prefix": "t updates from this writer.SubscribeSubscribe這種方法使得模型的訓練成為一個",
+                "suffix": "的過程，而非傳統的pipeline，不依賴於特徵工程，是一種數據驅動的方法，但網絡種類繁多、對參數設置依賴大，模型可解釋"
+              },
+              "start": {
+                "css": "p#ff44",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[29]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[29]/text()[1]",
+            "text": "端到端"
+          },
+          "text": "端到端",
+          "url": "https://medium.com/%E6%88%91%E5%B0%B1%E5%95%8F%E4%B8%80%E5%8F%A5-%E6%80%8E%E9%BA%BC%E5%AF%AB/named-entity-recognition-%E5%91%BD%E5%90%8D%E5%AF%A6%E9%AB%94%E8%AD%98%E5%88%A5-309e97823a43"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10321744",
+      "title": "Day 3 - NER (命名實體識別)是什麼？ - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366857943,
+          "id": "hk-1766366857940-57279",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366857936,
+              "end": {
+                "css": "div.col-md-12.clearfix > div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-header > h2.qa-header__title.ir-article__title",
+                "textOffset": 72
+              },
+              "quote": {
+                "exact": "NER (命名實體識別)是什麼",
+                "prefix": "   \n                                                Day 3 - ",
+                "suffix": "？\n                    \n\n                    \n               "
+              },
+              "start": {
+                "css": "div.col-md-12.clearfix > div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-header > h2.qa-header__title.ir-article__title",
+                "textOffset": 57
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/text()[1]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/h2[1]/text()[1]",
+            "text": "NER (命名實體識別)是什麼"
+          },
+          "text": "NER (命名實體識別)是什麼",
+          "url": "https://ithelp.ithome.com.tw/articles/10321744"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366893097,
+          "id": "hk-1766366893096-26696",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366893095,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 162
+              },
+              "quote": {
+                "exact": "文本中具有特定意義或者指代性強的實體",
+                "prefix": "NLP 的子任務 Named Entity Recognition (NER) 中文是命名實體識別。\n命名實體一般指的是",
+                "suffix": "，通常包括人名、地名、組織機構名、日期時間、專有名詞\n它的目標是從非結構化的文本中識別這些具有特定意義的命名實體，並且可"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 144
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "文本中具有特定意義或者指代性強的實體"
+          },
+          "text": "文本中具有特定意義或者指代性強的實體",
+          "url": "https://ithelp.ithome.com.tw/articles/10321744"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366895498,
+          "id": "hk-1766366895496-71435",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366895495,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 188
+              },
+              "quote": {
+                "exact": "人名、地名、組織機構名、日期時間、專有名詞",
+                "prefix": "ecognition (NER) 中文是命名實體識別。\n命名實體一般指的是文本中具有特定意義或者指代性強的實體，通常包括",
+                "suffix": "\n它的目標是從非結構化的文本中識別這些具有特定意義的命名實體，並且可以按照不同需求定義不同類別的實體，像是這次實習時所做"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 167
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "人名、地名、組織機構名、日期時間、專有名詞"
+          },
+          "text": "人名、地名、組織機構名、日期時間、專有名詞",
+          "url": "https://ithelp.ithome.com.tw/articles/10321744"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766366897698,
+          "id": "hk-1766366897695-93650",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366897695,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "命名實體",
+                "prefix": "要進入這次的重點 NLP 的子任務 Named Entity Recognition (NER) 中文是命名實體識別。\n",
+                "suffix": "一般指的是文本中具有特定意義或者指代性強的實體，通常包括人名、地名、組織機構名、日期時間、專有名詞\n它的目標是從非結構化"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 135
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "命名實體"
+          },
+          "text": "命名實體",
+          "url": "https://ithelp.ithome.com.tw/articles/10321744"
+        }
+      ]
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-ocr-3?utm_source=chatgpt.com",
+      "title": "Introducing Mistral OCR 3 | Mistral AI",
+      "entries": [
+        {
+          "color": "#fff5d1",
+          "createdAt": 1766366110956,
+          "id": "hk-1766366110955-78083",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366110953,
+              "end": {
+                "css": "main.dark\\:bg-background.dark\\:text-white > main > article.relative > div.container.py-8 > div.col-span-6 > div.blog-rich-text.relative",
+                "textOffset": 6185
+              },
+              "quote": {
+                "exact": "Handwriting",
+                "prefix": "OCR 解決方案專注於特定文件類型，Mistral OCR 3 則設計為能在組織及日常環境中處理絕大多數文件類型。\n\n\n",
+                "suffix": ": Mistral OCR accurately interprets cursive, mixed-content a"
+              },
+              "start": {
+                "css": "main.dark\\:bg-background.dark\\:text-white > main > article.relative > div.container.py-8 > div.col-span-6 > div.blog-rich-text.relative",
+                "textOffset": 6174
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/main[1]/main[1]/article[1]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/main[1]/article[1]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/text()[1]",
+            "text": "Handwriting"
+          },
+          "text": "Handwriting",
+          "url": "https://mistral.ai/news/mistral-ocr-3?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#fff5d1",
+          "createdAt": 1766366454171,
+          "id": "hk-1766366454169-94557",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366454167,
+              "end": {
+                "css": "main.dark\\:bg-background.dark\\:text-white > main > article.relative > div.container.py-8 > div.col-span-6 > div.blog-rich-text.relative",
+                "textOffset": 7646
+              },
+              "quote": {
+                "exact": "End-to-end document understanding pipelines",
+                "prefix": " forms, invoices, and operational documents自動解析表單、發票及作業文件\n\n\n",
+                "suffix": "端對端文件理解流程\n\n\nDigitization of handwritten or historical docume"
+              },
+              "start": {
+                "css": "main.dark\\:bg-background.dark\\:text-white > main > article.relative > div.container.py-8 > div.col-span-6 > div.blog-rich-text.relative",
+                "textOffset": 7603
+              },
+              "version": 1
+            },
+            "endOffset": 0,
+            "endXPath": "/html[1]/body[1]/main[1]/main[1]/article[1]/div[1]/div[1]/div[1]/ul[3]/li[3]/p[1]/xt-dual[1]/xt-br[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/main[1]/article[1]/div[1]/div[1]/div[1]/ul[3]/li[3]/p[1]/text()[1]",
+            "text": "End-to-end document understanding pipelines"
+          },
+          "text": "End-to-end document understanding pipelines",
+          "url": "https://mistral.ai/news/mistral-ocr-3?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#fff5d1",
+          "createdAt": 1766366463031,
+          "id": "hk-1766366463030-79127",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766366463029,
+              "end": {
+                "css": "main.dark\\:bg-background.dark\\:text-white > main > article.relative > div.container.py-8 > div.col-span-6 > div.blog-rich-text.relative",
+                "textOffset": 8656
+              },
+              "quote": {
+                "exact": "Access the model either through the API or via the new Document AI Playground interface, ",
+                "prefix": "影像的組織，將釋放價值，並透過提供更豐富的上下文，從資料中獲得競爭優勢。」\n\nAvailable today 現今可購\n",
+                "suffix": "both in Mistral AI Studio. Mistral OCR 3 is fully backward c"
+              },
+              "start": {
+                "css": "main.dark\\:bg-background.dark\\:text-white > main > article.relative > div.container.py-8 > div.col-span-6 > div.blog-rich-text.relative",
+                "textOffset": 8567
+              },
+              "version": 1
+            },
+            "endOffset": 89,
+            "endXPath": "/html[1]/body[1]/main[1]/main[1]/article[1]/div[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/main[1]/article[1]/div[1]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "Access the model either through the API or via the new Document AI Playground interface, "
+          },
+          "text": "Access the model either through the API or via the new Document AI Playground interface, ",
+          "url": "https://mistral.ai/news/mistral-ocr-3?utm_source=chatgpt.com"
+        }
+      ]
+    },
     {
       "url": "https://vocus.cc/article/6831935dfd897800010cf353",
       "title": "梯度爆炸(Exploding Gradients)",
@@ -7496,8 +9946,13 @@
       ]
     },
     {
-      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
-      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
+      "url": "https://chatgpt.com/",
+      "title": "ChatGPT",
+      "entries": []
+    },
+    {
+      "url": "https://mail.google.com/mail/u/0/?pli=1",
+      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
       "entries": []
     }
   ]
