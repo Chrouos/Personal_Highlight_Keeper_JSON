@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1766981327758,
+  "exportedAt": 1767103049558,
   "pages": [
     {
       "url": "https://ywctech.net/ml-ai/what-is-bm25/",
@@ -1248,6 +1248,248 @@
       ]
     },
     {
+      "url": "https://www.devops.com.tw/post/gitlab-what-is-gitlab",
+      "title": "GitLab l 什麼是 GitLab？帶你認識如何提升開發與部署效率",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1766496949996,
+          "id": "hk-1766496949995-1052",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766496949994,
+              "end": {
+                "css": "p#viewer-nic17432 > span.I47Iv",
+                "textOffset": 57
+              },
+              "quote": {
+                "exact": "完整的 DevSecOps 平台，提供從代碼管理、CI/CD、到負載測試和問題追蹤的完整工具鏈",
+                "prefix": "的方式應用於基礎架構管理，實現自動化與一致性，後來推廣至更多系統，並得到廣泛關注。GitLab 介紹GitLab 是一個",
+                "suffix": "，並與 Jira、Slack、Jenkins 等多種第三方工具整合，為團隊提供一個功能全面的工作區。另外在程式碼安全性方"
+              },
+              "start": {
+                "css": "p#viewer-nic17432 > span.I47Iv",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[19]/p[1]/span[1]/span[1]/span[1]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[19]/p[1]/span[1]/span[1]/span[1]/text()[1]",
+            "text": "完整的 DevSecOps 平台，提供從代碼管理、CI/CD、到負載測試和問題追蹤的完整工具鏈"
+          },
+          "text": "完整的 DevSecOps 平台，提供從代碼管理、CI/CD、到負載測試和問題追蹤的完整工具鏈",
+          "url": "https://www.devops.com.tw/post/gitlab-what-is-gitlab"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1766496956700,
+          "id": "hk-1766496956698-43057",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766496956698,
+              "end": {
+                "css": "p#viewer-xgrz7439 > span.I47Iv",
+                "textOffset": 181
+              },
+              "quote": {
+                "exact": "透過合併請求和 CI/CD Pipeline 進行審查、測試和自動佈署，確保系統安全、一致並符合規定",
+                "prefix": "化流程至關重要。GitOps強調“基礎架構轉化為程式碼”，所有基礎設施和應用配置都儲存在 GitLab 的版本控制系統，",
+                "suffix": "。GitLab 完整的 DevSecOps 工具鏈和自動化能力，使其成為 GitOps 實踐的理想平台，提供高效且安全的"
+              },
+              "start": {
+                "css": "p#viewer-xgrz7439 > span.I47Iv",
+                "textOffset": 131
+              },
+              "version": 1
+            },
+            "endOffset": 152,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[23]/p[1]/span[1]/span[1]/span[1]/text()[3]",
+            "startOffset": 102,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[3]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[23]/p[1]/span[1]/span[1]/span[1]/text()[3]",
+            "text": "透過合併請求和 CI/CD Pipeline 進行審查、測試和自動佈署，確保系統安全、一致並符合規定"
+          },
+          "text": "透過合併請求和 CI/CD Pipeline 進行審查、測試和自動佈署，確保系統安全、一致並符合規定",
+          "url": "https://www.devops.com.tw/post/gitlab-what-is-gitlab"
+        }
+      ]
+    },
+    {
+      "url": "https://hackmd.io/@merano5342/BJrHniUaT?utm_source=chatgpt.com",
+      "title": "GitLab 簡介 - HackMD",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1766496904933,
+          "id": "hk-1766496904931-12925",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766496904930,
+              "end": {
+                "css": "div#doc-body > p.part.in-view",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "DevOps 生命週期工具",
+                "prefix": "tart a discussion.DiscardSendGitLabGitLab 簡介GitLab 是一個基於網路的 ",
+                "suffix": "，它提供了一個 Git-repository 管理器提供 wiki、議題跟蹤、持續集成和持續部署管道等功能。GitLab"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view",
+                "textOffset": 16
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[1]/span[1]/text()[1]",
+            "text": "DevOps 生命週期工具"
+          },
+          "text": "DevOps 生命週期工具",
+          "url": "https://hackmd.io/@merano5342/BJrHniUaT?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1766496910162,
+          "id": "hk-1766496910161-15112",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766496910161,
+              "end": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(2)",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "版本控制系統",
+                "prefix": "議題跟蹤、持續集成和持續部署管道等功能。GitLab 的主要特點包括：版本控制：GitLab 提供了一個基於 Git 的",
+                "suffix": "，讓開發者可以輕鬆地追蹤和管理代碼變更。持續集成/持續部署 (CI/CD)：GitLab 內建了 CI/CD 功能，讓開"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(2)",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[2]/span[1]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[2]/span[1]/text()[1]",
+            "text": "版本控制系統"
+          },
+          "text": "版本控制系統",
+          "url": "https://hackmd.io/@merano5342/BJrHniUaT?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1766496913103,
+          "id": "hk-1766496913102-67166",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766496913102,
+              "end": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(3)",
+                "textOffset": 17
+              },
+              "quote": {
+                "exact": "CI/CD)",
+                "prefix": "控制：GitLab 提供了一個基於 Git 的版本控制系統，讓開發者可以輕鬆地追蹤和管理代碼變更。持續集成/持續部署 (",
+                "suffix": "：GitLab 內建了 CI/CD 功能，讓開發者可以自動化測試和部署他們的應用程式。議題跟蹤：GitLab 提供了一個"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(3)",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[3]/strong[1]/span[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[3]/strong[1]/span[1]/text()[1]",
+            "text": "CI/CD)"
+          },
+          "text": "CI/CD)",
+          "url": "https://hackmd.io/@merano5342/BJrHniUaT?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1766496919578,
+          "id": "hk-1766496919577-75953",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766496919577,
+              "end": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(5)",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "wiki 系統和文件管理功能",
+                "prefix": " 提供了一個議題跟蹤系統，讓開發者可以追蹤和管理軟體開發過程中的問題和任務。Wiki 和文件：GitLab 提供了一個 ",
+                "suffix": "，讓開發者可以輕鬆地創建和管理專案的文件和說明。自託管選項：GitLab 提供了自託管的選項，這意味著你可以在自己的服務"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(5)",
+                "textOffset": 22
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[5]/span[1]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[5]/span[1]/text()[1]",
+            "text": "wiki 系統和文件管理功能"
+          },
+          "text": "wiki 系統和文件管理功能",
+          "url": "https://hackmd.io/@merano5342/BJrHniUaT?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://www.extremedata.com.tw/gitlab/",
+      "title": "GitLab台灣代理商 | 一套足以完成整個DevOps生命週期的軟體",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1766417685026,
+          "id": "hk-1766417685024-28605",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766417685022,
+              "end": {
+                "css": "div#b10458 > section.landing-block.g-pt-30 > div.container > div.row.landing-block-inner > div.landing-block-card.js-animation > div.landing-block-node-text.g-font-size-20:nth-of-type(2)",
+                "textOffset": 25
+              },
+              "quote": {
+                "exact": "GitLab 是一個功能強大的 DevOps 平台",
+                "prefix": "\t\n\t\t\t\t\t\n\t\t\t\n\t\t\n\n\n\t\n\t\t\n\t\t\t\t\n\t\t\t\t\t \n\t\t\t\t\tWhy GitLab？\n\t\t\t\t\n\t\t\t\t",
+                "suffix": "，整合了軟體開發和運維所需的各種工具，讓開發團隊能夠在同一個平台上完成從版本控制、持續整合（CI）、到持續交付（CD）等"
+              },
+              "start": {
+                "css": "div#b10458 > section.landing-block.g-pt-30 > div.container > div.row.landing-block-inner > div.landing-block-card.js-animation > div.landing-block-node-text.g-font-size-20:nth-of-type(2)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[3]/section[1]/div[1]/div[1]/div[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[3]/section[1]/div[1]/div[1]/div[1]/div[2]/p[1]/text()[1]",
+            "text": "GitLab 是一個功能強大的 DevOps 平台"
+          },
+          "text": "GitLab 是一個功能強大的 DevOps 平台",
+          "url": "https://www.extremedata.com.tw/gitlab/"
+        }
+      ]
+    },
+    {
       "url": "https://read01.com/zh-tw/8z7mkDR.html#.ZBr87-xBwfg",
       "title": "如何一步一步提高圖像分類準確率？ - 壹讀",
       "entries": [
@@ -2450,6 +2692,318 @@
           },
           "text": "Access the model either through the API or via the new Document AI Playground interface, ",
           "url": "https://mistral.ai/news/mistral-ocr-3?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/@hupinwei/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E4%BB%80%E9%BA%BC%E6%98%AFglobal-average-pooling-a48bffb8e0e0",
+      "title": "(機器學習)什麼是Global Average Pooling?. Global Average… | by Ben Hu | Medium",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766132299372,
+          "id": "hk-1766132299371-55852",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766132299369,
+              "end": {
+                "css": "p#\\34 37a",
+                "textOffset": 22
+              },
+              "quote": {
+                "exact": "Global Average Pooling",
+                "prefix": "l Average Pooling?Ben HuFollow2 min read·Jan 31, 202035Share",
+                "suffix": "，簡稱GAP，簡單說，就是卷積層後，一種可以取代全連接層（FC）的作法。Press enter or click to "
+              },
+              "start": {
+                "css": "p#\\34 37a",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Global Average Pooling"
+          },
+          "text": "Global Average Pooling",
+          "url": "https://medium.com/@hupinwei/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E4%BB%80%E9%BA%BC%E6%98%AFglobal-average-pooling-a48bffb8e0e0"
+        }
+      ]
+    },
+    {
+      "url": "https://hackmd.io/@YungHuiHsu/BJgnMHbUH6",
+      "title": "[RL] Q learning 與 Deep Q Network(DQN) - HackMD",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766069381637,
+          "id": "hk-1766069381636-65722",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766069381636,
+              "end": {
+                "css": "div#doc-body > div.alert.alert-info:nth-of-type(3)",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "通過使用深度學習來解決傳統Q Learning在面對大型或高維度狀態空間時Q值表格過大的問題",
+                "prefix": "利用其已經學到的知識來做出最佳決策。這是強化學習中常用的一種策略。\n\n\nDeep Q Network (DQN)\nDQN",
+                "suffix": "。在DQN中，深度神經網絡（例如多層感知器，MLP）接受環境的狀態作為輸入，並直接輸出該狀態下每個可能行動的Q值。選擇最"
+              },
+              "start": {
+                "css": "div#doc-body > div.alert.alert-info:nth-of-type(3)",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "通過使用深度學習來解決傳統Q Learning在面對大型或高維度狀態空間時Q值表格過大的問題"
+          },
+          "text": "通過使用深度學習來解決傳統Q Learning在面對大型或高維度狀態空間時Q值表格過大的問題",
+          "url": "https://hackmd.io/@YungHuiHsu/BJgnMHbUH6"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766070343138,
+          "id": "hk-1766070343137-53126",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766070343136,
+              "end": {
+                "css": "div#doc-body > div.alert.alert-info",
+                "textOffset": 125
+              },
+              "quote": {
+                "exact": "這個選擇是基於一個叫做\"Q值\"的獎勵，它代表在某個特定狀態下採取某個行動可能得到的獎勵。演算法的目標是最大化整體獎勵(Q值)，進而學習最佳行動策略。",
+                "prefix": " Learning\n引導機器學習著如何根據當前的狀態（例如在迷宮的哪個位置）來選擇最佳的行動（例如向左、向右、向前走）。",
+                "suffix": "\nQ Learning是一種基於價值的強化學習方法，其核心是學習一個價值函數Q(s,a)，代表在狀態s下執行行動a所期望"
+              },
+              "start": {
+                "css": "div#doc-body > div.alert.alert-info",
+                "textOffset": 51
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/p[1]/span[3]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/p[1]/span[2]/text()[1]",
+            "text": "這個選擇是基於一個叫做\"Q值\"的獎勵，它代表在某個特定狀態下採取某個行動可能得到的獎勵。演算法的目標是最大化整體獎勵(Q值)，進而學習最佳行動策略。"
+          },
+          "text": "這個選擇是基於一個叫做\"Q值\"的獎勵，它代表在某個特定狀態下採取某個行動可能得到的獎勵。演算法的目標是最大化整體獎勵(Q值)，進而學習最佳行動策略。",
+          "url": "https://hackmd.io/@YungHuiHsu/BJgnMHbUH6"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766070355368,
+          "id": "hk-1766070355366-54671",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766070355366,
+              "end": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(7)",
+                "textOffset": 37
+              },
+              "quote": {
+                "exact": "DQN的關鍵創新之一是引入了經驗重放（experience replay）",
+                "prefix": "裡，Q函數不再是一個簡單的表格，而是通過一個深度神經網絡來逼近。神經網絡的輸入是環境的狀態s，輸出是所有可能行動的Q值。",
+                "suffix": "。這意味著在訓練過程中，我們不是直接使用當前的經驗來更新網絡，而是將這些經驗存儲在一個記憶庫中，並隨機抽取之前的經驗來進"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(7)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[7]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/p[7]/span[1]/text()[1]",
+            "text": "DQN的關鍵創新之一是引入了經驗重放（experience replay）"
+          },
+          "text": "DQN的關鍵創新之一是引入了經驗重放（experience replay）",
+          "url": "https://hackmd.io/@YungHuiHsu/BJgnMHbUH6"
+        }
+      ]
+    },
+    {
+      "url": "https://www.techbang.com/posts/127001-google-gemini-3-flash-faster-smarter-ai-assistant",
+      "title": "Google 推出 Gemini 3 Flash：主打更快、更聰明，MMMU Pro 表現與 Gemini 3 Pro 相當 | T客邦",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766067999006,
+          "id": "hk-1766067999004-70166",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766067999003,
+              "end": {
+                "css": "div#article-content",
+                "textOffset": 861
+              },
+              "quote": {
+                "exact": "是一項用來衡量 AI 是否具備「跨領域、多模態理解能力」的重要基準測試，題目涵蓋科學、工程、醫學與人文等多個學科，並結合文字、圖表與圖片等不同形式的資訊。",
+                "prefix": "\nMMMU Pro（Massive Multi-discipline Multimodal Understanding）",
+                "suffix": "AI 不僅需要理解內容本身，還必須進行推理與整合，因此被視為檢驗 AI 類人理解能力的關鍵指標之一。\n除了在基準測試中的"
+              },
+              "start": {
+                "css": "div#article-content",
+                "textOffset": 784
+              },
+              "version": 1
+            },
+            "endOffset": 136,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[2]/article[1]/section[1]/div[2]/p[4]/text()[1]",
+            "startOffset": 59,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[1]/div[2]/article[1]/section[1]/div[2]/p[4]/text()[1]",
+            "text": "是一項用來衡量 AI 是否具備「跨領域、多模態理解能力」的重要基準測試，題目涵蓋科學、工程、醫學與人文等多個學科，並結合文字、圖表與圖片等不同形式的資訊。"
+          },
+          "text": "是一項用來衡量 AI 是否具備「跨領域、多模態理解能力」的重要基準測試，題目涵蓋科學、工程、醫學與人文等多個學科，並結合文字、圖表與圖片等不同形式的資訊。",
+          "url": "https://www.techbang.com/posts/127001-google-gemini-3-flash-faster-smarter-ai-assistant"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D6897CD000000296375706F795F72656C656173655155455354",
+      "title": "【QA】什麼是強化學習中的Ｑ learning演算法? - Cupoy",
+      "entries": [
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766050047434,
+          "id": "hk-1766050047433-19340",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766050047432,
+              "end": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 64
+              },
+              "quote": {
+                "exact": "Ｑ-learning 是強化學習的一種方法",
+                "prefix": "・2021/09/22 20:18\n            \n        \nWhat is Q-learning ?",
+                "suffix": "，主要是透過記錄學習過的策略，來告訴智能體(Agent)，什麼情況下要對應採取什麼行動(Action)會得到最大的講獎勵"
+              },
+              "start": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 43
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "text": "Ｑ-learning 是強化學習的一種方法"
+          },
+          "text": "Ｑ-learning 是強化學習的一種方法",
+          "url": "https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D6897CD000000296375706F795F72656C656173655155455354"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766050055938,
+          "id": "hk-1766050055936-32410",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766050055936,
+              "end": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 132
+              },
+              "quote": {
+                "exact": "對應採取什麼行動(Action)會得到最大的講獎勵（Reward）",
+                "prefix": "ng ?Ｑ-learning 是強化學習的一種方法，主要是透過記錄學習過的策略，來告訴智能體(Agent)，什麼情況下要",
+                "suffix": "。Q-learning 最基本的應用方式，就是將對應行動的獎勵值存在一個Ｑ表中（Q-table）。\n\n（但這種方式受限於"
+              },
+              "start": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 99
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[3]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[3]",
+            "text": "對應採取什麼行動(Action)會得到最大的講獎勵（Reward）"
+          },
+          "text": "對應採取什麼行動(Action)會得到最大的講獎勵（Reward）",
+          "url": "https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D6897CD000000296375706F795F72656C656173655155455354"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766050060344,
+          "id": "hk-1766050060343-78475",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766050060342,
+              "end": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 180
+              },
+              "quote": {
+                "exact": "對應行動的獎勵值存在一個Ｑ表中（Q-table）",
+                "prefix": "況下要對應採取什麼行動(Action)會得到最大的講獎勵（Reward）。Q-learning 最基本的應用方式，就是將",
+                "suffix": "。\n\n（但這種方式受限於狀態與動作的數目，不適用於連續的動作中）\n\n\nQ-table \n\nQ-table 簡單來說就是一"
+              },
+              "start": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 156
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[4]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/text()[4]",
+            "text": "對應行動的獎勵值存在一個Ｑ表中（Q-table）"
+          },
+          "text": "對應行動的獎勵值存在一個Ｑ表中（Q-table）",
+          "url": "https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D6897CD000000296375706F795F72656C656173655155455354"
+        },
+        {
+          "color": "#fff5c2",
+          "createdAt": 1766050149356,
+          "id": "hk-1766050149355-84052",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766050149355,
+              "end": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 244
+              },
+              "quote": {
+                "exact": "就是一個查詢表",
+                "prefix": "le）。\n\n（但這種方式受限於狀態與動作的數目，不適用於連續的動作中）\n\n\nQ-table \n\nQ-table 簡單來說",
+                "suffix": "，用來計算某狀態下做某行為後未來可以期望得到最大的Reward為多少。這個表可以以倒我們選出每個狀態(state)下，最"
+              },
+              "start": {
+                "css": "div#cupoymd-17660500265959083",
+                "textOffset": 237
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "就是一個查詢表"
+          },
+          "text": "就是一個查詢表",
+          "url": "https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000017C0D6897CD000000296375706F795F72656C656173655155455354"
         }
       ]
     },
@@ -9946,13 +10500,13 @@
       ]
     },
     {
-      "url": "https://chatgpt.com/",
-      "title": "ChatGPT",
+      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
+      "title": "General",
       "entries": []
     },
     {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
+      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
+      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
       "entries": []
     }
   ]
