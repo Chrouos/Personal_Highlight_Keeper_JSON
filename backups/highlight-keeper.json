@@ -1,8 +1,850 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767103049558,
+  "exportedAt": 1767162953413,
   "pages": [
+    {
+      "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5",
+      "title": "[讀書筆記] 淺談 AUROC 與 AUPR - Morris Tseng - Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162706173,
+          "id": "hk-1767162706170-85582",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162706169,
+              "end": {
+                "css": "p#\\37 3ef",
+                "textOffset": 196
+              },
+              "quote": {
+                "exact": "過於注重學習過的資料使得預測未知的結果變得更差，我們將其稱為過度訓練或是過擬合 (Overfitting)。",
+                "prefix": "診斷力嚴重下降。這個現象就像是太多資訊使得機器在模型中迷了路，這個複雜的結構破壞了模型對於一般資料的診斷力，換句話說就是",
+                "suffix": "反之，過於簡單的模型沒有很好的捕捉到數據的特徵，缺乏對於影像的識別能力,我們將其稱為欠擬合 (Underfitting)"
+              },
+              "start": {
+                "css": "p#\\37 3ef",
+                "textOffset": 142
+              },
+              "version": 1
+            },
+            "endOffset": 196,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 142,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "過於注重學習過的資料使得預測未知的結果變得更差，我們將其稱為過度訓練或是過擬合 (Overfitting)。"
+          },
+          "text": "過於注重學習過的資料使得預測未知的結果變得更差，我們將其稱為過度訓練或是過擬合 (Overfitting)。",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767162711888,
+          "id": "hk-1767162711887-10663",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162711887,
+              "end": {
+                "css": "p#\\37 3ef",
+                "textOffset": 257
+              },
+              "quote": {
+                "exact": "過於簡單的模型沒有很好的捕捉到數據的特徵，缺乏對於影像的識別能力,我們將其稱為欠擬合 (Underfitting)。",
+                "prefix": "說就是過於注重學習過的資料使得預測未知的結果變得更差，我們將其稱為過度訓練或是過擬合 (Overfitting)。反之，",
+                "suffix": "因此診斷力的測試與優化，在設計模型中是一門重要的學問，透過不斷的測試與優化設計出複雜度適中的模型，建立模型對於一般性資料"
+              },
+              "start": {
+                "css": "p#\\37 3ef",
+                "textOffset": 199
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "過於簡單的模型沒有很好的捕捉到數據的特徵，缺乏對於影像的識別能力,我們將其稱為欠擬合 (Underfitting)。"
+          },
+          "text": "過於簡單的模型沒有很好的捕捉到數據的特徵，缺乏對於影像的識別能力,我們將其稱為欠擬合 (Underfitting)。",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162739698,
+          "id": "hk-1767162739697-71116",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162739696,
+              "end": {
+                "css": "p#\\31 89b",
+                "textOffset": 109
+              },
+              "quote": {
+                "exact": "混淆矩陣 (Confusion matrix) 及接收者操作特徵曲線(Receiver operator characteristic curve, ROC curve)",
+                "prefix": "以此篇主要是要淺談 AUPR及AUROC 分別代表甚麼? 是從何處得來?在講到這兩個名詞分別代表甚麼之前，主要需要先談到",
+                "suffix": "，此兩項都是常被用來評估我們模型好壞的工具。(一) 混淆矩陣 (Confusion matrix)Press enter"
+              },
+              "start": {
+                "css": "p#\\31 89b",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "混淆矩陣 (Confusion matrix) 及接收者操作特徵曲線(Receiver operator characteristic curve, ROC curve)"
+          },
+          "text": "混淆矩陣 (Confusion matrix) 及接收者操作特徵曲線(Receiver operator characteristic curve, ROC curve)",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162781604,
+          "id": "hk-1767162781603-94645",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162781603,
+              "end": {
+                "css": "p#fa5d",
+                "textOffset": 49
+              },
+              "quote": {
+                "exact": "真實類別 (Actual Class) ",
+                "prefix": "cc.idv.tw/confusion-matrix.html圖1.2為混淆矩陣，則解讀方式可以先看到上方橫坐標的地方為",
+                "suffix": "再看到左側縱坐標為預測類別 (Predicted class)，接著將其分別定義為:(1) 真陽率 (True Posi"
+              },
+              "start": {
+                "css": "p#fa5d",
+                "textOffset": 29
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "真實類別 (Actual Class) "
+          },
+          "text": "真實類別 (Actual Class) ",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162783659,
+          "id": "hk-1767162783658-18735",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162783658,
+              "end": {
+                "css": "p#fa5d",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "預測類別 (Predicted class)",
+                "prefix": "ml圖1.2為混淆矩陣，則解讀方式可以先看到上方橫坐標的地方為真實類別 (Actual Class) 再看到左側縱坐標為",
+                "suffix": "，接著將其分別定義為:(1) 真陽率 (True Positive, TP): 實際類別為陽性，而預測類別也為陽性。(2"
+              },
+              "start": {
+                "css": "p#fa5d",
+                "textOffset": 58
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[2]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[2]",
+            "text": "預測類別 (Predicted class)"
+          },
+          "text": "預測類別 (Predicted class)",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162814886,
+          "id": "hk-1767162814885-30682",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162814885,
+              "end": {
+                "css": "p#\\35 b31",
+                "textOffset": 149
+              },
+              "quote": {
+                "exact": "其中就有3個人被誤判。而如果以Recall 來看，其分數為 2/5 = 40%。",
+                "prefix": "出來只有2個為有病的。則其準確率為 997/1000 = 99.7%。而這樣的準確率可以發現，其結果準確率高到嚇死人，但",
+                "suffix": "而這樣的結果就相對地合理了許多，這個例子也顯示了這些指標的重要性。Press enter or click to vie"
+              },
+              "start": {
+                "css": "p#\\35 b31",
+                "textOffset": 109
+              },
+              "version": 1
+            },
+            "endOffset": 149,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[19]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[19]/text()[1]",
+            "text": "其中就有3個人被誤判。而如果以Recall 來看，其分數為 2/5 = 40%。"
+          },
+          "text": "其中就有3個人被誤判。而如果以Recall 來看，其分數為 2/5 = 40%。",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162829605,
+          "id": "hk-1767162829604-11207",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162829604,
+              "end": {
+                "css": "p#\\35 b31",
+                "textOffset": 83
+              },
+              "quote": {
+                "exact": "其準確率為 997/1000 = 99.7%",
+                "prefix": "這個準確率實際上會存在著問題，舉例來說在1000個患者中，其中有5個是真正有病的，但實際上被檢驗出來只有2個為有病的。則",
+                "suffix": "。而這樣的準確率可以發現，其結果準確率高到嚇死人，但其中就有3個人被誤判。而如果以Recall 來看，其分數為 2/5 "
+              },
+              "start": {
+                "css": "p#\\35 b31",
+                "textOffset": 61
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[19]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[19]/text()[4]",
+            "text": "其準確率為 997/1000 = 99.7%"
+          },
+          "text": "其準確率為 997/1000 = 99.7%",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162847002,
+          "id": "hk-1767162847000-67002",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162847000,
+              "end": {
+                "css": "p#\\38 880",
+                "textOffset": 56
+              },
+              "quote": {
+                "exact": "ROC 曲線是基於混淆矩陣內的指標而繪製而成的可視化結果。 ",
+                "prefix": "r characteristic curve, ROC curve)將混淆矩陣簡單的介紹過後，就該談到ROC 曲線，其實",
+                "suffix": "ROC曲線主要是針對一二元分類模型，也就是輸出結果只有兩種類別的模型，以一個閥值成為決策門檻 (decision thr"
+              },
+              "start": {
+                "css": "p#\\38 880",
+                "textOffset": 26
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[1]",
+            "text": "ROC 曲線是基於混淆矩陣內的指標而繪製而成的可視化結果。 "
+          },
+          "text": "ROC 曲線是基於混淆矩陣內的指標而繪製而成的可視化結果。 ",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162853718,
+          "id": "hk-1767162853717-81327",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162853717,
+              "end": {
+                "css": "p#\\35 030",
+                "textOffset": 28
+              },
+              "quote": {
+                "exact": "曲線越靠近左上角，代表模型的表現能力越好",
+                "prefix": "wikipedia.org/wiki/Receiver_operating_characteristic以圖1.3來說，",
+                "suffix": "，反之則越來越差。以資料的叫度來解釋，在圖1.4的上圖，我將可視為兩筆資料的常態分佈，藍色的皆為正常患者，紅色即為有病的"
+              },
+              "start": {
+                "css": "p#\\35 030",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[22]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[22]/text()[1]",
+            "text": "曲線越靠近左上角，代表模型的表現能力越好"
+          },
+          "text": "曲線越靠近左上角，代表模型的表現能力越好",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162892846,
+          "id": "hk-1767162892845-30422",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162892845,
+              "end": {
+                "css": "p#\\32 29b",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "area under ROC curve",
+                "prefix": "tic大概講完了ROC curve 初步的概念我們回頭再來看什麼是AUROC 、AUPR?(1)AUROCAUROC即為",
+                "suffix": "，意為ROC 曲線下面積。在前面有提到曲線越靠左上代表模型表現能力越好，代表著曲線的面積也越大，即AUROC數值越高模型"
+              },
+              "start": {
+                "css": "p#\\32 29b",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[1]",
+            "text": "area under ROC curve"
+          },
+          "text": "area under ROC curve",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162894463,
+          "id": "hk-1767162894463-91377",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162894462,
+              "end": {
+                "css": "p#\\32 29b",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "ROC 曲線下面積",
+                "prefix": "我們回頭再來看什麼是AUROC 、AUPR?(1)AUROCAUROC即為area under ROC curve，意為",
+                "suffix": "。在前面有提到曲線越靠左上代表模型表現能力越好，代表著曲線的面積也越大，即AUROC數值越高模型表現能力越好。(2) A"
+              },
+              "start": {
+                "css": "p#\\32 29b",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[2]",
+            "text": "ROC 曲線下面積"
+          },
+          "text": "ROC 曲線下面積",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162899584,
+          "id": "hk-1767162899583-23694",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162899582,
+              "end": {
+                "css": "p#\\32 29b",
+                "textOffset": 75
+              },
+              "quote": {
+                "exact": "越靠左上代表模型表現能力越好，代表著曲線的面積也越大，",
+                "prefix": "UPR?(1)AUROCAUROC即為area under ROC curve，意為ROC 曲線下面積。在前面有提到曲線",
+                "suffix": "即AUROC數值越高模型表現能力越好。(2) AUPRAUPR 即為area under Precision-Recal"
+              },
+              "start": {
+                "css": "p#\\32 29b",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[3]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[25]/text()[3]",
+            "text": "越靠左上代表模型表現能力越好，代表著曲線的面積也越大，"
+          },
+          "text": "越靠左上代表模型表現能力越好，代表著曲線的面積也越大，",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767162902791,
+          "id": "hk-1767162902788-30984",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162902788,
+              "end": {
+                "css": "p#e744",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "AUPR 即為area under Precision-Recall curve",
+                "prefix": "面有提到曲線越靠左上代表模型表現能力越好，代表著曲線的面積也越大，即AUROC數值越高模型表現能力越好。(2) AUPR",
+                "suffix": "，意為在橫軸為Precision 縱軸為Recall所繪出的曲線，通常會希望Precision 及Recall都是高的，"
+              },
+              "start": {
+                "css": "p#e744",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[27]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[27]/xt-mark[1]/text()[1]",
+            "text": "AUPR 即為area under Precision-Recall curve"
+          },
+          "text": "AUPR 即為area under Precision-Recall curve",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767162909580,
+          "id": "hk-1767162909578-98419",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162909578,
+              "end": {
+                "css": "p#e744",
+                "textOffset": 99
+              },
+              "quote": {
+                "exact": "Precision 縱軸為Recall所繪出的曲線，通常會希望Precision 及Recall都是高的",
+                "prefix": "能力越好。(2) AUPRAUPR 即為area under Precision-Recall curve，意為在橫軸為",
+                "suffix": "，所以曲線越靠近右上代表模型表現能力越好，相同的AUPR數值越高代表模型能力也越好。結語: 模型的好壞不單單只是看訓練的"
+              },
+              "start": {
+                "css": "p#e744",
+                "textOffset": 47
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[27]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[27]/text()[2]",
+            "text": "Precision 縱軸為Recall所繪出的曲線，通常會希望Precision 及Recall都是高的"
+          },
+          "text": "Precision 縱軸為Recall所繪出的曲線，通常會希望Precision 及Recall都是高的",
+          "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.csdn.net/FriendshipTang/article/details/137601972?utm_source=chatgpt.com",
+      "title": "损失函数：BCE Loss（二元交叉熵损失函数）、Dice Loss（Dice相似系数损失函数）-CSDN博客",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162474271,
+          "id": "hk-1767162474269-37591",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162489194,
+              "end": {
+                "css": "div#content_views > div.toc",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "BCE Loss（二元交叉熵损失函数）",
+                "prefix": "          \n                    \n                    \n\n 损失函数：",
+                "suffix": "、Dice Loss（Dice相似系数损失函数）\n 前言相关介绍BCE Loss（二元交叉熵损失函数）代码实例直接计算函"
+              },
+              "start": {
+                "css": "div#content_views > div.toc",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/div[1]/h4[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/div[1]/h4[1]/text()[1]",
+            "text": "BCE Loss（二元交叉熵损失函数）"
+          },
+          "text": "BCE Loss（二元交叉熵损失函数）",
+          "url": "https://blog.csdn.net/FriendshipTang/article/details/137601972?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.csdn.net/qq_37451333/article/details/105644605",
+      "title": "BCEWithLogitsLoss样本不均衡的处理_bce loss 不均衡-CSDN博客",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767161100107,
+          "id": "hk-1767161100102-9092",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767161100101,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "deepfake",
+                "prefix": "      \n        \n                \n                      \n最近在做",
+                "suffix": "检测任务（可以将其视为二分类问题，label为1和0），遇到了正负样本不均衡的问题，正样本数目是负样本的5倍，这样会导致"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 28
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "deepfake"
+          },
+          "text": "deepfake",
+          "url": "https://blog.csdn.net/qq_37451333/article/details/105644605"
+        }
+      ]
+    },
+    {
+      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "title": "sentence-transformers/all-MiniLM-L6-v2 · Hugging Face",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767159892861,
+          "id": "hk-1767159892858-60288",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767159892852,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": " 384 dimensional dense vector space",
+                "prefix": "ence-transformers model: It maps sentences & paragraphs to a",
+                "suffix": " and can be used for tasks like clustering or semantic searc"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 122
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[1]/text()[2]",
+            "startOffset": 43,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[1]/text()[2]",
+            "text": " 384 dimensional dense vector space"
+          },
+          "text": " 384 dimensional dense vector space",
+          "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767159916133,
+          "id": "hk-1767159916102-13678",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767159916102,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 3864
+              },
+              "quote": {
+                "exact": "Given an input text, it outputs a vector which captures \nthe semantic information. ",
+                "prefix": "ended to be used as a sentence and short paragraph encoder. ",
+                "suffix": "The sentence vector may be used for information retrieval, c"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 3781
+              },
+              "version": 1
+            },
+            "endOffset": 159,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[7]/text()[1]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[7]/text()[1]",
+            "text": "Given an input text, it outputs a vector which captures \nthe semantic information. "
+          },
+          "text": "Given an input text, it outputs a vector which captures \nthe semantic information. ",
+          "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+        }
+      ]
+    },
+    {
+      "url": "https://pytorch.org/",
+      "title": "PyTorch",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767152132827,
+          "id": "hk-1767152132824-86171",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767152132823,
+              "end": {
+                "css": "div#fws_6953ff53f253f > div.row_col_wrap_12.col:nth-of-type(2) > div.vc_col-sm-8.quick-start-module > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element",
+                "textOffset": 456
+              },
+              "quote": {
+                "exact": "You can also install previous versions of PyTorch",
+                "prefix": "tes below (e.g., numpy), depending on your package manager. ",
+                "suffix": ". Note that LibTorch is only available for C++.\nNOTE: Latest"
+              },
+              "start": {
+                "css": "div#fws_6953ff53f253f > div.row_col_wrap_12.col:nth-of-type(2) > div.vc_col-sm-8.quick-start-module > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element",
+                "textOffset": 407
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/a[1]/text()[1]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "You can also install previous versions of PyTorch"
+          },
+          "text": "You can also install previous versions of PyTorch",
+          "url": "https://pytorch.org/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/173052",
+      "title": "LLM調度框架LangChain核心元件序列化注入漏洞，可能導致環境變數機密外洩 | iThome",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767143447147,
+          "id": "hk-1767143447147-68543",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767143447146,
+              "end": {
+                "css": "header#page-header > div.content-summary:nth-of-type(2)",
+                "textOffset": 56
+              },
+              "quote": {
+                "exact": "重大漏洞CVE-2025-68664",
+                "prefix": "，可能導致環境變數機密外洩\n        官方修補LLM調度框架LangChain核心元件langchain-core",
+                "suffix": "，反序列化恐把外部資料還原成LangChain物件，並外洩環境變數機密，建議升級至0.3.81或1.2.5以上版本\n \n"
+              },
+              "start": {
+                "css": "header#page-header > div.content-summary:nth-of-type(2)",
+                "textOffset": 38
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[4]/header[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[4]/header[1]/div[2]/p[1]/text()[1]",
+            "text": "重大漏洞CVE-2025-68664"
+          },
+          "text": "重大漏洞CVE-2025-68664",
+          "url": "https://www.ithome.com.tw/news/173052"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767143456519,
+          "id": "hk-1767143456519-61921",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767143456518,
+              "end": {
+                "css": "header#page-header > div.content-summary:nth-of-type(2)",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "LangChain",
+                "prefix": "LLM調度框架LangChain核心元件序列化注入漏洞，可能導致環境變數機密外洩\n        官方修補LLM調度框架",
+                "suffix": "核心元件langchain-core重大漏洞CVE-2025-68664，反序列化恐把外部資料還原成LangChain物"
+              },
+              "start": {
+                "css": "header#page-header > div.content-summary:nth-of-type(2)",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[4]/header[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[4]/header[1]/div[2]/p[1]/text()[1]",
+            "text": "LangChain"
+          },
+          "text": "LangChain",
+          "url": "https://www.ithome.com.tw/news/173052"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767143466139,
+          "id": "hk-1767143466138-47920",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767143466138,
+              "end": {
+                "css": "div > span.views-field.views-field-created > span.field-content > div.submitted > span > span.created:nth-of-type(3)",
+                "textOffset": 10
+              },
+              "quote": {
+                "exact": "2025-12-26",
+                "prefix": "  \n        \n  \n  \n      \n        \n      \n          \n  文/李建興|",
+                "suffix": "發表\n    \n    \n  \n  \n  \n  \n  \n  \n \n\n\n  \n        \n             "
+              },
+              "start": {
+                "css": "div > span.views-field.views-field-created > span.field-content > div.submitted > span > span.created:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/section[2]/div[1]/div[1]/div[1]/span[1]/span[1]/div[1]/span[1]/span[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/section[2]/div[1]/div[1]/div[1]/span[1]/span[1]/div[1]/span[1]/span[3]/text()[1]",
+            "text": "2025-12-26"
+          },
+          "text": "2025-12-26",
+          "url": "https://www.ithome.com.tw/news/173052"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767143490986,
+          "id": "hk-1767143490985-41402",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767143497776,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 75
+              },
+              "quote": {
+                "exact": "LangChain團隊發布安全通報，揭露核心套件langchain-core存在序列化注入漏洞CVE-2025-68664",
+                "prefix": "       \n      \n    \n    \n    \n    \n      \n  \n\n知名大型語言模型調度開源框架",
+                "suffix": "，該漏洞CVSS 3.1基礎分數為9.3，屬重大等級。受影響版本為langchain-core小於0.3.81，或介於1"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 14
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/a[1]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "LangChain團隊發布安全通報，揭露核心套件langchain-core存在序列化注入漏洞CVE-2025-68664"
+          },
+          "text": "LangChain團隊發布安全通報，揭露核心套件langchain-core存在序列化注入漏洞CVE-2025-68664",
+          "url": "https://www.ithome.com.tw/news/173052"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767143574630,
+          "id": "hk-1767143574629-47923",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767143574628,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 701
+              },
+              "quote": {
+                "exact": "環境變數機密外洩，當反序列化在secrets_from_env選項啟用的情況下，攻擊者要是能讓注入結構被還原，就有機會從環境變數取得機密資料。",
+                "prefix": "或日誌等路徑於後續階段再度還原，就可能跨越開發者原先假設的信任邊界，形成可被利用的注入點。\n就可能造成的後果而言，其一是",
+                "suffix": "其二是不安全物件實例化，雖然LangChain對可還原的類別採取命名空間限制，但仍可能在既有受信任命名空間內實例化Ser"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 630
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "環境變數機密外洩，當反序列化在secrets_from_env選項啟用的情況下，攻擊者要是能讓注入結構被還原，就有機會從環境變數取得機密資料。"
+          },
+          "text": "環境變數機密外洩，當反序列化在secrets_from_env選項啟用的情況下，攻擊者要是能讓注入結構被還原，就有機會從環境變數取得機密資料。",
+          "url": "https://www.ithome.com.tw/news/173052"
+        }
+      ]
+    },
+    {
+      "url": "https://chatgpt.com/",
+      "title": "Model Training Progress",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1766981521324,
+          "id": "hk-1766981521298-27297",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1766981521297,
+              "end": {
+                "css": "div.contain-inline-size.rounded-2xl > div.overflow-y-auto.p-4:nth-of-type(3) > code.whitespace-pre\\!.language-bash > span > span:nth-of-type(2) > span.hljs-comment",
+                "textOffset": 4
+              },
+              "quote": {
+                "exact": "\n# 視需",
+                "prefix": "複製程式碼git stash pop\n\n4) 檢查並提交你的本機修改（如果需要）\nbash複製程式碼git status",
+                "suffix": "要 git add / git commit\n\n5) 最後再 pull（通常 rebase 完就不需要 pull；若要推"
+              },
+              "start": {
+                "css": "div.flex.w-full > div.markdown.prose > pre.overflow-visible\\!.px-0\\!:nth-of-type(4) > div.contain-inline-size.rounded-2xl > div.overflow-y-auto.p-4:nth-of-type(3) > code.whitespace-pre\\!.language-bash",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/article[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/pre[4]/div[1]/div[3]/code[1]/span[1]/span[2]/span[1]/text()[2]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/article[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/pre[4]/div[1]/div[3]/code[1]/span[1]/span[1]/text()[1]",
+            "text": "\n# 視需"
+          },
+          "text": "\n# 視需",
+          "url": "https://chatgpt.com/"
+        }
+      ]
+    },
     {
       "url": "https://ywctech.net/ml-ai/what-is-bm25/",
       "title": "白話圖解 - 什麼是 BM25 · YWC 科技筆記",
@@ -10500,13 +11342,13 @@
       ]
     },
     {
-      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
-      "title": "General",
+      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
+      "title": "程式碼範例與解釋",
       "entries": []
     },
     {
-      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
-      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
+      "url": "https://mail.google.com/mail/u/0/?pli=1",
+      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
       "entries": []
     }
   ]
