@@ -1,8 +1,550 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767162953413,
+  "exportedAt": 1767360225167,
   "pages": [
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10268777",
+      "title": "[常見的自然語言處理技術] 文本相似度(II): Cosine Similarity - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105596152,
+          "id": "hk-1767105596151-28934",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105596150,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 187
+              },
+              "quote": {
+                "exact": "餘弦相似性（Cosine Similarity",
+                "prefix": " embedding model 將英文單詞轉換成為高維度的向量。今天就讓我們接著談我們如何衡量單詞在意義上的遠近吧！\n",
+                "suffix": "）\n我們與惡的距離\n我們將單詞表示成高維度的向量，根據 word embedding 的特性：兩兩愈是意義相近的單詞，它"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 164
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[2]/text()[1]",
+            "text": "餘弦相似性（Cosine Similarity"
+          },
+          "text": "餘弦相似性（Cosine Similarity",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105601116,
+          "id": "hk-1767105601114-4279",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105601114,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 211
+              },
+              "quote": {
+                "exact": "單詞表示成高維度的向量",
+                "prefix": "讓我們接著談我們如何衡量單詞在意義上的遠近吧！\n餘弦相似性（Cosine Similarity）\n我們與惡的距離\n我們將",
+                "suffix": "，根據 word embedding 的特性：兩兩愈是意義相近的單詞，它們的向量距離就愈接近。因此我們可以純然地從向量之"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 200
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "單詞表示成高維度的向量"
+          },
+          "text": "單詞表示成高維度的向量",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105604624,
+          "id": "hk-1767105604623-61286",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105604622,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 258
+              },
+              "quote": {
+                "exact": "兩兩愈是意義相近的單詞，它們的向量距離就愈接近。",
+                "prefix": "ne Similarity）\n我們與惡的距離\n我們將單詞表示成高維度的向量，根據 word embedding 的特性：",
+                "suffix": "因此我們可以純然地從向量之間的距離大小，反推單詞的語意親疏程度。以下分別介紹用來測量向量距離常見的三種方式：\n\n\n歐氏距"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 234
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "兩兩愈是意義相近的單詞，它們的向量距離就愈接近。"
+          },
+          "text": "兩兩愈是意義相近的單詞，它們的向量距離就愈接近。",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105613938,
+          "id": "hk-1767105613937-60657",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105613936,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 627
+              },
+              "quote": {
+                "exact": "藉由向量的內積運算可以找出兩向量的夾角",
+                "prefix": "離\n圖片來源：www.omnicalculator.com\n\n\n餘弦距離（ Cosine Distance ）：我們知道",
+                "suffix": "。對於長度特性並不重要的向量來說，可以計算兩向量之間夾角來衡量兩向量之間的距離。在夾角的討論範圍0°~180°之間，衡量"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 608
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[3]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[3]",
+            "text": "藉由向量的內積運算可以找出兩向量的夾角"
+          },
+          "text": "藉由向量的內積運算可以找出兩向量的夾角",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105620492,
+          "id": "hk-1767105620489-92738",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105620488,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 714
+              },
+              "quote": {
+                "exact": "在夾角的討論範圍0°~180°之間，衡量角度等同於衡量角度的餘弦值，也就是函數具有一對一的特性",
+                "prefix": "道藉由向量的內積運算可以找出兩向量的夾角。對於長度特性並不重要的向量來說，可以計算兩向量之間夾角來衡量兩向量之間的距離。",
+                "suffix": "。兩向量的夾角愈大， 它們的 cosine distance 就愈小，與常見的距離測量相反。這個衡量方式被稱為餘弦距離，"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 667
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[4]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[4]",
+            "text": "在夾角的討論範圍0°~180°之間，衡量角度等同於衡量角度的餘弦值，也就是函數具有一對一的特性"
+          },
+          "text": "在夾角的討論範圍0°~180°之間，衡量角度等同於衡量角度的餘弦值，也就是函數具有一對一的特性",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105629306,
+          "id": "hk-1767105629304-89622",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105629303,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 748
+              },
+              "quote": {
+                "exact": "兩向量的夾角愈大， 它們的 cosine distance 就愈小",
+                "prefix": "來衡量兩向量之間的距離。在夾角的討論範圍0°~180°之間，衡量角度等同於衡量角度的餘弦值，也就是函數具有一對一的特性。",
+                "suffix": "，與常見的距離測量相反。這個衡量方式被稱為餘弦距離，其數學定義如下：\n\n\n\n\n圖片來源：https://cmry.git"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 715
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[6]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[5]",
+            "text": "兩向量的夾角愈大， 它們的 cosine distance 就愈小"
+          },
+          "text": "兩向量的夾角愈大， 它們的 cosine distance 就愈小",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767255607603,
+          "id": "hk-1767255607601-71665",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767255607600,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 341
+              },
+              "quote": {
+                "exact": "歐氏距離（ Euclidean Distance ）",
+                "prefix": "接近。因此我們可以純然地從向量之間的距離大小，反推單詞的語意親疏程度。以下分別介紹用來測量向量距離常見的三種方式：\n\n\n",
+                "suffix": "：在中學時期我們學習過測量向量距離的方式－兩向量箭頭端點相連直線段的長度，這也是歐氏空間（  Euclidean spa"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 315
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "text": "歐氏距離（ Euclidean Distance ）"
+          },
+          "text": "歐氏距離（ Euclidean Distance ）",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767255612283,
+          "id": "hk-1767255612281-40782",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767255612280,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 377
+              },
+              "quote": {
+                "exact": "兩向量箭頭端點相連直線段的長度",
+                "prefix": "距離常見的三種方式：\n\n\n歐氏距離（ Euclidean Distance ）：在中學時期我們學習過測量向量距離的方式－",
+                "suffix": "，這也是歐氏空間（  Euclidean space ）中最常被使用來距離測定的方式。在n維空間上的歐氏距離定義如下：\n"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 362
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/p[1]/text()[3]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/p[1]/text()[3]",
+            "text": "兩向量箭頭端點相連直線段的長度"
+          },
+          "text": "兩向量箭頭端點相連直線段的長度",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767255617306,
+          "id": "hk-1767255617303-78858",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767255617302,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 467
+              },
+              "quote": {
+                "exact": "曼哈頓距離（ Manhattan Distance ）：",
+                "prefix": "也是歐氏空間（  Euclidean space ）中最常被使用來距離測定的方式。在n維空間上的歐氏距離定義如下：\n\n\n",
+                "suffix": "有別於我們最習慣的直線距離，曼哈頓距離考慮兩點之間方格線長度的總和，因此又被稱為方格線距離，在n維空間上的曼哈頓距離定義"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 439
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[1]/text()[1]",
+            "text": "曼哈頓距離（ Manhattan Distance ）："
+          },
+          "text": "曼哈頓距離（ Manhattan Distance ）：",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767255619532,
+          "id": "hk-1767255619530-27267",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767255619530,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 500
+              },
+              "quote": {
+                "exact": "點之間方格線長度的總和",
+                "prefix": "距離定義如下：\n\n\n曼哈頓距離（ Manhattan Distance ）：有別於我們最習慣的直線距離，曼哈頓距離考慮兩",
+                "suffix": "，因此又被稱為方格線距離，在n維空間上的曼哈頓距離定義如下：\n\n\n\n歐氏距離 v.s. 曼哈頓距離\n圖片來源：www.o"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 489
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[1]/text()[3]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/p[1]/text()[3]",
+            "text": "點之間方格線長度的總和"
+          },
+          "text": "點之間方格線長度的總和",
+          "url": "https://ithelp.ithome.com.tw/articles/10268777"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/zh-tw/%E6%81%90%E6%85%8C%E7%97%87",
+      "title": "恐慌症 - 維基百科，自由的百科全書",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767199839048,
+          "id": "hk-1767199839045-82747",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767199839042,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 505
+              },
+              "quote": {
+                "exact": "麻痺感",
+                "prefix": "，是一種焦慮症，特徵為沒有預兆地一再恐慌發作[2]。恐慌發作是突然的短期強烈恐懼，可能包含心悸、流汗、手顫抖、呼吸困難、",
+                "suffix": "、或是有非常嚴重的事即將發生的感覺[2][3]。症狀的強度在會在幾分鐘內達到最高峰[3]。可能會對恐慌復發有著揮之不去的"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 502
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/text()[7]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/text()[7]",
+            "text": "麻痺感"
+          },
+          "text": "麻痺感",
+          "url": "https://zh.wikipedia.org/zh-tw/%E6%81%90%E6%85%8C%E7%97%87"
+        }
+      ]
+    },
+    {
+      "url": "https://ilife.org.tw/%E6%B7%BA%E8%AB%87%E7%B2%BE%E7%A5%9E%E5%AE%98%E8%83%BD%E7%97%87/%E7%84%A6%E6%85%AE%E7%97%87/",
+      "title": "焦慮症 – 淺談精神官能症 – 中華民國生活調適愛心會",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767199729723,
+          "id": "hk-1767199729722-27699",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767199729721,
+              "end": {
+                "css": "p#block-95471978-6279-44c8-bcde-afb8724956af",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "顫抖、肌肉緊繃、坐立不安、戰戰兢兢、易受驚嚇、煩躁",
+                "prefix": "所有會焦慮的人（世上恐怕找不到一個絲毫不會焦慮的人）都是有焦慮疾患的。焦慮的症狀有輕、有重，也有形式不一樣的表現，常見如",
+                "suffix": "、心悸、胸悶、冒冷汗、口乾、頭暈，嚴重的甚至強烈到以為自己要死掉或失控，像恐慌發作即是。一般說來病態焦慮的特點如下： 一"
+              },
+              "start": {
+                "css": "p#block-95471978-6279-44c8-bcde-afb8724956af",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "顫抖、肌肉緊繃、坐立不安、戰戰兢兢、易受驚嚇、煩躁"
+          },
+          "text": "顫抖、肌肉緊繃、坐立不安、戰戰兢兢、易受驚嚇、煩躁",
+          "url": "https://ilife.org.tw/%E6%B7%BA%E8%AB%87%E7%B2%BE%E7%A5%9E%E5%AE%98%E8%83%BD%E7%97%87/%E7%84%A6%E6%85%AE%E7%97%87/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.blossomclinic.com.tw/l/%E7%84%A6%E6%85%AE%E7%97%87%E7%99%BC%E4%BD%9C/",
+      "title": "焦慮症發作怎麼辦？心理師為您剖析焦慮症症狀與時間",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767199682393,
+          "id": "hk-1767199682391-88610",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767199682388,
+              "end": {
+                "css": "div.s-o.s-fs > div.s-c.s-fs:nth-of-type(2) > div.ez.cf > div.ez-c > div.b.b-text:nth-of-type(2) > div.b-c.b-text-c",
+                "textOffset": 2142
+              },
+              "quote": {
+                "exact": "減少環境刺激",
+                "prefix": "：激動、害怕、恐慌、過度擔憂、不安、罪惡感、生氣、失去控制等焦慮症發作的自救方式發現焦慮症狀發作時，您可以採取以下方式：",
+                "suffix": "：現代人常常暴露在過多的刺激當中，許多焦慮症患者會表示環境當中太過吵雜、刺激太多，讓自己有些耗弱，此時調整環境當中的刺激"
+              },
+              "start": {
+                "css": "div.s-o.s-fs > div.s-c.s-fs:nth-of-type(2) > div.ez.cf > div.ez-c > div.b.b-text:nth-of-type(2) > div.b-c.b-text-c",
+                "textOffset": 2136
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ol[3]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ol[3]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "減少環境刺激"
+          },
+          "text": "減少環境刺激",
+          "url": "https://www.blossomclinic.com.tw/l/%E7%84%A6%E6%85%AE%E7%97%87%E7%99%BC%E4%BD%9C/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.auh.org.tw/NewsInfo/HealthEducationInfo?docid=1639",
+      "title": "什麼是焦慮症? - 亞洲大學附屬醫院",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767199648424,
+          "id": "hk-1767199648420-72668",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767199648418,
+              "end": {
+                "css": "div#print_div > div.main_content.size:nth-of-type(5)",
+                "textOffset": 502
+              },
+              "quote": {
+                "exact": "肌肉緊繃",
+                "prefix": "\n\t\n\t\t\n\t\n\t\t\n\t\t\t焦慮症的病徵\n\t\t\n\t\t\t生理反應：身體發熱、心悸、胸口緊、過度換氣、腸胃不適、暈眩、口乾、",
+                "suffix": "、痛、疲倦、無法專心、思考混亂等。\n\t\t\n\t\t\t認知反應：我做不來、覺得自己很傻、別人常注意我、可能會暈倒、得心臟病、無"
+              },
+              "start": {
+                "css": "div#print_div > div.main_content.size:nth-of-type(5)",
+                "textOffset": 498
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[7]/div[3]/div[2]/text()[1]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[7]/div[3]/div[2]/text()[1]",
+            "text": "肌肉緊繃"
+          },
+          "text": "肌肉緊繃",
+          "url": "https://www.auh.org.tw/NewsInfo/HealthEducationInfo?docid=1639"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767199651655,
+          "id": "hk-1767199651653-36978",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767199651653,
+              "end": {
+                "css": "div#print_div > div.main_content.size:nth-of-type(5)",
+                "textOffset": 486
+              },
+              "quote": {
+                "exact": "過度換氣",
+                "prefix": "續擔心自己可能得到身體疾病。\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\t焦慮症的病徵\n\t\t\n\t\t\t生理反應：身體發熱、心悸、胸口緊、",
+                "suffix": "、腸胃不適、暈眩、口乾、肌肉緊繃、痛、疲倦、無法專心、思考混亂等。\n\t\t\n\t\t\t認知反應：我做不來、覺得自己很傻、別人常"
+              },
+              "start": {
+                "css": "div#print_div > div.main_content.size:nth-of-type(5)",
+                "textOffset": 482
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[7]/div[3]/div[2]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[7]/div[3]/div[2]/text()[1]",
+            "text": "過度換氣"
+          },
+          "text": "過度換氣",
+          "url": "https://www.auh.org.tw/NewsInfo/HealthEducationInfo?docid=1639"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767199662269,
+          "id": "hk-1767199662268-24357",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767199662267,
+              "end": {
+                "css": "div#print_div > div.main_content.size:nth-of-type(5)",
+                "textOffset": 620
+              },
+              "quote": {
+                "exact": "失去控制",
+                "prefix": "得心臟病、無法呼吸、不願意出門、會發瘋等。\n\t\t\n\t\t\t情緒反應：害怕、激動、恐慌、過度擔心、不安、感覺世界毀滅、悲哀、",
+                "suffix": "、罪惡感、生氣、憂鬱等。\n\t\n\t\n\t\t\n\t\n\t\t\n\t\t\t疾病對學業、家庭及工作的影響\n\t\t\n\t\t\t學業對個人來說是一種壓"
+              },
+              "start": {
+                "css": "div#print_div > div.main_content.size:nth-of-type(5)",
+                "textOffset": 616
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[7]/div[3]/div[4]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/div[7]/div[3]/div[4]/text()[1]",
+            "text": "失去控制"
+          },
+          "text": "失去控制",
+          "url": "https://www.auh.org.tw/NewsInfo/HealthEducationInfo?docid=1639"
+        }
+      ]
+    },
     {
       "url": "https://medium.com/@watermelontt615/%E6%B7%BA%E8%AB%87-auroc-%E8%88%87-aupr-4d28bdec9ba5",
       "title": "[讀書筆記] 淺談 AUROC 與 AUPR - Morris Tseng - Medium",
@@ -804,6 +1346,324 @@
           },
           "text": "環境變數機密外洩，當反序列化在secrets_from_env選項啟用的情況下，攻擊者要是能讓注入結構被還原，就有機會從環境變數取得機密資料。",
           "url": "https://www.ithome.com.tw/news/173052"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/zh-tw/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7",
+      "title": "餘弦相似性 - 維基百科，自由的百科全書",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767105708330,
+          "id": "hk-1767105708326-88087",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767105708325,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2012
+              },
+              "quote": {
+                "exact": "餘弦相似性通過測量兩個向量的夾角的餘弦值來度量它們之間的相似性",
+                "prefix": "：List of datasets for machine-learning research）\n機器學習概要\n閱論編\n",
+                "suffix": "。0度角的餘弦值是1，而其他任何角度的餘弦值都不大於1；並且其最小值是-1。從而兩個向量之間的角度的餘弦值確定兩個向量是"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1981
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[1]/text()[1]",
+            "text": "餘弦相似性通過測量兩個向量的夾角的餘弦值來度量它們之間的相似性"
+          },
+          "text": "餘弦相似性通過測量兩個向量的夾角的餘弦值來度量它們之間的相似性",
+          "url": "https://zh.wikipedia.org/zh-tw/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bnext.com.tw/article/84102/qwen-image-alibaba",
+      "title": "實測阿里巴巴Qwen-Image文生圖功能：效果如何？繁體中文能用嗎？|數位時代 BusinessNext",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104290455,
+          "id": "hk-1767104290454-74749",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104290453,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "阿里巴巴（Alibaba）旗下的「通義千問」（Qwen Team）",
+                "prefix": "                   \n\n                                \n  重點一：",
+                "suffix": "團隊發表了開源的AI圖像生成模型「Qwen-Image」，其最大特色在於能準確呈現圖像中的文字，特別是複雜的中文排版與雙"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/blockquote[1]/p[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/blockquote[1]/p[1]/text()[1]",
+            "text": "阿里巴巴（Alibaba）旗下的「通義千問」（Qwen Team）"
+          },
+          "text": "阿里巴巴（Alibaba）旗下的「通義千問」（Qwen Team）",
+          "url": "https://www.bnext.com.tw/article/84102/qwen-image-alibaba"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104310438,
+          "id": "hk-1767104310436-59366",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104310436,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 87
+              },
+              "quote": {
+                "exact": "「Qwen-Image」，其最大特色在於能準確呈現圖像中的文字",
+                "prefix": "    \n  重點一：阿里巴巴（Alibaba）旗下的「通義千問」（Qwen Team）團隊發表了開源的AI圖像生成模型",
+                "suffix": "，特別是複雜的中文排版與雙語內容，有效解決了過往生成式AI的痛點。\n  \n  重點二：Qwen-Image 在多項公開基"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 56
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/blockquote[1]/p[1]/text()[2]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/blockquote[1]/p[1]/text()[2]",
+            "text": "「Qwen-Image」，其最大特色在於能準確呈現圖像中的文字"
+          },
+          "text": "「Qwen-Image」，其最大特色在於能準確呈現圖像中的文字",
+          "url": "https://www.bnext.com.tw/article/84102/qwen-image-alibaba"
+        }
+      ]
+    },
+    {
+      "url": "https://news.cnyes.com/news/id/6290578",
+      "title": "DDR5明年估再漲45%！PC大廠買不到料急跳腳 傳輝達、AMD新品被迫延期 | 鉅亨網 - 美股雷達",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104118872,
+          "id": "hk-1767104118871-51456",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104118870,
+              "end": {
+                "css": "body.b1nl46oh > div > main.v1hm61vt > div.c9ky432 > article.mfxje1x > section.t1el8oye",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "DDR5明年估再漲45%",
+                "prefix": "訂閱登入註冊頭條台股美股科技陸港股熱門時事速報基金外匯期貨區塊鏈房產理財新視界專題雜誌我的新聞自選股‌美股美股雷達 美股",
+                "suffix": "！PC大廠買不到料急跳腳 傳輝達、AMD新品被迫延期鉅亨網新聞中心2025-12-29 12:00韓媒《ChosunBi"
+              },
+              "start": {
+                "css": "body.b1nl46oh > div > main.v1hm61vt > div.c9ky432 > article.mfxje1x > section.t1el8oye",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/h1[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/h1[1]/text()[1]",
+            "text": "DDR5明年估再漲45%"
+          },
+          "text": "DDR5明年估再漲45%",
+          "url": "https://news.cnyes.com/news/id/6290578"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104141308,
+          "id": "hk-1767104141307-65490",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104141307,
+              "end": {
+                "css": "main#article-container",
+                "textOffset": 399
+              },
+              "quote": {
+                "exact": "DDR5 記憶體價格在經歷一波明顯上漲後，預計明年將繼續攀升",
+                "prefix": "、美光等進行長期供貨協議談判，企圖鎖定關鍵資源。然而，整體市場供給的增長速度仍遠遠跟不上強勁的需求。\n\n‌雪上加霜的是，",
+                "suffix": "，DDR5 記憶體的合約價格漲幅在明年第四季可能達到最高 45%，這對 PC 產業鏈的成本結構構成了明顯衝擊。\n\n面對記"
+              },
+              "start": {
+                "css": "main#article-container",
+                "textOffset": 369
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[5]/p[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[5]/p[1]/text()[1]",
+            "text": "DDR5 記憶體價格在經歷一波明顯上漲後，預計明年將繼續攀升"
+          },
+          "text": "DDR5 記憶體價格在經歷一波明顯上漲後，預計明年將繼續攀升",
+          "url": "https://news.cnyes.com/news/id/6290578"
+        }
+      ]
+    },
+    {
+      "url": "https://www.leadadds.com/zh/learning-centre/what-is-qwen/",
+      "title": "什麼是Qwen？全面介紹與背景解析 - LeadAdds",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104061244,
+          "id": "hk-1767104061243-35146",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104061243,
+              "end": {
+                "css": "section.penci-section.penci-disSticky > div.elementor-container.elementor-column-gap-default > div.penci-ercol-100.penci-ercol-order-1 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-7270143:nth-of-type(3) > div.elementor-widget-container",
+                "textOffset": 236
+              },
+              "quote": {
+                "exact": "Qwen不僅奪得中文語言模型基準測評第一",
+                "prefix": "n系列憑藉開源策略與持續創新，在中英文語言理解、圖像、音訊跨模態處理等多項重點領域表現突出。\n\n\n\n截至2024年7月，",
+                "suffix": "，更在全球AI生態圈中與OpenAI、Anthropic等頂尖品牌並列，展現中國AI品牌的強大實力。Qwen系列強調開放"
+              },
+              "start": {
+                "css": "section.penci-section.penci-disSticky > div.elementor-container.elementor-column-gap-default > div.penci-ercol-100.penci-ercol-order-1 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-7270143:nth-of-type(3) > div.elementor-widget-container",
+                "textOffset": 216
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[2]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[2]/text()[1]",
+            "text": "Qwen不僅奪得中文語言模型基準測評第一"
+          },
+          "text": "Qwen不僅奪得中文語言模型基準測評第一",
+          "url": "https://www.leadadds.com/zh/learning-centre/what-is-qwen/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104074318,
+          "id": "hk-1767104074316-34981",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104074316,
+              "end": {
+                "css": "section.penci-section.penci-disSticky > div.elementor-container.elementor-column-gap-default > div.penci-ercol-100.penci-ercol-order-1 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-7270143:nth-of-type(3) > div.elementor-widget-container",
+                "textOffset": 137
+              },
+              "quote": {
+                "exact": "由阿里巴巴雲計算團隊精心打造的多語言、多模態人工智慧大模型家族",
+                "prefix": "\n\n\n\n新世代AI大模型的中國代表\n\n\n\n近年來，AI大模型快速崛起，全球科技巨頭紛紛投入開發。Qwen（通义千问）正是",
+                "suffix": "。自2023年4月首次亮相以來，Qwen系列憑藉開源策略與持續創新，在中英文語言理解、圖像、音訊跨模態處理等多項重點領域"
+              },
+              "start": {
+                "css": "section.penci-section.penci-disSticky > div.elementor-container.elementor-column-gap-default > div.penci-ercol-100.penci-ercol-order-1 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-7270143:nth-of-type(3) > div.elementor-widget-container",
+                "textOffset": 106
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]/text()[2]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[1]/text()[2]",
+            "text": "由阿里巴巴雲計算團隊精心打造的多語言、多模態人工智慧大模型家族"
+          },
+          "text": "由阿里巴巴雲計算團隊精心打造的多語言、多模態人工智慧大模型家族",
+          "url": "https://www.leadadds.com/zh/learning-centre/what-is-qwen/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767104087125,
+          "id": "hk-1767104087124-41380",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767104087124,
+              "end": {
+                "css": "section.penci-section.penci-disSticky > div.elementor-container.elementor-column-gap-default > div.penci-ercol-100.penci-ercol-order-1 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-7270143:nth-of-type(3) > div.elementor-widget-container",
+                "textOffset": 763
+              },
+              "quote": {
+                "exact": "由阿里巴巴雲計算（Alibaba Cloud）自主開發",
+                "prefix": "\t\t\n\n\nQwen的品牌介紹與背景\n\n\n\n\n\n\n\nQwen是什麼？AI多模態時代的重要代表\n\n\n\nQwen（通义千问）是",
+                "suffix": "、主導開源與產業落地推廣的人工智慧大模型家族。品牌原名為“通义千问”，自2023年首度公開以來，即以開放創新、多元強大著"
+              },
+              "start": {
+                "css": "section.penci-section.penci-disSticky > div.elementor-container.elementor-column-gap-default > div.penci-ercol-100.penci-ercol-order-1 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-7270143:nth-of-type(3) > div.elementor-widget-container",
+                "textOffset": 736
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[4]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[3]/div[1]/p[4]/text()[1]",
+            "text": "由阿里巴巴雲計算（Alibaba Cloud）自主開發"
+          },
+          "text": "由阿里巴巴雲計算（Alibaba Cloud）自主開發",
+          "url": "https://www.leadadds.com/zh/learning-centre/what-is-qwen/"
+        }
+      ]
+    },
+    {
+      "url": "https://ailogora.com/",
+      "title": "精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro | AILogora",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767103879630,
+          "id": "hk-1767103879628-35231",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767103879627,
+              "end": {
+                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 43
+              },
+              "quote": {
+                "exact": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
+                "prefix": "夢水晶：Gemini 3 Pro vs 2.5 ProJoyceCloud發布於: 9 天前395這篇實驗記錄告訴我們 ",
+                "suffix": "，Gemini 3 Pro 不只是把關卡通關而已，而是展現出更穩定的世界模型、更強的長程規劃能力，以及對工具、環境限制的"
+              },
+              "start": {
+                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種"
+          },
+          "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
+          "url": "https://ailogora.com/"
         }
       ]
     },
@@ -11342,13 +12202,13 @@
       ]
     },
     {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
+      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
+      "title": "General",
       "entries": []
     },
     {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
+      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
+      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
       "entries": []
     }
   ]
