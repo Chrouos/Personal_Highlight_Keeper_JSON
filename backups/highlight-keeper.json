@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767603294496,
+  "exportedAt": 1767604400817,
   "pages": [
     {
       "url": "https://blog.toright.com/posts/7685/llm-rag-introduction",
@@ -37,6 +37,390 @@
             "text": "將「AI LLM 的智慧」與「資料庫的知識」結合起來的方法"
           },
           "text": "將「AI LLM 的智慧」與「資料庫的知識」結合起來的方法",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603321439,
+          "id": "hk-1767603321437-16360",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603321437,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 746
+              },
+              "quote": {
+                "exact": "。RAG 則解決了這個問題，RAG 的核心是利用檢索技術，即在需要的時候，從外部資料庫或知識庫中提取最新、相關的資訊，再將這些資訊傳遞給 LLM，讓它能結合這些資訊生成更準確、更有依據的回答。",
+                "prefix": "然語言，能回答問題、完成文章，甚至進行創意寫作。但它的知識是來自於訓練過程，並非即時更新，因此可能會有過時或不完整的資訊",
+                "suffix": "可以說是有效率的彌補新資訊對於 LLM 訓練時不存在的神經網路參數記憶，大幅度提昇回應能力。\n舉個例子：想像你在問一個問"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 650
+              },
+              "version": 1
+            },
+            "endOffset": 182,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 86,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[1]/text()[2]",
+            "text": "。RAG 則解決了這個問題，RAG 的核心是利用檢索技術，即在需要的時候，從外部資料庫或知識庫中提取最新、相關的資訊，再將這些資訊傳遞給 LLM，讓它能結合這些資訊生成更準確、更有依據的回答。"
+          },
+          "text": "。RAG 則解決了這個問題，RAG 的核心是利用檢索技術，即在需要的時候，從外部資料庫或知識庫中提取最新、相關的資訊，再將這些資訊傳遞給 LLM，讓它能結合這些資訊生成更準確、更有依據的回答。",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603332315,
+          "id": "hk-1767603332313-47195",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603332312,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1070
+              },
+              "quote": {
+                "exact": "傳統的 LLM 透過過去大量的資料學習，在回答問題的時候容易產生「AI 幻覺 (AI Hallucination)」也就是我們常說的睜著眼睛說瞎話。",
+                "prefix": "，就像是一位既有高智商又有豐富資料來源的超級助手，可以更好地幫助我們解決問題，滿足各種需求！\n關於 LLM AI 幻覺\n",
+                "suffix": "這樣情境通常是因為 LLM 學習時並沒有正確的資料，但是生成回應時基於機率模式，還是會盡可能拼湊出錯誤的答案。\n在某些情"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 996
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[3]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[3]/text()[1]",
+            "text": "傳統的 LLM 透過過去大量的資料學習，在回答問題的時候容易產生「AI 幻覺 (AI Hallucination)」也就是我們常說的睜著眼睛說瞎話。"
+          },
+          "text": "傳統的 LLM 透過過去大量的資料學習，在回答問題的時候容易產生「AI 幻覺 (AI Hallucination)」也就是我們常說的睜著眼睛說瞎話。",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603356839,
+          "id": "hk-1767603356838-90699",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603356838,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1270
+              },
+              "quote": {
+                "exact": "因此我們必須事先準備好資料，讓 LLM 可以在這些資料尋找適合的答案。",
+                "prefix": "像是把簡答題改為選擇題，但是問題來了，總不能每次都準備好一堆資料才開始問問題，這樣會造成輸入的 Token 太多太複雜，",
+                "suffix": "\n實際上並不是把這些資料讓 LLM 進行訓練，因此資料不會存在 LLM 參數中，這些「記憶」又稱為「非參數記憶(Non-"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1235
+              },
+              "version": 1
+            },
+            "endOffset": 144,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[4]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[4]/text()[1]",
+            "text": "因此我們必須事先準備好資料，讓 LLM 可以在這些資料尋找適合的答案。"
+          },
+          "text": "因此我們必須事先準備好資料，讓 LLM 可以在這些資料尋找適合的答案。",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603358238,
+          "id": "hk-1767603358236-69017",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603358236,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1350
+              },
+              "quote": {
+                "exact": "這些「記憶」又稱為「非參數記憶(Non-Parametric Memory)」。",
+                "prefix": " LLM 可以在這些資料尋找適合的答案。\n實際上並不是把這些資料讓 LLM 進行訓練，因此資料不會存在 LLM 參數中，",
+                "suffix": "\n如何改善 LLM 面對未知問題的能力？\n需要改善 LLM 的回應能力可以透過 Fine-Tuning 或 RAG 等方"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1310
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[5]/text()[2]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[5]/text()[1]",
+            "text": "這些「記憶」又稱為「非參數記憶(Non-Parametric Memory)」。"
+          },
+          "text": "這些「記憶」又稱為「非參數記憶(Non-Parametric Memory)」。",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603364691,
+          "id": "hk-1767603364690-81172",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603364690,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1445
+              },
+              "quote": {
+                "exact": "Fine-Tuning 再次訓練模型",
+                "prefix": "能力？\n需要改善 LLM 的回應能力可以透過 Fine-Tuning 或 RAG 等方法，我們分別說明兩種方法的差異：\n",
+                "suffix": "\n將新的資料基於原本的參數進行訓練，讓模型學習更多的資料，這種方法對於現今動不動就上百億參數的 LLM 來說，實現上會比"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1427
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[7]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[7]/strong[1]/text()[1]",
+            "text": "Fine-Tuning 再次訓練模型"
+          },
+          "text": "Fine-Tuning 再次訓練模型",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603370711,
+          "id": "hk-1767603370710-13829",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603370710,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1531
+              },
+              "quote": {
+                "exact": "RAG 檢索增強生成",
+                "prefix": "練，讓模型學習更多的資料，這種方法對於現今動不動就上百億參數的 LLM 來說，實現上會比較困難，需要有足夠強大的硬體。\n",
+                "suffix": "\n利用 LLM 可以理解資料的能力，直接擴充並且可侷限 LLM 回應的範圍，雖然速度不及 Fine-Tuning，但是快"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1521
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[8]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[8]/strong[1]/text()[1]",
+            "text": "RAG 檢索增強生成"
+          },
+          "text": "RAG 檢索增強生成",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603378974,
+          "id": "hk-1767603378973-80944",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603378972,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1743
+              },
+              "quote": {
+                "exact": "Domain-Specific Fine-tuning (DSF)",
+                "prefix": "別是參數化記憶的 Fine-Tuning 與非參數記憶的 RAG，兩種方法的特性如下：\nFine-Tuning 又稱為 ",
+                "suffix": "\n\n需要較高的運算\n無法保證最終學習效果 (無法絕對避免幻覺)\n針對經常變動的資料訓練不易\n大量資料訓練後不影響回應速度"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1710
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[10]/strong[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[10]/strong[1]/text()[1]",
+            "text": "Domain-Specific Fine-tuning (DSF)"
+          },
+          "text": "Domain-Specific Fine-tuning (DSF)",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603383048,
+          "id": "hk-1767603383047-8737",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603383046,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1752
+              },
+              "quote": {
+                "exact": "較高的運算",
+                "prefix": "的特性如下：\nFine-Tuning 又稱為 Domain-Specific Fine-tuning (DSF)\n\n需要",
+                "suffix": "\n無法保證最終學習效果 (無法絕對避免幻覺)\n針對經常變動的資料訓練不易\n大量資料訓練後不影響回應速度 (適合大規模學習"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1747
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[1]/li[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[1]/li[1]/text()[1]",
+            "text": "較高的運算"
+          },
+          "text": "較高的運算",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603384812,
+          "id": "hk-1767603384811-70659",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603384810,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1773
+              },
+              "quote": {
+                "exact": "無法絕對避免幻覺",
+                "prefix": " 又稱為 Domain-Specific Fine-tuning (DSF)\n\n需要較高的運算\n無法保證最終學習效果 (",
+                "suffix": ")\n針對經常變動的資料訓練不易\n大量資料訓練後不影響回應速度 (適合大規模學習)\n可改善語意、風格、詞彙能力\n可縮小模型"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1765
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[1]/li[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[1]/li[2]/text()[1]",
+            "text": "無法絕對避免幻覺"
+          },
+          "text": "無法絕對避免幻覺",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603392595,
+          "id": "hk-1767603392594-1883",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603392594,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1813
+              },
+              "quote": {
+                "exact": "大量資料訓練後不影響回應速度 (適合大規模學習)",
+                "prefix": "e-tuning (DSF)\n\n需要較高的運算\n無法保證最終學習效果 (無法絕對避免幻覺)\n針對經常變動的資料訓練不易\n",
+                "suffix": "\n可改善語意、風格、詞彙能力\n可縮小模型改善效率 (SLM)\n\nRAG\n\n不需要重新計算模型\n快速適應新資料 / 容易抽"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1789
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[1]/li[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[1]/li[4]/text()[1]",
+            "text": "大量資料訓練後不影響回應速度 (適合大規模學習)"
+          },
+          "text": "大量資料訓練後不影響回應速度 (適合大規模學習)",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603396390,
+          "id": "hk-1767603396388-80266",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603396387,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1885
+              },
+              "quote": {
+                "exact": "大幅度減少幻覺的範圍",
+                "prefix": "改善語意、風格、詞彙能力\n可縮小模型改善效率 (SLM)\n\nRAG\n\n不需要重新計算模型\n快速適應新資料 / 容易抽換\n",
+                "suffix": "\n大規模資料影響回應效率 (適合專門領域的回應)\n僅針對外部給予的資料有最佳的反應能力\n需依賴大模型的理解與搜尋能力\n\n"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1875
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[2]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/ul[2]/li[3]/text()[1]",
+            "text": "大幅度減少幻覺的範圍"
+          },
+          "text": "大幅度減少幻覺的範圍",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603408061,
+          "id": "hk-1767603408060-42313",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603408059,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1986
+              },
+              "quote": {
+                "exact": "通用 AI LLM 在回應問題時也使用了通用的回答",
+                "prefix": "專門領域的回應)\n僅針對外部給予的資料有最佳的反應能力\n需依賴大模型的理解與搜尋能力\n\nRAG 解決的什麼問題？\n以往 ",
+                "suffix": " (來至於既有的參數記憶)，但是這個通用的回答在特定專用領域中往往不善其人意 (又稱 AI 幻覺)。\nRAG 透過已經設"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 1961
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[12]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[12]/text()[1]",
+            "text": "通用 AI LLM 在回應問題時也使用了通用的回答"
+          },
+          "text": "通用 AI LLM 在回應問題時也使用了通用的回答",
           "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
         }
       ]
