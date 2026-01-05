@@ -1,8 +1,666 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767360225167,
+  "exportedAt": 1767578807615,
   "pages": [
+    {
+      "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+      "title": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1 · Hugging Face",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767578673794,
+          "id": "hk-1767578673791-43976",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767578673791,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": " trained on the MMARCO dataset",
+                "prefix": "\n\t\tCross-Encoder for multilingual MS Marco\n\t\n\nThis model was",
+                "suffix": ". It is a machine translated version of MS MARCO using Googl"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 71
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[1]/text()[2]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[1]/text()[1]",
+            "text": " trained on the MMARCO dataset"
+          },
+          "text": " trained on the MMARCO dataset",
+          "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767578739120,
+          "id": "hk-1767578739119-56122",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767578739119,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "It was translated to 14 languages",
+                "prefix": "hine translated version of MS MARCO using Google Translate. ",
+                "suffix": ". In our experiments, we observed that it performs also well"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 174
+              },
+              "version": 1
+            },
+            "endOffset": 106,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[1]/text()[2]",
+            "startOffset": 73,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[1]/text()[2]",
+            "text": "It was translated to 14 languages"
+          },
+          "text": "It was translated to 14 languages",
+          "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767578747947,
+          "id": "hk-1767578747946-40091",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767578747945,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 346
+              },
+              "quote": {
+                "exact": " multilingual MiniLMv2 model.",
+                "prefix": " also well for other languages.\nAs a base model, we used the",
+                "suffix": "\nThe model can be used for Information Retrieval: Given a qu"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 317
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[2]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "text": " multilingual MiniLMv2 model."
+          },
+          "text": " multilingual MiniLMv2 model.",
+          "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767578759905,
+          "id": "hk-1767578759904-99090",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767578759903,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 532
+              },
+              "quote": {
+                "exact": " used for Information Retrieva",
+                "prefix": "iniLMv2 model.作為基礎模型，我們使用了多語言的 MiniLMv2 模型。\nThe model can be",
+                "suffix": "l: Given a query, encode the query will all possible passage"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 502
+              },
+              "version": 1
+            },
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[1]",
+            "text": " used for Information Retrieva"
+          },
+          "text": " used for Information Retrieva",
+          "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767578764420,
+          "id": "hk-1767578764417-7280",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767578764417,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 593
+              },
+              "quote": {
+                "exact": "Given a query, encode the query will all possible passages",
+                "prefix": "niLMv2 模型。\nThe model can be used for Information Retrieval: ",
+                "suffix": " (e.g. retrieved with ElasticSearch). Then sort the passages"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 535
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[2]",
+            "text": "Given a query, encode the query will all possible passages"
+          },
+          "text": "Given a query, encode the query will all possible passages",
+          "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/701661969",
+      "title": "BM25算法以及变种算法简介 - 知乎",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767342049647,
+          "id": "hk-1767342049644-95219",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767342049641,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 397
+              },
+              "quote": {
+                "exact": "BM25（Best Match 25）是一种用于信息检索的统计算法，主要用于计算查询文本与文档的相关性评分。",
+                "prefix": "今为止距 BM25 的提出已经过去三十多年，但是这个算法依然在很多信息检索的任务中表现优异，是很多工程师首选的算法之一。",
+                "suffix": "它考虑了文档中的词频（TFTF）和逆文档频率（IDFIDF）等因素。主要对对 Query 进行语素解析，生成语素 qiq"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 343
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[2]/text()[1]",
+            "text": "BM25（Best Match 25）是一种用于信息检索的统计算法，主要用于计算查询文本与文档的相关性评分。"
+          },
+          "text": "BM25（Best Match 25）是一种用于信息检索的统计算法，主要用于计算查询文本与文档的相关性评分。",
+          "url": "https://zhuanlan.zhihu.com/p/701661969"
+        }
+      ]
+    },
+    {
+      "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e",
+      "title": "CRAG: 革命性AI技術如何讓機器回答更精準？. 探索Corrective… | by 許恆修 | Heng-Shiou Sheu | Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315685145,
+          "id": "hk-1767315685144-4402",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315685144,
+              "end": {
+                "css": "p#\\37 f1e",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "Corrective RAG(糾錯檢索增強生成)",
+                "prefix": "。Press enter or click to view image in full size1. 什麼是 CRAG?",
+                "suffix": "，主要提高語言模型生成穩健性的方法。此法中通過評估器和網路檢索針對檢索到到文檔相關性，進行番評估與增加，以確保說在生成回"
+              },
+              "start": {
+                "css": "p#\\37 f1e",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Corrective RAG(糾錯檢索增強生成)"
+          },
+          "text": "Corrective RAG(糾錯檢索增強生成)",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315687991,
+          "id": "hk-1767315687990-50311",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315687989,
+              "end": {
+                "css": "p#\\37 f1e",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "通過評估器和網路檢索針對檢索到到文檔相關性",
+                "prefix": "ize1. 什麼是 CRAG?Corrective RAG(糾錯檢索增強生成)，主要提高語言模型生成穩健性的方法。此法中",
+                "suffix": "，進行番評估與增加，以確保說在生成回應中保有更為精準、可靠的訊息。1.1 開書考試的各種策略想像你正在參加難得的開書考，"
+              },
+              "start": {
+                "css": "p#\\37 f1e",
+                "textOffset": 45
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "通過評估器和網路檢索針對檢索到到文檔相關性"
+          },
+          "text": "通過評估器和網路檢索針對檢索到到文檔相關性",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315704348,
+          "id": "hk-1767315704347-24376",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315704347,
+              "end": {
+                "css": "p#fe1c",
+                "textOffset": 64
+              },
+              "quote": {
+                "exact": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入。",
+                "prefix": "ress enter or click to view image in full size問題一、檢索資訊的相關性過低",
+                "suffix": "這會導致大量無關信息的引入，進而影響生成模型對知識的理解，並可能導致模型生成與事實不符的“幻覺”內容。問題二、資訊過於雜"
+              },
+              "start": {
+                "css": "p#fe1c",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入。"
+          },
+          "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入。",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315709925,
+          "id": "hk-1767315709924-95224",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315709923,
+              "end": {
+                "css": "p#beaa",
+                "textOffset": 51
+              },
+              "quote": {
+                "exact": "傳統的 RAG 方法通常將整個檢索到的文件作為輸入，但實際上，文件中的大部分內容可能與生成的內容無關。",
+                "prefix": "無關信息的引入，進而影響生成模型對知識的理解，並可能導致模型生成與事實不符的“幻覺”內容。問題二、資訊過於雜亂，不夠精準",
+                "suffix": "這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。1.3. CRAG 提出什麼機制解決問題？CR"
+              },
+              "start": {
+                "css": "p#beaa",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[8]/text()[1]",
+            "text": "傳統的 RAG 方法通常將整個檢索到的文件作為輸入，但實際上，文件中的大部分內容可能與生成的內容無關。"
+          },
+          "text": "傳統的 RAG 方法通常將整個檢索到的文件作為輸入，但實際上，文件中的大部分內容可能與生成的內容無關。",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315713288,
+          "id": "hk-1767315713287-4754",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315713287,
+              "end": {
+                "css": "h3#c3c3 > strong.an",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "Retrieval Evaluator（檢索評估器）：",
+                "prefix": "檢索評估器) 以及 Knowledge Refinement(知識精練) 兩個機制來解決上述問題。以下是兩者的運作機制：",
+                "suffix": "用於評估針對特定問題檢索到的文件的整體品質。它還會利用網路搜索作為輔助工具，進一步提升檢索結果的品質。Get 許恆修 |"
+              },
+              "start": {
+                "css": "h3#c3c3 > strong.an",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/h3[3]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/h3[3]/strong[1]/text()[1]",
+            "text": "Retrieval Evaluator（檢索評估器）："
+          },
+          "text": "Retrieval Evaluator（檢索評估器）：",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315722401,
+          "id": "hk-1767315722400-4747",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315722400,
+              "end": {
+                "css": "p#\\35 f4d",
+                "textOffset": 56
+              },
+              "quote": {
+                "exact": "「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）三種情況。",
+                "prefix": "ree to get updates from this writer.SubscribeSubscribe評估答案分為",
+                "suffix": "對於「正確」的情況，直接進行知識精練，抽取關鍵資訊。針對「錯誤」的資訊，則利用網路檢索來擴充知識量。針對「模糊」的知識，"
+              },
+              "start": {
+                "css": "p#\\35 f4d",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）三種情況。"
+          },
+          "text": "「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）三種情況。",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315730955,
+          "id": "hk-1767315730954-99299",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315730953,
+              "end": {
+                "css": "h3#\\31 239 > strong.an",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "Knowledge Refinement（知識精練）",
+                "prefix": "鍵資訊。針對「錯誤」的資訊，則利用網路檢索來擴充知識量。針對「模糊」的知識，結合前面兩種操作來提供答案的穩健性及精準度。",
+                "suffix": "：先將文件進行分解再重新組合，以便深入挖掘文件中的核心知識點。利用自訂規則將文件進行分解，並由檢索評估器來衡量其相關性。"
+              },
+              "start": {
+                "css": "h3#\\31 239 > strong.an",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/h3[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/h3[4]/strong[1]/text()[1]",
+            "text": "Knowledge Refinement（知識精練）"
+          },
+          "text": "Knowledge Refinement（知識精練）",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315735715,
+          "id": "hk-1767315735713-25975",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315735713,
+              "end": {
+                "css": "p#abb7",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "將文件進行分解再重新組合",
+                "prefix": "針對「模糊」的知識，結合前面兩種操作來提供答案的穩健性及精準度。Knowledge Refinement（知識精練）：先",
+                "suffix": "，以便深入挖掘文件中的核心知識點。利用自訂規則將文件進行分解，並由檢索評估器來衡量其相關性。最後將剩餘的相關知識重新整合"
+              },
+              "start": {
+                "css": "p#abb7",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "將文件進行分解再重新組合"
+          },
+          "text": "將文件進行分解再重新組合",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315749713,
+          "id": "hk-1767315749712-43552",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315749712,
+              "end": {
+                "css": "p#\\38 ea1",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "重新排序（re-ranking）模型",
+                "prefix": "valuator做了啥？檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，類似於 RAG 中的",
+                "suffix": "。這種相關性判斷模型可以通過整合更多符合現實世界場景的特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，"
+              },
+              "start": {
+                "css": "p#\\38 ea1",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "重新排序（re-ranking）模型"
+          },
+          "text": "重新排序（re-ranking）模型",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315754861,
+          "id": "hk-1767315754859-78788",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315754859,
+              "end": {
+                "css": "p#\\31 bfd",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "輕量級的 T5-large 模型作為檢索評估器",
+                "prefix": "如，科學論文問答中的 RAG 包含許多專業術語，而旅遊領域的 RAG 則往往包含更多口語化的用戶查詢。CRAG 使用一個",
+                "suffix": "，並對其進行了微調。值得一提的是，即使在大語言模型的時代，T5-large 模型仍然被認為是輕量級的。對於每個輸入的問題"
+              },
+              "start": {
+                "css": "p#\\31 bfd",
+                "textOffset": 9
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[16]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[16]/text()[1]",
+            "text": "輕量級的 T5-large 模型作為檢索評估器"
+          },
+          "text": "輕量級的 T5-large 模型作為檢索評估器",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315767638,
+          "id": "hk-1767315767636-23289",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315767636,
+              "end": {
+                "css": "p#\\31 718",
+                "textOffset": 177
+              },
+              "quote": {
+                "exact": "模型會將標籤 1 分配給正樣本（與問題相關的文件），將標籤 -1 分配給負樣本（與問題無關的文件）。在推理過程中，評估器會為每個文件分配一個介於 -1 到 1 之間的相關性分數。",
+                "prefix": "然後，系統會將問題與每個文件分別組合在一起，作為輸入數據，讓 T5-large 模型預測它們之間的相關性。在微調過程中，",
+                "suffix": "1.3.2 在 CRAG 中Knowledge Refinement做了啥？CRAG 設計了一種新穎的知識提取方法，即先"
+              },
+              "start": {
+                "css": "p#\\31 718",
+                "textOffset": 88
+              },
+              "version": 1
+            },
+            "endOffset": 177,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 88,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[17]/text()[1]",
+            "text": "模型會將標籤 1 分配給正樣本（與問題相關的文件），將標籤 -1 分配給負樣本（與問題無關的文件）。在推理過程中，評估器會為每個文件分配一個介於 -1 到 1 之間的相關性分數。"
+          },
+          "text": "模型會將標籤 1 分配給正樣本（與問題相關的文件），將標籤 -1 分配給負樣本（與問題無關的文件）。在推理過程中，評估器會為每個文件分配一個介於 -1 到 1 之間的相關性分數。",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315791036,
+          "id": "hk-1767315791035-86247",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315791034,
+              "end": {
+                "css": "li#\\37 bcf",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "使用查詢重寫（re-write query）來優化網路搜尋的查詢",
+                "prefix": "查詢不相關，則通過網路搜尋進行補充檢索。這裡將使用 Tavily Search API 來進行網路搜尋，它既快速又方便。",
+                "suffix": "。在進行分支決策時，使用 Pydantic 對輸出進行建模，並將該函數作為 OpenAI 工具提供，每次 LLM 運行時"
+              },
+              "start": {
+                "css": "li#\\37 bcf",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[2]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[2]/li[3]/text()[1]",
+            "text": "使用查詢重寫（re-write query）來優化網路搜尋的查詢"
+          },
+          "text": "使用查詢重寫（re-write query）來優化網路搜尋的查詢",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315808456,
+          "id": "hk-1767315808454-9068",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315808454,
+              "end": {
+                "css": "li#\\38 af8",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "self-RAG 可以直接使用大型語言模型生成答案，無需進行信息檢索。",
+                "prefix": "qAxDaF1ZkVl#scrollTo=7l9dgGfC9e4q1.5 CRAG 與 Self-RAG 比較工作流程：",
+                "suffix": "而 CRAG 則需要先檢索相關信息，然後進行評估和篩選，最後才生成答案。模型結構：self-RAG 的模型結構比 CRA"
+              },
+              "start": {
+                "css": "li#\\38 af8",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[3]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[3]/li[1]/text()[1]",
+            "text": "self-RAG 可以直接使用大型語言模型生成答案，無需進行信息檢索。"
+          },
+          "text": "self-RAG 可以直接使用大型語言模型生成答案，無需進行信息檢索。",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767315813498,
+          "id": "hk-1767315813497-37258",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315813496,
+              "end": {
+                "css": "li#\\38 af8",
+                "textOffset": 76
+              },
+              "quote": {
+                "exact": "CRAG 則需要先檢索相關信息，然後進行評估和篩選，最後才生成答案。",
+                "prefix": "CRAG 與 Self-RAG 比較工作流程：self-RAG 可以直接使用大型語言模型生成答案，無需進行信息檢索。而 ",
+                "suffix": "模型結構：self-RAG 的模型結構比 CRAG 更複雜，需要進行更複雜的訓練過程，並在生成答案時進行多標籤生成和評估"
+              },
+              "start": {
+                "css": "li#\\38 af8",
+                "textOffset": 42
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[3]/li[1]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[4]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[3]/li[1]/text()[2]",
+            "text": "CRAG 則需要先檢索相關信息，然後進行評估和篩選，最後才生成答案。"
+          },
+          "text": "CRAG 則需要先檢索相關信息，然後進行評估和篩選，最後才生成答案。",
+          "url": "https://r23456999.medium.com/crag-%E9%9D%A9%E5%91%BD%E6%80%A7ai%E6%8A%80%E8%A1%93%E5%A6%82%E4%BD%95%E8%AE%93%E6%A9%9F%E5%99%A8%E5%9B%9E%E7%AD%94%E6%9B%B4%E7%B2%BE%E6%BA%96-07d8ca44c77e"
+        }
+      ]
+    },
     {
       "url": "https://ithelp.ithome.com.tw/articles/10268777",
       "title": "[常見的自然語言處理技術] 文本相似度(II): Cosine Similarity - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
@@ -542,6 +1200,1660 @@
           },
           "text": "失去控制",
           "url": "https://www.auh.org.tw/NewsInfo/HealthEducationInfo?docid=1639"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10348884",
+      "title": "【Day 22】- CRAG: 檢索增強生成的糾錯機制 - 提升大型語言模型問答精確度 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173298017,
+          "id": "hk-1767173298016-74900",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173298014,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1491
+              },
+              "quote": {
+                "exact": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入",
+                "prefix": "能會導致後續生成內容的真實性以及品質。以下是作者整理出的局限性重點，並且用圖表表達之。\n\n問題一、檢索資訊的相關性過低\n",
+                "suffix": "。這會導致大量無關信息的引入，進而影響生成模型對知識的理解，並可能導致模型生成與事實不符的\"幻覺\"內容。\n問題二、資訊過"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1428
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入"
+          },
+          "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173311271,
+          "id": "hk-1767173311269-55969",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173311269,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1648
+              },
+              "quote": {
+                "exact": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。",
+                "prefix": "事實不符的\"幻覺\"內容。\n問題二、資訊過於雜亂，不夠精準\n傳統的 RAG 方法通常將整個檢索到的文件作為輸入，但實際上，",
+                "suffix": "\n1.3. CRAG 提出什麼機制解決問題？\nCRAG 提出傳統 RAG 會有檢索資訊品質不夠好問題，導致生成答案錯誤。"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1591
+              },
+              "version": 1
+            },
+            "endOffset": 88,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 31,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。"
+          },
+          "text": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173318655,
+          "id": "hk-1767173318653-98082",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173318652,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1748
+              },
+              "quote": {
+                "exact": " Retrieval Evaluator(檢索評估器)",
+                "prefix": "什麼機制解決問題？\nCRAG 提出傳統 RAG 會有檢索資訊品質不夠好問題，導致生成答案錯誤。為此 CRAG 作者群提出",
+                "suffix": " 以及 Knowledge Refinement(知識精練) 兩個機制來解決上述問題。以下是兩者的運作機制：\n取自論文 "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1721
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
+            "text": " Retrieval Evaluator(檢索評估器)"
+          },
+          "text": " Retrieval Evaluator(檢索評估器)",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173320865,
+          "id": "hk-1767173320864-78678",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173320863,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1778
+              },
+              "quote": {
+                "exact": "Knowledge Refinement(知識精練)",
+                "prefix": "質不夠好問題，導致生成答案錯誤。為此 CRAG 作者群提出 Retrieval Evaluator(檢索評估器) 以及 ",
+                "suffix": " 兩個機制來解決上述問題。以下是兩者的運作機制：\n取自論文 Figure2\nRetrieval Evaluator（檢索"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1752
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[2]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[2]",
+            "text": "Knowledge Refinement(知識精練)"
+          },
+          "text": "Knowledge Refinement(知識精練)",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173326276,
+          "id": "hk-1767173326275-58584",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173326275,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1946
+              },
+              "quote": {
+                "exact": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）",
+                "prefix": "（檢索評估器）：\n用於評估針對特定問題檢索到的文件的整體品質。它還會利用網路搜索作為輔助工具，進一步提升檢索結果的品質。",
+                "suffix": "三種情況。對於「正確」的情況，直接進行知識精練，抽取關鍵資訊。針對「錯誤」的資訊，則利用網路檢索來擴充知識量。針對「模糊"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1895
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[2]",
+            "text": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）"
+          },
+          "text": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173341919,
+          "id": "hk-1767173341917-92578",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173341917,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2198
+              },
+              "quote": {
+                "exact": "基於 T5-large 的檢索質量評估模型",
+                "prefix": "分解，並由檢索評估器來衡量其相關性。最後將剩餘的相關知識重新整合。\n1.3.1 Retrieval Evaluator：",
+                "suffix": "\n檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，類似於 RAG 中的重新排序（re-ran"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2177
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
+            "text": "基於 T5-large 的檢索質量評估模型"
+          },
+          "text": "基於 T5-large 的檢索質量評估模型",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173346680,
+          "id": "hk-1767173346679-62194",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173346679,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2266
+              },
+              "quote": {
+                "exact": "類似於 RAG 中的重新排序（re-ranking）模型。",
+                "prefix": "基於 T5-large 的檢索質量評估模型\n檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，",
+                "suffix": "這種相關性判斷模型可以通過整合更多符合現實世界場景的特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，而"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2237
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[1]",
+            "text": "類似於 RAG 中的重新排序（re-ranking）模型。"
+          },
+          "text": "類似於 RAG 中的重新排序（re-ranking）模型。",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173354844,
+          "id": "hk-1767173354843-49406",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173354843,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2393
+              },
+              "quote": {
+                "exact": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調",
+                "prefix": "特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，而旅遊領域的 RAG 則往往包含更多口語化的用戶查詢。",
+                "suffix": "。值得一提的是，即使在大語言模型的時代，T5-large 模型仍然被認為是輕量級的。對於每個輸入的問題，CRAG 通常會"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2352
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[4]",
+            "text": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調"
+          },
+          "text": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173368234,
+          "id": "hk-1767173368233-14444",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173368233,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2986
+              },
+              "quote": {
+                "exact": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）",
+                "prefix": "重新組合，構建成完整的內部知識體系。\n2 從理論到實踐：使用LangGraph實現CRAG\n在前面的章節中，我們深入探討",
+                "suffix": "的概念、原理和優勢。CRAG作為一種先進的資訊檢索和生成技術，透過將上下文相關的檢索結果與大型語言模型（LLM）的生成能"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2928
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "text": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）"
+          },
+          "text": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/19229901774",
+      "title": "七大Agentic RAG框架技术解析 - 知乎",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172860120,
+          "id": "hk-1767172860119-70253",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172860118,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 253
+              },
+              "quote": {
+                "exact": "Naïve RAG",
+                "prefix": "和工作流程优化。详细探讨了Agentic RAG的基础原则、7大架构分类、关键应用，实施策略等全栈技术RAG的发展历程 ",
+                "suffix": "Naïve RAG是检索增强生成的基础实现，它侧重于基于关键词的检索和静态数据集。这些系统依赖于简单的关键词检索技术，如"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 244
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[2]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[2]/b[1]/text()[1]",
+            "text": "Naïve RAG"
+          },
+          "text": "Naïve RAG",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172863503,
+          "id": "hk-1767172863501-56180",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315564936,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 293
+              },
+              "quote": {
+                "exact": "基于关键词的检索和静态数据集",
+                "prefix": "类、关键应用，实施策略等全栈技术RAG的发展历程 Naïve RAGNaïve RAG是检索增强生成的基础实现，它侧重于",
+                "suffix": "。这些系统依赖于简单的关键词检索技术，如TF-IDF和BM25，从静态数据集中获取文档。检索到的文档用于增强语言模型的生"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 279
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[3]/text()[1]",
+            "text": "基于关键词的检索和静态数据集"
+          },
+          "text": "基于关键词的检索和静态数据集",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172887576,
+          "id": "hk-1767172887574-18477",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172887574,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 336
+              },
+              "quote": {
+                "exact": "依赖于简单的关键词检索技术，如TF-IDF和BM25，从静态数据集中获取文档",
+                "prefix": "的发展历程 Naïve RAGNaïve RAG是检索增强生成的基础实现，它侧重于基于关键词的检索和静态数据集。这些系统",
+                "suffix": "。检索到的文档用于增强语言模型的生成能力。Naïve RAG的特点包括简单易实现，适用于涉及基于事实的查询且上下文复杂性"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 298
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "text": "依赖于简单的关键词检索技术，如TF-IDF和BM25，从静态数据集中获取文档"
+          },
+          "text": "依赖于简单的关键词检索技术，如TF-IDF和BM25，从静态数据集中获取文档",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172927618,
+          "id": "hk-1767172927613-4091",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315564983,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 434
+              },
+              "quote": {
+                "exact": "性：缺乏上下文感知：由于依赖词汇匹配而非语义",
+                "prefix": "生成能力。Naïve RAG的特点包括简单易实现，适用于涉及基于事实的查询且上下文复杂性较低的任务。然而，它存在以下局限",
+                "suffix": "理解，检索到的文档常常无法捕捉查询的语义细微差别。输出碎片化：缺乏先进的预处理或上下文整合，常常导致不连贯或过于泛化的回"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 412
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[2]",
+            "text": "性：缺乏上下文感知：由于依赖词汇匹配而非语义"
+          },
+          "text": "性：缺乏上下文感知：由于依赖词汇匹配而非语义",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172930523,
+          "id": "hk-1767172930522-67449",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172930522,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 493
+              },
+              "quote": {
+                "exact": "缺乏先進的預處理或上下文整合，常常導致不連貫或過於泛化的回答",
+                "prefix": "，它有以下局限性：缺乏上下文感知：由於依賴詞彙配對而非語意理解，檢索到的文件常常無法捕捉查詢的語意細微差別。輸出碎片化：",
+                "suffix": "。可擴展性問題：關鍵字檢索技術在處理大型資料集時常常失敗，無法辨識最相關資訊。儘管有這些局限性，Naïve RAG系統為"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 463
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[2]/li[2]/font[1]/font[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[2]/li[2]/font[1]/font[1]/text()[1]",
+            "text": "缺乏先進的預處理或上下文整合，常常導致不連貫或過於泛化的回答"
+          },
+          "text": "缺乏先進的預處理或上下文整合，常常導致不連貫或過於泛化的回答",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173179340,
+          "id": "hk-1767173179338-66448",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315565018,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 951
+              },
+              "quote": {
+                "exact": "Modular RAG",
+                "prefix": "腻理解的应用，如研究综合和个性化推荐。然而，计算开销大和可扩展性有限等挑战依然存在，特别是在处理大型数据集或多步查询时。",
+                "suffix": "Modular RAG是RAG范式的最新演变，强调灵活性和定制化。这些系统将检索和生成流程分解为独立、可重用的组件，实现"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 940
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[12]/b[1]/text()[1]",
+            "startOffset": 87,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[11]/text()[1]",
+            "text": "Modular RAG"
+          },
+          "text": "Modular RAG",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173189281,
+          "id": "hk-1767173189280-2525",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173189279,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1171
+              },
+              "quote": {
+                "exact": "結合稀疏檢索方法（例如稀疏編碼器-BM25）與密集檢索技術（例如DPR - Dense Passage Retrieval），以最大化不同查詢類型的準確性。",
+                "prefix": "odular RAG展示了混合檢索策略、可組合的流程和外部工具整合。Modular RAG的關鍵創新包括：混合檢索策略：",
+                "suffix": "工具整合：整合外部API、資料庫或運算工具，處理專業任務，如即時資料分析或特定領域的運算。可組合的流程：Modular "
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1093
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[4]/li[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[4]/li[1]/font[1]/font[1]/text()[1]",
+            "text": "結合稀疏檢索方法（例如稀疏編碼器-BM25）與密集檢索技術（例如DPR - Dense Passage Retrieval），以最大化不同查詢類型的準確性。"
+          },
+          "text": "結合稀疏檢索方法（例如稀疏編碼器-BM25）與密集檢索技術（例如DPR - Dense Passage Retrieval），以最大化不同查詢類型的準確性。",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173196163,
+          "id": "hk-1767173196161-90594",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315565567,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1531
+              },
+              "quote": {
+                "exact": " RAG能够实现更丰富、更准确的生成输出，特别是在需要关系理解的任务中。Grap",
+                "prefix": "的检索增强生成系统，这些系统利用图数据中的关系和层次结构，增强了多跳推理和上下文丰富性。通过引入基于图的检索，Graph",
+                "suffix": "h RAG的特点包括：节点连接性：捕获并推理实体之间的关系。层次知识管理：通过基于图的层次结构处理结构化和非结构化数据。"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1491
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[19]/text()[1]",
+            "startOffset": 86,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[17]/text()[1]",
+            "text": " RAG能够实现更丰富、更准确的生成输出，特别是在需要关系理解的任务中。Grap"
+          },
+          "text": " RAG能够实现更丰富、更准确的生成输出，特别是在需要关系理解的任务中。Grap",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173215290,
+          "id": "hk-1767173215288-25343",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173215288,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1565
+              },
+              "quote": {
+                "exact": "節點連接性：捕捉並推理實體之間的關係",
+                "prefix": "的檢索，Graph RAG能夠實現更豐富、更準確的生成輸出，特別是在需要關係理解的任務中。Graph RAG的特色包括：",
+                "suffix": "。層次知識管理：透過基於圖的層次結構處理結構化和非結構化資料。上下文豐富：透過利用基於圖的路徑添加關係理解。然而，Gra"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1547
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[5]/li[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[5]/li[1]/font[1]/font[1]/text()[1]",
+            "text": "節點連接性：捕捉並推理實體之間的關係"
+          },
+          "text": "節點連接性：捕捉並推理實體之間的關係",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173221263,
+          "id": "hk-1767173221262-69661",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315565612,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1672
+              },
+              "quote": {
+                "exact": "有限：依赖图结构可能会限制可扩展性，特别是在数据源广泛时。数据依赖：",
+                "prefix": "处理结构化和非结构化数据。上下文丰富：通过利用基于图的路径添加关系理解。然而，Graph RAG也有一些局限性：可扩展性",
+                "suffix": "高质量的图数据对于有意义的输出至关重要，限制了其在非结构化或注释不佳的数据集中的适用性。集成复杂性：将图数据与非结构化检"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1638
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[6]/li[2]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[6]/li[1]/text()[1]",
+            "text": "有限：依赖图结构可能会限制可扩展性，特别是在数据源广泛时。数据依赖："
+          },
+          "text": "有限：依赖图结构可能会限制可扩展性，特别是在数据源广泛时。数据依赖：",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173224965,
+          "id": "hk-1767173224964-59716",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173224963,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1806
+              },
+              "quote": {
+                "exact": "Agentic RAG",
+                "prefix": "化檢索系統整合增加了設計和實現的複雜性。Graph RAG適用於醫療診斷、法律研究等需要對結構化關係進行推理的應用領域。",
+                "suffix": "Agentic RAG透過引入能夠進行動態決策和工作流程優化的自主代理，實現了範式轉移。與靜態系統不同，Agentic "
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1795
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[22]/b[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[22]/b[1]/font[1]/font[1]/text()[1]",
+            "text": "Agentic RAG"
+          },
+          "text": "Agentic RAG",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173229580,
+          "id": "hk-1767173229579-96517",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315565640,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1928
+              },
+              "quote": {
+                "exact": "tic RAG采用迭代细化和自适应检索策略，以应对复杂、实时和多域查询。这一范式利用检索和生成过程的模块化，同时引入基于代理的自主性。Agen",
+                "prefix": " RAGAgentic RAG通过引入能够进行动态决策和工作流程优化的自主代理，实现了范式转变。与静态系统不同，Agen",
+                "suffix": "tic RAG系统Single-Agent Agentic RAG：路由器单智能体Agentic RAG系统作为一个集中"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1857
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/h2[2]/b[1]/text()[1]",
+            "startOffset": 51,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[22]/text()[1]",
+            "text": "tic RAG采用迭代细化和自适应检索策略，以应对复杂、实时和多域查询。这一范式利用检索和生成过程的模块化，同时引入基于代理的自主性。Agen"
+          },
+          "text": "tic RAG采用迭代细化和自适应检索策略，以应对复杂、实时和多域查询。这一范式利用检索和生成过程的模块化，同时引入基于代理的自主性。Agen",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173241809,
+          "id": "hk-1767173241808-6774",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173241807,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 3603
+              },
+              "quote": {
+                "exact": "Corrective RAG",
+                "prefix": "生品質。透過將智慧代理嵌入工作流程，Corrective RAG確保迭代細化上下文文件和回答，最小化錯誤並最大化相關性。",
+                "suffix": "的核心概念：Corrective RAG的核心原則在於其能夠動態評估檢索到的文檔，執行糾正措施，並細化查詢以提高產生答案"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 3589
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[37]/b[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[37]/b[1]/font[1]/font[1]/text()[1]",
+            "text": "Corrective RAG"
+          },
+          "text": "Corrective RAG",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173246378,
+          "id": "hk-1767173246376-76914",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767315565655,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 3667
+              },
+              "quote": {
+                "exact": "提高生成回答的质量。Corrective RAG调整其方法如下：文档",
+                "prefix": "ve RAG的核心理念：Corrective RAG的核心原则在于其能够动态评估检索到的文档，执行纠正措施，并细化查询以",
+                "suffix": "相关性评估：检索到的文档由相关性评估代理进行评估。低于相关性阈值的文档触发纠正步骤。查询细化和增强：查询由查询细化代理进"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 3633
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ul[10]/li[1]/text()[1]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[36]/text()[2]",
+            "text": "提高生成回答的质量。Corrective RAG调整其方法如下：文档"
+          },
+          "text": "提高生成回答的质量。Corrective RAG调整其方法如下：文档",
+          "url": "https://zhuanlan.zhihu.com/p/19229901774"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10345205",
+      "title": "Day24 GAI爆炸時代 - Naive RAG 介紹 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172968231,
+          "id": "hk-1767172968229-68085",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172968228,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 351
+              },
+              "quote": {
+                "exact": "基於關鍵詞的查找或餘弦相似度，從文檔庫中提取與查詢最相關的幾個文檔或片段",
+                "prefix": "過Index與User query 的向量進行比對檢索\n\n\n檢索 (Retrieval):\n使用一個簡單的檢索方法，例如",
+                "suffix": "。\n\n\n生成 (Generation):\n將檢索到的文檔片段作為上下文，然後將查詢和這些上下文輸入到一個預訓練的生成模型"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 315
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[2]/p[1]/text()[2]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[2]/p[1]/text()[2]",
+            "text": "基於關鍵詞的查找或餘弦相似度，從文檔庫中提取與查詢最相關的幾個文檔或片段"
+          },
+          "text": "基於關鍵詞的查找或餘弦相似度，從文檔庫中提取與查詢最相關的幾個文檔或片段",
+          "url": "https://ithelp.ithome.com.tw/articles/10345205"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172988157,
+          "id": "hk-1767172988156-46802",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172988156,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 495
+              },
+              "quote": {
+                "exact": "文檔可以是文本檔案、文章段落或其他形式的文本資料",
+                "prefix": "（例如 GPT）中，來生成最終的回答或文本。\n\n\nNaive RAG 的實現步驟\n\n\n準備資料:\n你需要一個文檔庫，這些",
+                "suffix": "。這些文檔將用於檢索和生成回答。\n\n\n向量化查詢和文檔:\n為了簡單起見，可以使用 TF-IDF 或 CountVecto"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 471
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[2]/li[1]/p[1]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[2]/li[1]/p[1]/text()[2]",
+            "text": "文檔可以是文本檔案、文章段落或其他形式的文本資料"
+          },
+          "text": "文檔可以是文本檔案、文章段落或其他形式的文本資料",
+          "url": "https://ithelp.ithome.com.tw/articles/10345205"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172992531,
+          "id": "hk-1767172992529-5804",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172992528,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 573
+              },
+              "quote": {
+                "exact": "可以使用 TF-IDF 或 CountVectorizer 來將查詢和文檔轉換為向量",
+                "prefix": "文檔可以是文本檔案、文章段落或其他形式的文本資料。這些文檔將用於檢索和生成回答。\n\n\n向量化查詢和文檔:\n為了簡單起見，",
+                "suffix": "。這些向量將用於計算相似度，以找到與查詢最相關的文檔。\nfrom sklearn.feature_extraction."
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 531
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[2]/li[2]/p[1]/text()[4]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[2]/li[2]/p[1]/text()[2]",
+            "text": "可以使用 TF-IDF 或 CountVectorizer 來將查詢和文檔轉換為向量"
+          },
+          "text": "可以使用 TF-IDF 或 CountVectorizer 來將查詢和文檔轉換為向量",
+          "url": "https://ithelp.ithome.com.tw/articles/10345205"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767172998155,
+          "id": "hk-1767172998153-14667",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767172998153,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 963
+              },
+              "quote": {
+                "exact": "餘弦相似度來計算查詢與每個文檔的相似度",
+                "prefix": "\"\nquery_vector = vectorizer.transform([query])\n\n\n\n檢索相關文檔:\n使用",
+                "suffix": "，並檢索與查詢最相關的文檔。\nfrom sklearn.metrics.pairwise import cosine_s"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 944
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[2]/li[3]/p[1]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[2]/li[3]/p[1]/text()[2]",
+            "text": "餘弦相似度來計算查詢與每個文檔的相似度"
+          },
+          "text": "餘弦相似度來計算查詢與每個文檔的相似度",
+          "url": "https://ithelp.ithome.com.tw/articles/10345205"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173004887,
+          "id": "hk-1767173004886-77364",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173004886,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1951
+              },
+              "quote": {
+                "exact": " 是一種簡單而有效的檢索增強生成方法，適合用於原型設計和初步測試",
+                "prefix": " 生成模型依賴於檢索到的文檔質量，若檢索到的文檔不夠相關或精確，生成的文本也可能不符合需求。\n\n總結\nNaive RAG",
+                "suffix": "。它結合了簡單的檢索方法和生成模型，能夠在一定程度上提高文本生成的質量。儘管存在一定的局限性，但它為更複雜的 RAG 系"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1919
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": " 是一種簡單而有效的檢索增強生成方法，適合用於原型設計和初步測試"
+          },
+          "text": " 是一種簡單而有效的檢索增強生成方法，適合用於原型設計和初步測試",
+          "url": "https://ithelp.ithome.com.tw/articles/10345205"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c",
+      "title": "深入介紹及比較ROC曲線及PR曲線. 詳細介紹ROC曲線以及PR曲線 | by CHEN TSU PEI | NLP-trend-and-review | Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767165357749,
+          "id": "hk-1767165357747-24203",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165357746,
+              "end": {
+                "css": "p#\\33 8b1",
+                "textOffset": 47
+              },
+              "quote": {
+                "exact": "一個二分類模型中，我們的模型通常不會直接輸出0,1直接預測出分類，而是對每個分類輸出一個機率",
+                "prefix": "ead·Dec 30, 20195081Share此文章完整發佈在我的個人網頁，此處不會再更新Introduction在",
+                "suffix": "，例如加上softmax對各分類輸出機率，這樣讓我們能夠自己設定一個門檻(threshold)來決定機率大於多少時我們判"
+              },
+              "start": {
+                "css": "p#\\33 8b1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "一個二分類模型中，我們的模型通常不會直接輸出0,1直接預測出分類，而是對每個分類輸出一個機率"
+          },
+          "text": "一個二分類模型中，我們的模型通常不會直接輸出0,1直接預測出分類，而是對每個分類輸出一個機率",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767171014627,
+          "id": "hk-1767171014623-23973",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767171014623,
+              "end": {
+                "css": "li#a5e5",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "ROC Curves 適合類別平均的情況",
+                "prefix": "下，給正負樣本的機率都為0.5，我們從模型中無法獲得任何有用資訊，在 ROC 曲線中以左下到右上的對角線表示Points",
+                "suffix": "，而 PR Curves 適合於類別不平均的情況AUC (Area under curve) 可以當作一個判斷整體模型能"
+              },
+              "start": {
+                "css": "li#a5e5 > em.qg",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/ol[2]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/ol[2]/li[1]/em[1]/text()[1]",
+            "text": "ROC Curves 適合類別平均的情況"
+          },
+          "text": "ROC Curves 適合類別平均的情況",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        },
+        {
+          "color": "#febebe",
+          "createdAt": 1767171016223,
+          "id": "hk-1767171016221-90009",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767171016221,
+              "end": {
+                "css": "li#a5e5",
+                "textOffset": 44
+              },
+              "quote": {
+                "exact": "而 PR Curves 適合於類別不平均的情況",
+                "prefix": "中無法獲得任何有用資訊，在 ROC 曲線中以左下到右上的對角線表示PointsROC Curves 適合類別平均的情況，",
+                "suffix": "AUC (Area under curve) 可以當作一個判斷整體模型能力(skill)的指標可以直接比較不同模型在不同"
+              },
+              "start": {
+                "css": "li#a5e5",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/ol[2]/li[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/ol[2]/li[1]/text()[1]",
+            "text": "而 PR Curves 適合於類別不平均的情況"
+          },
+          "text": "而 PR Curves 適合於類別不平均的情況",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767171021041,
+          "id": "hk-1767171021039-29210",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767171021039,
+              "end": {
+                "css": "li#\\34 02c",
+                "textOffset": 47
+              },
+              "quote": {
+                "exact": "AUC (Area under curve) 可以當作一個判斷整體模型能力(skill)的指標",
+                "prefix": "下到右上的對角線表示PointsROC Curves 適合類別平均的情況，而 PR Curves 適合於類別不平均的情況",
+                "suffix": "可以直接比較不同模型在不同Threshold下的SkillROC Curve(Receiver Operating Ch"
+              },
+              "start": {
+                "css": "li#\\34 02c > em.qg",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/ol[2]/li[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/ol[2]/li[2]/em[1]/text()[1]",
+            "text": "AUC (Area under curve) 可以當作一個判斷整體模型能力(skill)的指標"
+          },
+          "text": "AUC (Area under curve) 可以當作一個判斷整體模型能力(skill)的指標",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767171156423,
+          "id": "hk-1767171156421-42140",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767171156421,
+              "end": {
+                "css": "p#cda3",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "ROC 曲線以 FPR 為 X 軸，TPR為 Y 軸",
+                "prefix": "old下的SkillROC Curve(Receiver Operating Characteristic Curve)",
+                "suffix": "，每一個點代表設定不同的門檻值所得到的不同的 FPR 及 TPR ，最後繪製成一條曲線。建議可以參考我另一篇文章所介紹的"
+              },
+              "start": {
+                "css": "p#cda3 > em.qg",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[3]/em[1]/text()[1]",
+            "text": "ROC 曲線以 FPR 為 X 軸，TPR為 Y 軸"
+          },
+          "text": "ROC 曲線以 FPR 為 X 軸，TPR為 Y 軸",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767171179525,
+          "id": "hk-1767171179523-96349",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767171179523,
+              "end": {
+                "css": "p#\\32 a44 > mark.aft.afu:nth-of-type(4)",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "Recall 及 Precision 都適合用於類別不平均的資料集",
+                "prefix": "sion ，最後繪製成一條曲線。建議可以參考我另一篇文章所介紹的 Recall 及 Precision這邊特別注意的是，",
+                "suffix": "，因為在算式中並沒有考慮 True Negatives (TN) ，只專注於正確判斷正樣本，因此，就算資料集中負樣本的數"
+              },
+              "start": {
+                "css": "p#\\32 a44 > mark.aft.afu > em.qg",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[15]/mark[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[15]/mark[1]/em[1]/text()[1]",
+            "text": "Recall 及 Precision 都適合用於類別不平均的資料集"
+          },
+          "text": "Recall 及 Precision 都適合用於類別不平均的資料集",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767171183735,
+          "id": "hk-1767171183733-27411",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767171183732,
+              "end": {
+                "css": "p#\\32 a44",
+                "textOffset": 75
+              },
+              "quote": {
+                "exact": "Recall 及 Precision 都適合用於類別不平均的資料集，因為在算式中並沒有考慮 True Negatives (TN) ",
+                "prefix": "sion ，最後繪製成一條曲線。建議可以參考我另一篇文章所介紹的 Recall 及 Precision這邊特別注意的是，",
+                "suffix": "，只專注於正確判斷正樣本，因此，就算資料集中負樣本的數目遠大於正樣本，Recall 及 Precision仍是有效的參考"
+              },
+              "start": {
+                "css": "p#\\32 a44 > mark.hk-highlight:nth-of-type(2) > mark.aft.afu > em.qg",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[15]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[15]/mark[2]/mark[1]/em[1]/text()[1]",
+            "text": "Recall 及 Precision 都適合用於類別不平均的資料集，因為在算式中並沒有考慮 True Negatives (TN) "
+          },
+          "text": "Recall 及 Precision 都適合用於類別不平均的資料集，因為在算式中並沒有考慮 True Negatives (TN) ",
+          "url": "https://medium.com/nlp-tsupei/roc-pr-%E6%9B%B2%E7%B7%9A-f3faa2231b8c"
+        }
+      ]
+    },
+    {
+      "url": "https://www.yongxi-stat.com/receiver-operating-characteristic-roc/",
+      "title": "【ROC曲線法（ROC curve, receiver operating characteristic curve）】 - 永析統計及論文諮詢顧問",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767165308084,
+          "id": "hk-1767165308083-5567",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165308082,
+              "end": {
+                "css": "article#post-3114 > div.post-content:nth-of-type(2)",
+                "textOffset": 357
+              },
+              "quote": {
+                "exact": "ROC 曲線下面積（area under the ROC curve, AUC）",
+                "prefix": "以及提供一個範例，使用SPSS統計分析軟體進行ROC分析的操作，並在最後解說如何判讀最佳的切截點分數。\nROC分析會提供",
+                "suffix": "，其功能在於告訴我們這個新量表具備多準確的篩檢能力，roc曲線下面積越大，表示新量表篩檢的準確度越高，以下表格為詳細的判"
+              },
+              "start": {
+                "css": "article#post-3114 > div.post-content:nth-of-type(2)",
+                "textOffset": 317
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/section[1]/article[1]/div[2]/p[5]/span[1]/strong[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/main[1]/div[1]/section[1]/article[1]/div[2]/p[5]/span[1]/strong[1]/span[1]/text()[1]",
+            "text": "ROC 曲線下面積（area under the ROC curve, AUC）"
+          },
+          "text": "ROC 曲線下面積（area under the ROC curve, AUC）",
+          "url": "https://www.yongxi-stat.com/receiver-operating-characteristic-roc/"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF",
+      "title": "ROC曲線 - 維基百科，自由的百科全書",
+      "entries": [
+        {
+          "color": "#9edaff",
+          "createdAt": 1767165212409,
+          "id": "hk-1767165212405-43022",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165212404,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 281
+              },
+              "quote": {
+                "exact": "接收者操作特徵曲線",
+                "prefix": "格式需改善 (2024年12月11日)請儘量協助改善這篇條目，詳情請參見討論頁。\n\n\n3條ROC曲線\n在訊號檢測理論中，",
+                "suffix": "，或者叫ROC曲線（英語：Receiver operating characteristic curve），是一種坐標圖"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 272
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[1]/text()[1]",
+            "text": "接收者操作特徵曲線"
+          },
+          "text": "接收者操作特徵曲線",
+          "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767165214126,
+          "id": "hk-1767165214123-19554",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165214122,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 290
+              },
+              "quote": {
+                "exact": "ROC曲線",
+                "prefix": "2月11日)請儘量協助改善這篇條目，詳情請參見討論頁。\n\n\n3條ROC曲線\n在訊號檢測理論中，接收者操作特徵曲線，或者叫",
+                "suffix": "（英語：Receiver operating characteristic curve），是一種坐標圖式的分析工具，用於"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 285
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[2]/text()[1]",
+            "text": "ROC曲線"
+          },
+          "text": "ROC曲線",
+          "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767165216657,
+          "id": "hk-1767165216654-82432",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165216654,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 333
+              },
+              "quote": {
+                "exact": "Receiver operating characteristic curve",
+                "prefix": "協助改善這篇條目，詳情請參見討論頁。\n\n\n3條ROC曲線\n在訊號檢測理論中，接收者操作特徵曲線，或者叫ROC曲線（英語：",
+                "suffix": "），是一種坐標圖式的分析工具，用於選擇最佳的訊號偵測模型、捨棄次佳的模型或者在同一模型中設定最佳閾值。\n在做決策時，RO"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 294
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/span[1]/text()[1]",
+            "text": "Receiver operating characteristic curve"
+          },
+          "text": "Receiver operating characteristic curve",
+          "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767165233973,
+          "id": "hk-1767165233969-3149",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165233969,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2038
+              },
+              "quote": {
+                "exact": "ROC分析的是二元分類模型，也就是輸出結果只有兩種類別的模型",
+                "prefix": "006).\n\n參見：第一型及型二錯誤和靈敏度和特異度\n分類模型（又稱分類器，或診斷）是將一個實例對映到一個特定類的過程。",
+                "suffix": "，例如：（陽性／陰性）（有病／沒病）（垃圾郵件／非垃圾郵件）（敵軍／非敵軍）。\n當訊號偵測（或變數測量）的結果是一個連續"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2008
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[4]/text()[4]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[4]/text()[3]",
+            "text": "ROC分析的是二元分類模型，也就是輸出結果只有兩種類別的模型"
+          },
+          "text": "ROC分析的是二元分類模型，也就是輸出結果只有兩種類別的模型",
+          "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767165247604,
+          "id": "hk-1767165247599-42619",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165247598,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2132
+              },
+              "quote": {
+                "exact": "當訊號偵測（或變數測量）的結果是一個連續值時，類與類的邊界必須用一個閾值（英語：threshold）來界定。",
+                "prefix": "類模型，也就是輸出結果只有兩種類別的模型，例如：（陽性／陰性）（有病／沒病）（垃圾郵件／非垃圾郵件）（敵軍／非敵軍）。\n",
+                "suffix": "舉例來說，用血壓值來檢測一個人是否有高血壓，測出的血壓值是連續的實數（從0~200都有可能），以收縮壓140／舒張壓90"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2078
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[6]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[1]",
+            "text": "當訊號偵測（或變數測量）的結果是一個連續值時，類與類的邊界必須用一個閾值（英語：threshold）來界定。"
+          },
+          "text": "當訊號偵測（或變數測量）的結果是一個連續值時，類與類的邊界必須用一個閾值（英語：threshold）來界定。",
+          "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767165255729,
+          "id": "hk-1767165255726-10100",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767165255724,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2490
+              },
+              "quote": {
+                "exact": "ROC空間將偽陽性率（FPR）定義為 X 軸，真陽性率（TPR）定義為 Y 軸。",
+                "prefix": "TP)\n偽陽性(FP)\nP'\n\n\nn'\n偽陰性(FN)\n真陰性(TN)\nN'\n\n\n總數\nP\nN\n\n\nROC空間[編輯]\n",
+                "suffix": "\n\nTPR：在所有實際為陽性的樣本中，被正確地判斷為陽性之比率。（相當於靈敏度。）\n\n  \n    \n      \n  "
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 2450
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[7]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[7]/text()[1]",
+            "text": "ROC空間將偽陽性率（FPR）定義為 X 軸，真陽性率（TPR）定義為 Y 軸。"
+          },
+          "text": "ROC空間將偽陽性率（FPR）定義為 X 軸，真陽性率（TPR）定義為 Y 軸。",
+          "url": "https://zh.wikipedia.org/zh-tw/ROC%E6%9B%B2%E7%BA%BF"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c",
+      "title": "分類器評估方法 — ROC曲線、AUC、Accuracy、PR曲線 | by 行銷資料科學 | Marketingdatascience | Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767164811639,
+          "id": "hk-1767164811638-79687",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990483,
+              "end": {
+                "css": "p#\\38 c2d",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。",
+                "prefix": "enter or click to view image in full size圖1 混淆矩陣表格1 為圖1的中文解釋",
+                "suffix": "(一) ROC曲線ROC曲線（Receiver Operator Characteristic Curve，譯為接收者操"
+              },
+              "start": {
+                "css": "p#\\38 c2d",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。"
+          },
+          "text": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767164817859,
+          "id": "hk-1767164817858-28496",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990499,
+              "end": {
+                "css": "p#\\36 5df",
+                "textOffset": 44
+              },
+              "quote": {
+                "exact": "ROC曲線（Receiver Operator Characteristic Curve",
+                "prefix": "1的中文解釋目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。(一) ROC曲線",
+                "suffix": "，譯為接收者操作特性曲線）。ROC曲線以FPR為X軸；TPR為Y軸，如圖1左所示。Press enter or clic"
+              },
+              "start": {
+                "css": "p#\\36 5df",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "ROC曲線（Receiver Operator Characteristic Curve"
+          },
+          "text": "ROC曲線（Receiver Operator Characteristic Curve",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767164932181,
+          "id": "hk-1767164932180-28797",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990510,
+              "end": {
+                "css": "p#\\34 276",
+                "textOffset": 33
+              },
+              "quote": {
+                "exact": "AUC（Area Under Curve）代表在ROC曲線下的面積",
+                "prefix": "代表完美分類，代表效益最大，成本最低。所以ROC曲線越靠近左上方越好。(二) AUC（Area Under Curve）",
+                "suffix": "，能表示分類器預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，ROC曲線下的面積越大越好，代表模"
+              },
+              "start": {
+                "css": "p#\\34 276",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "AUC（Area Under Curve）代表在ROC曲線下的面積"
+          },
+          "text": "AUC（Area Under Curve）代表在ROC曲線下的面積",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767164944293,
+          "id": "hk-1767164944292-69360",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990519,
+              "end": {
+                "css": "p#\\32 0b8",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況",
+                "prefix": "預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，ROC曲線下的面積越大越好，代表模型的效益越高。",
+                "suffix": "。當AUC > 0.5時，代表分類器分類效果優於隨機猜測，模型有預測價值。當AUC = 0.5時，代表分類器分類效果與隨"
+              },
+              "start": {
+                "css": "p#\\32 0b8",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況"
+          },
+          "text": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.csdn.net/fyfugoyfa/article/details/144678877",
+      "title": "一文理解机器学习中二分类任务的评价指标 AUPRC 和 AUROC-CSDN博客",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767164656010,
+          "id": "hk-1767164656008-34393",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164693287,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 197
+              },
+              "quote": {
+                "exact": "Precision-Recall Curve",
+                "prefix": "un.blog.csdn.net/ \n \n在机器学习的二分类任务中，评估模型性能是至关重要的一步。两种常用的评价指标是 ",
+                "suffix": " 下的面积 (AUPRC) 和 Receiver Operating Characteristic Curve 下的面积"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 175
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[2]/strong[1]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Precision-Recall Curve"
+          },
+          "text": "Precision-Recall Curve",
+          "url": "https://blog.csdn.net/fyfugoyfa/article/details/144678877"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767164708440,
+          "id": "hk-1767164708438-50995",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164708438,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 384
+              },
+              "quote": {
+                "exact": "ROC 曲线",
+                "prefix": "、基本定义 \n1.1 Receiver Operating Characteristic Curve 和 AUROC \n",
+                "suffix": "是一种通过绘制真正例率（True Positive Rate, TPR）与假正例率（False Positive Rat"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 378
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "text": "ROC 曲线"
+          },
+          "text": "ROC 曲线",
+          "url": "https://blog.csdn.net/fyfugoyfa/article/details/144678877"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10229049?sc=rss.qu",
+      "title": "淺談機器學習的效能衡量指標 (2) -- ROC/AUC 曲線 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162962440,
+          "id": "hk-1767162962439-93690",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162962438,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 306
+              },
+              "quote": {
+                "exact": "ROC(Receiver operator characteristic）",
+                "prefix": "斷飛機、船艦的所在位置，之後也被廣泛應用在無線電、生物學、犯罪心理學、醫學領域，接下來我們就來領略它的強大威力。\n定義\n",
+                "suffix": "：有人翻譯為『接收操作特徵圖』，其實沒甚麼幫助，它的定義是在各種『決策門檻』（decision threshold）下，"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 269
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "ROC(Receiver operator characteristic）"
+          },
+          "text": "ROC(Receiver operator characteristic）",
+          "url": "https://ithelp.ithome.com.tw/articles/10229049?sc=rss.qu"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767162974859,
+          "id": "hk-1767162974858-84342",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767162974858,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 542
+              },
+              "quote": {
+                "exact": "AUC(Area Under the Curve)就比較容易理解，即ROC曲線之下所覆蓋的面積，除以總面積的比率。",
+                "prefix": "PR）間的變化。圖. 『真陽率』與『假陽率』公式\nROC曲線可以繪製成一條曲線，如下圖，有多條ROC曲線，相互比較效能，",
+                "suffix": "\n圖. ROC曲線比較，X軸為假陽率，Y軸為真陽率。\n以雷達偵測為例，信號要大於某個決策門檻（decision thre"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 485
+              },
+              "version": 1
+            },
+            "endOffset": 92,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "AUC(Area Under the Curve)就比較容易理解，即ROC曲線之下所覆蓋的面積，除以總面積的比率。"
+          },
+          "text": "AUC(Area Under the Curve)就比較容易理解，即ROC曲線之下所覆蓋的面積，除以總面積的比率。",
+          "url": "https://ithelp.ithome.com.tw/articles/10229049?sc=rss.qu"
         }
       ]
     },
@@ -1669,7 +3981,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "Model Training Progress",
+      "title": "ChatGPT",
       "entries": [
         {
           "color": "#ffea9e",
@@ -12202,13 +14514,13 @@
       ]
     },
     {
-      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
-      "title": "General",
+      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
+      "title": "程式碼範例與解釋",
       "entries": []
     },
     {
-      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
-      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
+      "url": "https://mail.google.com/mail/u/0/?pli=1",
+      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
       "entries": []
     }
   ]
