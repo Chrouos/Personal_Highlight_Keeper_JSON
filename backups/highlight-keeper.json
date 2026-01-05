@@ -1,8 +1,864 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767578807615,
+  "exportedAt": 1767603294496,
   "pages": [
+    {
+      "url": "https://blog.toright.com/posts/7685/llm-rag-introduction",
+      "title": "LLM RAG 擷取增強生成介紹 (3 種 RAG/Self-RAG/CRAG 全解析)",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767603283038,
+          "id": "hk-1767603283034-96709",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767603283031,
+              "end": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 564
+              },
+              "quote": {
+                "exact": "將「AI LLM 的智慧」與「資料庫的知識」結合起來的方法",
+                "prefix": "前的人工智慧技術中，LLM (大型語言模型) 和 RAG (檢索增強生成) 結合是一種強大的應用方式。簡單來說，這是一種",
+                "suffix": "。LLM 就像是一位非常聰明的助手，擅長理解和生成自然語言，能回答問題、完成文章，甚至進行創意寫作。但它的知識是來自於訓"
+              },
+              "start": {
+                "css": "article#post-7685 > div.entry-content.description:nth-of-type(2)",
+                "textOffset": 535
+              },
+              "version": 1
+            },
+            "endOffset": 90,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 61,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[2]/p[1]/text()[1]",
+            "text": "將「AI LLM 的智慧」與「資料庫的知識」結合起來的方法"
+          },
+          "text": "將「AI LLM 的智慧」與「資料庫的知識」結合起來的方法",
+          "url": "https://blog.toright.com/posts/7685/llm-rag-introduction"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pinecone.io/blog/hybrid-search/",
+      "title": "Introducing the hybrid index to enable keyword-aware semantic search | Pinecone",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594885205,
+          "id": "hk-1767594885204-63272",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594885203,
+              "end": {
+                "css": "h2#New-approach-to-hybrid-search-leads-to-more-relevant-results",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "hybrid search",
+                "prefix": "y're published:最新消息發布時，請透過電子郵件接收：Get UpdatesNew approach to ",
+                "suffix": " leads to more relevant results混合式搜尋的新方法帶來更相關的結果Growing expe"
+              },
+              "start": {
+                "css": "h2#New-approach-to-hybrid-search-leads-to-more-relevant-results",
+                "textOffset": 16
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/text()[1]",
+            "text": "hybrid search"
+          },
+          "text": "hybrid search",
+          "url": "https://www.pinecone.io/blog/hybrid-search/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594915114,
+          "id": "hk-1767594915112-40870",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594915112,
+              "end": {
+                "css": "div.flex.flex-col > div.w-full.flex-col > div.prose.max-w-none > ul.\\!marker\\:text-text-primary.ml-8\\! > li.pl-2\\!.text-body-mobile > span.mt-0.block",
+                "textOffset": 42
+              },
+              "quote": {
+                "exact": "Keyword search can miss important context.",
+                "prefix": "們的意圖）帶來了重要的進步——例如語意搜尋——超越了關鍵字搜尋的功能。然而，關鍵字搜尋與語意搜尋都有重要的權衡需要考量：",
+                "suffix": " Keyword methods can struggle even with simple synonyms with"
+              },
+              "start": {
+                "css": "div.flex.flex-col > div.w-full.flex-col > div.prose.max-w-none > ul.\\!marker\\:text-text-primary.ml-8\\! > li.pl-2\\!.text-body-mobile > span.mt-0.block",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/span[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/span[1]/strong[1]/text()[1]",
+            "text": "Keyword search can miss important context."
+          },
+          "text": "Keyword search can miss important context.",
+          "url": "https://www.pinecone.io/blog/hybrid-search/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594922203,
+          "id": "hk-1767594922202-66908",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594922201,
+              "end": {
+                "css": "div.flex.flex-col > div.w-full.flex-col > div.prose.max-w-none > ul.\\!marker\\:text-text-primary.ml-8\\! > li.pl-2\\!.text-body-mobile:nth-of-type(2) > span.mt-0.block",
+                "textOffset": 168
+              },
+              "quote": {
+                "exact": "such as names, industry-specific jargon, or rare words",
+                "prefix": "search may overlook details searching for certain keywords (",
+                "suffix": "), providing related but not the best results.語意搜尋可能會遺漏重要關鍵字"
+              },
+              "start": {
+                "css": "div.flex.flex-col > div.w-full.flex-col > div.prose.max-w-none > ul.\\!marker\\:text-text-primary.ml-8\\! > li.pl-2\\!.text-body-mobile:nth-of-type(2) > span.mt-0.block",
+                "textOffset": 114
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "startOffset": 70,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "text": "such as names, industry-specific jargon, or rare words"
+          },
+          "text": "such as names, industry-specific jargon, or rare words",
+          "url": "https://www.pinecone.io/blog/hybrid-search/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594950082,
+          "id": "hk-1767594950081-10454",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594950081,
+              "end": {
+                "css": "div.container > div.relative.px-4 > div.flex.flex-col > div.w-full.flex-col > div.prose.max-w-none > p.mt-4.text-body:nth-of-type(7)",
+                "textOffset": 105
+              },
+              "quote": {
+                "exact": " using hybrid vectors for use cases outside of text",
+                "prefix": "G@1000We also know there’s a growing area of research around",
+                "suffix": " (e.g. creating sparse vectors from a learned sparse model ("
+              },
+              "start": {
+                "css": "div.container > div.relative.px-4 > div.flex.flex-col > div.w-full.flex-col > div.prose.max-w-none > p.mt-4.text-body:nth-of-type(7)",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 105,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "text": " using hybrid vectors for use cases outside of text"
+          },
+          "text": " using hybrid vectors for use cases outside of text",
+          "url": "https://www.pinecone.io/blog/hybrid-search/"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10378322",
+      "title": "Day14｜RAG 魔法課 (上)：Hybrid Search 與 Re-ranking 完整實戰 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767593918616,
+          "id": "hk-1767593918614-50931",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767593918611,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6553
+              },
+              "quote": {
+                "exact": "Hybrid Search（混合搜尋）",
+                "prefix": "同時結合 向量搜尋（Vector Search） 與 傳統文字搜尋（Text Search） 的搜尋策略。\n\n我們來談 ",
+                "suffix": "。我會從概念到實作都說清楚，並且跟我現在用的 Qdrant 範例做連結。\n\n稀疏向量（Sparse Vectors）\n傳"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6534
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[9]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[9]/strong[1]/text()[1]",
+            "text": "Hybrid Search（混合搜尋）"
+          },
+          "text": "Hybrid Search（混合搜尋）",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594287732,
+          "id": "hk-1767594287730-80895",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594287730,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6656
+              },
+              "quote": {
+                "exact": "傳統的基於關鍵字的檢索，也可以視為向量搜尋，只不過這些向量大部分維度為 0，即稀疏向量。",
+                "prefix": "）。我會從概念到實作都說清楚，並且跟我現在用的 Qdrant 範例做連結。\n\n稀疏向量（Sparse Vectors）\n",
+                "suffix": "向量的每個非零維度對應字典中某個詞的出現。稀疏向量的優勢在於：\n\n能精確匹配專有名詞、代碼或隨機字符等文本。\n字典可以動"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6612
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "傳統的基於關鍵字的檢索，也可以視為向量搜尋，只不過這些向量大部分維度為 0，即稀疏向量。"
+          },
+          "text": "傳統的基於關鍵字的檢索，也可以視為向量搜尋，只不過這些向量大部分維度為 0，即稀疏向量。",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594298839,
+          "id": "hk-1767594298838-64777",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594298838,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6698
+              },
+              "quote": {
+                "exact": "能精確匹配專有名詞",
+                "prefix": "向量搜尋，只不過這些向量大部分維度為 0，即稀疏向量。向量的每個非零維度對應字典中某個詞的出現。稀疏向量的優勢在於：\n\n",
+                "suffix": "、代碼或隨機字符等文本。\n字典可以動態擴充，不需要重新訓練模型。\n\nBM25\nBM25（Best Matching 25"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6689
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/text()[1]",
+            "text": "能精確匹配專有名詞"
+          },
+          "text": "能精確匹配專有名詞",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594301017,
+          "id": "hk-1767594301016-5123",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594301015,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6759
+              },
+              "quote": {
+                "exact": "BM25（Best Matching 25）",
+                "prefix": "稀疏向量的優勢在於：\n\n能精確匹配專有名詞、代碼或隨機字符等文本。\n字典可以動態擴充，不需要重新訓練模型。\n\nBM25\n",
+                "suffix": "是經典的稀疏向量方法，基於統計模型，不涉及神經網路，因此非常快速輕量，常作為搜尋基準。\nBM25 的核心公式包含：\n\nT"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6737
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[15]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[15]/text()[1]",
+            "text": "BM25（Best Matching 25）"
+          },
+          "text": "BM25（Best Matching 25）",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594456320,
+          "id": "hk-1767594456319-82688",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594456318,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6908
+              },
+              "quote": {
+                "exact": "提升稀有詞彙的重要性",
+                "prefix": "同一詞彙在文件中出現多次會增加相關性，但有遞減效果。\nInverse Document Frequency (IDF)：",
+                "suffix": "，降低常見詞權重。\nDocument Length Normalization：防止長文檔因字數多而獲得不公平的高分。\n"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6898
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[2]/text()[1]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[2]/text()[1]",
+            "text": "提升稀有詞彙的重要性"
+          },
+          "text": "提升稀有詞彙的重要性",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594459982,
+          "id": "hk-1767594459980-93606",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594459979,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6856
+              },
+              "quote": {
+                "exact": "同一詞彙在文件中出現多次會增加相關性",
+                "prefix": "涉及神經網路，因此非常快速輕量，常作為搜尋基準。\nBM25 的核心公式包含：\n\nTerm Frequency (TF)：",
+                "suffix": "，但有遞減效果。\nInverse Document Frequency (IDF)：提升稀有詞彙的重要性，降低常見詞權重"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6838
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[2]",
+            "text": "同一詞彙在文件中出現多次會增加相關性"
+          },
+          "text": "同一詞彙在文件中出現多次會增加相關性",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594464602,
+          "id": "hk-1767594464601-24883",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594464600,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6832
+              },
+              "quote": {
+                "exact": "Term Frequency",
+                "prefix": "）是經典的稀疏向量方法，基於統計模型，不涉及神經網路，因此非常快速輕量，常作為搜尋基準。\nBM25 的核心公式包含：\n\n",
+                "suffix": " (TF)：同一詞彙在文件中出現多次會增加相關性，但有遞減效果。\nInverse Document Frequency "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6818
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[1]",
+            "text": "Term Frequency"
+          },
+          "text": "Term Frequency",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594467422,
+          "id": "hk-1767594467421-38422",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594467420,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6892
+              },
+              "quote": {
+                "exact": "Inverse Document Frequency ",
+                "prefix": "25 的核心公式包含：\n\nTerm Frequency (TF)：同一詞彙在文件中出現多次會增加相關性，但有遞減效果。\n",
+                "suffix": "(IDF)：提升稀有詞彙的重要性，降低常見詞權重。\nDocument Length Normalization：防止長文"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6865
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[2]/text()[1]",
+            "text": "Inverse Document Frequency "
+          },
+          "text": "Inverse Document Frequency ",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594470658,
+          "id": "hk-1767594470656-51627",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594470655,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6947
+              },
+              "quote": {
+                "exact": "Document Length Normalization",
+                "prefix": "有遞減效果。\nInverse Document Frequency (IDF)：提升稀有詞彙的重要性，降低常見詞權重。\n",
+                "suffix": "：防止長文檔因字數多而獲得不公平的高分。\n\n\n為什麼要用 Hybrid Search\nDense 主要抓語意，Spars"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6918
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[3]/text()[1]",
+            "text": "Document Length Normalization"
+          },
+          "text": "Document Length Normalization",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594473584,
+          "id": "hk-1767594473583-38817",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594473582,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6963
+              },
+              "quote": {
+                "exact": "長文檔因字數多而獲得不公平",
+                "prefix": "y (IDF)：提升稀有詞彙的重要性，降低常見詞權重。\nDocument Length Normalization：防止",
+                "suffix": "的高分。\n\n\n為什麼要用 Hybrid Search\nDense 主要抓語意，Sparse 精確匹配，Hybrid 則兼"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6950
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[3]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[3]/text()[2]",
+            "text": "長文檔因字數多而獲得不公平"
+          },
+          "text": "長文檔因字數多而獲得不公平",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767594526882,
+          "id": "hk-1767594526881-6923",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767594526880,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 7026
+              },
+              "quote": {
+                "exact": "Dense 主要抓語意，Sparse 精確匹配，Hybrid 則兼顧兩者",
+                "prefix": "gth Normalization：防止長文檔因字數多而獲得不公平的高分。\n\n\n為什麼要用 Hybrid Search\n",
+                "suffix": "。\n\n\n\n\n特性 / 搜尋方式\nDense Vector Search (Embedding)\nSparse Searc"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6990
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[17]/text()[1]",
+            "text": "Dense 主要抓語意，Sparse 精確匹配，Hybrid 則兼顧兩者"
+          },
+          "text": "Dense 主要抓語意，Sparse 精確匹配，Hybrid 則兼顧兩者",
+          "url": "https://ithelp.ithome.com.tw/articles/10378322"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10348884",
+      "title": "【Day 22】- CRAG: 檢索增強生成的糾錯機制 - 提升大型語言模型問答精確度 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173298017,
+          "id": "hk-1767173298016-74900",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173298014,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1491
+              },
+              "quote": {
+                "exact": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入",
+                "prefix": "能會導致後續生成內容的真實性以及品質。以下是作者整理出的局限性重點，並且用圖表表達之。\n\n問題一、檢索資訊的相關性過低\n",
+                "suffix": "。這會導致大量無關信息的引入，進而影響生成模型對知識的理解，並可能導致模型生成與事實不符的\"幻覺\"內容。\n問題二、資訊過"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1428
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入"
+          },
+          "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173311271,
+          "id": "hk-1767173311269-55969",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173311269,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1648
+              },
+              "quote": {
+                "exact": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。",
+                "prefix": "事實不符的\"幻覺\"內容。\n問題二、資訊過於雜亂，不夠精準\n傳統的 RAG 方法通常將整個檢索到的文件作為輸入，但實際上，",
+                "suffix": "\n1.3. CRAG 提出什麼機制解決問題？\nCRAG 提出傳統 RAG 會有檢索資訊品質不夠好問題，導致生成答案錯誤。"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1591
+              },
+              "version": 1
+            },
+            "endOffset": 88,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 31,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。"
+          },
+          "text": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173318655,
+          "id": "hk-1767173318653-98082",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173318652,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1748
+              },
+              "quote": {
+                "exact": " Retrieval Evaluator(檢索評估器)",
+                "prefix": "什麼機制解決問題？\nCRAG 提出傳統 RAG 會有檢索資訊品質不夠好問題，導致生成答案錯誤。為此 CRAG 作者群提出",
+                "suffix": " 以及 Knowledge Refinement(知識精練) 兩個機制來解決上述問題。以下是兩者的運作機制：\n取自論文 "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1721
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
+            "text": " Retrieval Evaluator(檢索評估器)"
+          },
+          "text": " Retrieval Evaluator(檢索評估器)",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173320865,
+          "id": "hk-1767173320864-78678",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173320863,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1778
+              },
+              "quote": {
+                "exact": "Knowledge Refinement(知識精練)",
+                "prefix": "質不夠好問題，導致生成答案錯誤。為此 CRAG 作者群提出 Retrieval Evaluator(檢索評估器) 以及 ",
+                "suffix": " 兩個機制來解決上述問題。以下是兩者的運作機制：\n取自論文 Figure2\nRetrieval Evaluator（檢索"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1752
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[2]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[2]",
+            "text": "Knowledge Refinement(知識精練)"
+          },
+          "text": "Knowledge Refinement(知識精練)",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173326276,
+          "id": "hk-1767173326275-58584",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173326275,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1946
+              },
+              "quote": {
+                "exact": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）",
+                "prefix": "（檢索評估器）：\n用於評估針對特定問題檢索到的文件的整體品質。它還會利用網路搜索作為輔助工具，進一步提升檢索結果的品質。",
+                "suffix": "三種情況。對於「正確」的情況，直接進行知識精練，抽取關鍵資訊。針對「錯誤」的資訊，則利用網路檢索來擴充知識量。針對「模糊"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1895
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[2]",
+            "text": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）"
+          },
+          "text": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173341919,
+          "id": "hk-1767173341917-92578",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173341917,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2198
+              },
+              "quote": {
+                "exact": "基於 T5-large 的檢索質量評估模型",
+                "prefix": "分解，並由檢索評估器來衡量其相關性。最後將剩餘的相關知識重新整合。\n1.3.1 Retrieval Evaluator：",
+                "suffix": "\n檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，類似於 RAG 中的重新排序（re-ran"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2177
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
+            "text": "基於 T5-large 的檢索質量評估模型"
+          },
+          "text": "基於 T5-large 的檢索質量評估模型",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173346680,
+          "id": "hk-1767173346679-62194",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173346679,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2266
+              },
+              "quote": {
+                "exact": "類似於 RAG 中的重新排序（re-ranking）模型。",
+                "prefix": "基於 T5-large 的檢索質量評估模型\n檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，",
+                "suffix": "這種相關性判斷模型可以通過整合更多符合現實世界場景的特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，而"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2237
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[1]",
+            "text": "類似於 RAG 中的重新排序（re-ranking）模型。"
+          },
+          "text": "類似於 RAG 中的重新排序（re-ranking）模型。",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173354844,
+          "id": "hk-1767173354843-49406",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173354843,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2393
+              },
+              "quote": {
+                "exact": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調",
+                "prefix": "特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，而旅遊領域的 RAG 則往往包含更多口語化的用戶查詢。",
+                "suffix": "。值得一提的是，即使在大語言模型的時代，T5-large 模型仍然被認為是輕量級的。對於每個輸入的問題，CRAG 通常會"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2352
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[4]",
+            "text": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調"
+          },
+          "text": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767173368234,
+          "id": "hk-1767173368233-14444",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767173368233,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2986
+              },
+              "quote": {
+                "exact": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）",
+                "prefix": "重新組合，構建成完整的內部知識體系。\n2 從理論到實踐：使用LangGraph實現CRAG\n在前面的章節中，我們深入探討",
+                "suffix": "的概念、原理和優勢。CRAG作為一種先進的資訊檢索和生成技術，透過將上下文相關的檢索結果與大型語言模型（LLM）的生成能"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2928
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[18]/text()[1]",
+            "text": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）"
+          },
+          "text": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767593157090,
+          "id": "hk-1767593157089-28662",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767593157087,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 685
+              },
+              "quote": {
+                "exact": "通過評估器和網路檢索針對檢索到到文檔相關性，進行ㄧ番評估與增強，以確保說在生成回應中保有更為精準、可靠的訊息。",
+                "prefix": "CRAG 技術概述與理論基礎\nCorrective RAG(糾錯檢索增強生成)，主要提高語言模型生成穩健性的方法。此法中",
+                "suffix": "\n1.1 檢索增強生成技術的演進：從傳統 RAG 到 CRAG\n想像你正在參加難得的開書考，面對考卷上的試題，你可能會有"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 630
+              },
+              "version": 1
+            },
+            "endOffset": 100,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "通過評估器和網路檢索針對檢索到到文檔相關性，進行ㄧ番評估與增強，以確保說在生成回應中保有更為精準、可靠的訊息。"
+          },
+          "text": "通過評估器和網路檢索針對檢索到到文檔相關性，進行ㄧ番評估與增強，以確保說在生成回應中保有更為精準、可靠的訊息。",
+          "url": "https://ithelp.ithome.com.tw/articles/10348884"
+        }
+      ]
+    },
     {
       "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
       "title": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1 · Hugging Face",
@@ -1200,300 +2056,6 @@
           },
           "text": "失去控制",
           "url": "https://www.auh.org.tw/NewsInfo/HealthEducationInfo?docid=1639"
-        }
-      ]
-    },
-    {
-      "url": "https://ithelp.ithome.com.tw/articles/10348884",
-      "title": "【Day 22】- CRAG: 檢索增強生成的糾錯機制 - 提升大型語言模型問答精確度 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
-      "entries": [
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173298017,
-          "id": "hk-1767173298016-74900",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173298014,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1491
-              },
-              "quote": {
-                "exact": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入",
-                "prefix": "能會導致後續生成內容的真實性以及品質。以下是作者整理出的局限性重點，並且用圖表表達之。\n\n問題一、檢索資訊的相關性過低\n",
-                "suffix": "。這會導致大量無關信息的引入，進而影響生成模型對知識的理解，並可能導致模型生成與事實不符的\"幻覺\"內容。\n問題二、資訊過"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1428
-              },
-              "version": 1
-            },
-            "endOffset": 63,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
-            "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入"
-          },
-          "text": "傳統的 RAG 方法往往沒有充分考慮檢索到的文件與問題之間的相關性，而是將所有檢索到的文件簡單地合併在一起，作為生成模型的輸入",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173311271,
-          "id": "hk-1767173311269-55969",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173311269,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1648
-              },
-              "quote": {
-                "exact": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。",
-                "prefix": "事實不符的\"幻覺\"內容。\n問題二、資訊過於雜亂，不夠精準\n傳統的 RAG 方法通常將整個檢索到的文件作為輸入，但實際上，",
-                "suffix": "\n1.3. CRAG 提出什麼機制解決問題？\nCRAG 提出傳統 RAG 會有檢索資訊品質不夠好問題，導致生成答案錯誤。"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1591
-              },
-              "version": 1
-            },
-            "endOffset": 88,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[11]/text()[1]",
-            "startOffset": 31,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[11]/text()[1]",
-            "text": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。"
-          },
-          "text": "文件中的大部分內容可能與生成的內容無關。這些冗餘信息不僅會增加模型的計算負擔，還會影響模型對關鍵資訊的提取和利用。",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173318655,
-          "id": "hk-1767173318653-98082",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173318652,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1748
-              },
-              "quote": {
-                "exact": " Retrieval Evaluator(檢索評估器)",
-                "prefix": "什麼機制解決問題？\nCRAG 提出傳統 RAG 會有檢索資訊品質不夠好問題，導致生成答案錯誤。為此 CRAG 作者群提出",
-                "suffix": " 以及 Knowledge Refinement(知識精練) 兩個機制來解決上述問題。以下是兩者的運作機制：\n取自論文 "
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1721
-              },
-              "version": 1
-            },
-            "endOffset": 77,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
-            "startOffset": 50,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
-            "text": " Retrieval Evaluator(檢索評估器)"
-          },
-          "text": " Retrieval Evaluator(檢索評估器)",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173320865,
-          "id": "hk-1767173320864-78678",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173320863,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1778
-              },
-              "quote": {
-                "exact": "Knowledge Refinement(知識精練)",
-                "prefix": "質不夠好問題，導致生成答案錯誤。為此 CRAG 作者群提出 Retrieval Evaluator(檢索評估器) 以及 ",
-                "suffix": " 兩個機制來解決上述問題。以下是兩者的運作機制：\n取自論文 Figure2\nRetrieval Evaluator（檢索"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1752
-              },
-              "version": 1
-            },
-            "endOffset": 30,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[2]",
-            "startOffset": 4,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[2]",
-            "text": "Knowledge Refinement(知識精練)"
-          },
-          "text": "Knowledge Refinement(知識精練)",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173326276,
-          "id": "hk-1767173326275-58584",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173326275,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1946
-              },
-              "quote": {
-                "exact": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）",
-                "prefix": "（檢索評估器）：\n用於評估針對特定問題檢索到的文件的整體品質。它還會利用網路搜索作為輔助工具，進一步提升檢索結果的品質。",
-                "suffix": "三種情況。對於「正確」的情況，直接進行知識精練，抽取關鍵資訊。針對「錯誤」的資訊，則利用網路檢索來擴充知識量。針對「模糊"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1895
-              },
-              "version": 1
-            },
-            "endOffset": 51,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[2]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[2]",
-            "text": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）"
-          },
-          "text": "評估答案分為「正確」（correct）、「模糊」（Ambiguous）、「錯誤」（Incorrect）",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173341919,
-          "id": "hk-1767173341917-92578",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173341917,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2198
-              },
-              "quote": {
-                "exact": "基於 T5-large 的檢索質量評估模型",
-                "prefix": "分解，並由檢索評估器來衡量其相關性。最後將剩餘的相關知識重新整合。\n1.3.1 Retrieval Evaluator：",
-                "suffix": "\n檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，類似於 RAG 中的重新排序（re-ran"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2177
-              },
-              "version": 1
-            },
-            "endOffset": 47,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
-            "startOffset": 26,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
-            "text": "基於 T5-large 的檢索質量評估模型"
-          },
-          "text": "基於 T5-large 的檢索質量評估模型",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173346680,
-          "id": "hk-1767173346679-62194",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173346679,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2266
-              },
-              "quote": {
-                "exact": "類似於 RAG 中的重新排序（re-ranking）模型。",
-                "prefix": "基於 T5-large 的檢索質量評估模型\n檢索評估器可以被視為一個評分分類模型。該模型用於確定查詢與文件之間的相關性，",
-                "suffix": "這種相關性判斷模型可以通過整合更多符合現實世界場景的特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，而"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2237
-              },
-              "version": 1
-            },
-            "endOffset": 67,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[1]",
-            "startOffset": 38,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[1]",
-            "text": "類似於 RAG 中的重新排序（re-ranking）模型。"
-          },
-          "text": "類似於 RAG 中的重新排序（re-ranking）模型。",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173354844,
-          "id": "hk-1767173354843-49406",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173354843,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2393
-              },
-              "quote": {
-                "exact": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調",
-                "prefix": "特徵來進行改進。例如，科學論文問答中的 RAG 包含許多專業術語，而旅遊領域的 RAG 則往往包含更多口語化的用戶查詢。",
-                "suffix": "。值得一提的是，即使在大語言模型的時代，T5-large 模型仍然被認為是輕量級的。對於每個輸入的問題，CRAG 通常會"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2352
-              },
-              "version": 1
-            },
-            "endOffset": 41,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[4]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[16]/text()[4]",
-            "text": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調"
-          },
-          "text": "CRAG 使用一個輕量級的 T5-large 模型作為檢索評估器，並對其進行了微調",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767173368234,
-          "id": "hk-1767173368233-14444",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767173368233,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2986
-              },
-              "quote": {
-                "exact": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）",
-                "prefix": "重新組合，構建成完整的內部知識體系。\n2 從理論到實踐：使用LangGraph實現CRAG\n在前面的章節中，我們深入探討",
-                "suffix": "的概念、原理和優勢。CRAG作為一種先進的資訊檢索和生成技術，透過將上下文相關的檢索結果與大型語言模型（LLM）的生成能"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2928
-              },
-              "version": 1
-            },
-            "endOffset": 72,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[18]/text()[1]",
-            "startOffset": 14,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[18]/text()[1]",
-            "text": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）"
-          },
-          "text": "了CRAG（Contextual Retrieval-Augmented Generation，上下文檢索增強生成）",
-          "url": "https://ithelp.ithome.com.tw/articles/10348884"
         }
       ]
     },
