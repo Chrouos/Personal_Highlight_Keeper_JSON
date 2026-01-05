@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767604400817,
+  "exportedAt": 1767622038862,
   "pages": [
     {
       "url": "https://blog.toright.com/posts/7685/llm-rag-introduction",
@@ -1406,6 +1406,1368 @@
           },
           "text": "Given a query, encode the query will all possible passages",
           "url": "https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1"
+        }
+      ]
+    },
+    {
+      "url": "https://krishna-yogik.medium.com/feature-cross-a-deep-dive-with-practical-examples-4e87a373f117",
+      "title": "Feature Cross — A Deep Dive with Practical Examples | by Krishna yogi | Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538830136,
+          "id": "hk-1767538830133-25605",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538830131,
+              "end": {
+                "css": "p#\\34 0cb",
+                "textOffset": 96
+              },
+              "quote": {
+                "exact": "Feature cross is a technique used in machine learning to create new features from existing ones.",
+                "prefix": "Example Code Snippets範例程式碼片段Use CasesResourcesIntroduction介绍",
+                "suffix": " By combining two or more features, you can capture interact"
+              },
+              "start": {
+                "css": "p#\\34 0cb",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Feature cross is a technique used in machine learning to create new features from existing ones."
+          },
+          "text": "Feature cross is a technique used in machine learning to create new features from existing ones.",
+          "url": "https://krishna-yogik.medium.com/feature-cross-a-deep-dive-with-practical-examples-4e87a373f117"
+        }
+      ]
+    },
+    {
+      "url": "https://www.hmoonotes.org/2021/02/mldp-feature-cross.html",
+      "title": "HMOO 讀書筆記: Feature Cross 模式：Machine Learning Design Patterns #3",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538772765,
+          "id": "hk-1767538772762-84913",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538772760,
+              "end": {
+                "css": "p#f0b1",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "用來幫助模型學習不同特徵之間的關係，通常的作法是將數個特徵組合而成一個新的特徵。",
+                "prefix": "Patterns 中介紹的第三個模式：Feature Cross 的筆記。Feature cross 是一種常見的技巧，",
+                "suffix": "書中拿紐約市的計程車資料當作例子。原始的資料包含了乘車時間、乘車經緯度、下車經緯度、以及計程車車資。而我們可以想到的是在"
+              },
+              "start": {
+                "css": "p#f0b1",
+                "textOffset": 99
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/text()[3]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[1]/text()[3]",
+            "text": "用來幫助模型學習不同特徵之間的關係，通常的作法是將數個特徵組合而成一個新的特徵。"
+          },
+          "text": "用來幫助模型學習不同特徵之間的關係，通常的作法是將數個特徵組合而成一個新的特徵。",
+          "url": "https://www.hmoonotes.org/2021/02/mldp-feature-cross.html"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538793179,
+          "id": "hk-1767538793177-59516",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538793175,
+              "end": {
+                "css": "li#cc18",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "Regularization：feature cross 會使每個 bucket 中的資料量不多，容易 overfitting",
+                "prefix": "ature cross 後的 one-hot encoding 向量維度很高，這時可用 embedding 來降低維度。",
+                "suffix": "。加入 L1 或 L2 regularization 可以幫助解決 overfitting 的問題。要 cross 的特"
+              },
+              "start": {
+                "css": "li#cc18",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "text": "Regularization：feature cross 會使每個 bucket 中的資料量不多，容易 overfitting"
+          },
+          "text": "Regularization：feature cross 會使每個 bucket 中的資料量不多，容易 overfitting",
+          "url": "https://www.hmoonotes.org/2021/02/mldp-feature-cross.html"
+        }
+      ]
+    },
+    {
+      "url": "https://botpress.com/tw/blog/human-in-the-loop",
+      "title": "AI 中的人類參與：更高準確率，降低風險",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538489325,
+          "id": "hk-1767538489319-52944",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538489317,
+              "end": {
+                "css": "div#human-in-the-loop",
+                "textOffset": 70
+              },
+              "quote": {
+                "exact": "人類參與（HITL）是一種 AI 協作方式，透過人類的意見來提升或擴展 AI 的能力。",
+                "prefix": " \n        \n        \n      \n  \n  \n什麼是人類參與（Human-in-the-Loop）？",
+                "suffix": "這可能包括人為標註資料、修正模型輸出，或在 AI 無法判斷時由人類直接處理整個任務。這個詞其實有點模糊。技術上來說，它指"
+              },
+              "start": {
+                "css": "div#human-in-the-loop",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/p[1]/text()[1]",
+            "text": "人類參與（HITL）是一種 AI 協作方式，透過人類的意見來提升或擴展 AI 的能力。"
+          },
+          "text": "人類參與（HITL）是一種 AI 協作方式，透過人類的意見來提升或擴展 AI 的能力。",
+          "url": "https://botpress.com/tw/blog/human-in-the-loop"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538539883,
+          "id": "hk-1767538539880-64939",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538539879,
+              "end": {
+                "css": "div#ai-8",
+                "textOffset": 412
+              },
+              "quote": {
+                "exact": "HITL 不一定是為了改進系統。有時候只是把棘手的情況交給人類處理。",
+                "prefix": "來的推薦提供指引。這就是一個完整循環：模型用資料訓練，使用者與模型互動，這些互動又成為模型再次訓練的新資料。處理升級情境",
+                "suffix": "以客服聊天機器人為例。它可以清楚、簡潔且準確地回答 95% 的問題，幫團隊省下大量工時。但還有那 5%。有些情境太特殊或"
+              },
+              "start": {
+                "css": "div#ai-8",
+                "textOffset": 378
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[3]/div[2]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]/div[3]/div[1]/div[3]/div[2]/p[1]/text()[1]",
+            "text": "HITL 不一定是為了改進系統。有時候只是把棘手的情況交給人類處理。"
+          },
+          "text": "HITL 不一定是為了改進系統。有時候只是把棘手的情況交給人類處理。",
+          "url": "https://botpress.com/tw/blog/human-in-the-loop"
+        }
+      ]
+    },
+    {
+      "url": "https://makerpro.cc/2024/10/what-is-human-in-the-loop/",
+      "title": "【AI下一步】Human-In-The-Loop（人類參與循環）的重要性 | MakerPRO",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538401429,
+          "id": "hk-1767538401428-27845",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538401428,
+              "end": {
+                "css": "div#left-area > article.entry-content.clearfix",
+                "textOffset": 130
+              },
+              "quote": {
+                "exact": "「人類參與循環」（Human-In-The-Loop，HITL）",
+                "prefix": "10 月 6, 2024 in AI關鍵技術, 技術導讀 | 0 comments\n\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n",
+                "suffix": "是一種結合人工智能 (AI) 和人類專業知識的系統設計方法。隨著AI技術的快速發展，也讓HITL愈來愈受到重視，因為它允"
+              },
+              "start": {
+                "css": "div#left-area > article.entry-content.clearfix",
+                "textOffset": 98
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/article[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/article[1]/p[3]/text()[1]",
+            "text": "「人類參與循環」（Human-In-The-Loop，HITL）"
+          },
+          "text": "「人類參與循環」（Human-In-The-Loop，HITL）",
+          "url": "https://makerpro.cc/2024/10/what-is-human-in-the-loop/"
+        }
+      ]
+    },
+    {
+      "url": "https://cloud.google.com/discover/human-in-the-loop?hl=zh-TW",
+      "title": "什麼是人機迴圈 | Google Cloud",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767538372514,
+          "id": "hk-1767538372513-1875",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767538372512,
+              "end": {
+                "css": "div#module-6 > div.qPg9F > div.pdL7Ue > div.EAoy4b.UAquKe",
+                "textOffset": 51
+              },
+              "quote": {
+                "exact": "面對必須判斷、掌握脈絡及處理不完整資訊的情況，仍需要人類專業知識的協助",
+                "prefix": "可以針對模型動作提供意見回饋，提升學習效率。人機迴圈 (HITL) 在機器學習中的重要性雖然機器學習模型擁有出色能力，但",
+                "suffix": "。人機迴圈會將人類輸入內容和意見回饋融入機器學習管道，來消弭這個落差。模型可透過這種人機合作強化適應能力，隨著使用者偏好"
+              },
+              "start": {
+                "css": "div#module-6 > div.qPg9F > div.pdL7Ue > div.EAoy4b.UAquKe",
+                "textOffset": 16
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/div[17]/div[1]/div[1]/div[2]/div[1]/div[1]/section[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "面對必須判斷、掌握脈絡及處理不完整資訊的情況，仍需要人類專業知識的協助"
+          },
+          "text": "面對必須判斷、掌握脈絡及處理不完整資訊的情況，仍需要人類專業知識的協助",
+          "url": "https://cloud.google.com/discover/human-in-the-loop?hl=zh-TW"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957",
+      "title": "Hierarchical Navigable Small World (HNSW)算法-CSDN博客",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767511440863,
+          "id": "hk-1767511440861-44907",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767511440860,
+              "end": {
+                "css": "p:nth-of-type(2) > span.katex--inline:nth-of-type(2) > span.katex > span.katex-html:nth-of-type(2) > span.base > span.mclose:nth-of-type(8)",
+                "textOffset": 1
+              },
+              "quote": {
+                "exact": "这是一个概率数据结构，可在排序列表中插入和搜索元素，平均耗时为 O(logn)O(logn)O(logn)",
+                "prefix": "一下跳表（skip lists）和可导航小世界（navigable small world）。\nSkip lists： ",
+                "suffix": "。跳表由多层列表组成，最底层是原始列表（所有元素），层数越高，被跳过的元素越多，连接数越少。\n\n对某个值的搜索过程从最高"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 314
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[2]/span[2]/span[1]/span[2]/span[1]/span[8]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "这是一个概率数据结构，可在排序列表中插入和搜索元素，平均耗时为 O(logn)O(logn)O(logn)"
+          },
+          "text": "这是一个概率数据结构，可在排序列表中插入和搜索元素，平均耗时为 O(logn)O(logn)O(logn)",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512175117,
+          "id": "hk-1767512175114-39506",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512175113,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 445
+              },
+              "quote": {
+                "exact": "从最高层开始，并将下一个元素与该值进行比较",
+                "prefix": "gn)。跳表由多层列表组成，最底层是原始列表（所有元素），层数越高，被跳过的元素越多，连接数越少。\n\n对某个值的搜索过程",
+                "suffix": "。如果该值小于或等于该元素，则算法进入下一个元素。否则，搜索程序会下降到连接更多的下一层，并重复相同的过程。最后，算法下"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 424
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "从最高层开始，并将下一个元素与该值进行比较"
+          },
+          "text": "从最高层开始，并将下一个元素与该值进行比较",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512183523,
+          "id": "hk-1767512183521-10652",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512183521,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 469
+              },
+              "quote": {
+                "exact": "如果该值小于或等于该元素，则算法进入下一个元素",
+                "prefix": "（所有元素），层数越高，被跳过的元素越多，连接数越少。\n\n对某个值的搜索过程从最高层开始，并将下一个元素与该值进行比较。",
+                "suffix": "。否则，搜索程序会下降到连接更多的下一层，并重复相同的过程。最后，算法下降到最底层，找到所需的节点。\nNavigable"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 446
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "如果该值小于或等于该元素，则算法进入下一个元素"
+          },
+          "text": "如果该值小于或等于该元素，则算法进入下一个元素",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512231025,
+          "id": "hk-1767512231022-50094",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512231022,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 541
+              },
+              "quote": {
+                "exact": "Navigable Small World",
+                "prefix": "算法进入下一个元素。否则，搜索程序会下降到连接更多的下一层，并重复相同的过程。最后，算法下降到最底层，找到所需的节点。\n",
+                "suffix": "： 是一个搜索复杂度为多对数$ T = O(logᵏn)$的图，它使用贪婪路由。路由指的是搜索过程从低度顶点开始，到高度"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 520
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "text": "Navigable Small World"
+          },
+          "text": "Navigable Small World",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512235343,
+          "id": "hk-1767512235342-70702",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512235342,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 580
+              },
+              "quote": {
+                "exact": "贪婪路由",
+                "prefix": "节点。\nNavigable Small World： 是一个搜索复杂度为多对数$ T = O(logᵏn)$的图，它使用",
+                "suffix": "。路由指的是搜索过程从低度顶点开始，到高度顶点结束。由于低度顶点的连接很少，算法可以在它们之间快速移动，有效地导航到最近"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 576
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "贪婪路由"
+          },
+          "text": "贪婪路由",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512244374,
+          "id": "hk-1767512244373-17945",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512244372,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 605
+              },
+              "quote": {
+                "exact": "从低度顶点开始，到高度顶点结束",
+                "prefix": "Small World： 是一个搜索复杂度为多对数$ T = O(logᵏn)$的图，它使用贪婪路由。路由指的是搜索过程",
+                "suffix": "。由于低度顶点的连接很少，算法可以在它们之间快速移动，有效地导航到最近的邻居可能所在的区域。然后，算法逐渐切换到高度顶点"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 590
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[2]",
+            "text": "从低度顶点开始，到高度顶点结束"
+          },
+          "text": "从低度顶点开始，到高度顶点结束",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512260639,
+          "id": "hk-1767512260637-14651",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512260637,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 876
+              },
+              "quote": {
+                "exact": "从最高层开始，每当在各层节点中贪心找到当前最近邻居时，就向下搜索一层。",
+                "prefix": "基于与跳表和可导航小世界相同的原理。它的结构是一个多层图，顶层的连接较少，底层的区域较密集。\n1.1 Search\n搜索",
+                "suffix": "最终，在最底层找到的近邻就是查询的答案。\n与 NSW 类似，HNSW 也可以通过使用多个入口点来提高搜索质量。与在每一层"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 841
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "从最高层开始，每当在各层节点中贪心找到当前最近邻居时，就向下搜索一层。"
+          },
+          "text": "从最高层开始，每当在各层节点中贪心找到当前最近邻居时，就向下搜索一层。",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512401105,
+          "id": "hk-1767512401104-68406",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512401104,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 931
+              },
+              "quote": {
+                "exact": "与 NSW 类似，HNSW 也可以通过使用多个入口点来提高搜索质量。",
+                "prefix": "h\n搜索从最高层开始，每当在各层节点中贪心找到当前最近邻居时，就向下搜索一层。最终，在最底层找到的近邻就是查询的答案。\n",
+                "suffix": "与在每一层只寻找一个近邻不同，我们会寻找与查询向量最近的 efSearch（一个超参数）近邻，并将这些近邻中的每一个作为"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 897
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "与 NSW 类似，HNSW 也可以通过使用多个入口点来提高搜索质量。"
+          },
+          "text": "与 NSW 类似，HNSW 也可以通过使用多个入口点来提高搜索质量。",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767512418708,
+          "id": "hk-1767512418707-44007",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767512418706,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 1044
+              },
+              "quote": {
+                "exact": "Choosing the maximum layer",
+                "prefix": "的 efSearch（一个超参数）近邻，并将这些近邻中的每一个作为下一层的切入点。\n\n1.2 Construction\n",
+                "suffix": ": HNSW 中的节点一个接一个地按顺序插入。每个节点都被随机分配一个整数 l，表示该节点在图中能出现的最大层数。例如，"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 1018
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[13]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[13]/strong[1]/text()[1]",
+            "text": "Choosing the maximum layer"
+          },
+          "text": "Choosing the maximum layer",
+          "url": "https://blog.csdn.net/weixin_43772862/article/details/131931957"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/397628955",
+      "title": "【论文笔记】HNSW （ Hierarchical Navigable Small World graphs） - 知乎",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767510510917,
+          "id": "hk-1767510510916-92265",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767510510914,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 374
+              },
+              "quote": {
+                "exact": "NSW（Navigable small world models）",
+                "prefix": "st neighbor algorithm based on navigable small world graphs\"",
+                "suffix": "：没有分层的可导航小世界的结构，NSW的建图方式非常简单，就是向图中插入新点时，通过随机存在的一个点出发查找到距离新点最"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 341
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "text": "NSW（Navigable small world models）"
+          },
+          "text": "NSW（Navigable small world models）",
+          "url": "https://zhuanlan.zhihu.com/p/397628955"
+        }
+      ]
+    },
+    {
+      "url": "https://milvus.io/blog/understand-hierarchical-navigable-small-worlds-hnsw-for-vector-search.md",
+      "title": "Understand HNSW for Vector Search - Milvus Blog",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767510417448,
+          "id": "hk-1767510417447-86545",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767510417446,
+              "end": {
+                "css": "div#__next > main > div > div.responsive_docContainer__G7gmN.blogDetail_upLayout__hQDhp > section.blogDetail_blogContent__8fzQW:nth-of-type(2) > div.doc-style.scroll-padding",
+                "textOffset": 4556
+              },
+              "quote": {
+                "exact": "Note that we can enhance search accuracy by initiating searches from multiple random entry points and aggregating the results, along with considering multiple neighbors at each step",
+                "prefix": "est vectors encountered so far. See the illustration above. ",
+                "suffix": ". However, these improvements come at the cost of increased "
+              },
+              "start": {
+                "css": "div#__next > main > div > div.responsive_docContainer__G7gmN.blogDetail_upLayout__hQDhp > section.blogDetail_blogContent__8fzQW:nth-of-type(2) > div.doc-style.scroll-padding",
+                "textOffset": 4375
+              },
+              "version": 1
+            },
+            "endOffset": 565,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/p[11]/text()[1]",
+            "startOffset": 384,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/p[11]/text()[1]",
+            "text": "Note that we can enhance search accuracy by initiating searches from multiple random entry points and aggregating the results, along with considering multiple neighbors at each step"
+          },
+          "text": "Note that we can enhance search accuracy by initiating searches from multiple random entry points and aggregating the results, along with considering multiple neighbors at each step",
+          "url": "https://milvus.io/blog/understand-hierarchical-navigable-small-worlds-hnsw-for-vector-search.md"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767510453270,
+          "id": "hk-1767510453268-78147",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767510453268,
+              "end": {
+                "css": "div#__next > main > div > div.responsive_docContainer__G7gmN.blogDetail_upLayout__hQDhp > section.blogDetail_blogContent__8fzQW:nth-of-type(2) > div.doc-style.scroll-padding",
+                "textOffset": 6337
+              },
+              "quote": {
+                "exact": "fix a number of layers, L",
+                "prefix": "\n      \n    The construction algorithm works as follows: we ",
+                "suffix": ", in advance. The value l=1 will correspond to the coarsest "
+              },
+              "start": {
+                "css": "div#__next > main > div > div.responsive_docContainer__G7gmN.blogDetail_upLayout__hQDhp > section.blogDetail_blogContent__8fzQW:nth-of-type(2) > div.doc-style.scroll-padding",
+                "textOffset": 6312
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/p[16]/em[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/section[2]/div[1]/p[16]/text()[1]",
+            "text": "fix a number of layers, L"
+          },
+          "text": "fix a number of layers, L",
+          "url": "https://milvus.io/blog/understand-hierarchical-navigable-small-worlds-hnsw-for-vector-search.md"
+        }
+      ]
+    },
+    {
+      "url": "https://neon.com/docs/extensions/pgvector?utm_source=chatgpt.com",
+      "title": "The pgvector extension - Neon Docs",
+      "entries": [
+        {
+          "color": "#495583",
+          "createdAt": 1767510117315,
+          "id": "hk-1767510117314-52590",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767510117313,
+              "end": {
+                "css": "main.flex.flex-1 > div.safe-paddings.flex > div.relative.mx-auto > div.min-w-0.pb-32 > article > p.mt-2\\.5.text-xl",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "Postgres",
+                "prefix": "門套件/PgvectorPgvectorThe pgvector extensionpgvector 擴張Enable ",
+                "suffix": " as a vector store with the pgvector extension啟用 Postgres 作為"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.safe-paddings.flex > div.relative.mx-auto > div.min-w-0.pb-32 > article > p.mt-2\\.5.text-xl",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/p[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/p[1]/text()[1]",
+            "text": "Postgres"
+          },
+          "text": "Postgres",
+          "url": "https://neon.com/docs/extensions/pgvector?utm_source=chatgpt.com"
+        },
+        {
+          "color": "#495583",
+          "createdAt": 1767510157388,
+          "id": "hk-1767510157386-77365",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767510157385,
+              "end": {
+                "css": "main.flex.flex-1 > div.safe-paddings.flex > div.relative.mx-auto > div.min-w-0.pb-32 > article > div.prose-doc.post-content",
+                "textOffset": 601
+              },
+              "quote": {
+                "exact": "L2 distance, inner product, cosine distance, L1 distance, Hamming distance, and Jaccard distance",
+                "prefix": " half-precision, binary, and sparse vectors單精度、半精度、二進位與稀疏向量\n",
+                "suffix": "L2 距離、內積、餘弦距離、L1 距離、漢明距離與 Jaccard 距離\nAny language with a Pos"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.safe-paddings.flex > div.relative.mx-auto > div.min-w-0.pb-32 > article > div.prose-doc.post-content",
+                "textOffset": 505
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/article[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "L2 distance, inner product, cosine distance, L1 distance, Hamming distance, and Jaccard distance"
+          },
+          "text": "L2 distance, inner product, cosine distance, L1 distance, Hamming distance, and Jaccard distance",
+          "url": "https://neon.com/docs/extensions/pgvector?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10328071",
+      "title": "全端 LLM 應用開發-Day14-用 pgvector 來儲存向量資料 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767509434017,
+          "id": "hk-1767509434016-71615",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767509434015,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 291
+              },
+              "quote": {
+                "exact": "將 PostgreSQL 和 pgvector 結合在一起，可以發揮出的 ORDBMS 的優勢",
+                "prefix": "RDBMS），它提供了 SQL 查詢語言的實現。由於其性能強大、功能多樣、社群支援完成，也因此成為很主流的資料庫之一。\n",
+                "suffix": "，並專門用於處理向量數據，從而創建一個在性能和功能方面表現出色的多功能數據存儲解決方案。但是唯一的缺點是慢，不過如果你的"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 244
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "將 PostgreSQL 和 pgvector 結合在一起，可以發揮出的 ORDBMS 的優勢"
+          },
+          "text": "將 PostgreSQL 和 pgvector 結合在一起，可以發揮出的 ORDBMS 的優勢",
+          "url": "https://ithelp.ithome.com.tw/articles/10328071"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767509549682,
+          "id": "hk-1767509549680-99995",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767509549680,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1955
+              },
+              "quote": {
+                "exact": "Pgvector 支援兩種搜尋的演算法，IVFFlat 和 HNSW",
+                "prefix": "ostgreSQL 的限制，只會回傳負值。不過也沒關係，我們在做 LLM 時用到的機會相對小一點。\n\n\n兩種搜尋演算法\n",
+                "suffix": "。\nIVFFlat 較適用於有限的資源和需要快速建立索引的場景，但可能需要進一步優化以達到較高的查詢性能。\nHNSW 在"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1921
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/code[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "Pgvector 支援兩種搜尋的演算法，IVFFlat 和 HNSW"
+          },
+          "text": "Pgvector 支援兩種搜尋的演算法，IVFFlat 和 HNSW",
+          "url": "https://ithelp.ithome.com.tw/articles/10328071"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767509606095,
+          "id": "hk-1767509606094-42274",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767509606094,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 368
+              },
+              "quote": {
+                "exact": "唯一的缺點是慢，不過如果你的資料量沒有大會有顯著的校能瓶頸的話",
+                "prefix": "揮出的 ORDBMS 的優勢，並專門用於處理向量數據，從而創建一個在性能和功能方面表現出色的多功能數據存儲解決方案。但是",
+                "suffix": "，其實可以用 PostgreSQL 就很夠了。\n環境設定\n\n我們使用 ankane/pgvector 這個 image，"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 337
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 46,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "唯一的缺點是慢，不過如果你的資料量沒有大會有顯著的校能瓶頸的話"
+          },
+          "text": "唯一的缺點是慢，不過如果你的資料量沒有大會有顯著的校能瓶頸的話",
+          "url": "https://ithelp.ithome.com.tw/articles/10328071"
+        }
+      ]
+    },
+    {
+      "url": "https://www.theneurondaily.com/p/meta-paid-2b-for-an-8-month-old-startup?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=meta-paid-2b-for-an-8-month-old-startup&_bhlid=f0b5dc191fd71eb8b31b03be09d172ac1500674a",
+      "title": "😺 Meta's AI Agent Acquisition: What's Behind the Move?",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767463517566,
+          "id": "hk-1767463517565-30697",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767463517565,
+              "end": {
+                "css": "div#content-blocks",
+                "textOffset": 218
+              },
+              "quote": {
+                "exact": "SoftBank said it completed an additional ~$22.5B OpenAI investment to satisfy its up‑to‑$40B commitment.",
+                "prefix": " the audio element.\n      \n     Welcome, humans. 歡迎，人類。 So, ",
+                "suffix": " That's officially one of the largest private tech investmen"
+              },
+              "start": {
+                "css": "div#content-blocks > div:nth-of-type(5) > p > a.link",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[5]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[5]/p[1]/a[1]/text()[1]",
+            "text": "SoftBank said it completed an additional ~$22.5B OpenAI investment to satisfy its up‑to‑$40B commitment."
+          },
+          "text": "SoftBank said it completed an additional ~$22.5B OpenAI investment to satisfy its up‑to‑$40B commitment.",
+          "url": "https://www.theneurondaily.com/p/meta-paid-2b-for-an-8-month-old-startup?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=meta-paid-2b-for-an-8-month-old-startup&_bhlid=f0b5dc191fd71eb8b31b03be09d172ac1500674a"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cuemath.com/euclidean-distance-formula/",
+      "title": "Euclidean Distance Formula - Derivation, Examples",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767462822838,
+          "id": "hk-1767462822836-17578",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767462822835,
+              "end": {
+                "css": "div#navContentWrapper > div.sc-htpNat.bundle__Col1-sc-czofrr-5:nth-of-type(2) > div.basic-navigation__BaseWrapper-sc-j3ac2x-2.cZlgdX:nth-of-type(2) > div.basic-navigation__BackgroundWrapper-sc-j3ac2x-3.zrYUG",
+                "textOffset": 749
+              },
+              "quote": {
+                "exact": "The Euclidean distance formula, as its name suggests, gives the distance between two points (or) the straight line distance.",
+                "prefix": "式以及幾個已解的例子。\nWhat Is Euclidean Distance Formula?什麼是歐幾里得距離公式？\n",
+                "suffix": " Let us assume that (x1,y1)(x1,y1) and (x2,y2)(x2,y2) are tw"
+              },
+              "start": {
+                "css": "div#navContentWrapper > div.sc-htpNat.bundle__Col1-sc-czofrr-5:nth-of-type(2) > div.basic-navigation__BaseWrapper-sc-j3ac2x-2.cZlgdX:nth-of-type(2) > div.basic-navigation__BackgroundWrapper-sc-j3ac2x-3.zrYUG",
+                "textOffset": 625
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "The Euclidean distance formula, as its name suggests, gives the distance between two points (or) the straight line distance."
+          },
+          "text": "The Euclidean distance formula, as its name suggests, gives the distance between two points (or) the straight line distance.",
+          "url": "https://www.cuemath.com/euclidean-distance-formula/"
+        }
+      ]
+    },
+    {
+      "url": "https://flag-editors.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9C%8B%E5%BE%97%E8%A6%8Blesson-11-%E7%AE%97euclidean-distance%E6%89%BE%E9%9B%A2%E7%BE%A4%E5%80%BC-%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6mahalanobis-distance%E4%BA%86-5f8819f94c7f",
+      "title": "機器學習看得見Lesson 11 — 算Euclidean Distance找離群值？你該試試Mahalanobis Distance了 | by 施威銘研究室 | Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767462633018,
+          "id": "hk-1767462633016-22508",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767462633015,
+              "end": {
+                "css": "p#eb7e",
+                "textOffset": 37
+              },
+              "quote": {
+                "exact": "判斷資料是否為離群值（Outlier），很重要的依據是資料彼此之間的距離。",
+                "prefix": "obis Distance了施威銘研究室Follow6 min read·Jan 14, 202213ShareMore",
+                "suffix": "計算距離最常見的方法為 Euclidean Distance，但是並非所有情況都適合用這個方法喔！我們來仔細看看吧。一、"
+              },
+              "start": {
+                "css": "p#eb7e",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "判斷資料是否為離群值（Outlier），很重要的依據是資料彼此之間的距離。"
+          },
+          "text": "判斷資料是否為離群值（Outlier），很重要的依據是資料彼此之間的距離。",
+          "url": "https://flag-editors.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9C%8B%E5%BE%97%E8%A6%8Blesson-11-%E7%AE%97euclidean-distance%E6%89%BE%E9%9B%A2%E7%BE%A4%E5%80%BC-%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6mahalanobis-distance%E4%BA%86-5f8819f94c7f"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767462701588,
+          "id": "hk-1767462701586-15148",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767462701586,
+              "end": {
+                "css": "p#\\33 aa8",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "左圖中可以發現 x 軸的尺度很大，y 軸的尺度很小。單看左圖會覺得好像沒有離群值",
+                "prefix": "實 Euclidean Distance 有這樣的問題，也的確特徵標準化之後，就可以解決這個問題。我們來看看圖一的範例，",
+                "suffix": "，如果將資料做標準化之後，結果如右圖，就會發現其實有一個離群值。這個離群值在左圖觀察不到，是因為 x 軸的尺度太大，讓 "
+              },
+              "start": {
+                "css": "p#\\33 aa8",
+                "textOffset": 61
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 61,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "左圖中可以發現 x 軸的尺度很大，y 軸的尺度很小。單看左圖會覺得好像沒有離群值"
+          },
+          "text": "左圖中可以發現 x 軸的尺度很大，y 軸的尺度很小。單看左圖會覺得好像沒有離群值",
+          "url": "https://flag-editors.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9C%8B%E5%BE%97%E8%A6%8Blesson-11-%E7%AE%97euclidean-distance%E6%89%BE%E9%9B%A2%E7%BE%A4%E5%80%BC-%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6mahalanobis-distance%E4%BA%86-5f8819f94c7f"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767462705121,
+          "id": "hk-1767462705120-8264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767462705120,
+              "end": {
+                "css": "p#\\33 aa8",
+                "textOffset": 174
+              },
+              "quote": {
+                "exact": "因為 x 軸的尺度太大，讓 y 軸的特徵分佈看不清楚。",
+                "prefix": "單看左圖會覺得好像沒有離群值，如果將資料做標準化之後，結果如右圖，就會發現其實有一個離群值。這個離群值在左圖觀察不到，是",
+                "suffix": "有人可能會說「畫圖的時候，縮小 y 軸的尺度就好了呀」，那是因為現在的資料只有 2 個特徵，如果有更多特徵，根本無法畫圖"
+              },
+              "start": {
+                "css": "p#\\33 aa8",
+                "textOffset": 147
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 46,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "因為 x 軸的尺度太大，讓 y 軸的特徵分佈看不清楚。"
+          },
+          "text": "因為 x 軸的尺度太大，讓 y 軸的特徵分佈看不清楚。",
+          "url": "https://flag-editors.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9C%8B%E5%BE%97%E8%A6%8Blesson-11-%E7%AE%97euclidean-distance%E6%89%BE%E9%9B%A2%E7%BE%A4%E5%80%BC-%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6mahalanobis-distance%E4%BA%86-5f8819f94c7f"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767462714872,
+          "id": "hk-1767462714870-53544",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767462714870,
+              "end": {
+                "css": "h2#\\39 72a",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "特徵相關性（Correlation）",
+                "prefix": "l size圖一所以，將特徵標準化之後，就可以開開心心地使用 Euclidean Distance了嗎？並不是這樣。二、",
+                "suffix": "我們來看圖二的資料，左圖跟右圖當中都有一個橘色的資料點，請問大家覺得該資料點是否為離群值？Press enter or "
+              },
+              "start": {
+                "css": "h2#\\39 72a",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h2[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/h2[2]/text()[1]",
+            "text": "特徵相關性（Correlation）"
+          },
+          "text": "特徵相關性（Correlation）",
+          "url": "https://flag-editors.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%9C%8B%E5%BE%97%E8%A6%8Blesson-11-%E7%AE%97euclidean-distance%E6%89%BE%E9%9B%A2%E7%BE%A4%E5%80%BC-%E4%BD%A0%E8%A9%B2%E8%A9%A6%E8%A9%A6mahalanobis-distance%E4%BA%86-5f8819f94c7f"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/zh-tw/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E8%B7%9D%E7%A6%BB",
+      "title": "歐幾里得距離 - 維基百科，自由的百科全書",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767461820447,
+          "id": "hk-1767461820446-2260",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767461820446,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 117
+              },
+              "quote": {
+                "exact": "指連接這兩點的線段的長度。通過使用勾股定理，可以根據點的笛卡爾坐標計算這個距離，因此有時也被稱為勾股距離。",
+                "prefix": "定理計算二維歐幾里得距離\n在數學中，歐幾里得空間中兩點之間的歐幾里得距離（英語：Euclidean distance）是",
+                "suffix": "這些名稱來源於古希臘數學家歐幾里得和畢達哥拉斯，儘管歐幾里得並沒有用數字表示距離，而且直到18世紀才將勾股定理與距離計算"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/text()[4]",
+            "text": "指連接這兩點的線段的長度。通過使用勾股定理，可以根據點的笛卡爾坐標計算這個距離，因此有時也被稱為勾股距離。"
+          },
+          "text": "指連接這兩點的線段的長度。通過使用勾股定理，可以根據點的笛卡爾坐標計算這個距離，因此有時也被稱為勾股距離。",
+          "url": "https://zh.wikipedia.org/zh-tw/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E8%B7%9D%E7%A6%BB"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/953396209",
+      "title": "【数据科学笔记】闵可夫斯基距离(Minkowski Distance)：全面指南 - 知乎",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767461323779,
+          "id": "hk-1767461323778-6570",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767461323777,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "闵可夫斯基距离的核心在于它提供了一种在多维空间中测量两点间距离的方法",
+                "prefix": "。它是几种广为人知的距离度量的泛化形式，因此在数学、计算机科学和数据分析等多个领域中占据着核心地位。 在这里插入图片描述",
+                "suffix": "。它的特别之处在于，通过一个参数p，可以适应不同的问题空间和数据特征。 闵可夫斯基距离的一般公式如下：[D(x,y)=("
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 295
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "text": "闵可夫斯基距离的核心在于它提供了一种在多维空间中测量两点间距离的方法"
+          },
+          "text": "闵可夫斯基距离的核心在于它提供了一种在多维空间中测量两点间距离的方法",
+          "url": "https://zhuanlan.zhihu.com/p/953396209"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767461326786,
+          "id": "hk-1767461326785-60171",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767461326784,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 364
+              },
+              "quote": {
+                "exact": "通过一个参数p，可以适应不同的问题空间和数据特征。",
+                "prefix": "着核心地位。 在这里插入图片描述闵可夫斯基距离的核心在于它提供了一种在多维空间中测量两点间距离的方法。它的特别之处在于，",
+                "suffix": " 闵可夫斯基距离的一般公式如下：[D(x,y)=(∑i=1n|xi−yi|p)1/p][ D(x, y) = \\left"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 339
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[2]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[2]",
+            "text": "通过一个参数p，可以适应不同的问题空间和数据特征。"
+          },
+          "text": "通过一个参数p，可以适应不同的问题空间和数据特征。",
+          "url": "https://zhuanlan.zhihu.com/p/953396209"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767461339218,
+          "id": "hk-1767461339215-85894",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767461339215,
+              "end": {
+                "css": "span#content > div.RichText.ztext > p:nth-of-type(9) > span:nth-of-type(2) > a.RichContent-EntityWord.css-b7erz1",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "可以根据需要切换到Manhattan距离或Euclidean距离",
+                "prefix": "yi||x_i - y_i| ) 表示x和y在每个维度上的坐标绝对差异闵可夫斯基距离之所以有用，主要有两个原因：首先，它",
+                "suffix": "；其次，它认识到并非所有数据集都适合纯Manhattan距离或纯Euclidean距离，特别是在高维空间中。在实践中，参"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 599
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[9]/span[2]/a[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[9]/text()[1]",
+            "text": "可以根据需要切换到Manhattan距离或Euclidean距离"
+          },
+          "text": "可以根据需要切换到Manhattan距离或Euclidean距离",
+          "url": "https://zhuanlan.zhihu.com/p/953396209"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767461347351,
+          "id": "hk-1767461347350-77653",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767461347350,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 685
+              },
+              "quote": {
+                "exact": "并非所有数据集都适合纯Manhattan距离或纯Euclidean距离，特别是在高维空间中。",
+                "prefix": "距离之所以有用，主要有两个原因：首先，它可以根据需要切换到Manhattan距离或Euclidean距离；其次，它认识到",
+                "suffix": "在实践中，参数p的选择通常是通过结合训练/测试验证流程来完成的。通过在交叉验证中测试不同的p值，可以确定哪个值为特定数据"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 639
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[10]/text()[1]",
+            "text": "并非所有数据集都适合纯Manhattan距离或纯Euclidean距离，特别是在高维空间中。"
+          },
+          "text": "并非所有数据集都适合纯Manhattan距离或纯Euclidean距离，特别是在高维空间中。",
+          "url": "https://zhuanlan.zhihu.com/p/953396209"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.csdn.net/weixin_43418104/article/details/88086075",
+      "title": "闵科夫斯基(minkovski)距离-CSDN博客",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767460730574,
+          "id": "hk-1767460730573-63284",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767460730572,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 126
+              },
+              "quote": {
+                "exact": "闵科夫斯基距离不是一种距离，是一类距离",
+                "prefix": "                    \n                    闵科夫斯基(minkovski)距离\n",
+                "suffix": "。\n若点aaa表示为(x11,x12,x13……x1n)\\left (x _{11}, x _{12},x _{13}…"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 107
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "闵科夫斯基距离不是一种距离，是一类距离"
+          },
+          "text": "闵科夫斯基距离不是一种距离，是一类距离",
+          "url": "https://blog.csdn.net/weixin_43418104/article/details/88086075"
+        }
+      ]
+    },
+    {
+      "url": "https://www.chitika.com/advanced-corrective-rag/",
+      "title": "Corrective RAG (cRAG): Refining LLM Outputs Effectively",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767360903775,
+          "id": "hk-1767360903773-38842",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767360903772,
+              "end": {
+                "css": "main#site-main > article.article.post > section.gh-content.gh-canvas",
+                "textOffset": 411
+              },
+              "quote": {
+                "exact": "Corrective RAG (cRAG) doesn’t just pull documents based on similarity. It questions them. ",
+                "prefix": "雜訊區分開來。That’s where Corrective RAG comes in.這就是矯正RAG發揮作用的地方。",
+                "suffix": "It scores their relevance. It filters out the weak ones. If "
+              },
+              "start": {
+                "css": "main#site-main > article.article.post > section.gh-content.gh-canvas",
+                "textOffset": 321
+              },
+              "version": 1
+            },
+            "endOffset": 90,
+            "endXPath": "/html[1]/body[1]/div[6]/div[1]/main[1]/article[1]/section[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[6]/div[1]/main[1]/article[1]/section[1]/p[4]/text()[1]",
+            "text": "Corrective RAG (cRAG) doesn’t just pull documents based on similarity. It questions them. "
+          },
+          "text": "Corrective RAG (cRAG) doesn’t just pull documents based on similarity. It questions them. ",
+          "url": "https://www.chitika.com/advanced-corrective-rag/"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/5880154016",
+      "title": "Corrective RAG - 知乎",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767360769547,
+          "id": "hk-1767360769545-77465",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767360769543,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 326
+              },
+              "quote": {
+                "exact": "检索评估器（Retrieval Evaluator）",
+                "prefix": "eval-Augmented Generation （CRAG），CRAG在经典RAG基础上作出了一下改进： 添加了一个",
+                "suffix": "，对检索器检索到的文本进行评估，过审查和评估检索到的文档的相关性和可靠性来促进信息生成。计了 decompose-the"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 300
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[1]/text()[2]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[1]/text()[1]",
+            "text": "检索评估器（Retrieval Evaluator）"
+          },
+          "text": "检索评估器（Retrieval Evaluator）",
+          "url": "https://zhuanlan.zhihu.com/p/5880154016"
+        }
+      ]
+    },
+    {
+      "url": "https://pub.towardsai.net/corrective-rag-how-to-build-self-correcting-retrieval-augmented-generation-6dc6db11a145",
+      "title": "Corrective RAG: How to Build Self-Correcting Retrieval-Augmented Generation | by Sai Bhargav Rallapalli | Towards AI",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767360701615,
+          "id": "hk-1767360701613-87910",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767360745845,
+              "end": {
+                "css": "p#aa94 > strong.nn.ij",
+                "textOffset": 30
+              },
+              "quote": {
+                "exact": "Traditional RAG is like a GPS ",
+                "prefix": "e and generate context-rich answers.But here’s the problem →",
+                "suffix": "that always trusts the first route it shows → even if there’"
+              },
+              "start": {
+                "css": "p#aa94",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/strong[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Traditional RAG is like a GPS "
+          },
+          "text": "Traditional RAG is like a GPS ",
+          "url": "https://pub.towardsai.net/corrective-rag-how-to-build-self-correcting-retrieval-augmented-generation-6dc6db11a145"
         }
       ]
     },
@@ -4889,7 +6251,7 @@
     },
     {
       "url": "https://ailogora.com/",
-      "title": "精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro | AILogora",
+      "title": "AILogora - AI 技術實作者社群平台",
       "entries": [
         {
           "color": "#ffea80",
@@ -4898,26 +6260,26 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1767103879627,
+              "createdAt": 1767608151699,
               "end": {
-                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "css": "div.grid.grid-cols-1 > div.rounded-lg.border:nth-of-type(15) > div.p-6.gap-2:nth-of-type(2) > div.block.flex-grow > div.text-muted-foreground.line-clamp-3 > div.text-muted-foreground.overflow-visible",
                 "textOffset": 43
               },
               "quote": {
                 "exact": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
-                "prefix": "夢水晶：Gemini 3 Pro vs 2.5 ProJoyceCloud發布於: 9 天前395這篇實驗記錄告訴我們 ",
+                "prefix": "1 天前32實測經驗AI Agent精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro這篇實驗記錄告訴我們 ",
                 "suffix": "，Gemini 3 Pro 不只是把關卡通關而已，而是展現出更穩定的世界模型、更強的長程規劃能力，以及對工具、環境限制的"
               },
               "start": {
-                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "css": "div.grid.grid-cols-1 > div.rounded-lg.border:nth-of-type(15) > div.p-6.gap-2:nth-of-type(2) > div.block.flex-grow > div.text-muted-foreground.line-clamp-3 > div.text-muted-foreground.overflow-visible",
                 "textOffset": 11
               },
               "version": 1
             },
             "endOffset": 43,
-            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/main[1]/div[1]/section[4]/div[1]/div[2]/div[1]/div[15]/div[2]/div[1]/div[1]/div[1]/text()[1]",
             "startOffset": 11,
-            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/main[1]/div[1]/section[4]/div[1]/div[2]/div[1]/div[15]/div[2]/div[1]/div[1]/div[1]/text()[1]",
             "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種"
           },
           "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
@@ -4927,7 +6289,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "ChatGPT",
+      "title": "Model Training Progress",
       "entries": [
         {
           "color": "#ffea9e",
@@ -15460,13 +16822,13 @@
       ]
     },
     {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
+      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
+      "title": "General",
       "entries": []
     },
     {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
+      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
+      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
       "entries": []
     }
   ]
