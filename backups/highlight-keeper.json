@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767622038862,
+  "exportedAt": 1767663276233,
   "pages": [
     {
       "url": "https://blog.toright.com/posts/7685/llm-rag-introduction",
@@ -6251,7 +6251,7 @@
     },
     {
       "url": "https://ailogora.com/",
-      "title": "AILogora - AI 技術實作者社群平台",
+      "title": "精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro | AILogora",
       "entries": [
         {
           "color": "#ffea80",
@@ -6260,26 +6260,26 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1767608151699,
+              "createdAt": 1767103879627,
               "end": {
-                "css": "div.grid.grid-cols-1 > div.rounded-lg.border:nth-of-type(15) > div.p-6.gap-2:nth-of-type(2) > div.block.flex-grow > div.text-muted-foreground.line-clamp-3 > div.text-muted-foreground.overflow-visible",
+                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
                 "textOffset": 43
               },
               "quote": {
                 "exact": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
-                "prefix": "1 天前32實測經驗AI Agent精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro這篇實驗記錄告訴我們 ",
+                "prefix": "夢水晶：Gemini 3 Pro vs 2.5 ProJoyceCloud發布於: 9 天前395這篇實驗記錄告訴我們 ",
                 "suffix": "，Gemini 3 Pro 不只是把關卡通關而已，而是展現出更穩定的世界模型、更強的長程規劃能力，以及對工具、環境限制的"
               },
               "start": {
-                "css": "div.grid.grid-cols-1 > div.rounded-lg.border:nth-of-type(15) > div.p-6.gap-2:nth-of-type(2) > div.block.flex-grow > div.text-muted-foreground.line-clamp-3 > div.text-muted-foreground.overflow-visible",
+                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
                 "textOffset": 11
               },
               "version": 1
             },
             "endOffset": 43,
-            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/main[1]/div[1]/section[4]/div[1]/div[2]/div[1]/div[15]/div[2]/div[1]/div[1]/div[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
             "startOffset": 11,
-            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/main[1]/div[1]/section[4]/div[1]/div[2]/div[1]/div[15]/div[2]/div[1]/div[1]/div[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
             "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種"
           },
           "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
@@ -6289,7 +6289,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "Model Training Progress",
+      "title": "LinkedIn Article Share",
       "entries": [
         {
           "color": "#ffea9e",
@@ -16822,13 +16822,13 @@
       ]
     },
     {
-      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
-      "title": "General",
+      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
+      "title": "程式碼範例與解釋",
       "entries": []
     },
     {
-      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
-      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
+      "url": "https://mail.google.com/mail/u/0/?pli=1",
+      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
       "entries": []
     }
   ]
