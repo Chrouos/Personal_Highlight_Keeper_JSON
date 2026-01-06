@@ -1,8 +1,2498 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767663276233,
+  "exportedAt": 1767704278233,
   "pages": [
+    {
+      "url": "https://github.com/asinghcsu/AgenticRAG-Survey",
+      "title": "asinghcsu/AgenticRAG-Survey: Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents.",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633206245,
+          "id": "hk-1767633206241-6577",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633206239,
+              "end": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 402
+              },
+              "quote": {
+                "exact": "Agentic Retrieval-Augmented Generation ( Agentic RAG)",
+                "prefix": "view of Agentic RAG. The paper is also updated.\n\n\n\nAbstract\n",
+                "suffix": " represents a transformative leap in artificial intelligence"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 349
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[1]",
+            "text": "Agentic Retrieval-Augmented Generation ( Agentic RAG)"
+          },
+          "text": "Agentic Retrieval-Augmented Generation ( Agentic RAG)",
+          "url": "https://github.com/asinghcsu/AgenticRAG-Survey"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633259837,
+          "id": "hk-1767633259830-60813",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633259830,
+              "end": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2499
+              },
+              "quote": {
+                "exact": " Agentic Patterns,",
+                "prefix": "y integrating autonomous AI agents. These agents employ core",
+                "suffix": " such as reflection, planning, tool use, and multi-agent col"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2481
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "startOffset": 90,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[1]",
+            "text": " Agentic Patterns,"
+          },
+          "text": " Agentic Patterns,",
+          "url": "https://github.com/asinghcsu/AgenticRAG-Survey"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633263925,
+          "id": "hk-1767633263918-4511",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633263917,
+              "end": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2538
+              },
+              "quote": {
+                "exact": "reflection, planning, tool use",
+                "prefix": " agents. These agents employ core Agentic Patterns, such as ",
+                "suffix": ", and multi-agent collaboration, to dynamically adapt to tas"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2508
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "text": "reflection, planning, tool use"
+          },
+          "text": "reflection, planning, tool use",
+          "url": "https://github.com/asinghcsu/AgenticRAG-Survey"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633308976,
+          "id": "hk-1767633308970-91782",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633308968,
+              "end": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 3853
+              },
+              "quote": {
+                "exact": "Agents evaluate their own decisions and outputs, identifying errors and areas for improvement.",
+                "prefix": "patterns central to Agentic RAG:\n1. Reflection\n\nDefinition: ",
+                "suffix": "\nKey Benefits:\n\nEnables iterative refinement of results.\nEnh"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 3759
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[4]/li[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[4]/li[1]/text()[1]",
+            "text": "Agents evaluate their own decisions and outputs, identifying errors and areas for improvement."
+          },
+          "text": "Agents evaluate their own decisions and outputs, identifying errors and areas for improvement.",
+          "url": "https://github.com/asinghcsu/AgenticRAG-Survey"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633322553,
+          "id": "hk-1767633322550-68834",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633322549,
+              "end": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4191
+              },
+              "quote": {
+                "exact": "create structured workflows and task sequences",
+                "prefix": "ure 1: Reflection Pattern\n\n\n2. Planning\n\nDefinition: Agents ",
+                "suffix": " to solve problems efficiently.\nKey Benefits:\n\nFacilitates m"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4145
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[5]/li[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[5]/li[1]/text()[1]",
+            "text": "create structured workflows and task sequences"
+          },
+          "text": "create structured workflows and task sequences",
+          "url": "https://github.com/asinghcsu/AgenticRAG-Survey"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/",
+      "title": "Traditional RAG vs. Agentic RAG—Why AI Agents Need Dynamic Knowledge to Get Smarter | NVIDIA Technical Blog",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633008064,
+          "id": "hk-1767633008063-82726",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633008061,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3)",
+                "textOffset": 265
+              },
+              "quote": {
+                "exact": "rely on static training data.",
+                "prefix": "ate way. \n\n\n\nAI agents face a similar challenge: they often ",
+                "suffix": " This data is fixed at a point in time—while it was current "
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3)",
+                "textOffset": 236
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/p[2]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/p[2]/text()[1]",
+            "text": "rely on static training data."
+          },
+          "text": "rely on static training data.",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633018386,
+          "id": "hk-1767633018384-31848",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633018384,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "Hallucinations",
+                "prefix": ". This limitation can cause problems in real-world use:\n\n\n\n\n",
+                "suffix": ": Agents might generate incorrect facts that sound believabl"
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[1]/li[1]/text()[1]",
+            "text": "Hallucinations"
+          },
+          "text": "Hallucinations",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633039646,
+          "id": "hk-1767633039644-49453",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633039644,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 90
+              },
+              "quote": {
+                "exact": "Reasoning",
+                "prefix": "nding their surroundings and the context of a situation.\n\n\n\n",
+                "suffix": ": Breaking down complex problems and strategizing solutions."
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 81
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[2]/text()[1]",
+            "text": "Reasoning"
+          },
+          "text": "Reasoning",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633042924,
+          "id": "hk-1767633042922-78479",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633042922,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 162
+              },
+              "quote": {
+                "exact": "Planning",
+                "prefix": "eaking down complex problems and strategizing solutions.\n\n\n\n",
+                "suffix": ": Creating step-by-step actions to achieve their goals.\n\n\n\nA"
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 154
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[3]/text()[1]",
+            "text": "Planning"
+          },
+          "text": "Planning",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633044250,
+          "id": "hk-1767633044248-53941",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633044247,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 227
+              },
+              "quote": {
+                "exact": "Acting",
+                "prefix": "g: Creating step-by-step actions to achieve their goals.\n\n\n\n",
+                "suffix": ": Executing tasks, often by using various digital tools.\n\n\n\n"
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 221
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[4]/text()[1]",
+            "text": "Acting"
+          },
+          "text": "Acting",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633060102,
+          "id": "hk-1767633060101-88679",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633060101,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 282
+              },
+              "quote": {
+                "exact": "various digital tools",
+                "prefix": "eve their goals.\n\n\n\nActing: Executing tasks, often by using ",
+                "suffix": ".\n\n\n\n\nFrom searching internal company documents to external "
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 261
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[4]/text()[2]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ul[2]/li[4]/text()[2]",
+            "text": "various digital tools"
+          },
+          "text": "various digital tools",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767633117573,
+          "id": "hk-1767633117569-84222",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767633117569,
+              "end": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ol.wp-block-list",
+                "textOffset": 208
+              },
+              "quote": {
+                "exact": "Query Generation: The agent creates a specific query and sends it to the AI query engine.",
+                "prefix": "current information (e.g., a real-time market analysis).\n\n\n\n",
+                "suffix": "\n\n\n\nDynamic Knowledge Retrieval: The AI query engine searche"
+              },
+              "start": {
+                "css": "div#main-content > div.main-content.col-lg-9:nth-of-type(4) > div.entry-content:nth-of-type(3) > ol.wp-block-list",
+                "textOffset": 119
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ol[1]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/div[3]/div[1]/div[4]/div[3]/ol[1]/li[2]/strong[1]/text()[1]",
+            "text": "Query Generation: The agent creates a specific query and sends it to the AI query engine."
+          },
+          "text": "Query Generation: The agent creates a specific query and sends it to the AI query engine.",
+          "url": "https://developer.nvidia.com/blog/traditional-rag-vs-agentic-rag-why-ai-agents-need-dynamic-knowledge-to-get-smarter/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ibm.com/think/topics/agentic-rag",
+      "title": "What is Agentic RAG? | IBM",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632294534,
+          "id": "hk-1767632294532-41152",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632294530,
+              "end": {
+                "css": "div#rich-text-352c8d6e26",
+                "textOffset": 366
+              },
+              "quote": {
+                "exact": "RAG enables LLMs to be more accurate in domain-specific contexts without needing fine-tuning. ",
+                "prefix": "re context so the LLM can generate more accurate responses. ",
+                "suffix": "\nRather than rely solely on training data, RAG-enabled AI mo"
+              },
+              "start": {
+                "css": "div#rich-text-352c8d6e26",
+                "textOffset": 272
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[4]/div[1]/p[1]/text()[4]",
+            "startOffset": 160,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[4]/div[1]/p[1]/text()[3]",
+            "text": "RAG enables LLMs to be more accurate in domain-specific contexts without needing fine-tuning. "
+          },
+          "text": "RAG enables LLMs to be more accurate in domain-specific contexts without needing fine-tuning. ",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632317489,
+          "id": "hk-1767632317488-55522",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632317487,
+              "end": {
+                "css": "div#rich-text-352c8d6e26",
+                "textOffset": 1013
+              },
+              "quote": {
+                "exact": "combines the retrieved data with the user query for context-aware response generation.",
+                "prefix": "trieves similar data from the knowledge base. The AI system ",
+                "suffix": "\n\n    \n    \n    \n    \n\n\n    \n    \n    \n    \n\n\n\n\n\n\n    What i"
+              },
+              "start": {
+                "css": "div#rich-text-352c8d6e26",
+                "textOffset": 927
+              },
+              "version": 1
+            },
+            "endOffset": 230,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[4]/div[1]/p[3]/text()[2]",
+            "startOffset": 144,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[4]/div[1]/p[3]/text()[2]",
+            "text": "combines the retrieved data with the user query for context-aware response generation."
+          },
+          "text": "combines the retrieved data with the user query for context-aware response generation.",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#b3ccff",
+          "createdAt": 1767632320589,
+          "id": "hk-1767632320588-28647",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632320588,
+              "end": {
+                "css": "div#container-b53a2af968 > div.standalone-title.enhanced-title:nth-of-type(5) > h3.expressive-heading-04",
+                "textOffset": 18
+              },
+              "quote": {
+                "exact": "agentic AI",
+                "prefix": "    \n    \n    \n    \n\n\n    \n    \n    \n    \n\n\n\n\n\n\n    What is ",
+                "suffix": "?\n\n\n\n\n\n\n    \n\n\n\n    Agentic AI is a type of AI that can dete"
+              },
+              "start": {
+                "css": "div#container-b53a2af968 > div.standalone-title.enhanced-title:nth-of-type(5) > h3.expressive-heading-04",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[5]/h3[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[5]/h3[1]/text()[1]",
+            "text": "agentic AI"
+          },
+          "text": "agentic AI",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#b3ccff",
+          "createdAt": 1767632334016,
+          "id": "hk-1767632334014-28583",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632334014,
+              "end": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 94
+              },
+              "quote": {
+                "exact": "determine and carry out a course of action by itself.",
+                "prefix": "c AI?\n\n\n\n\n\n\n    \n\n\n\n    Agentic AI is a type of AI that can ",
+                "suffix": " Most agents available at the time of publishing are LLMs wi"
+              },
+              "start": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 41
+              },
+              "version": 1
+            },
+            "endOffset": 89,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/p[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/p[1]/text()[1]",
+            "text": "determine and carry out a course of action by itself."
+          },
+          "text": "determine and carry out a course of action by itself.",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#b3ccff",
+          "createdAt": 1767632341868,
+          "id": "hk-1767632341866-13599",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632341866,
+              "end": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 186
+              },
+              "quote": {
+                "exact": " LLMs with function-calling capabilities",
+                "prefix": " itself. Most agents available at the time of publishing are",
+                "suffix": ", meaning that they can call tools to perform tasks. In theo"
+              },
+              "start": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 146
+              },
+              "version": 1
+            },
+            "endOffset": 92,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/p[1]/text()[2]",
+            "startOffset": 52,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/p[1]/text()[2]",
+            "text": " LLMs with function-calling capabilities"
+          },
+          "text": " LLMs with function-calling capabilities",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#b3ccff",
+          "createdAt": 1767632353583,
+          "id": "hk-1767632353581-55716",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632353581,
+              "end": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 353
+              },
+              "quote": {
+                "exact": "memory, both short and long term,",
+                "prefix": "are LLMs with three significant characteristics: \nThey have ",
+                "suffix": " which enables them to plan and execute complex tasks. Memor"
+              },
+              "start": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 320
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/ul[1]/li[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/ul[1]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "memory, both short and long term,"
+          },
+          "text": "memory, both short and long term,",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#b3ccff",
+          "createdAt": 1767632363178,
+          "id": "hk-1767632363176-24138",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632363176,
+              "end": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 675
+              },
+              "quote": {
+                "exact": "step-by-step planning",
+                "prefix": ", context and results. \n\nThey are capable of query routing, ",
+                "suffix": " and decision-making. Agents use their memory capabilities t"
+              },
+              "start": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 654
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/ul[2]/li[1]/p[1]/strong[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/ul[2]/li[1]/p[1]/text()[2]",
+            "text": "step-by-step planning"
+          },
+          "text": "step-by-step planning",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        },
+        {
+          "color": "#b3ccff",
+          "createdAt": 1767632368158,
+          "id": "hk-1767632368157-63657",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632368157,
+              "end": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 695
+              },
+              "quote": {
+                "exact": "decision-making",
+                "prefix": "hey are capable of query routing, step-by-step planning and ",
+                "suffix": ". Agents use their memory capabilities to retain information"
+              },
+              "start": {
+                "css": "div#rich-text-906cf2762b",
+                "textOffset": 680
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/ul[2]/li[1]/p[1]/text()[3]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/c4d-video-cta-container[1]/div[1]/div[1]/div[4]/c4d-table-of-contents[1]/div[1]/div[2]/div[1]/div[6]/div[1]/ul[2]/li[1]/p[1]/text()[3]",
+            "text": "decision-making"
+          },
+          "text": "decision-making",
+          "url": "https://www.ibm.com/think/topics/agentic-rag"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sohu.com/a/451507702_701814",
+      "title": "数据科学中常见的9种距离度量方法，内含欧氏距离、切比雪夫距离等_向量",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632007192,
+          "id": "hk-1767632007190-95757",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632007188,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 525
+              },
+              "quote": {
+                "exact": "余弦相似度的一个主要缺点是没有考虑向量的大小，而只考虑它们的方向",
+                "prefix": "弦相似度为 1，而两个彼此相对的向量的余弦相似度为 - 1。注意，它们的大小并不重要，因为这是在方向上的度量。\n\n缺点：",
+                "suffix": "。以推荐系统为例，余弦相似度就没有考虑到不同用户之间评分尺度的差异。\n用例：当我们对高维数据向量的大小不关注时，可以使用"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 493
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[13]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[13]/span[1]/text()[1]",
+            "text": "余弦相似度的一个主要缺点是没有考虑向量的大小，而只考虑它们的方向"
+          },
+          "text": "余弦相似度的一个主要缺点是没有考虑向量的大小，而只考虑它们的方向",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632027648,
+          "id": "hk-1767632027646-16190",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632027645,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 773
+              },
+              "quote": {
+                "exact": "它通常用于比较两个相同长度的二进制字符串",
+                "prefix": "略幅度的余弦相似度。\n汉明距离（Hamming Distance）\n\n汉明距离。 \n汉明距离是两个向量之间不同值的个数。",
+                "suffix": "。它还可以用于字符串，通过计算不同字符的数量来比较它们之间的相似程度。\n缺点：当两个向量长度不相等时，汉明距离使用起来很"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 753
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[18]/span[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[18]/span[1]/text()[1]",
+            "text": "它通常用于比较两个相同长度的二进制字符串"
+          },
+          "text": "它通常用于比较两个相同长度的二进制字符串",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632040025,
+          "id": "hk-1767632040023-33562",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632040022,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1019
+              },
+              "quote": {
+                "exact": "计算实值向量之间的距离",
+                "prefix": "\n曼哈顿距离（Manhattan Distance）\n\n曼哈顿距离。 \n曼哈顿距离通常称为出租车距离或城市街区距离，用来",
+                "suffix": "。想象一下均匀网格棋盘上的物体，如果它们只能移动直角，曼哈顿距离是指两个向量之间的距离，在计算距离时不涉及对角线移动。\n"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1008
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[24]/span[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[24]/span[1]/text()[1]",
+            "text": "计算实值向量之间的距离"
+          },
+          "text": "计算实值向量之间的距离",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632045375,
+          "id": "hk-1767632045374-85438",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632045373,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1045
+              },
+              "quote": {
+                "exact": "直角",
+                "prefix": "\n曼哈顿距离通常称为出租车距离或城市街区距离，用来计算实值向量之间的距离。想象一下均匀网格棋盘上的物体，如果它们只能移动",
+                "suffix": "，曼哈顿距离是指两个向量之间的距离，在计算距离时不涉及对角线移动。\n\n缺点：尽管曼哈顿距离在高维数据中似乎可以工作，但它"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1043
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[24]/span[1]/text()[2]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[24]/span[1]/text()[2]",
+            "text": "直角"
+          },
+          "text": "直角",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632054000,
+          "id": "hk-1767632053998-98098",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632053998,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1142
+              },
+              "quote": {
+                "exact": "它可能不是最短路径",
+                "prefix": "角线移动。\n\n缺点：尽管曼哈顿距离在高维数据中似乎可以工作，但它比欧式距离直观性差，尤其是在高维数据中使用时。此外，由于",
+                "suffix": "，有可能比欧氏距离给出一个更高的距离值。\n用例：当数据集具有离散或二进制属性时，曼哈顿距离似乎工作得很好，因为它考虑了在"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1133
+              },
+              "version": 1
+            },
+            "endOffset": 62,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[26]/span[1]/text()[1]",
+            "startOffset": 53,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[26]/span[1]/text()[1]",
+            "text": "它可能不是最短路径"
+          },
+          "text": "它可能不是最短路径",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632077946,
+          "id": "hk-1767632077942-5322",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632077941,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1337
+              },
+              "quote": {
+                "exact": "沿着一个轴的最大距离",
+                "prefix": "shev Distance）\n\n切比雪夫距离。 \n切比雪夫距离定义为两个向量在任意坐标维度上的最大差值。换句话说，它就是",
+                "suffix": "。切比雪夫距离通常被称为棋盘距离，因为国际象棋的国王从一个方格到另一个方格的最小步数等于切比雪夫距离。\n\n缺点：切比雪夫"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1327
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[31]/span[1]/text()[1]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[31]/span[1]/text()[1]",
+            "text": "沿着一个轴的最大距离"
+          },
+          "text": "沿着一个轴的最大距离",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632081338,
+          "id": "hk-1767632081336-9733",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632081336,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1353
+              },
+              "quote": {
+                "exact": "棋盘距离",
+                "prefix": "。 \n切比雪夫距离定义为两个向量在任意坐标维度上的最大差值。换句话说，它就是沿着一个轴的最大距离。切比雪夫距离通常被称为",
+                "suffix": "，因为国际象棋的国王从一个方格到另一个方格的最小步数等于切比雪夫距离。\n\n缺点：切比雪夫距离通常用于特定的用例，这使得它"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1349
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[31]/span[1]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[31]/span[1]/text()[2]",
+            "text": "棋盘距离"
+          },
+          "text": "棋盘距离",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632098905,
+          "id": "hk-1767632098903-67424",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632098903,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1704
+              },
+              "quote": {
+                "exact": "使用参数 p 来操纵距离度量",
+                "prefix": "它可以在一个空间中使用，在这个空间中，距离可以用一个有长度的向量来表示。\n闵氏距离公式如下：\n\n最有趣的一点是，我们可以",
+                "suffix": "，使其与其他度量非常相似。常见的 p 值有：\n\n p=1：曼哈顿距离\n p=2：欧氏距离\n p=∞：切比雪夫距离\n\n缺点"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1690
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[41]/span[1]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[41]/span[1]/text()[1]",
+            "text": "使用参数 p 来操纵距离度量"
+          },
+          "text": "使用参数 p 来操纵距离度量",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767632122034,
+          "id": "hk-1767632122031-2356",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767632122030,
+              "end": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1998
+              },
+              "quote": {
+                "exact": "比较样本集相似性与多样性的统计量",
+                "prefix": " 和许多距离度量，将会获益多多。\n雅卡尔指数（Jaccard Index）\n\n雅卡尔指数。 \n雅卡尔指数（交并比）是用于",
+                "suffix": "。雅卡尔系数能够量度有限样本集合的相似度，其定义为两个集合交集大小与并集大小之间的比例。\n例如，如果两个集合有 1 个共"
+              },
+              "start": {
+                "css": "article#mp-editor > div.hidden-content:nth-of-type(2)",
+                "textOffset": 1982
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[47]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/p[47]/span[1]/text()[1]",
+            "text": "比较样本集相似性与多样性的统计量"
+          },
+          "text": "比较样本集相似性与多样性的统计量",
+          "url": "https://www.sohu.com/a/451507702_701814"
+        }
+      ]
+    },
+    {
+      "url": "https://www.datacamp.com/tutorial/chebyshev-distance",
+      "title": "Understanding Chebyshev Distance: A Comprehensive Guide | DataCamp",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631817321,
+          "id": "hk-1767631817319-56594",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631817318,
+              "end": {
+                "css": "div#main-content > div.css-iom6ik > div.css-dy8gfm > span.listed-menu.css-lkkqax > p.p-margin:nth-of-type(5)",
+                "textOffset": 277
+              },
+              "quote": {
+                "exact": "for two points P = (x1, y1, ..., z1) and Q = (x2, y2, ..., z2) in n-dimensional space,",
+                "prefix": "inates of two points along any single axis. Mathematically, ",
+                "suffix": " the Chebyshev distance is expressed as:\n\nThis definition se"
+              },
+              "start": {
+                "css": "div#main-content > div.css-iom6ik > div.css-dy8gfm > span.listed-menu.css-lkkqax > p.p-margin:nth-of-type(5)",
+                "textOffset": 191
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/p[5]/span[5]/text()[1]",
+            "startOffset": 191,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/span[1]/p[5]/span[1]/text()[1]",
+            "text": "for two points P = (x1, y1, ..., z1) and Q = (x2, y2, ..., z2) in n-dimensional space,"
+          },
+          "text": "for two points P = (x1, y1, ..., z1) and Q = (x2, y2, ..., z2) in n-dimensional space,",
+          "url": "https://www.datacamp.com/tutorial/chebyshev-distance"
+        }
+      ]
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/machine-learning/chebyshev-distance/",
+      "title": "Chebyshev distance - GeeksforGeeks",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631635285,
+          "id": "hk-1767631635284-93315",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631635283,
+              "end": {
+                "css": "div > div.MainArticleContent_articleMainContentCss__b_1_R.article--viewer_content:nth-of-type(2) > div.a-wrapper > div.content > div.text > div.html-chunk",
+                "textOffset": 91
+              },
+              "quote": {
+                "exact": " between two points in a space",
+                "prefix": "hebyshev Distance is a metric used to calculate the distance",
+                "suffix": " where movement can occur in any direction including diagona"
+              },
+              "start": {
+                "css": "div > div.MainArticleContent_articleMainContentCss__b_1_R.article--viewer_content:nth-of-type(2) > div.a-wrapper > div.content > div.text > div.html-chunk",
+                "textOffset": 61
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 61,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "text": " between two points in a space"
+          },
+          "text": " between two points in a space",
+          "url": "https://www.geeksforgeeks.org/machine-learning/chebyshev-distance/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631680765,
+          "id": "hk-1767631680764-97127",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631680764,
+              "end": {
+                "css": "div > div.MainArticleContent_articleMainContentCss__b_1_R.article--viewer_content:nth-of-type(2) > div.a-wrapper > div.content > div.text > div.html-chunk",
+                "textOffset": 257
+              },
+              "quote": {
+                "exact": "maximum absolute difference between the corresponding coordinates of two points.",
+                "prefix": "in any direction including diagonally. It is defined as the ",
+                "suffix": " DChebyshev(A,B)=max⁡i=1n∣xi−yi∣D_{\\text{Chebyshev}}(A, B) ="
+              },
+              "start": {
+                "css": "div > div.MainArticleContent_articleMainContentCss__b_1_R.article--viewer_content:nth-of-type(2) > div.a-wrapper > div.content > div.text > div.html-chunk",
+                "textOffset": 177
+              },
+              "version": 1
+            },
+            "endOffset": 166,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/text()[2]",
+            "startOffset": 86,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1]/span[1]/text()[2]",
+            "text": "maximum absolute difference between the corresponding coordinates of two points."
+          },
+          "text": "maximum absolute difference between the corresponding coordinates of two points.",
+          "url": "https://www.geeksforgeeks.org/machine-learning/chebyshev-distance/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631694085,
+          "id": "hk-1767631694083-46440",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631694083,
+              "end": {
+                "css": "div > div.MainArticleContent_articleMainContentCss__b_1_R.article--viewer_content:nth-of-type(2) > div.a-wrapper > div.content > div.text > div.html-chunk",
+                "textOffset": 440
+              },
+              "quote": {
+                "exact": "grid-based",
+                "prefix": ",B)=maxi=1n​∣xi​−yi​∣ This distance is especially useful in ",
+                "suffix": " systems like chessboards or pathfinding in games where diag"
+              },
+              "start": {
+                "css": "div > div.MainArticleContent_articleMainContentCss__b_1_R.article--viewer_content:nth-of-type(2) > div.a-wrapper > div.content > div.text > div.html-chunk",
+                "textOffset": 430
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]/span[1]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]/span[1]/text()[1]",
+            "text": "grid-based"
+          },
+          "text": "grid-based",
+          "url": "https://www.geeksforgeeks.org/machine-learning/chebyshev-distance/"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10329094",
+      "title": "【Day 12】該如何選擇損失函數與激勵函數?中文該如何斷詞? - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767629384881,
+          "id": "hk-1767629384879-85832",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767629384877,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1216
+              },
+              "quote": {
+                "exact": "二值交叉熵损失(Binary Cross-Entropy Loss, BCEloss)",
+                "prefix": "因此當時我並未深度講解，而現在我決定將我們使用過的所有損失函數進行整理並解析，並指出在哪些情況下需要使用這些損失函數。\n",
+                "suffix": "\n二值交叉熵損失（Binary Cross-Entropy Loss)是一種針對二分類問題的損失函數，該函數主要對模型在"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1173
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[1]/text()[1]",
+            "text": "二值交叉熵损失(Binary Cross-Entropy Loss, BCEloss)"
+          },
+          "text": "二值交叉熵损失(Binary Cross-Entropy Loss, BCEloss)",
+          "url": "https://ithelp.ithome.com.tw/articles/10329094"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767629388082,
+          "id": "hk-1767629388079-77688",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767629388078,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1266
+              },
+              "quote": {
+                "exact": "二分類問題的損失函數",
+                "prefix": "tropy Loss, BCEloss)\n二值交叉熵損失（Binary Cross-Entropy Loss)是一種針對",
+                "suffix": "，該函數主要對模型在二分類任務中的最後輸出結果進行評估，其計算方式如下：在計算公式中，y是我們賦予模型的標籤，它通常是0"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1256
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[8]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[8]/strong[1]/text()[1]",
+            "text": "二分類問題的損失函數"
+          },
+          "text": "二分類問題的損失函數",
+          "url": "https://ithelp.ithome.com.tw/articles/10329094"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631567413,
+          "id": "hk-1767631567412-98476",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631567411,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1510
+              },
+              "quote": {
+                "exact": "CrossEntropyLoss",
+                "prefix": "對映的是公式(1 - y)log(1 - p)。透過這樣的調整方式，使p的數值能越來越接近實際的標籤數值。\n交叉熵損失（",
+                "suffix": "）\n交叉熵損失（CrossEntropyLoss）主要適用於分類任務，包含二分類與多分類，它常見於多類別分類任務中，交叉"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1494
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[2]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[2]/text()[1]",
+            "text": "CrossEntropyLoss"
+          },
+          "text": "CrossEntropyLoss",
+          "url": "https://ithelp.ithome.com.tw/articles/10329094"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631569014,
+          "id": "hk-1767631569013-45257",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631569013,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1566
+              },
+              "quote": {
+                "exact": "多類別分類任務",
+                "prefix": "EntropyLoss）\n交叉熵損失（CrossEntropyLoss）主要適用於分類任務，包含二分類與多分類，它常見於",
+                "suffix": "中，交叉熵損失的基本概念是去評估模型預測輸出和標籤之間的差距，對於一個使用One-hot encoding編碼的樣本，交"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1559
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[9]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[9]/strong[1]/text()[1]",
+            "text": "多類別分類任務"
+          },
+          "text": "多類別分類任務",
+          "url": "https://ithelp.ithome.com.tw/articles/10329094"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/image-processing-and-ml-note/loss-functions-for-computer-vision-models-bd5bb2351b6b",
+      "title": "Computer Vision Models Loss. 機器學習算法設計成可以從錯誤中學習並使用我們提供的訓練數據來進行更新。但是，它們… | by Moris | Computer Vision Note | Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767631377941,
+          "id": "hk-1767631377937-5183",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767631377935,
+              "end": {
+                "css": "li#\\36 428",
+                "textOffset": 43
+              },
+              "quote": {
+                "exact": "Cross Entropy loss是一種更高級的損失函數，它使用自然對數（loge）",
+                "prefix": "離。由於錯誤是平方的，這個損失函數對異常值非常敏感。L2 Loss functionCROSS-ENTROPY LOSS",
+                "suffix": "。這有助於相對於二次損失來加快神經網絡的訓練。交叉熵的公式（多類別錯誤）如下。它也可以稱為「分類交叉熵」。這裡c=類別I"
+              },
+              "start": {
+                "css": "li#\\36 428",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[6]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[6]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "text": "Cross Entropy loss是一種更高級的損失函數，它使用自然對數（loge）"
+          },
+          "text": "Cross Entropy loss是一種更高級的損失函數，它使用自然對數（loge）",
+          "url": "https://medium.com/image-processing-and-ml-note/loss-functions-for-computer-vision-models-bd5bb2351b6b"
+        }
+      ]
+    },
+    {
+      "url": "https://ylchiu.com/archives/1185",
+      "title": "Yi Lung Chiu",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767629336942,
+          "id": "hk-1767629336937-37878",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767629336935,
+              "end": {
+                "css": "p:nth-of-type(16) > mjx-container.MathJax.CtxtMenu_Attached_0 > mjx-math.NCM-N > mjx-msub > mjx-mi > mjx-c.mjx-c1D45D",
+                "textOffset": 2
+              },
+              "quote": {
+                "exact": "觀測到的事件𝑝",
+                "prefix": "\n𝐸⁡[𝐻⁡(𝑝,𝑞)] ∼Σ𝑖⁢𝐻⁡(𝑝𝑖,𝑞𝑖) -(4)\n\n\n\n訓練模型的時候我們會先收集很多",
+                "suffix": "𝑖，用來推敲事實的機率分佈𝑝。只要𝑖足夠大，式(4)就越準。由於收集到的事件𝑝𝑖已經發生，所以我們把該事件相對"
+              },
+              "start": {
+                "css": "article#post-1185 > div.wb4wp-blog-container > content.kv-page.entry-content > div.kv-page-content",
+                "textOffset": 2638
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[16]/mjx-container[1]/mjx-math[1]/mjx-msub[1]/mjx-mi[1]/mjx-c[1]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[16]/text()[1]",
+            "text": "觀測到的事件𝑝"
+          },
+          "text": "觀測到的事件𝑝",
+          "url": "https://ylchiu.com/archives/1185"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767629339432,
+          "id": "hk-1767629339428-34442",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767629339426,
+              "end": {
+                "css": "div.kv-page-content > p:nth-of-type(16) > mjx-container.MathJax.CtxtMenu_Attached_0:nth-of-type(2) > mjx-math.NCM-N > mjx-mi > mjx-c.mjx-c1D45D",
+                "textOffset": 2
+              },
+              "quote": {
+                "exact": "推敲事實的機率分佈𝑝",
+                "prefix": "�)] ∼Σ𝑖⁢𝐻⁡(𝑝𝑖,𝑞𝑖) -(4)\n\n\n\n訓練模型的時候我們會先收集很多觀測到的事件𝑝𝑖，用來",
+                "suffix": "。只要𝑖足夠大，式(4)就越準。由於收集到的事件𝑝𝑖已經發生，所以我們把該事件相對應的類別的機率標為 1 、其餘為"
+              },
+              "start": {
+                "css": "article#post-1185 > div.wb4wp-blog-container > content.kv-page.entry-content > div.kv-page-content",
+                "textOffset": 2651
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[16]/mjx-container[2]/mjx-math[1]/mjx-mi[1]/mjx-c[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[16]/text()[2]",
+            "text": "推敲事實的機率分佈𝑝"
+          },
+          "text": "推敲事實的機率分佈𝑝",
+          "url": "https://ylchiu.com/archives/1185"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767629345197,
+          "id": "hk-1767629345194-94006",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767629345192,
+              "end": {
+                "css": "article#post-1185 > div.wb4wp-blog-container > content.kv-page.entry-content > div.kv-page-content",
+                "textOffset": 2850
+              },
+              "quote": {
+                "exact": "One-hot encoding 就越沒效率，因為沒有用卻佔空間的零會變多",
+                "prefix": "：\n\n\n\n圖三：十個類別的 One-hot encoding 範例，意思是第三類別的發生機率100%。\n\n\n\n類別越多，",
+                "suffix": "。事實的機率分佈總是未知的，使得這類的 One-hot encoding 相當常見。tensorflow 團隊也因應這個"
+              },
+              "start": {
+                "css": "article#post-1185 > div.wb4wp-blog-container > content.kv-page.entry-content > div.kv-page-content",
+                "textOffset": 2813
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[17]/text()[1]",
+            "text": "One-hot encoding 就越沒效率，因為沒有用卻佔空間的零會變多"
+          },
+          "text": "One-hot encoding 就越沒效率，因為沒有用卻佔空間的零會變多",
+          "url": "https://ylchiu.com/archives/1185"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767629357061,
+          "id": "hk-1767629357058-52414",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767629357057,
+              "end": {
+                "css": "article#post-1185 > div.wb4wp-blog-container > content.kv-page.entry-content > div.kv-page-content",
+                "textOffset": 1542
+              },
+              "quote": {
+                "exact": "兩個二元機率分佈 (Binary Probability Distribution) 的交叉熵",
+                "prefix": "的 domain 不一樣，導致有不同的名字。\n\n\n\nBinary Cross-entropy\n\n\n\n這個損失函數比較的是",
+                "suffix": "。Binary Cross-entropy 經常用在兩個地方，一是為二元判斷、二是生成圖片。二元判斷很容易理解，就是用0"
+              },
+              "start": {
+                "css": "article#post-1185 > div.wb4wp-blog-container > content.kv-page.entry-content > div.kv-page-content",
+                "textOffset": 1495
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[1]/content[1]/div[1]/p[9]/text()[1]",
+            "text": "兩個二元機率分佈 (Binary Probability Distribution) 的交叉熵"
+          },
+          "text": "兩個二元機率分佈 (Binary Probability Distribution) 的交叉熵",
+          "url": "https://ylchiu.com/archives/1185"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/89391305",
+      "title": "可视化理解Binary Cross-Entropy - 知乎",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767628587628,
+          "id": "hk-1767628587626-22802",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767628587625,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 365
+              },
+              "quote": {
+                "exact": "二分类器",
+                "prefix": "tropy-log-loss-a-visual-explanation-a3ac6025181a介绍 如果你正在训练一个",
+                "suffix": "，很有可能你正在使用的损失函数是二值交叉熵/对数(binary cross-entropy / log)。 你是否想过使"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 361
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[8]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[8]/b[1]/text()[1]",
+            "text": "二分类器"
+          },
+          "text": "二分类器",
+          "url": "https://zhuanlan.zhihu.com/p/89391305"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767628608803,
+          "id": "hk-1767628608800-41766",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767628608798,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1054
+              },
+              "quote": {
+                "exact": "二值交叉熵/对数(Binary Cross-Entropy / Log )",
+                "prefix": "值。 对于像我们的示例这样的二分类，典型的损失函数是binary cross-entropy  / log。 损失函数：",
+                "suffix": "损失 如果您查看此损失函数，就会发现： 二值交叉熵/对数其中y是标签（绿色点为1 ， 红色点为0），p(y)是N个点为绿"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1017
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/h2[4]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/h2[4]/text()[1]",
+            "text": "二值交叉熵/对数(Binary Cross-Entropy / Log )"
+          },
+          "text": "二值交叉熵/对数(Binary Cross-Entropy / Log )",
+          "url": "https://zhuanlan.zhihu.com/p/89391305"
+        }
+      ]
+    },
+    {
+      "url": "https://clay-atlas.com/blog/2019/12/18/machine-learning-chinese-pytorch-tutorial-binary-cross-entroy-loss/",
+      "title": "[Machine Learning] BinaryCrossEntropy 介紹與程式實作 - Clay-Technology World",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767628349492,
+          "id": "hk-1767628349489-66113",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767628349487,
+              "end": {
+                "css": "article#post-1837 > div.nv-content-wrap.entry-content",
+                "textOffset": 143
+              },
+              "quote": {
+                "exact": "BinaryCrossEntropy 計算 target 以及 output 之間的『二元交叉熵』",
+                "prefix": "\n假設 target 為我們預測標籤的『正確答案』、output 為我們模型預測的『預測標籤』—— 那麼我們便可以透過 ",
+                "suffix": "。\n\n\n\n\n\n\n\n雖然常用於『二元分類』，但是用在『多標籤分類』也是沒有問題的。當然在應用上，我們需要透過 Sigmoi"
+              },
+              "start": {
+                "css": "article#post-1837 > div.nv-content-wrap.entry-content",
+                "textOffset": 94
+              },
+              "version": 1
+            },
+            "endOffset": 108,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 59,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "text": "BinaryCrossEntropy 計算 target 以及 output 之間的『二元交叉熵』"
+          },
+          "text": "BinaryCrossEntropy 計算 target 以及 output 之間的『二元交叉熵』",
+          "url": "https://clay-atlas.com/blog/2019/12/18/machine-learning-chinese-pytorch-tutorial-binary-cross-entroy-loss/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767628354076,
+          "id": "hk-1767628354074-94954",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767628354074,
+              "end": {
+                "css": "article#post-1837 > div.nv-content-wrap.entry-content",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "『二元分類』，但是用在『多標籤分類』也是沒有問題的",
+                "prefix": "aryCrossEntropy 計算 target 以及 output 之間的『二元交叉熵』。\n\n\n\n\n\n\n\n雖然常用於",
+                "suffix": "。當然在應用上，我們需要透過 Sigmoid 函數來計算出每一個預測數值的分數。\n\n\n\n公式為：\n\n\n\n\n\n\n\n以下假設"
+              },
+              "start": {
+                "css": "article#post-1837 > div.nv-content-wrap.entry-content",
+                "textOffset": 157
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[3]/text()[1]",
+            "text": "『二元分類』，但是用在『多標籤分類』也是沒有問題的"
+          },
+          "text": "『二元分類』，但是用在『多標籤分類』也是沒有問題的",
+          "url": "https://clay-atlas.com/blog/2019/12/18/machine-learning-chinese-pytorch-tutorial-binary-cross-entroy-loss/"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.csdn.net/Cy_coding/article/details/116427968",
+      "title": "快速理解binary cross entropy 二元交叉熵-CSDN博客",
+      "entries": [
+        {
+          "color": "#495583",
+          "createdAt": 1767628191719,
+          "id": "hk-1767628191717-54160",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767628191717,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "Binary cross entropy 二元交叉熵是二分类问题中常用的一个Loss损失函数",
+                "prefix": "                  \n                    \n                    ",
+                "suffix": "，在常见的机器学习模块中都有实现。本文就二元交叉熵这个损失函数的原理，简单地进行解释。\n首先是二元交叉熵的公式 :\nLo"
+              },
+              "start": {
+                "css": "div#content_views",
+                "textOffset": 88
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Binary cross entropy 二元交叉熵是二分类问题中常用的一个Loss损失函数"
+          },
+          "text": "Binary cross entropy 二元交叉熵是二分类问题中常用的一个Loss损失函数",
+          "url": "https://blog.csdn.net/Cy_coding/article/details/116427968"
+        },
+        {
+          "color": "#495583",
+          "createdAt": 1767628197816,
+          "id": "hk-1767628197814-57100",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767628197813,
+              "end": {
+                "css": "div#content_views",
+                "textOffset": 430
+              },
+              "quote": {
+                "exact": "yyy 是二元标签 0 或者 1， p(y)p(y)p(y) 是输出属于yyy 标签的概率",
+                "prefix": "i)) Loss=−N1​i=1∑N​yi​⋅log(p(yi​))+(1−yi​)⋅log(1−p(yi​))\n其中，",
+                "suffix": "。作为损失函数，二元交叉熵是用来评判一个二分类模型预测结果的好坏程度的，通俗的讲，即对于标签y为1的情况，如果预测值p("
+              },
+              "start": {
+                "css": "div#content_views > p:nth-of-type(3) > span.katex--inline > span.katex > span.katex-mathml",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/article[1]/div[1]/div[1]/p[3]/span[1]/span[1]",
+            "text": "yyy 是二元标签 0 或者 1， p(y)p(y)p(y) 是输出属于yyy 标签的概率"
+          },
+          "text": "yyy 是二元标签 0 或者 1， p(y)p(y)p(y) 是输出属于yyy 标签的概率",
+          "url": "https://blog.csdn.net/Cy_coding/article/details/116427968"
+        }
+      ]
+    },
+    {
+      "url": "https://edge.aif.tw/application-langchain-rag-advanced/",
+      "title": "利用 Langchain 實作系列 RAG 進階流程：Query Analysis & Self-reflection",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767626444441,
+          "id": "hk-1767626444439-40587",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767626444438,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 407
+              },
+              "quote": {
+                "exact": "檢索增強生成 (Retrieval Augmented Generation, RAG) ",
+                "prefix": "hatPDF：問個問題，輕鬆找出文件重點\n利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題\n\n",
+                "suffix": "近期在 LLM 的強大威力下，成為熱門應用技術之一，透過提供特定的檢索資料 (e.g. 公司內部文件)，使得 LLM 的"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 362
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[2]/text()[1]",
+            "text": "檢索增強生成 (Retrieval Augmented Generation, RAG) "
+          },
+          "text": "檢索增強生成 (Retrieval Augmented Generation, RAG) ",
+          "url": "https://edge.aif.tw/application-langchain-rag-advanced/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767627157472,
+          "id": "hk-1767627157470-17627",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767627157470,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 473
+              },
+              "quote": {
+                "exact": "透過提供特定的檢索資料 (e.g. 公司內部文件)，使得 LLM 的回應更加穩定",
+                "prefix": "rieval Augmented Generation, RAG) 近期在 LLM 的強大威力下，成為熱門應用技術之一，",
+                "suffix": "，也讓使用者能更快速地得到問題解答。\n然而要建立一個實際使用時，足夠穩定的 RAG 架構，並非那麼容易。對於檢索資料的處"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 433
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[2]/text()[2]",
+            "text": "透過提供特定的檢索資料 (e.g. 公司內部文件)，使得 LLM 的回應更加穩定"
+          },
+          "text": "透過提供特定的檢索資料 (e.g. 公司內部文件)，使得 LLM 的回應更加穩定",
+          "url": "https://edge.aif.tw/application-langchain-rag-advanced/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767627184450,
+          "id": "hk-1767627184448-56558",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767627184448,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1029
+              },
+              "quote": {
+                "exact": "問題 (Question) 會進入到 vectorstore 內提取最相近的文件，接著文件與問題會同時交由 LLM 產生答案。",
+                "prefix": "LM 先行了解相關內容喔。\n進階RAG流程說明\n\n\n圖一：基本的 RAG 流程。\n\n上圖為最簡單的 RAG 流程。首先，",
+                "suffix": "\n\n\n圖二：本次實作之 RAG 流程。\n\n其中綠色圓圈代表流程中使用到的工具節點，藍色圓圈代表 LLM 節點，而橘色菱形"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 966
+              },
+              "version": 1
+            },
+            "endOffset": 81,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[7]/text()[1]",
+            "text": "問題 (Question) 會進入到 vectorstore 內提取最相近的文件，接著文件與問題會同時交由 LLM 產生答案。"
+          },
+          "text": "問題 (Question) 會進入到 vectorstore 內提取最相近的文件，接著文件與問題會同時交由 LLM 產生答案。",
+          "url": "https://edge.aif.tw/application-langchain-rag-advanced/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767627284067,
+          "id": "hk-1767627284066-46716",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767627284065,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1344
+              },
+              "quote": {
+                "exact": "依照複雜程度低到高分別交由 LLM 自身回應、使用內部資料庫 (vectorstore) 後回應",
+                "prefix": "nalysis\n透過分類器將問題導向不同的工具或模組中。在Adaptive RAG論文中主要目的是區分問題的複雜程度，並",
+                "suffix": "、或進行網路搜尋後回應。而在本次實作中則調整為依照問題面向不同，而調整使用的工具。\nnote : 在實際應用中此機制非常"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1296
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[11]/text()[2]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[11]/text()[2]",
+            "text": "依照複雜程度低到高分別交由 LLM 自身回應、使用內部資料庫 (vectorstore) 後回應"
+          },
+          "text": "依照複雜程度低到高分別交由 LLM 自身回應、使用內部資料庫 (vectorstore) 後回應",
+          "url": "https://edge.aif.tw/application-langchain-rag-advanced/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767627303152,
+          "id": "hk-1767627303151-69135",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767627303150,
+              "end": {
+                "css": "h3#ragselfreflection",
+                "textOffset": 21
+              },
+              "quote": {
+                "exact": "RAG + Self-reflection",
+                "prefix": "而調整使用的工具。\nnote : 在實際應用中此機制非常常見，透過判斷問題的性質將其分流至專門處理此類型問題的流程中。\n",
+                "suffix": "\n此部分主要借用了CRAG與Self-RAG的概念 (note:在此沒有做模型finetune)，利用多個判斷機制確認提"
+              },
+              "start": {
+                "css": "h3#ragselfreflection",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/h3[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/h3[2]/text()[1]",
+            "text": "RAG + Self-reflection"
+          },
+          "text": "RAG + Self-reflection",
+          "url": "https://edge.aif.tw/application-langchain-rag-advanced/"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767627311394,
+          "id": "hk-1767627311391-28407",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767627311390,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1505
+              },
+              "quote": {
+                "exact": "借用了CRAG與Self-RAG的概念 (note:在此沒有做模型finetune)",
+                "prefix": "常常見，透過判斷問題的性質將其分流至專門處理此類型問題的流程中。\nRAG + Self-reflection\n此部分主要",
+                "suffix": "，利用多個判斷機制確認提取資料與模型生成答案的有效性，並且在失敗時重回先前的模組再次執行。\n\n參考閱讀資源：Self-R"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1463
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[13]/text()[3]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[13]/text()[1]",
+            "text": "借用了CRAG與Self-RAG的概念 (note:在此沒有做模型finetune)"
+          },
+          "text": "借用了CRAG與Self-RAG的概念 (note:在此沒有做模型finetune)",
+          "url": "https://edge.aif.tw/application-langchain-rag-advanced/"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/666074661",
+      "title": "SELF-RAG: 自我反思检索增强生成，提升语言模型生成质量与准确性 - 知乎",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622680006,
+          "id": "hk-1767622680004-75674",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622680003,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 240
+              },
+              "quote": {
+                "exact": "目前先进的大型语言模型（LLMs）在生成回答时仍然存在事实错误的问题",
+                "prefix": "s://github.com/AkariAsai/self-rag https://selfrag.github.io/",
+                "suffix": "，尽管它们的模型规模和数据规模已经增加（引用了一些相关研究）。为了减少这种问题，引入了一种叫做Retrieval-Aug"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 206
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[5]/text()[1]",
+            "text": "目前先进的大型语言模型（LLMs）在生成回答时仍然存在事实错误的问题"
+          },
+          "text": "目前先进的大型语言模型（LLMs）在生成回答时仍然存在事实错误的问题",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623049565,
+          "id": "hk-1767623049563-60633",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623049562,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 395
+              },
+              "quote": {
+                "exact": "传统的RAG方法可能会影响LLMs的通用性",
+                "prefix": "ion（RAG）的方法，它通过引入相关的检索段落来辅助LLMs生成答案，从而降低了在知识密集型任务中的事实错误率。然而，",
+                "suffix": "，或者引入不必要或与主题无关的段落，导致生成的回答质量下降。这是因为它们会不加区分地检索段落，而不考虑这些段落是否真正相"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 374
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[6]/text()[1]",
+            "text": "传统的RAG方法可能会影响LLMs的通用性"
+          },
+          "text": "传统的RAG方法可能会影响LLMs的通用性",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623062312,
+          "id": "hk-1767623062309-57265",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623062309,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 507
+              },
+              "quote": {
+                "exact": "由于模型没有明确训练以利用提供的段落中的事实，因此生成的输出不一定与检索到的相关段落保持一致。",
+                "prefix": "不必要或与主题无关的段落，导致生成的回答质量下降。这是因为它们会不加区分地检索段落，而不考虑这些段落是否真正相关。此外，",
+                "suffix": "为了解决这一问题，研究人员提出了一种名为\"Self-Reflective Retrieval-augmented Gen"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 460
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[6]/text()[3]",
+            "startOffset": 65,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[6]/text()[2]",
+            "text": "由于模型没有明确训练以利用提供的段落中的事实，因此生成的输出不一定与检索到的相关段落保持一致。"
+          },
+          "text": "由于模型没有明确训练以利用提供的段落中的事实，因此生成的输出不一定与检索到的相关段落保持一致。",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623070281,
+          "id": "hk-1767623070279-2025",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623070279,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 585
+              },
+              "quote": {
+                "exact": "\"Self-Reflective Retrieval-augmented Generation\"（SELF-RAG）",
+                "prefix": "确训练以利用提供的段落中的事实，因此生成的输出不一定与检索到的相关段落保持一致。为了解决这一问题，研究人员提出了一种名为",
+                "suffix": "的新方法。该方法旨在通过根据需求进行检索和自我反思来提升LLMs的生成质量，包括其事实准确性，同时不损害其通用性。SEL"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 527
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[7]/text()[1]",
+            "text": "\"Self-Reflective Retrieval-augmented Generation\"（SELF-RAG）"
+          },
+          "text": "\"Self-Reflective Retrieval-augmented Generation\"（SELF-RAG）",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623075461,
+          "id": "hk-1767623075460-16207",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623075459,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 622
+              },
+              "quote": {
+                "exact": "根据需求进行检索和自我反思来提升LLMs的生成质量",
+                "prefix": "ective Retrieval-augmented Generation\"（SELF-RAG）的新方法。该方法旨在通过",
+                "suffix": "，包括其事实准确性，同时不损害其通用性。SELF-RAG训练了一个任意的LLM，使其能够在给定任务输入时反思自己的生成过"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 597
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[7]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[7]/text()[2]",
+            "text": "根据需求进行检索和自我反思来提升LLMs的生成质量"
+          },
+          "text": "根据需求进行检索和自我反思来提升LLMs的生成质量",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623350128,
+          "id": "hk-1767623350127-18644",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623350126,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1049
+              },
+              "quote": {
+                "exact": "Retrieval-Augmented Generation (RAG)",
+                "prefix": "之间进行权衡。section1-RELATED WORK这部分主要介绍了与文章研究相关的前期工作，以及与之相比的优缺点。",
+                "suffix": ":   - 背景：RAG是一种方法，通过在LLM的输入空间中添加检索到的文本段落，从而在精调或与现成的LLM一起使用后，"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1013
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[1]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[1]/b[1]/text()[1]",
+            "text": "Retrieval-Augmented Generation (RAG)"
+          },
+          "text": "Retrieval-Augmented Generation (RAG)",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623356720,
+          "id": "hk-1767623356719-47231",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623356718,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1176
+              },
+              "quote": {
+                "exact": "运行时效率低、对无关上下文的鲁棒性差以及缺乏归因",
+                "prefix": "在精调或与现成的LLM一起使用后，显著改善了知识密集型任务的性能。   - 问题：现有的RAG方法往往存在一些问题，比如",
+                "suffix": "。   - 解决思路：文章提出了一种方法，通过训练任意的LLM来学习在不同的指令查询中按需使用检索，并通过反思标记引导控"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1152
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[1]/text()[3]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[1]/text()[3]",
+            "text": "运行时效率低、对无关上下文的鲁棒性差以及缺乏归因"
+          },
+          "text": "运行时效率低、对无关上下文的鲁棒性差以及缺乏归因",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623371286,
+          "id": "hk-1767623371284-59740",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623371284,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1273
+              },
+              "quote": {
+                "exact": "Concurrent RAG work",
+                "prefix": "方法，通过训练任意的LLM来学习在不同的指令查询中按需使用检索，并通过反思标记引导控制生成，以进一步提升生成质量和归因。",
+                "suffix": ":   - 背景：有一些与RAG相关的同时进行的工作，提出了新的训练或提示策略以改进RAG方法。   - 问题：这些方法"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1254
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[2]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[1]/li[2]/b[1]/text()[1]",
+            "text": "Concurrent RAG work"
+          },
+          "text": "Concurrent RAG work",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623384729,
+          "id": "hk-1767623384728-38070",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623384727,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1884
+              },
+              "quote": {
+                "exact": "SELF-RAG（Self-Reflective Retrieval-Augmented Generation）",
+                "prefix": "，包括训练过程和推理过程。Q1. SELF-RAG是什么？SELF-RAG如何提升大型语言模型（LLM）的质量和准确性？",
+                "suffix": "是一个框架，旨在通过检索和自我反思来提升大型语言模型（LLM）的质量和准确性。具体来说，它采用了以下几个关键步骤：检索（"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1828
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[14]/text()[1]",
+            "text": "SELF-RAG（Self-Reflective Retrieval-Augmented Generation）"
+          },
+          "text": "SELF-RAG（Self-Reflective Retrieval-Augmented Generation）",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623389560,
+          "id": "hk-1767623389559-23817",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623389558,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1954
+              },
+              "quote": {
+                "exact": "检索（Retrieval）",
+                "prefix": "on）是一个框架，旨在通过检索和自我反思来提升大型语言模型（LLM）的质量和准确性。具体来说，它采用了以下几个关键步骤：",
+                "suffix": "：SELF-RAG在需要的情况下，通过生成一个检索标记，来评估是否需要从相关文本中获取信息。如果需要检索，模型会使用检索"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1941
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[1]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[1]/b[1]/text()[1]",
+            "text": "检索（Retrieval）"
+          },
+          "text": "检索（Retrieval）",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623400006,
+          "id": "hk-1767623400005-7264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623400004,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 2040
+              },
+              "quote": {
+                "exact": "如果需要检索，模型会使用检索器（Retriever）来获取与输入相关的文本段落。",
+                "prefix": "：检索（Retrieval）：SELF-RAG在需要的情况下，通过生成一个检索标记，来评估是否需要从相关文本中获取信息。",
+                "suffix": "自我反思（Self-Reflection）：模型会使用特殊的反思标记（reflection tokens）来评估检索到的"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 2000
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[1]/text()[2]",
+            "text": "如果需要检索，模型会使用检索器（Retriever）来获取与输入相关的文本段落。"
+          },
+          "text": "如果需要检索，模型会使用检索器（Retriever）来获取与输入相关的文本段落。",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623403473,
+          "id": "hk-1767623403472-92901",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623403472,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1999
+              },
+              "quote": {
+                "exact": "通过生成一个检索标记，来评估是否需要从相关文本中获取信息",
+                "prefix": "LLM）的质量和准确性。具体来说，它采用了以下几个关键步骤：检索（Retrieval）：SELF-RAG在需要的情况下，",
+                "suffix": "。如果需要检索，模型会使用检索器（Retriever）来获取与输入相关的文本段落。自我反思（Self-Reflectio"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 1971
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[1]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[1]/text()[1]",
+            "text": "通过生成一个检索标记，来评估是否需要从相关文本中获取信息"
+          },
+          "text": "通过生成一个检索标记，来评估是否需要从相关文本中获取信息",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623413067,
+          "id": "hk-1767623413066-64790",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623413065,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 2116
+              },
+              "quote": {
+                "exact": "模型会使用特殊的反思标记（reflection tokens）来评估检索到的文本的相关性、支持度以及完整性。",
+                "prefix": "需要检索，模型会使用检索器（Retriever）来获取与输入相关的文本段落。自我反思（Self-Reflection）：",
+                "suffix": "这些反思标记可以指示是否需要进行检索，或者确认输出的相关性、支持度或完整性。批评生成（Critique）：模型学会生成批"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 2062
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/ol[2]/li[2]/text()[1]",
+            "text": "模型会使用特殊的反思标记（reflection tokens）来评估检索到的文本的相关性、支持度以及完整性。"
+          },
+          "text": "模型会使用特殊的反思标记（reflection tokens）来评估检索到的文本的相关性、支持度以及完整性。",
+          "url": "https://zhuanlan.zhihu.com/p/666074661"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33",
+      "title": "Self-RAG光是用向量資料庫語意檢索不夠精準啦！來點自我批評吧 - Bowen Chiu - Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622367617,
+          "id": "hk-1767622367614-44081",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622367612,
+              "end": {
+                "css": "p#\\39 359",
+                "textOffset": 104
+              },
+              "quote": {
+                "exact": "SELF-RAG（Self-reflective Retrieval-Augmented Generation）",
+                "prefix": "in full size我們可以看到檢索增強生成RAG（Retrieval-Augmented Generation）和",
+                "suffix": "之間的主要差異：RAG 原始檢索增強生成法:步驟 1: 先從資料庫中檢索K篇相關的文件或段落。步驟 2: 使用這些檢索到"
+              },
+              "start": {
+                "css": "p#\\39 359",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 104,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "SELF-RAG（Self-reflective Retrieval-Augmented Generation）"
+          },
+          "text": "SELF-RAG（Self-reflective Retrieval-Augmented Generation）",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622905210,
+          "id": "hk-1767622905209-75274",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622905208,
+              "end": {
+                "css": "p#\\37 915",
+                "textOffset": 18
+              },
+              "quote": {
+                "exact": "SELF-RAG 自我批評增強生成法",
+                "prefix": " 1: 先從資料庫中檢索K篇相關的文件或段落。步驟 2: 使用這些檢索到的片段提示大語言模型 (LLM)，生成相關回答。",
+                "suffix": ":步驟 1: 只在需要時進行檢索，而不是一開始就進行。步驟 2: 會平行生成多個檢索片段或回答。步驟 3: 批評和選擇最"
+              },
+              "start": {
+                "css": "p#\\37 915 > strong.lx.gn",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "text": "SELF-RAG 自我批評增強生成法"
+          },
+          "text": "SELF-RAG 自我批評增強生成法",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622907903,
+          "id": "hk-1767622907900-40475",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622907899,
+              "end": {
+                "css": "li#a650",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "只在需要時進行檢索，而不是一開始就進行。",
+                "prefix": " 2: 使用這些檢索到的片段提示大語言模型 (LLM)，生成相關回答。SELF-RAG 自我批評增強生成法:步驟 1: ",
+                "suffix": "步驟 2: 會平行生成多個檢索片段或回答。步驟 3: 批評和選擇最佳的文本段落。該系統將自己生成的回答分為不同的部分，評"
+              },
+              "start": {
+                "css": "li#a650",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "text": "只在需要時進行檢索，而不是一開始就進行。"
+          },
+          "text": "只在需要時進行檢索，而不是一開始就進行。",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622909913,
+          "id": "hk-1767622909909-93188",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622909909,
+              "end": {
+                "css": "li#\\37 989",
+                "textOffset": 21
+              },
+              "quote": {
+                "exact": "步驟 2: 會平行生成多個檢索片段或回答。",
+                "prefix": "型 (LLM)，生成相關回答。SELF-RAG 自我批評增強生成法:步驟 1: 只在需要時進行檢索，而不是一開始就進行。",
+                "suffix": "步驟 3: 批評和選擇最佳的文本段落。該系統將自己生成的回答分為不同的部分，評估每一部分的「相關性」和「準確性」，然後選"
+              },
+              "start": {
+                "css": "li#\\37 989 > strong.lx.gn",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/strong[1]/text()[1]",
+            "text": "步驟 2: 會平行生成多個檢索片段或回答。"
+          },
+          "text": "步驟 2: 會平行生成多個檢索片段或回答。",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622933991,
+          "id": "hk-1767622933988-28817",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622933987,
+              "end": {
+                "css": "li#\\36 0ee",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "語言模型M首先評估問題",
+                "prefix": "提問：「太陽能板的轉換效率為何？」（這是輸入x）Algorithm 1 SELF-RAG Inference的工作流程：",
+                "suffix": "，判斷是否需要從大型檔案集合中檢索資訊。在這種情況下，太陽能板的轉換效率是一個具體且可能會隨時間改變的數據，因此M會決定"
+              },
+              "start": {
+                "css": "li#\\36 0ee",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ol[1]/li[1]/text()[1]",
+            "text": "語言模型M首先評估問題"
+          },
+          "text": "語言模型M首先評估問題",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622969707,
+          "id": "hk-1767622969704-7204",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622969703,
+              "end": {
+                "css": "li#\\32 688",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "使用檢索器R進行檢索，可能檢索到的資料為：「目前最先進的太陽能板轉換效率可達24%」（這是d）。",
+                "prefix": "下，太陽能板的轉換效率是一個具體且可能會隨時間改變的數據，因此M會決定需要進行檢索。如果Retrieve的答案是yes：",
+                "suffix": "接著，M會使用IsREL來判斷檢索到的資訊是否與查詢相關。在這裡，因為資料明確地提供了太陽能板的轉換效率，所以答案是re"
+              },
+              "start": {
+                "css": "li#\\32 688",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[1]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[1]/text()[1]",
+            "text": "使用檢索器R進行檢索，可能檢索到的資料為：「目前最先進的太陽能板轉換效率可達24%」（這是d）。"
+          },
+          "text": "使用檢索器R進行檢索，可能檢索到的資料為：「目前最先進的太陽能板轉換效率可達24%」（這是d）。",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767622998425,
+          "id": "hk-1767622998423-87204",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767622998422,
+              "end": {
+                "css": "li#\\34 a25",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "M會使用IsREL來判斷檢索到的資訊是否與查詢相關。",
+                "prefix": "e的答案是yes：使用檢索器R進行檢索，可能檢索到的資料為：「目前最先進的太陽能板轉換效率可達24%」（這是d）。接著，",
+                "suffix": "在這裡，因為資料明確地提供了太陽能板的轉換效率，所以答案是relevant。M然後生成答案，例如：「最新的太陽能板技術可"
+              },
+              "start": {
+                "css": "li#\\34 a25 > code.de.nq",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[2]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[2]/code[1]/text()[1]",
+            "text": "M會使用IsREL來判斷檢索到的資訊是否與查詢相關。"
+          },
+          "text": "M會使用IsREL來判斷檢索到的資訊是否與查詢相關。",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767623009861,
+          "id": "hk-1767623009859-17016",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767623009859,
+              "end": {
+                "css": "li#bb47",
+                "textOffset": 7
+              },
+              "quote": {
+                "exact": "M然後生成答案",
+                "prefix": "IsREL來判斷檢索到的資訊是否與查詢相關。在這裡，因為資料明確地提供了太陽能板的轉換效率，所以答案是relevant。",
+                "suffix": "，例如：「最新的太陽能板技術可以達到24%的轉換效率。」（這是y）。使用IsSUP，M會判斷此答案是否完全由檢索到的資訊"
+              },
+              "start": {
+                "css": "li#bb47 > code.de.nq",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[3]/code[1]/text()[1]",
+            "text": "M然後生成答案"
+          },
+          "text": "M然後生成答案",
+          "url": "https://medium.com/@bohachu/self-rag%E5%85%89%E6%98%AF%E7%94%A8%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%9E%E6%84%8F%E6%AA%A2%E7%B4%A2%E4%B8%8D%E5%A4%A0%E7%B2%BE%E6%BA%96%E5%95%A6-%E4%BE%86%E9%BB%9E%E8%87%AA%E6%88%91%E6%89%B9%E8%A9%95%E5%90%A7-616e930c9f33"
+        }
+      ]
+    },
     {
       "url": "https://blog.toright.com/posts/7685/llm-rag-introduction",
       "title": "LLM RAG 擷取增強生成介紹 (3 種 RAG/Self-RAG/CRAG 全解析)",
@@ -6251,7 +8741,7 @@
     },
     {
       "url": "https://ailogora.com/",
-      "title": "精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro | AILogora",
+      "title": "AILogora - AI 技術實作者社群平台",
       "entries": [
         {
           "color": "#ffea80",
@@ -6260,26 +8750,26 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1767103879627,
+              "createdAt": 1767608151699,
               "end": {
-                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "css": "div.grid.grid-cols-1 > div.rounded-lg.border:nth-of-type(15) > div.p-6.gap-2:nth-of-type(2) > div.block.flex-grow > div.text-muted-foreground.line-clamp-3 > div.text-muted-foreground.overflow-visible",
                 "textOffset": 43
               },
               "quote": {
                 "exact": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
-                "prefix": "夢水晶：Gemini 3 Pro vs 2.5 ProJoyceCloud發布於: 9 天前395這篇實驗記錄告訴我們 ",
+                "prefix": "1 天前32實測經驗AI Agent精靈寶可夢水晶：Gemini 3 Pro vs 2.5 Pro這篇實驗記錄告訴我們 ",
                 "suffix": "，Gemini 3 Pro 不只是把關卡通關而已，而是展現出更穩定的世界模型、更強的長程規劃能力，以及對工具、環境限制的"
               },
               "start": {
-                "css": "div.max-w-7xl.mx-auto > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "css": "div.grid.grid-cols-1 > div.rounded-lg.border:nth-of-type(15) > div.p-6.gap-2:nth-of-type(2) > div.block.flex-grow > div.text-muted-foreground.line-clamp-3 > div.text-muted-foreground.overflow-visible",
                 "textOffset": 11
               },
               "version": 1
             },
             "endOffset": 43,
-            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/main[1]/div[1]/section[4]/div[1]/div[2]/div[1]/div[15]/div[2]/div[1]/div[1]/div[1]/text()[1]",
             "startOffset": 11,
-            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[1]/main[1]/div[1]/section[4]/div[1]/div[2]/div[1]/div[15]/div[2]/div[1]/div[1]/div[1]/text()[1]",
             "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種"
           },
           "text": "Gemini 3 Pro 跟 2.5 Pro，其實已經是兩個物種",
@@ -6289,7 +8779,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "LinkedIn Article Share",
+      "title": "Model Training Progress",
       "entries": [
         {
           "color": "#ffea9e",
@@ -16822,13 +19312,13 @@
       ]
     },
     {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
+      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
+      "title": "General",
       "entries": []
     },
     {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
+      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
+      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
       "entries": []
     }
   ]
