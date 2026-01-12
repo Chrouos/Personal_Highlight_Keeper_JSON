@@ -1,8 +1,838 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1767704278233,
+  "exportedAt": 1768188699480,
   "pages": [
+    {
+      "url": "https://superuser.com/questions/1559170/how-can-i-reduce-the-consumption-of-the-vmmem-process",
+      "title": "windows 10 - How can I reduce the consumption of the `vmmem` process? - Super User",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767833822730,
+          "id": "hk-1767833822725-44438",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767833822723,
+              "end": {
+                "css": "div#question > div.post-layout:nth-of-type(2) > div.postcell.post-layout--right:nth-of-type(2) > div.s-prose.js-post-body",
+                "textOffset": 68
+              },
+              "quote": {
+                "exact": "docker on windows home which uses WSL2",
+                "prefix": "        \n\n        \n\n\n    \n    \n                \nI installed ",
+                "suffix": " as a backend. However, since doing this a process called vm"
+              },
+              "start": {
+                "css": "div#question > div.post-layout:nth-of-type(2) > div.postcell.post-layout--right:nth-of-type(2) > div.s-prose.js-post-body",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "docker on windows home which uses WSL2"
+          },
+          "text": "docker on windows home which uses WSL2",
+          "url": "https://superuser.com/questions/1559170/how-can-i-reduce-the-consumption-of-the-vmmem-process"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767833828843,
+          "id": "hk-1767833828841-45863",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767833828841,
+              "end": {
+                "css": "div#question > div.post-layout:nth-of-type(2) > div.postcell.post-layout--right:nth-of-type(2) > div.s-prose.js-post-body",
+                "textOffset": 199
+              },
+              "quote": {
+                "exact": " consistently consuming a lot of computational resources",
+                "prefix": "However, since doing this a process called vmmem seems to be",
+                "suffix": ". I ran docker stop $(docker ps -aq) to kill all running con"
+              },
+              "start": {
+                "css": "div#question > div.post-layout:nth-of-type(2) > div.postcell.post-layout--right:nth-of-type(2) > div.s-prose.js-post-body",
+                "textOffset": 143
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/p[1]/text()[3]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/p[1]/text()[3]",
+            "text": " consistently consuming a lot of computational resources"
+          },
+          "text": " consistently consuming a lot of computational resources",
+          "url": "https://superuser.com/questions/1559170/how-can-i-reduce-the-consumption-of-the-vmmem-process"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767833881502,
+          "id": "hk-1767833881501-54275",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767833895514,
+              "end": {
+                "css": "li#comment-2770744 > div.comment-text.js-comment-text-and-form:nth-of-type(2) > div.comment-body.js-comment-edit-hide > span.comment-copy",
+                "textOffset": 59
+              },
+              "quote": {
+                "exact": "This is also a great answer or should be part of core answe",
+                "prefix": "    \n        \n            \n                \n                ",
+                "suffix": "r. Capping VM limit helps to keep your system usable.\n      "
+              },
+              "start": {
+                "css": "li#comment-2770744 > div.comment-text.js-comment-text-and-form:nth-of-type(2) > div.comment-body.js-comment-edit-hide > span.comment-copy",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/div[4]/div[1]/div[3]/div[1]/ul[1]/li[1]/div[2]/div[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/div[4]/div[1]/div[3]/div[1]/ul[1]/li[1]/div[2]/div[1]/span[1]/text()[1]",
+            "text": "This is also a great answer or should be part of core answe"
+          },
+          "text": "This is also a great answer or should be part of core answe",
+          "url": "https://superuser.com/questions/1559170/how-can-i-reduce-the-consumption-of-the-vmmem-process"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767834029457,
+          "id": "hk-1767834029456-38286",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767834029455,
+              "end": {
+                "css": "li#comment-2437090 > div.comment-text.js-comment-text-and-form:nth-of-type(2) > div.comment-body.js-comment-edit-hide > span.comment-copy",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "this doesn't answer the question",
+                "prefix": "    \n        \n            \n                \n                ",
+                "suffix": " - I need my dockers to run, but I just want to bound the RA"
+              },
+              "start": {
+                "css": "li#comment-2437090 > div.comment-text.js-comment-text-and-form:nth-of-type(2) > div.comment-body.js-comment-edit-hide > span.comment-copy",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[3]/div[1]/ul[1]/li[1]/div[2]/div[1]/span[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[3]/div[1]/ul[1]/li[1]/div[2]/div[1]/span[1]/text()[2]",
+            "text": "this doesn't answer the question"
+          },
+          "text": "this doesn't answer the question",
+          "url": "https://superuser.com/questions/1559170/how-can-i-reduce-the-consumption-of-the-vmmem-process"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10352596",
+      "title": "Day9 - 用心觀察陪伴，當 Linux 的長照服務員 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767778006406,
+          "id": "hk-1767778006405-22031",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767778006403,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 338
+              },
+              "quote": {
+                "exact": "序監控工具",
+                "prefix": "，那今天就來跟大家分享有哪些工具可以讓你時時刻刻關心自己的硬體是否有被吃滿。\nhtop 介紹\nhtop是Unix系統的程",
+                "suffix": "，在終端機(terminal)介面中以文字的方式顯示，可以顯示每個程式完整的執行參數，或以行程樹（process tre"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 333
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "序監控工具"
+          },
+          "text": "序監控工具",
+          "url": "https://ithelp.ithome.com.tw/articles/10352596"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767778024451,
+          "id": "hk-1767778024450-83214",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767778024449,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 599
+              },
+              "quote": {
+                "exact": " CPU 使用率",
+                "prefix": " !\n在監控畫面的最上方，是以文字圖像來顯示的系統狀態，以下分別為它們的名稱與功能\n\n\n\n名稱\n功能\n\n\n\n\n0~7\n為",
+                "suffix": "，可以看到目前這台 Linux 有 7 個 CPU 核心的使用率(這裡的核心數量不一定都一樣，每台設備的規格都不一樣)\n"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 591
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/text()[1]",
+            "text": " CPU 使用率"
+          },
+          "text": " CPU 使用率",
+          "url": "https://ithelp.ithome.com.tw/articles/10352596"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c",
+      "title": "分類器評估方法 — ROC曲線、AUC、Accuracy、PR曲線 | by 行銷資料科學 | Marketingdatascience | Medium",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767164811639,
+          "id": "hk-1767164811638-79687",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990483,
+              "end": {
+                "css": "p#\\38 c2d",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。",
+                "prefix": "enter or click to view image in full size圖1 混淆矩陣表格1 為圖1的中文解釋",
+                "suffix": "(一) ROC曲線ROC曲線（Receiver Operator Characteristic Curve，譯為接收者操"
+              },
+              "start": {
+                "css": "p#\\38 c2d",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。"
+          },
+          "text": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767164817859,
+          "id": "hk-1767164817858-28496",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990499,
+              "end": {
+                "css": "p#\\36 5df",
+                "textOffset": 44
+              },
+              "quote": {
+                "exact": "ROC曲線（Receiver Operator Characteristic Curve",
+                "prefix": "1的中文解釋目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。(一) ROC曲線",
+                "suffix": "，譯為接收者操作特性曲線）。ROC曲線以FPR為X軸；TPR為Y軸，如圖1左所示。Press enter or clic"
+              },
+              "start": {
+                "css": "p#\\36 5df",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "ROC曲線（Receiver Operator Characteristic Curve"
+          },
+          "text": "ROC曲線（Receiver Operator Characteristic Curve",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767164932181,
+          "id": "hk-1767164932180-28797",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990510,
+              "end": {
+                "css": "p#\\34 276",
+                "textOffset": 33
+              },
+              "quote": {
+                "exact": "AUC（Area Under Curve）代表在ROC曲線下的面積",
+                "prefix": "代表完美分類，代表效益最大，成本最低。所以ROC曲線越靠近左上方越好。(二) AUC（Area Under Curve）",
+                "suffix": "，能表示分類器預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，ROC曲線下的面積越大越好，代表模"
+              },
+              "start": {
+                "css": "p#\\34 276",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "AUC（Area Under Curve）代表在ROC曲線下的面積"
+          },
+          "text": "AUC（Area Under Curve）代表在ROC曲線下的面積",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1767164944293,
+          "id": "hk-1767164944292-69360",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767164990519,
+              "end": {
+                "css": "p#\\32 0b8",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況",
+                "prefix": "預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，ROC曲線下的面積越大越好，代表模型的效益越高。",
+                "suffix": "。當AUC > 0.5時，代表分類器分類效果優於隨機猜測，模型有預測價值。當AUC = 0.5時，代表分類器分類效果與隨"
+              },
+              "start": {
+                "css": "p#\\32 0b8",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況"
+          },
+          "text": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767679047848,
+          "id": "hk-1767679047847-99180",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679047847,
+              "end": {
+                "css": "p#da10",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "ROC曲線呈現分類器在效益（真陽性率）與成本（偽陽性率）之間的相對關係。",
+                "prefix": "itive Rate，譯為真陽性率），代表分類器的預測為正（Positive），而實際也是正的，即預測正確（True）。",
+                "suffix": "其中點（0,1）代表完美分類，代表效益最大，成本最低。所以ROC曲線越靠近左上方越好。(二) AUC（Area Unde"
+              },
+              "start": {
+                "css": "p#da10",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "ROC曲線呈現分類器在效益（真陽性率）與成本（偽陽性率）之間的相對關係。"
+          },
+          "text": "ROC曲線呈現分類器在效益（真陽性率）與成本（偽陽性率）之間的相對關係。",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767679052896,
+          "id": "hk-1767679052895-55611",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679052894,
+              "end": {
+                "css": "p#da10",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "（0,1）代表完美分類，代表效益最大，成本最低。",
+                "prefix": "，而實際也是正的，即預測正確（True）。ROC曲線呈現分類器在效益（真陽性率）與成本（偽陽性率）之間的相對關係。其中點",
+                "suffix": "所以ROC曲線越靠近左上方越好。(二) AUC（Area Under Curve）AUC（Area Under Curv"
+              },
+              "start": {
+                "css": "p#da10",
+                "textOffset": 39
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "text": "（0,1）代表完美分類，代表效益最大，成本最低。"
+          },
+          "text": "（0,1）代表完美分類，代表效益最大，成本最低。",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#febebe",
+          "createdAt": 1767679054989,
+          "id": "hk-1767679054988-4876",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679054988,
+              "end": {
+                "css": "p#da10",
+                "textOffset": 76
+              },
+              "quote": {
+                "exact": "左上方",
+                "prefix": "（真陽性率）與成本（偽陽性率）之間的相對關係。其中點（0,1）代表完美分類，代表效益最大，成本最低。所以ROC曲線越靠近",
+                "suffix": "越好。(二) AUC（Area Under Curve）AUC（Area Under Curve）代表在ROC曲線下的面"
+              },
+              "start": {
+                "css": "p#da10",
+                "textOffset": 73
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[3]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[3]",
+            "text": "左上方"
+          },
+          "text": "左上方",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767679063468,
+          "id": "hk-1767679063467-709",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679063466,
+              "end": {
+                "css": "p#\\34 276",
+                "textOffset": 100
+              },
+              "quote": {
+                "exact": "ROC曲線下的面積越大越好，代表模型的效益越高。",
+                "prefix": "urve）代表在ROC曲線下的面積，能表示分類器預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，",
+                "suffix": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況。當AUC > 0.5時，代表分類器分類效果優於隨機猜測，模型"
+              },
+              "start": {
+                "css": "p#\\34 276",
+                "textOffset": 76
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[2]",
+            "startOffset": 43,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[2]",
+            "text": "ROC曲線下的面積越大越好，代表模型的效益越高。"
+          },
+          "text": "ROC曲線下的面積越大越好，代表模型的效益越高。",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767679079485,
+          "id": "hk-1767679079484-39028",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679079484,
+              "end": {
+                "css": "p#\\37 21f",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "AUC < 0.5時，代表分類器分類效果比隨機猜測差",
+                "prefix": "分類器分類效果優於隨機猜測，模型有預測價值。當AUC = 0.5時，代表分類器分類效果與隨機猜測相同，模型無預測價值。當",
+                "suffix": "，但如果進行反預測，就會優於隨機猜測。(三) 準確率（Accuracy）準確率（Accuracy）等於正確預測的數量（包"
+              },
+              "start": {
+                "css": "p#\\37 21f",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "AUC < 0.5時，代表分類器分類效果比隨機猜測差"
+          },
+          "text": "AUC < 0.5時，代表分類器分類效果比隨機猜測差",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767679092349,
+          "id": "hk-1767679092347-92150",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679092347,
+              "end": {
+                "css": "p#a96f",
+                "textOffset": 37
+              },
+              "quote": {
+                "exact": "PR曲線（Precision-Recall Curve，譯為精確召回曲線）",
+                "prefix": " for free to get updates from this writer.SubscribeSubscribe",
+                "suffix": "以召回率（Recall）為X軸，精確率（Precision）為Y軸。一般來說，精確率與召回率越高，代表模型的效益越高，也"
+              },
+              "start": {
+                "css": "p#a96f",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[17]/text()[1]",
+            "text": "PR曲線（Precision-Recall Curve，譯為精確召回曲線）"
+          },
+          "text": "PR曲線（Precision-Recall Curve，譯為精確召回曲線）",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767679094037,
+          "id": "hk-1767679094036-17889",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767679094036,
+              "end": {
+                "css": "p#a96f",
+                "textOffset": 49
+              },
+              "quote": {
+                "exact": "召回率（Recall）",
+                "prefix": "ter.SubscribeSubscribePR曲線（Precision-Recall Curve，譯為精確召回曲線）以",
+                "suffix": "為X軸，精確率（Precision）為Y軸。一般來說，精確率與召回率越高，代表模型的效益越高，也就是PR曲線，越往右上方"
+              },
+              "start": {
+                "css": "p#a96f",
+                "textOffset": 38
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[17]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[17]/text()[2]",
+            "text": "召回率（Recall）"
+          },
+          "text": "召回率（Recall）",
+          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
+        }
+      ]
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw",
+      "title": "分類：ROC 和 AUC  |  Machine Learning  |  Google for Developers",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767678466188,
+          "id": "hk-1767678466187-26285",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767678466186,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 441
+              },
+              "quote": {
+                "exact": "ROC 曲線下面積 (AUC)",
+                "prefix": "用下列方式表示：\n\n\n  \n  \n    圖 1. 假設完美模型的 ROC 和 AUC。\n\n\n曲線下面積 (AUC)\n\n",
+                "suffix": " 代表模型在隨機挑選的正向和負向樣本中，將正向樣本排名高於負向樣本的機率。\n\n上方的完美模型包含邊長為 1 的正方形，曲"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 426
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[5]/a[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[5]/a[1]/strong[1]/text()[1]",
+            "text": "ROC 曲線下面積 (AUC)"
+          },
+          "text": "ROC 曲線下面積 (AUC)",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767678537290,
+          "id": "hk-1767678537287-2126",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767678537286,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 561
+              },
+              "quote": {
+                "exact": "模型正確將隨機挑選的正向樣本排在隨機挑選的負向樣本之上的機率為 100%。",
+                "prefix": "樣本排名高於負向樣本的機率。\n\n上方的完美模型包含邊長為 1 的正方形，曲線下方面積 (AUC) 為 1.0。也就是說，",
+                "suffix": "換句話說，如果您查看下方資料點的散布情形，AUC 會提供模型將隨機選擇的方塊置於隨機選擇圓形右側的機率，不受設定門檻值的"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 524
+              },
+              "version": 1
+            },
+            "endOffset": 81,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[6]/text()[1]",
+            "startOffset": 44,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[6]/text()[1]",
+            "text": "模型正確將隨機挑選的正向樣本排在隨機挑選的負向樣本之上的機率為 100%。"
+          },
+          "text": "模型正確將隨機挑選的正向樣本排在隨機挑選的負向樣本之上的機率為 100%。",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767678553708,
+          "id": "hk-1767678553707-73308",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767678553706,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 804
+              },
+              "quote": {
+                "exact": "如果模型的表現與隨機猜測或擲硬幣相同，則 ROC 為從 (0,0) 到 (1,1) 的對角線。AUC 為 0.5，代表正確排序隨機正向和負向樣本的機率為 50%。",
+                "prefix": "機率指派給隨機垃圾郵件電子郵件，而非隨機的正常電子郵件。每封電子郵件的實際分類取決於您選擇的門檻。\n\n就二元分類器而言，",
+                "suffix": "\n\n在垃圾郵件分類器範例中，如果垃圾郵件分類器的 AUC 為 0.5，則隨機垃圾郵件的垃圾郵件機率，只有隨機合法郵件的一"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 723
+              },
+              "version": 1
+            },
+            "endOffset": 90,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[9]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[9]/text()[1]",
+            "text": "如果模型的表現與隨機猜測或擲硬幣相同，則 ROC 為從 (0,0) 到 (1,1) 的對角線。AUC 為 0.5，代表正確排序隨機正向和負向樣本的機率為 50%。"
+          },
+          "text": "如果模型的表現與隨機猜測或擲硬幣相同，則 ROC 為從 (0,0) 到 (1,1) 的對角線。AUC 為 0.5，代表正確排序隨機正向和負向樣本的機率為 50%。",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767678638450,
+          "id": "hk-1767678638447-81552",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767678638447,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 1244
+              },
+              "quote": {
+                "exact": "ROC 曲線上最接近 (0,1) 的點，代表特定模型最佳效能門檻的範圍",
+                "prefix": "\n  \n    圖 3. 兩個假設模型的 ROC 和 AUC。右側曲線的 AUC 較高，代表兩個模型中較佳的模型。\n\n\n",
+                "suffix": "。如門檻值、混淆矩陣和指標選擇和取捨等章節所述，您選擇的門檻值取決於特定用途最重視哪項指標。請參考下圖中的 A、B 和 "
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 1209
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[12]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[12]/text()[1]",
+            "text": "ROC 曲線上最接近 (0,1) 的點，代表特定模型最佳效能門檻的範圍"
+          },
+          "text": "ROC 曲線上最接近 (0,1) 的點，代表特定模型最佳效能門檻的範圍",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767678652708,
+          "id": "hk-1767678652707-35008",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767678652707,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 1122
+              },
+              "quote": {
+                "exact": "只要資料集大致平衡，AUC 就是比較兩個不同模型成效的實用指標",
+                "prefix": "是在所有門檻上，將精確度繪製在 y 軸，將喚回率繪製在 x 軸。\n  \n\n\n\n選擇模型和閾值時的 AUC 和 ROC\n\n",
+                "suffix": "。曲線下方面積越大的模型通常品質越好。\n\n\n  \n  \n  \n    圖 3. 兩個假設模型的 ROC 和 AUC。右側"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 1091
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[11]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[11]/text()[1]",
+            "text": "只要資料集大致平衡，AUC 就是比較兩個不同模型成效的實用指標"
+          },
+          "text": "只要資料集大致平衡，AUC 就是比較兩個不同模型成效的實用指標",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767678881567,
+          "id": "hk-1767678881566-91799",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767678881566,
+              "end": {
+                "css": "devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4) > div:nth-of-type(5) > devsite-multiple-choice > div.devsite-multiple-choice-question",
+                "textOffset": 42
+              },
+              "quote": {
+                "exact": "您可能會希望將重要業務電子郵件傳送至收件匣",
+                "prefix": "標籤，就能提高預測準確度，而無須重新訓練模型。\n\n\n\n\n\n\n\n\n  \n    舉例來說，如果有郵件誤傳至垃圾郵件資料夾，",
+                "suffix": "，您已針對這種情況訓練垃圾內容分類器，其中正類為垃圾內容，負類為非垃圾內容。下列哪個分類器 ROC 曲線點較佳？\n   "
+              },
+              "start": {
+                "css": "devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4) > div:nth-of-type(5) > devsite-multiple-choice > div.devsite-multiple-choice-question",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/div[5]/devsite-multiple-choice[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/div[5]/devsite-multiple-choice[1]/div[1]/p[1]/text()[1]",
+            "text": "您可能會希望將重要業務電子郵件傳送至收件匣"
+          },
+          "text": "您可能會希望將重要業務電子郵件傳送至收件匣",
+          "url": "https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc?hl=zh-tw"
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/agents-vs-skills-mcp-practical-guide-building-your-ai-raghunathan-oawhc/",
+      "title": "Agents vs Skills vs MCP: A Practical Guide to Building Your AI Stack in 2026",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767663437809,
+          "id": "hk-1767663437803-53681",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767663437802,
+              "end": {
+                "css": "main#main-content > section.core-rail.mx-auto > div.details.mx-details-container-padding > article.article-main.relative > div > div.article-main__content:nth-of-type(18)",
+                "textOffset": 46
+              },
+              "quote": {
+                "exact": "MCP (Model Context Protocol)",
+                "prefix": "         \n    \n  \n                  \n\n    \n        Layer 1: ",
+                "suffix": " — The Foundation\n    \n  \n                  \n\n    \n        W"
+              },
+              "start": {
+                "css": "main#main-content > section.core-rail.mx-auto > div.details.mx-details-container-padding > article.article-main.relative > div > div.article-main__content:nth-of-type(18)",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[18]/h3[1]/span[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[18]/h3[1]/span[1]/text()[1]",
+            "text": "MCP (Model Context Protocol)"
+          },
+          "text": "MCP (Model Context Protocol)",
+          "url": "https://www.linkedin.com/pulse/agents-vs-skills-mcp-practical-guide-building-your-ai-raghunathan-oawhc/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1767663445795,
+          "id": "hk-1767663445793-16790",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767663445793,
+              "end": {
+                "css": "div.details.mx-details-container-padding > article.article-main.relative > div > div.article-main__content:nth-of-type(20) > p > span.font-\\[700\\]:nth-of-type(2)",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": " open protocol",
+                "prefix": "   \n  \n                  \n\n    \n        \n          MCP is an",
+                "suffix": "  that standardizes how AI systems connect to external tools"
+              },
+              "start": {
+                "css": "main#main-content > section.core-rail.mx-auto > div.details.mx-details-container-padding > article.article-main.relative > div > div.article-main__content:nth-of-type(20)",
+                "textOffset": 29
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[20]/p[1]/span[2]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": " open protocol"
+          },
+          "text": " open protocol",
+          "url": "https://www.linkedin.com/pulse/agents-vs-skills-mcp-practical-guide-building-your-ai-raghunathan-oawhc/"
+        }
+      ]
+    },
     {
       "url": "https://github.com/asinghcsu/AgenticRAG-Survey",
       "title": "asinghcsu/AgenticRAG-Survey: Agentic-RAG explores advanced Retrieval-Augmented Generation systems enhanced with AI LLM agents.",
@@ -3220,7 +4050,7 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1767594459979,
+              "createdAt": 1768188666212,
               "end": {
                 "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
                 "textOffset": 6856
@@ -3236,10 +4066,10 @@
               },
               "version": 1
             },
-            "endOffset": 19,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[2]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[2]",
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[4]/li[1]/text()[1]",
             "text": "同一詞彙在文件中出現多次會增加相關性"
           },
           "text": "同一詞彙在文件中出現多次會增加相關性",
@@ -7382,140 +8212,6 @@
       ]
     },
     {
-      "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c",
-      "title": "分類器評估方法 — ROC曲線、AUC、Accuracy、PR曲線 | by 行銷資料科學 | Marketingdatascience | Medium",
-      "entries": [
-        {
-          "color": "#ffea9e",
-          "createdAt": 1767164811639,
-          "id": "hk-1767164811638-79687",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767164990483,
-              "end": {
-                "css": "p#\\38 c2d",
-                "textOffset": 45
-              },
-              "quote": {
-                "exact": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。",
-                "prefix": "enter or click to view image in full size圖1 混淆矩陣表格1 為圖1的中文解釋",
-                "suffix": "(一) ROC曲線ROC曲線（Receiver Operator Characteristic Curve，譯為接收者操"
-              },
-              "start": {
-                "css": "p#\\38 c2d",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 45,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
-            "text": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。"
-          },
-          "text": "目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。",
-          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
-        },
-        {
-          "color": "#9edaff",
-          "createdAt": 1767164817859,
-          "id": "hk-1767164817858-28496",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767164990499,
-              "end": {
-                "css": "p#\\36 5df",
-                "textOffset": 44
-              },
-              "quote": {
-                "exact": "ROC曲線（Receiver Operator Characteristic Curve",
-                "prefix": "1的中文解釋目前常用的評估分類器的方法，可以透過ROC曲線、AUC、Accuracy、PR曲線等衡量。(一) ROC曲線",
-                "suffix": "，譯為接收者操作特性曲線）。ROC曲線以FPR為X軸；TPR為Y軸，如圖1左所示。Press enter or clic"
-              },
-              "start": {
-                "css": "p#\\36 5df",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 44,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
-            "text": "ROC曲線（Receiver Operator Characteristic Curve"
-          },
-          "text": "ROC曲線（Receiver Operator Characteristic Curve",
-          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
-        },
-        {
-          "color": "#9edaff",
-          "createdAt": 1767164932181,
-          "id": "hk-1767164932180-28797",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767164990510,
-              "end": {
-                "css": "p#\\34 276",
-                "textOffset": 33
-              },
-              "quote": {
-                "exact": "AUC（Area Under Curve）代表在ROC曲線下的面積",
-                "prefix": "代表完美分類，代表效益最大，成本最低。所以ROC曲線越靠近左上方越好。(二) AUC（Area Under Curve）",
-                "suffix": "，能表示分類器預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，ROC曲線下的面積越大越好，代表模"
-              },
-              "start": {
-                "css": "p#\\34 276",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 33,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
-            "text": "AUC（Area Under Curve）代表在ROC曲線下的面積"
-          },
-          "text": "AUC（Area Under Curve）代表在ROC曲線下的面積",
-          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
-        },
-        {
-          "color": "#9edaff",
-          "createdAt": 1767164944293,
-          "id": "hk-1767164944292-69360",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1767164990519,
-              "end": {
-                "css": "p#\\32 0b8",
-                "textOffset": 29
-              },
-              "quote": {
-                "exact": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況",
-                "prefix": "預測能力的一項常用的統計值。前面提到，ROC曲線越靠近右上方越好，因此，ROC曲線下的面積越大越好，代表模型的效益越高。",
-                "suffix": "。當AUC > 0.5時，代表分類器分類效果優於隨機猜測，模型有預測價值。當AUC = 0.5時，代表分類器分類效果與隨"
-              },
-              "start": {
-                "css": "p#\\32 0b8",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 29,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[10]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[10]/text()[1]",
-            "text": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況"
-          },
-          "text": "當AUC = 1時，代表分類器非常完美，但這畢竟是理想狀況",
-          "url": "https://medium.com/marketingdatascience/%E5%88%86%E9%A1%9E%E5%99%A8%E8%A9%95%E4%BC%B0%E6%96%B9%E6%B3%95-roc%E6%9B%B2%E7%B7%9A-auc-accuracy-pr%E6%9B%B2%E7%B7%9A-d3a39977022c"
-        }
-      ]
-    },
-    {
       "url": "https://blog.csdn.net/fyfugoyfa/article/details/144678877",
       "title": "一文理解机器学习中二分类任务的评价指标 AUPRC 和 AUROC-CSDN博客",
       "entries": [
@@ -8779,7 +9475,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "Model Training Progress",
+      "title": "Tokenizer Regex Issue",
       "entries": [
         {
           "color": "#ffea9e",
@@ -19312,13 +20008,18 @@
       ]
     },
     {
-      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
-      "title": "General",
+      "url": "https://azole.medium.com/docker-container-%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80%E7%AF%87-2-c14d8f852ae4",
+      "title": "Docker Container 基礎入門篇 2. 不當邊緣人的 container | by Azole (小賴) | Medium",
       "entries": []
     },
     {
-      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
-      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
+      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
+      "title": "程式碼範例與解釋",
+      "entries": []
+    },
+    {
+      "url": "https://mail.google.com/mail/u/0/?pli=1",
+      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
       "entries": []
     }
   ]
