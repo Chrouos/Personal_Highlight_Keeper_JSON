@@ -1,8 +1,1082 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1768962707198,
+  "exportedAt": 1768987827740,
   "pages": [
+    {
+      "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai",
+      "title": "AI隨機作答「真正元兇」找到了！OpenAI前技術長團隊揪出「缺乏批次不變性」，這是什麼？|數位時代 BusinessNext",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987118399,
+          "id": "hk-1768987118397-38102",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987118395,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 790
+              },
+              "quote": {
+                "exact": "溫度 (Temperature)",
+                "prefix": "元、更有創意，它在選擇下一個字詞時會加入一點隨機的成分。這也是為什麼在許多 AI 工具的進階設定中，你可以看到一個叫做「",
+                "suffix": "」的參數：\n\n\n  當你把溫度設定為 0，理論上就是要求 AI 關掉所有的隨機性，永遠選擇那個「機率最高」的字詞，讓它的"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 774
+              },
+              "version": 1
+            },
+            "endOffset": 135,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "startOffset": 119,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "text": "溫度 (Temperature)"
+          },
+          "text": "溫度 (Temperature)",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987122409,
+          "id": "hk-1768987122408-62833",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987122407,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 928
+              },
+              "quote": {
+                "exact": "但詭異的是，許多工程師和研究人員都發現，即使你把溫度降到 0，AI 的回答還是會捉摸不定，時不時給你一些驚喜（或驚嚇）。",
+                "prefix": " 0，理論上就是要求 AI 關掉所有的隨機性，永遠選擇那個「機率最高」的字詞，讓它的回答變得完全可預測、完全確定。\n\n\n",
+                "suffix": "即使你在自己的電腦上，用開源的模型和軟體，這個問題依然存在。\n\n這就像是你有一台號稱絕對精準的計算機，但 1+1 有時候"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 868
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[5]/text()[1]",
+            "text": "但詭異的是，許多工程師和研究人員都發現，即使你把溫度降到 0，AI 的回答還是會捉摸不定，時不時給你一些驚喜（或驚嚇）。"
+          },
+          "text": "但詭異的是，許多工程師和研究人員都發現，即使你把溫度降到 0，AI 的回答還是會捉摸不定，時不時給你一些驚喜（或驚嚇）。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987148737,
+          "id": "hk-1768987148736-90522",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987148735,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1897
+              },
+              "quote": {
+                "exact": "只會記住最重要的那幾個數字（稱為「尾數」），以及這個數字有多大或多小",
+                "prefix": "們人類不一樣。為了能同時表示極大和極小的數字，電腦採用了一種叫做「浮點數」的格式，你可以把它想像成一種「科學記號法」。它",
+                "suffix": "（稱為「指數」）。\n\n這帶來一個問題： 精度是有限的 。\n\n我舉個例子會更好懂：\n\n\n  假設你的尺只能精確到公分。現在"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1863
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[12]/text()[1]",
+            "startOffset": 77,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[12]/text()[1]",
+            "text": "只會記住最重要的那幾個數字（稱為「尾數」），以及這個數字有多大或多小"
+          },
+          "text": "只會記住最重要的那幾個數字（稱為「尾數」），以及這個數字有多大或多小",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987150126,
+          "id": "hk-1768987150125-89636",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987150124,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1924
+              },
+              "quote": {
+                "exact": "這帶來一個問題： 精度是有限的 ",
+                "prefix": "它想像成一種「科學記號法」。它只會記住最重要的那幾個數字（稱為「尾數」），以及這個數字有多大或多小（稱為「指數」）。\n\n",
+                "suffix": "。\n\n我舉個例子會更好懂：\n\n\n  假設你的尺只能精確到公分。現在要你測量「台北 101 的高度」加上「一張 A4 紙的"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1908
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[13]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[13]/text()[1]",
+            "text": "這帶來一個問題： 精度是有限的 "
+          },
+          "text": "這帶來一個問題： 精度是有限的 ",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987154643,
+          "id": "hk-1768987154640-20513",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987154639,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2186
+              },
+              "quote": {
+                "exact": "計算的順序不同，可能會因為精度損失而導致最終結果出現微小的差異 。",
+                "prefix": "果你先計算兩張 A4 紙的厚度相加，再把結果加到 101 的高度上，情況可能就不同了。這就是浮點數運算的「非結合律」： ",
+                "suffix": "\n\n電腦老問題二：「平行運算」讓計算順序呈現隨機結果\n\n第二個老問題是 GPU 的「七手八腳」、平行運算 (Concur"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2153
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[15]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[15]/strong[1]/text()[1]",
+            "text": "計算的順序不同，可能會因為精度損失而導致最終結果出現微小的差異 。"
+          },
+          "text": "計算的順序不同，可能會因為精度損失而導致最終結果出現微小的差異 。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987158284,
+          "id": "hk-1768987158283-37987",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987158283,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2253
+              },
+              "quote": {
+                "exact": "平行運算 (Concurrency) ",
+                "prefix": "終結果出現微小的差異 。\n\n電腦老問題二：「平行運算」讓計算順序呈現隨機結果\n\n第二個老問題是 GPU 的「七手八腳」、",
+                "suffix": "的問題。\n\n現在的 AI 模型運算，都依賴一種叫做 GPU (圖形處理器) 的晶片。GPU 的最大特色就是擁有成千上萬個"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2234
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[16]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[16]/text()[1]",
+            "text": "平行運算 (Concurrency) "
+          },
+          "text": "平行運算 (Concurrency) ",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987172128,
+          "id": "hk-1768987172127-9659",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987172127,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2692
+              },
+              "quote": {
+                "exact": "如果單一步驟是穩定的，那不確定性到底是從哪裡來的？",
+                "prefix": "生成答案）過程中，大部分的運算都被設計成可以避免這種混亂的「先來後到」問題。單一的運算步驟，其實是相當穩定的。\n\n那麼，",
+                "suffix": "\n\n原來真正的元兇是在於「公車班次」的問題 (缺乏批次不變性 Batch Invariance)。（拜託再忍一下，不要左"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2667
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/h2[3]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/h2[3]/text()[1]",
+            "text": "如果單一步驟是穩定的，那不確定性到底是從哪裡來的？"
+          },
+          "text": "如果單一步驟是穩定的，那不確定性到底是從哪裡來的？",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987179563,
+          "id": "hk-1768987179562-59306",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987179561,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2739
+              },
+              "quote": {
+                "exact": "缺乏批次不變性 Batch Invariance",
+                "prefix": "是相當穩定的。\n\n那麼，如果單一步驟是穩定的，那不確定性到底是從哪裡來的？\n\n原來真正的元兇是在於「公車班次」的問題 (",
+                "suffix": ")。（拜託再忍一下，不要左轉中離！)\n\n論文指出的真正元兇，是一個更隱蔽、也更有趣的概念，我稱之為 「公車班次」問題 。"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2715
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[21]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[21]/text()[1]",
+            "text": "缺乏批次不變性 Batch Invariance"
+          },
+          "text": "缺乏批次不變性 Batch Invariance",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987202648,
+          "id": "hk-1768987202642-29740",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987202642,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3043
+              },
+              "quote": {
+                "exact": "一次把 100 個問題一起處理。",
+                "prefix": "：\n *  尖峰時刻： 當下有 100 位使用者（乘客）同時向 AI 提問，伺服器可能會派出一台「雙層巴士」（大批次），",
+                "suffix": "\n *  離峰時刻： 如果當下只有你一位使用者（乘客），伺服器可能只會派出一台「小巴」（小批次），只處理你一個人的問題。"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3027
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[25]/text()[3]",
+            "startOffset": 49,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[25]/text()[3]",
+            "text": "一次把 100 個問題一起處理。"
+          },
+          "text": "一次把 100 個問題一起處理。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987224262,
+          "id": "hk-1768987224261-1494",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987224261,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3425
+              },
+              "quote": {
+                "exact": "GPU 根據這個批次的大小，選擇了對應的最佳演算法",
+                "prefix": "個問題。\nAI 伺服器根據現在的忙碌程度，決定要把你的問題跟其他 N 個問題打包成一個「批次」。這個 N 是不確定的。\n",
+                "suffix": "。 \n不同的演算法，意味著不同的計算順序。\n不同的計算順序，觸發了前面提到的「浮點數差不多先生」問題，導致了微小的數值差"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3400
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[3]/strong[1]/text()[1]",
+            "text": "GPU 根據這個批次的大小，選擇了對應的最佳演算法"
+          },
+          "text": "GPU 根據這個批次的大小，選擇了對應的最佳演算法",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987234044,
+          "id": "hk-1768987234043-90848",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987234043,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3790
+              },
+              "quote": {
+                "exact": "「批次不變性 (Batch Invariance)」",
+                "prefix": "然找到了問題，解決方案當然也就呼之欲出了：無論乘客有多少，永遠都開同一款標準型號的公車！\n\n這就是論文提出的核心解法： ",
+                "suffix": " 。研究人員重新設計了 LLM 中三個最關鍵的運算環節： RMSNorm (一種標準化處理) 、 矩陣乘法 (Matri"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3764
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[32]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[32]/strong[1]/text()[1]",
+            "text": "「批次不變性 (Batch Invariance)」"
+          },
+          "text": "「批次不變性 (Batch Invariance)」",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987236601,
+          "id": "hk-1768987236599-64034",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987236598,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3889
+              },
+              "quote": {
+                "exact": " RMSNorm (一種標準化處理) 、 矩陣乘法 (Matrix Multiplication) 和 注意力機制 (Attention) 。",
+                "prefix": "核心解法： 「批次不變性 (Batch Invariance)」 。研究人員重新設計了 LLM 中三個最關鍵的運算環節：",
+                "suffix": "\n\n這個方法的核心想法是，強制讓 GPU 無論批次大小是多少，都必須使用同一套固定的計算策略和順序。\n\n\n對於 RMSN"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3818
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[32]/text()[5]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[32]/text()[2]",
+            "text": " RMSNorm (一種標準化處理) 、 矩陣乘法 (Matrix Multiplication) 和 注意力機制 (Attention) 。"
+          },
+          "text": " RMSNorm (一種標準化處理) 、 矩陣乘法 (Matrix Multiplication) 和 注意力機制 (Attention) 。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1768987244191,
+          "id": "hk-1768987244190-93540",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987244190,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4029
+              },
+              "quote": {
+                "exact": "即使在乘客很少（批次很小）的情況下，也堅持使用為大批次設計的、雖然有點「殺雞用牛刀」但計算路徑固定的方法。",
+                "prefix": "是多少，都必須使用同一套固定的計算策略和順序。\n\n\n對於 RMSNorm 和矩陣乘法： 這相對單純。他們設計了一種策略，",
+                "suffix": "這會犧牲一點點效能，但換來了絕對的確定性。從論文的圖表來看，這種效能損失大約在 20% 左右，在可接受範圍內。\n對於注意"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 3976
+              },
+              "version": 1
+            },
+            "endOffset": 70,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[2]/li[1]/p[1]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[2]/li[1]/p[1]/text()[1]",
+            "text": "即使在乘客很少（批次很小）的情況下，也堅持使用為大批次設計的、雖然有點「殺雞用牛刀」但計算路徑固定的方法。"
+          },
+          "text": "即使在乘客很少（批次很小）的情況下，也堅持使用為大批次設計的、雖然有點「殺雞用牛刀」但計算路徑固定的方法。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987264267,
+          "id": "hk-1768987264266-83672",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987264265,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4400
+              },
+              "quote": {
+                "exact": "但在換上了他們改造過的「批次不變」核心後，1,000 次的回答，每一次都一模一樣，達成了真正的確定性。",
+                "prefix": "對「告訴我關於理查・費曼的事」這個問題生成 1,000 次回答時，即使溫度設定為 0，也產生了 80 種不同的答案版本。",
+                "suffix": "\n\n\n\t\n\n\t\t\n                            \n                      "
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4349
+              },
+              "version": 1
+            },
+            "endOffset": 132,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[34]/text()[1]",
+            "startOffset": 81,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[34]/text()[1]",
+            "text": "但在換上了他們改造過的「批次不變」核心後，1,000 次的回答，每一次都一模一樣，達成了真正的確定性。"
+          },
+          "text": "但在換上了他們改造過的「批次不變」核心後，1,000 次的回答，每一次都一模一樣，達成了真正的確定性。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987274204,
+          "id": "hk-1768987274203-21625",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987274203,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4715
+              },
+              "quote": {
+                "exact": "對於許多嚴肅的應用場景，「可複製性」是科學和工程的基礎",
+                "prefix": "\n\n那麼，確定性為何如此重要？\n\n你可能會問，AI 有點隨機性不是更有趣嗎？為什麼要花這麼大力氣去消除它？\n\n原因在於，",
+                "suffix": "。\n\n\n科學研究： 如果 AI 是一個科學發現的工具，研究者必須確保他們的實驗結果是可以被他人重現的。如果 AI 每次都"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4688
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[37]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[37]/text()[1]",
+            "text": "對於許多嚴肅的應用場景，「可複製性」是科學和工程的基礎"
+          },
+          "text": "對於許多嚴肅的應用場景，「可複製性」是科學和工程的基礎",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987295979,
+          "id": "hk-1768987295978-83952",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987295977,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 5356
+              },
+              "quote": {
+                "exact": "Thinking Machines 的研究告訴我們，只要我們願意深入挖掘，去理解系統的每一個環節，那些看似隨機、無法解釋的「靈異現象」其實都有其物理和數學上的根源。",
+                "prefix": "說：「沒關係，反正 AI 本來就是機率性的。」但這種「差不多先生」的心態，會阻礙我們建立真正值得信賴的 AI 系統。\n\n",
+                "suffix": "而一旦理解了根源，我們就有能力去駕馭它、去改造它，最終建立一個真正可靠的智慧未來。\n\n下一次，當你發現 AI 給了你不一"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 5274
+              },
+              "version": 1
+            },
+            "endOffset": 82,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[40]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[40]/text()[1]",
+            "text": "Thinking Machines 的研究告訴我們，只要我們願意深入挖掘，去理解系統的每一個環節，那些看似隨機、無法解釋的「靈異現象」其實都有其物理和數學上的根源。"
+          },
+          "text": "Thinking Machines 的研究告訴我們，只要我們願意深入挖掘，去理解系統的每一個環節，那些看似隨機、無法解釋的「靈異現象」其實都有其物理和數學上的根源。",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768987306118,
+          "id": "hk-1768987306116-98954",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987306115,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 88
+              },
+              "quote": {
+                "exact": "OpenAI 前技術長 Mira Murati 領軍的 Thinking Machines Lab",
+                "prefix": "                     \n  為什麼問 AI 同樣問題，答案每次都不同？是因為 AI 有意識嗎？\n\n\n",
+                "suffix": " 最新論文帶來了重要的突破。\n\n相信每個和 AI 聊過天的人都有過這樣的經驗：你問了 ChatGPT 或其他大型語言模型"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 39
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "text": "OpenAI 前技術長 Mira Murati 領軍的 Thinking Machines Lab"
+          },
+          "text": "OpenAI 前技術長 Mira Murati 領軍的 Thinking Machines Lab",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1768987316280,
+          "id": "hk-1768987316279-4659",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987316279,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1667
+              },
+              "quote": {
+                "exact": "浮點數非結合律 （Floating-point Non-associativity）",
+                "prefix": "家會比較好理解。\n\n電腦老問題一：因為精度損失，導致最終結果出現微小差異\n\n第一個是電腦天生的「差不多先生」問題，這叫做",
+                "suffix": "。（拜託你看到這個名詞先不要左轉中離！）\n\n這聽起來很專業，但概念其實很簡單。我們先忘掉電腦，回想一下小學數學：(a+b"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1625
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[9]/text()[1]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[9]/text()[1]",
+            "text": "浮點數非結合律 （Floating-point Non-associativity）"
+          },
+          "text": "浮點數非結合律 （Floating-point Non-associativity）",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1768987333496,
+          "id": "hk-1768987333495-82820",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987333494,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2334
+              },
+              "quote": {
+                "exact": "GPU 的最大特色就是擁有成千上萬個微小的計算核心，可以同時處理大量的計算任務",
+                "prefix": "行運算 (Concurrency) 的問題。\n\n現在的 AI 模型運算，都依賴一種叫做 GPU (圖形處理器) 的晶片。",
+                "suffix": "，就像有上千個工人同時在工廠裡工作一樣。\n\n過去大家普遍認為，當這上千個工人同時計算，並要把結果匯報到同一個地方時（例如"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2295
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[2]",
+            "text": "GPU 的最大特色就是擁有成千上萬個微小的計算核心，可以同時處理大量的計算任務"
+          },
+          "text": "GPU 的最大特色就是擁有成千上萬個微小的計算核心，可以同時處理大量的計算任務",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1768987350659,
+          "id": "hk-1768987350658-40156",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987350657,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2957
+              },
+              "quote": {
+                "exact": "「批次 (Batch)」",
+                "prefix": "乘客就發一班車。它會把差不多時間要出發的乘客集合起來，坐滿一輛公車再一起出發。這一車的乘客，在 AI 的世界裡就叫做一個",
+                "suffix": "。\n\n現在，問題來了：\n *  尖峰時刻： 當下有 100 位使用者（乘客）同時向 AI 提問，伺服器可能會派出一台「雙"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2945
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[24]/text()[1]",
+            "startOffset": 85,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[24]/text()[1]",
+            "text": "「批次 (Batch)」"
+          },
+          "text": "「批次 (Batch)」",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        },
+        {
+          "color": "#9edaff",
+          "createdAt": 1768987723246,
+          "id": "hk-1768987723245-74066",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768987723245,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4251
+              },
+              "quote": {
+                "exact": "他們採用了一種「固定分割尺寸 (fixed split-size)」的策略，確保了無論處理的文本片段長短如何，底層的計算模塊大小永遠一致",
+                "prefix": "憶」(KV Cache)。研究人員必須確保，無論一個長句子是被一次性處理，還是分段處理，其最終的計算結果都必須分毫不差。",
+                "suffix": "，於是就可以保證了結果穩定。\n\n\n實驗結果非常驚人。在使用標準的 AI 模型對「告訴我關於理查・費曼的事」這個問題生成 "
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 4183
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[2]/li[2]/p[1]/text()[1]",
+            "startOffset": 90,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[2]/li[2]/p[1]/text()[1]",
+            "text": "他們採用了一種「固定分割尺寸 (fixed split-size)」的策略，確保了無論處理的文本片段長短如何，底層的計算模塊大小永遠一致"
+          },
+          "text": "他們採用了一種「固定分割尺寸 (fixed split-size)」的策略，確保了無論處理的文本片段長短如何，底層的計算模塊大小永遠一致",
+          "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/LLM4IR-Survey?utm_source=chatgpt.com",
+      "title": "RUC-NLPIR/LLM4IR-Survey: This is the repo for the survey of LLM4IR.",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768968193916,
+          "id": "hk-1768968193908-66003",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768968193908,
+              "end": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1509
+              },
+              "quote": {
+                "exact": "Reranker: We add several listwise rerankers and Section 'Reasoning-intensive Rerankers'.",
+                "prefix": "e reformulate the search agent section.搜尋代理人：我們重新定義搜尋代理人部分。\n",
+                "suffix": "重新排序器：我們新增了多個列表式重排序器及「推理密集重排序器」區塊。\n\n\n\nVersion 3 [2024-09-03]"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box--AAyU2 > div.OverviewContent-module__Box_11--QeUk1:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1--yBtNT:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2--w5aD8 > div.Box-sc-62in7e-0.js-snippet-clipboard-copy-unpositioned:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1421
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[1]/ul[1]/li[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/div[1]/div[1]/div[1]/div[1]/react-partial[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[1]/ul[1]/li[2]/text()[1]",
+            "text": "Reranker: We add several listwise rerankers and Section 'Reasoning-intensive Rerankers'."
+          },
+          "text": "Reranker: We add several listwise rerankers and Section 'Reasoning-intensive Rerankers'.",
+          "url": "https://github.com/RUC-NLPIR/LLM4IR-Survey?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    {
+      "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/",
+      "title": "Using LLMs as a Reranker for RAG: A Practical Guide - /research",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768878618788,
+          "id": "hk-1768878618787-7996",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768878618786,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 3681
+              },
+              "quote": {
+                "exact": "reducing output tokens is a good first step: latency gain is roughly proportional to how much you cut.",
+                "prefix": "進。\n\n\n\nReducing output tokens減少輸出標記\n\n\n\nWhen cutting latency, ",
+                "suffix": "在減少延遲時，減少輸出標記是個不錯的第一步：延遲的增益大致與你削減的程度成正比。\n\n\n\nWe landed on two"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 3579
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[9]/text()[1]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[9]/text()[1]",
+            "text": "reducing output tokens is a good first step: latency gain is roughly proportional to how much you cut."
+          },
+          "text": "reducing output tokens is a good first step: latency gain is roughly proportional to how much you cut.",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768962735713,
+          "id": "hk-1768962735711-98349",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768962735711,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 463
+              },
+              "quote": {
+                "exact": "A key part of this process is reranking, which reorders the results from vector search so the final answer is grounded on the most relevant passages.",
+                "prefix": "理使用檢索增強生成（RAG）來尋找使用者查詢的正確情境。RAG 會從知識庫中擷取頂尖段落，然後用它們來產生答案。\n\n\n\n",
+                "suffix": " Open-source cross encoder models are a popular choice for t"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 314
+              },
+              "version": 1
+            },
+            "endOffset": 110,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[2]/text()[1]",
+            "text": "A key part of this process is reranking, which reorders the results from vector search so the final answer is grounded on the most relevant passages."
+          },
+          "text": "A key part of this process is reranking, which reorders the results from vector search so the final answer is grounded on the most relevant passages.",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768962744250,
+          "id": "hk-1768962744249-22014",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768962744249,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "Pointwise reranking",
+                "prefix": " LLM for reranking [arxiv]:有三種方式可以提示大型語言模型重新排序 [arxiv]：\n\n\n\n\n",
+                "suffix": ": ask the LLM to rate how relevant each passage is on a scal"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "text": "Pointwise reranking"
+          },
+          "text": "Pointwise reranking",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768962756012,
+          "id": "hk-1768962756011-6514",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768962756011,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 325
+              },
+              "quote": {
+                "exact": "Listwise reranking",
+                "prefix": "”， 6）， （“id1”， 10）， （“id2”， 5）， （“id3”， 10）， （“id4”， 4）]\n\n\n\n",
+                "suffix": ": ask the LLM to order the passages by relevance. Example ou"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 307
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/strong[1]/text()[1]",
+            "text": "Listwise reranking"
+          },
+          "text": "Listwise reranking",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768962757593,
+          "id": "hk-1768962757592-35668",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768962757592,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 519
+              },
+              "quote": {
+                "exact": "Pairwise reranking",
+                "prefix": "排序：請LLM依相關性排序文章。範例輸出：「id1」>「id3」>「id0」>「id5」>「id2」>「id4」\n\n\n\n",
+                "suffix": ": build a ranking through pairwise comparisons, asking the m"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 501
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/strong[1]/text()[1]",
+            "text": "Pairwise reranking"
+          },
+          "text": "Pairwise reranking",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768962780042,
+          "id": "hk-1768962780041-24548",
+          "note": "貴但有用",
+          "range": {
+            "anchors": {
+              "createdAt": 1768962780041,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 861
+              },
+              "quote": {
+                "exact": "Studies often find pairwise prompting best on quality, though at higher cost",
+                "prefix": "(KlogK) or O(K2) comparisons, making it the most expensive. ",
+                "suffix": " [arxiv].成對重新排序：透過成對比較建立排名，詢問模型兩段文章中哪一段（或 ）與查詢更相關。如果你將 LLM 實"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list",
+                "textOffset": 785
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/text()[5]",
+            "startOffset": 44,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/text()[5]",
+            "text": "Studies often find pairwise prompting best on quality, though at higher cost"
+          },
+          "text": "Studies often find pairwise prompting best on quality, though at higher cost",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#febebe",
+          "createdAt": 1768963244882,
+          "id": "hk-1768963244881-45121",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768963244881,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 2596
+              },
+              "quote": {
+                "exact": "pointwise ",
+                "prefix": "，因此成本最高。研究常發現，成對提示在品質上表現最佳，儘管成本較高 [arxiv]。\n\n\n\n\nWe went with ",
+                "suffix": "reranking since it gives clear scores that are easy to use a"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 2586
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[6]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[6]/strong[1]/text()[1]",
+            "text": "pointwise "
+          },
+          "text": "pointwise ",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768963466705,
+          "id": "hk-1768963466704-39319",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768963466704,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 42
+              },
+              "quote": {
+                "exact": "large",
+                "prefix": "遇到我們在第一輪迭代中看到的一些問題：\n\n\n\n\nThe number of output tokens becomes ",
+                "suffix": ", which hurts latency輸出標記數量會增加，這會降低延遲\n\n\n\nThe LLM sometimes m"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list:nth-of-type(2)",
+                "textOffset": 37
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[2]/li[1]/text()[1]",
+            "text": "large"
+          },
+          "text": "large",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768963665742,
+          "id": "hk-1768963665741-87142",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768963665741,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list:nth-of-type(3)",
+                "textOffset": 16
+              },
+              "quote": {
+                "exact": "Removed spaces ",
+                "prefix": "減的程度成正比。\n\n\n\nWe landed on two optimizations:我們得出了兩個優化方案：\n\n\n\n\n",
+                "suffix": "(surprisingly expensive tokens!) and switched to a Dict form"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list:nth-of-type(3)",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[3]/li[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[3]/li[1]/text()[2]",
+            "text": "Removed spaces "
+          },
+          "text": "Removed spaces ",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768963669097,
+          "id": "hk-1768963669096-99687",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768963669096,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list:nth-of-type(3)",
+                "textOffset": 168
+              },
+              "quote": {
+                "exact": "Added thresholding",
+                "prefix": "List[Tuple].移除空格（出乎意料地昂貴的標記！），並改用 Dict 格式取代 List[Tuple]。\n\n\n\n",
+                "suffix": ": instructed the LLM to omit passage ids if their score is b"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main > ul.wp-block-list:nth-of-type(3)",
+                "textOffset": 150
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[3]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[3]/li[2]/text()[1]",
+            "text": "Added thresholding"
+          },
+          "text": "Added thresholding",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1768963680499,
+          "id": "hk-1768963680498-6567",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768963680497,
+              "end": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 4242
+              },
+              "quote": {
+                "exact": " tried dropping the “id” token to save ~20% more latency",
+                "prefix": " drop.第一次變更使輸出代幣減少了 ~28%，第二次則帶來另一 ~50% 的延遲下降。\n\n\n\n\n\n\n\nWe also",
+                "suffix": ", but it didn’t work. The LLM started confusing passage inde"
+              },
+              "start": {
+                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
+                "textOffset": 4186
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[12]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[12]/text()[1]",
+            "text": " tried dropping the “id” token to save ~20% more latency"
+          },
+          "text": " tried dropping the “id” token to save ~20% more latency",
+          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
+        }
+      ]
+    },
     {
       "url": "https://www.linkedin.com/posts/merve-noyan-28b1a113a_lighton-released-the-new-sota-1b-ocr-model-activity-7419343624309661696-n5lL?utm_medium=ios_app&rcm=ACoAAA06GLoB8B7cLqZnr9Pv-x5E5Y-Lf-posCI&utm_source=social_share_send&utm_campaign=share_via",
       "title": "Lighton released the new sota 1B OCR model with A2.0 license 🔥 > super fast & cheap ⚡️ 5× faster than dots.ocr, 2× faster than PaddleOCR-VL and costs <$0.01 per 1k pages > detects images, handles… | Merve Noyan",
@@ -204,44 +1278,6 @@
           },
           "text": "向量資料庫中的最大邊際相關性(MMR)排序檢索結果",
           "url": "https://medium.com/%E8%B2%A1%E5%8B%99%E9%87%91%E8%9E%8D%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80-%E5%A6%82%E4%BD%95%E7%94%A8ai%E6%92%B0%E5%AF%AB%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E6%96%87%E7%AB%A0-2-%E4%BD%BF%E7%94%A8mongodb%E7%B5%90%E5%90%88%E5%90%91%E9%87%8F%E8%B3%87%E6%96%99%E5%BA%AB%E8%88%87%E5%85%A8%E6%96%87%E6%90%9C%E5%B0%8B-7cbf71509775"
-        }
-      ]
-    },
-    {
-      "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/",
-      "title": "Using LLMs as a Reranker for RAG: A Practical Guide - /research",
-      "entries": [
-        {
-          "color": "#ffea9e",
-          "createdAt": 1768878618788,
-          "id": "hk-1768878618787-7996",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1768878618786,
-              "end": {
-                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
-                "textOffset": 3681
-              },
-              "quote": {
-                "exact": "reducing output tokens is a good first step: latency gain is roughly proportional to how much you cut.",
-                "prefix": "進。\n\n\n\nReducing output tokens減少輸出標記\n\n\n\nWhen cutting latency, ",
-                "suffix": "在減少延遲時，減少輸出標記是個不錯的第一步：延遲的增益大致與你削減的程度成正比。\n\n\n\nWe landed on two"
-              },
-              "start": {
-                "css": "main#main > article.o-article > div.o-article__content:nth-of-type(2) > div.o-article__content--main",
-                "textOffset": 3579
-              },
-              "version": 1
-            },
-            "endOffset": 124,
-            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[9]/text()[1]",
-            "startOffset": 22,
-            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[9]/text()[1]",
-            "text": "reducing output tokens is a good first step: latency gain is roughly proportional to how much you cut."
-          },
-          "text": "reducing output tokens is a good first step: latency gain is roughly proportional to how much you cut.",
-          "url": "https://fin.ai/research/using-llms-as-a-reranker-for-rag-a-practical-guide/"
         }
       ]
     },
@@ -23638,6 +24674,11 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ]
+    },
+    {
+      "url": "http://10.166.57.21:7158/docs",
+      "title": "FastAPI - Swagger UI",
+      "entries": []
     },
     {
       "url": "https://azole.medium.com/docker-container-%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80%E7%AF%87-2-c14d8f852ae4",
