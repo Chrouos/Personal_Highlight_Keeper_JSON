@@ -1,8 +1,46 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1768987827740,
+  "exportedAt": 1769007507703,
   "pages": [
+    {
+      "url": "https://a.tldrnewsletter.com/web-version?ep=1&lc=5f6ad0aa-7f78-11ee-be04-6dff63c04af5&p=dc8a408c-f6bf-11f0-a62e-85b6cce6c01e&pt=campaign&t=1769005527&s=547af40a5981b928fd14d165ec1059c8a23ab716d0de79e9dd342881abefe40d",
+      "title": "TLDR AI",
+      "entries": [
+        {
+          "color": "#495583",
+          "createdAt": 1769006446421,
+          "id": "hk-1769006446419-28857",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1769006446418,
+              "end": {
+                "css": "td > table > tbody > tr > td.container > div.text-block",
+                "textOffset": 414
+              },
+              "quote": {
+                "exact": "Chinese AI companies remain around six months behind the frontier AI of the leading Western labs",
+                "prefix": "           Google DeepMind's CEO, Demis Hassabis, says that ",
+                "suffix": ". He says the response to DeepSeek's R1 model last year was "
+              },
+              "start": {
+                "css": "td > table > tbody > tr > td.container > div.text-block",
+                "textOffset": 318
+              },
+              "version": 1
+            },
+            "endOffset": 182,
+            "endXPath": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[3]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]/text()[1]",
+            "startOffset": 86,
+            "startXPath": "/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[3]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]/text()[1]",
+            "text": "Chinese AI companies remain around six months behind the frontier AI of the leading Western labs"
+          },
+          "text": "Chinese AI companies remain around six months behind the frontier AI of the leading Western labs",
+          "url": "https://a.tldrnewsletter.com/web-version?ep=1&lc=5f6ad0aa-7f78-11ee-be04-6dff63c04af5&p=dc8a408c-f6bf-11f0-a62e-85b6cce6c01e&pt=campaign&t=1769005527&s=547af40a5981b928fd14d165ec1059c8a23ab716d0de79e9dd342881abefe40d"
+        }
+      ]
+    },
     {
       "url": "https://www.bnext.com.tw/article/84467/llm-batch-ai",
       "title": "AI隨機作答「真正元兇」找到了！OpenAI前技術長團隊揪出「缺乏批次不變性」，這是什麼？|數位時代 BusinessNext",
@@ -1706,6 +1744,268 @@
           },
           "text": "知識蒸餾則利用教師模型輸出的「軟標籤（可以視作是考試成績）」",
           "url": "https://medium.com/@simon3458/intro-knowledge-distillation-cea0e5d6d842"
+        }
+      ]
+    },
+    {
+      "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90",
+      "title": "DL、ML筆記(三):KL divergence、Cross Entropy - JianJie - Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731059750,
+          "id": "hk-1768731059749-32534",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731059749,
+              "end": {
+                "css": "p#\\31 9b0",
+                "textOffset": 91
+              },
+              "quote": {
+                "exact": "不確定越多，Cross-Entropy 會越高",
+                "prefix": "tropy 用意是在觀測預測的機率分佈與實際機率分布的誤差範圍，預測值與實際值差越多，也就是代表內涵的資訊量愈大，也就是",
+                "suffix": "。在模型為Binary的情況下，其計算公式:其中P為理論分布，Q為實際分布，在分類問題中，P就是0 or 1，而Q是模型"
+              },
+              "start": {
+                "css": "p#\\31 9b0",
+                "textOffset": 68
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "不確定越多，Cross-Entropy 會越高"
+          },
+          "text": "不確定越多，Cross-Entropy 會越高",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731064595,
+          "id": "hk-1768731064594-51065",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731064594,
+              "end": {
+                "css": "p#\\31 9b0",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "Cross Entropy 用意是在觀測預測的機率分佈與實際機率分布的誤差範圍",
+                "prefix": "s EntropyJianJieFollowMar 18, 20219ShareMoreCross Entropy交叉熵",
+                "suffix": "，預測值與實際值差越多，也就是代表內涵的資訊量愈大，也就是不確定越多，Cross-Entropy 會越高。在模型為Bin"
+              },
+              "start": {
+                "css": "p#\\31 9b0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Cross Entropy 用意是在觀測預測的機率分佈與實際機率分布的誤差範圍"
+          },
+          "text": "Cross Entropy 用意是在觀測預測的機率分佈與實際機率分布的誤差範圍",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731076823,
+          "id": "hk-1768731076821-91024",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731076821,
+              "end": {
+                "css": "p#f16c",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "P為理論分布，Q為實際分布",
+                "prefix": "表內涵的資訊量愈大，也就是不確定越多，Cross-Entropy 會越高。在模型為Binary的情況下，其計算公式:其中",
+                "suffix": "，在分類問題中，P就是0 or 1，而Q是模型輸出值，為[0, 1]，而一般Cross Entropy的定義為:計算理論"
+              },
+              "start": {
+                "css": "p#f16c",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "P為理論分布，Q為實際分布"
+          },
+          "text": "P為理論分布，Q為實際分布",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731088401,
+          "id": "hk-1768731088400-82840",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731088400,
+              "end": {
+                "css": "p#f16c",
+                "textOffset": 49
+              },
+              "quote": {
+                "exact": "P就是0 or 1，而Q是模型輸出值，為[0, 1]",
+                "prefix": "oss-Entropy 會越高。在模型為Binary的情況下，其計算公式:其中P為理論分布，Q為實際分布，在分類問題中，",
+                "suffix": "，而一般Cross Entropy的定義為:計算理論分布與實際分布相似度，可以視為實際之推估。而Cross Entrop"
+              },
+              "start": {
+                "css": "p#f16c",
+                "textOffset": 23
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "P就是0 or 1，而Q是模型輸出值，為[0, 1]"
+          },
+          "text": "P就是0 or 1，而Q是模型輸出值，為[0, 1]",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731222744,
+          "id": "hk-1768731222743-49801",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731222743,
+              "end": {
+                "css": "p#cabd",
+                "textOffset": 30
+              },
+              "quote": {
+                "exact": "KL divergence 是兩個計算機率分布P&Q相似程度",
+                "prefix": "ntropy)、資訊散度(information divergence)或資訊增益(information gain)。",
+                "suffix": "。P表示資料的真實分佈，Q表示資料的理論分佈，模型分佈，或P的近似分佈。可以視為分布Q用於近似P的訊息損失，或是用編碼的"
+              },
+              "start": {
+                "css": "p#cabd",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "KL divergence 是兩個計算機率分布P&Q相似程度"
+          },
+          "text": "KL divergence 是兩個計算機率分布P&Q相似程度",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731227342,
+          "id": "hk-1768731227340-3688",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731227340,
+              "end": {
+                "css": "p#\\32 853",
+                "textOffset": 21
+              },
+              "quote": {
+                "exact": "P表示資料的真實分佈，Q表示資料的理論分佈",
+                "prefix": "ence)或資訊增益(information gain)。KL divergence 是兩個計算機率分布P&Q相似程度。",
+                "suffix": "，模型分佈，或P的近似分佈。可以視為分布Q用於近似P的訊息損失，或是用編碼的角度可以視為兩個分布訊息量的差異，差異越大K"
+              },
+              "start": {
+                "css": "p#\\32 853",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "P表示資料的真實分佈，Q表示資料的理論分佈"
+          },
+          "text": "P表示資料的真實分佈，Q表示資料的理論分佈",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffb3b3",
+          "createdAt": 1768731233836,
+          "id": "hk-1768731233835-62860",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731233835,
+              "end": {
+                "css": "p#\\32 853",
+                "textOffset": 122
+              },
+              "quote": {
+                "exact": "視為兩個分布訊息量的差異，差異越大KL divergence越大，因此當兩個分布相同時，KL divergence為0",
+                "prefix": "資料的真實分佈，Q表示資料的理論分佈，模型分佈，或P的近似分佈。可以視為分布Q用於近似P的訊息損失，或是用編碼的角度可以",
+                "suffix": "。而KL divergence可以由Information Entropy及Cross Entropy推導:因此站在編碼"
+              },
+              "start": {
+                "css": "p#\\32 853",
+                "textOffset": 63
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[2]",
+            "startOffset": 42,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[2]",
+            "text": "視為兩個分布訊息量的差異，差異越大KL divergence越大，因此當兩個分布相同時，KL divergence為0"
+          },
+          "text": "視為兩個分布訊息量的差異，差異越大KL divergence越大，因此當兩個分布相同時，KL divergence為0",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768731245357,
+          "id": "hk-1768731245356-51791",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768731245356,
+              "end": {
+                "css": "p#\\35 a25",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "KL divergence為非對稱量度，D(P||Q)與D(Q||P)不相等，並不是兩個分布之間真正的距離",
+                "prefix": "ss Entropy為實際編碼長度，KL divergence則是量者間的編碼差距，即為編碼可優化的空間。但要注意一點，",
+                "suffix": "。在DL、ML中，較常使用到Cross Entropy，因為在監督式學習中，P的資料分布為已知的，因此KL diverg"
+              },
+              "start": {
+                "css": "p#\\35 a25",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "KL divergence為非對稱量度，D(P||Q)與D(Q||P)不相等，並不是兩個分布之間真正的距離"
+          },
+          "text": "KL divergence為非對稱量度，D(P||Q)與D(Q||P)不相等，並不是兩個分布之間真正的距離",
+          "url": "https://jianjiesun.medium.com/dl-ml%E7%AD%86%E8%A8%98-%E4%B8%89-kl-divergence-cross-entropy-4b48810e0e90"
         }
       ]
     },
@@ -3900,6 +4200,236 @@
       ]
     },
     {
+      "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01",
+      "title": "[Python推薦系統] 常見『線下』排序評估指標. 推薦系統能夠幫助我們達到很好的成效，那要怎麼評估推薦系統的成效呢？ | by Yeh James | Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1768226347000,
+          "id": "hk-1768226346997-65451",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768226346995,
+              "end": {
+                "css": "p#bffe",
+                "textOffset": 38
+              },
+              "quote": {
+                "exact": "模型評估可分為『線下』(offline) 以及『線上』(online) ",
+                "prefix": "in full size如何評估推薦系統的優劣呢？推薦系統能夠幫助我們達到很好的成效，那要怎麼評估推薦系統的成效呢？通常",
+                "suffix": "兩種不同評估方式。簡單來說『線下』評估就是要在模型『上線』前先做某種的衡量，以確保模型上線後的效果跟自己的想像不會差太多"
+              },
+              "start": {
+                "css": "p#bffe",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "模型評估可分為『線下』(offline) 以及『線上』(online) "
+          },
+          "text": "模型評估可分為『線下』(offline) 以及『線上』(online) ",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768226394593,
+          "id": "hk-1768226394581-59035",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768226394578,
+              "end": {
+                "css": "p#\\37 64e > strong.mk.gn",
+                "textOffset": 4
+              },
+              "quote": {
+                "exact": "排序問題",
+                "prefix": " RecallF1分數PR 曲線ROC 曲線回歸問題評估指標：MAE 平均絕對誤差MSE 均方誤差但以上指標都沒有考慮到",
+                "suffix": "。在傳統的鐵達尼號預測乘客生死，或是影像辨識數字或貓狗，這些機器學習的模型都沒有考慮到排序問題。然而在大部分推薦系統的結"
+              },
+              "start": {
+                "css": "p#\\37 64e > strong.mk.gn",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[6]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[6]/strong[1]/text()[1]",
+            "text": "排序問題"
+          },
+          "text": "排序問題",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768226399424,
+          "id": "hk-1768226399423-91709",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768226399423,
+              "end": {
+                "css": "p#\\35 e6e > strong.mk.gn",
+                "textOffset": 18
+              },
+              "quote": {
+                "exact": "推薦系統中最常見的三個排序評估指標為",
+                "prefix": "好的結果放在第一位，次好的放在第二位。像是 Google 搜索引擎就會考慮到是不是大部分的使用者都是點擊第一個搜尋結果。",
+                "suffix": "MRR (平均排名倒數)MAP/mAP (平均精度均值)NDCG (標準化折扣累積增益)這三種有什麼差別呢？ 主要的差異"
+              },
+              "start": {
+                "css": "p#\\35 e6e > strong.mk.gn",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "text": "推薦系統中最常見的三個排序評估指標為"
+          },
+          "text": "推薦系統中最常見的三個排序評估指標為",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768226499813,
+          "id": "hk-1768226499811-76562",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768226499811,
+              "end": {
+                "css": "h2#\\37 06d",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "MRR: Mean Reciprocal Rank ",
+                "prefix": "，比方說商品評價或是使用者停留在該文章的時長、互動行為可以轉換成1~5分的喜好程度等等資訊，這樣的評估就比較適合第三種。",
+                "suffix": "(平均排名倒數)最簡單的指標，該指標只注重第一個相關的物品在哪裡，並把第一個相關物品的位置做倒數運算並平均，所以如果你想"
+              },
+              "start": {
+                "css": "h2#\\37 06d",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/h2[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/h2[2]/text()[1]",
+            "text": "MRR: Mean Reciprocal Rank "
+          },
+          "text": "MRR: Mean Reciprocal Rank ",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768226641108,
+          "id": "hk-1768226641105-49174",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768226641105,
+              "end": {
+                "css": "p#\\37 222",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "只注重第一個相關的物品在哪裡",
+                "prefix": "訊，這樣的評估就比較適合第三種。MRR: Mean Reciprocal Rank (平均排名倒數)最簡單的指標，該指標",
+                "suffix": "，並把第一個相關物品的位置做倒數運算並平均，所以如果你想特別關注第一個相關物品是否有出現在最前面的話，這個指標特別適用。"
+              },
+              "start": {
+                "css": "p#\\37 222",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "只注重第一個相關的物品在哪裡"
+          },
+          "text": "只注重第一個相關的物品在哪裡",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768226646576,
+          "id": "hk-1768226646574-40204",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768226646573,
+              "end": {
+                "css": "p#\\37 222",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "倒數運算並平均",
+                "prefix": "ciprocal Rank (平均排名倒數)最簡單的指標，該指標只注重第一個相關的物品在哪裡，並把第一個相關物品的位置做",
+                "suffix": "，所以如果你想特別關注第一個相關物品是否有出現在最前面的話，這個指標特別適用。MRR 圖示 來源綠色為相關物品、紅色為不"
+              },
+              "start": {
+                "css": "p#\\37 222",
+                "textOffset": 38
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[2]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[2]",
+            "text": "倒數運算並平均"
+          },
+          "text": "倒數運算並平均",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768227782936,
+          "id": "hk-1768227782932-85266",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768227782931,
+              "end": {
+                "css": "p#\\35 de1",
+                "textOffset": 16
+              },
+              "quote": {
+                "exact": "綠色為相關物品、紅色為不相關物品",
+                "prefix": "品的位置做倒數運算並平均，所以如果你想特別關注第一個相關物品是否有出現在最前面的話，這個指標特別適用。MRR 圖示 來源",
+                "suffix": "。以廣告來說，綠色就是使用者有點擊過的廣告、紅色則是沒點擊。我們可以看到對於使用者 1，他的第一個相關廣告出現在排名第3"
+              },
+              "start": {
+                "css": "p#\\35 de1",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "綠色為相關物品、紅色為不相關物品"
+          },
+          "text": "綠色為相關物品、紅色為不相關物品",
+          "url": "https://yehjames.medium.com/python%E6%8E%A8%E8%96%A6%E7%B3%BB%E7%B5%B1-%E5%B8%B8%E8%A6%8B-%E7%B7%9A%E4%B8%8B-%E6%8E%92%E5%BA%8F%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99-90876d70a01"
+        }
+      ]
+    },
+    {
       "url": "https://frankchiu.io/seo-ai-bm25-intro/",
       "title": "BM25 介紹：BM25 如何決定你餵給 LLM 的素材？ | 白話文商學院",
       "entries": [
@@ -5164,6 +5694,222 @@
       ]
     },
     {
+      "url": "https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df",
+      "title": "Simple Reinforcement Learning with Tensorflow Part 4: Deep Q-Networks and Beyond | by Arthur Juliani | Medium",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1768142921821,
+          "id": "hk-1768142921820-31661",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768142921819,
+              "end": {
+                "css": "p#d005",
+                "textOffset": 148
+              },
+              "quote": {
+                "exact": "Deep Q-Network.",
+                "prefix": " this tutorial we will be walking through the creation of a ",
+                "suffix": " It will be built upon the simple one layer Q-network we cre"
+              },
+              "start": {
+                "css": "p#d005",
+                "textOffset": 133
+              },
+              "version": 1
+            },
+            "endOffset": 148,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 133,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Deep Q-Network."
+          },
+          "text": "Deep Q-Network.",
+          "url": "https://awjuliani.medium.com/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10208668",
+      "title": "[魔法陣系列] Deep Q Network（DQN）之術式解析 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1768142613516,
+          "id": "hk-1768142613515-58744",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768142613514,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 604
+              },
+              "quote": {
+                "exact": "Deep Q Network（DQN）",
+                "prefix": "己鼓掌，每天擠時間寫鐵人文章，現在大概老了十歲...（說好的青春呢？）\n\n隨著鐵人賽邁入尾聲，本篇將介紹最後一個魔法陣：",
+                "suffix": "。\n\n2015 年 Deepmind 在 Nature 發表了「Human-level Control Through "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 585
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "text": "Deep Q Network（DQN）"
+          },
+          "text": "Deep Q Network（DQN）",
+          "url": "https://ithelp.ithome.com.tw/articles/10208668"
+        }
+      ]
+    },
+    {
+      "url": "https://vocus.cc/article/68d0d43bfd897800016a3786",
+      "title": "第二部：《深度學習》84/100 📌Deep Q-Network (DQN) 🎲 結合深度學習的強化學習典範！",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1768142440617,
+          "id": "hk-1768142440616-40046",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768142440615,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68d0d43bfd897800016a3786 > p.lexical__paragraph:nth-of-type(6)",
+                "textOffset": 25
+              },
+              "quote": {
+                "exact": "傳統 Q-Learning 使用表格來儲存 Q 值",
+                "prefix": "深度學習的強化學習典範！________________________________________🎯 單元導讀：",
+                "suffix": "，但當**狀態空間龐大或是連續型資料（如圖像）**時，表格根本無法應付。因此，DeepMind 在 2015 年提出了突"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68d0d43bfd897800016a3786 > p.lexical__paragraph:nth-of-type(6)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[6]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[6]/span[1]/text()[1]",
+            "text": "傳統 Q-Learning 使用表格來儲存 Q 值"
+          },
+          "text": "傳統 Q-Learning 使用表格來儲存 Q 值",
+          "url": "https://vocus.cc/article/68d0d43bfd897800016a3786"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768142457430,
+          "id": "hk-1768142457428-30530",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768142457428,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68d0d43bfd897800016a3786 > p.lexical__paragraph:nth-of-type(8)",
+                "textOffset": 57
+              },
+              "quote": {
+                "exact": "Deep Q-Network（DQN）：用神經網路來逼近 Q 函數，讓強化學習能處理高維感知輸入（如遊戲畫面）",
+                "prefix": "空間龐大或是連續型資料（如圖像）**時，表格根本無法應付。因此，DeepMind 在 2015 年提出了突破性方法：✅ ",
+                "suffix": "DQN 成功打敗人類玩家於多個 Atari 遊戲，是深度強化學習的重要里程碑！_____________________"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68d0d43bfd897800016a3786 > p.lexical__paragraph:nth-of-type(8)",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[8]/span[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[8]/span[1]/text()[1]",
+            "text": "Deep Q-Network（DQN）：用神經網路來逼近 Q 函數，讓強化學習能處理高維感知輸入（如遊戲畫面）"
+          },
+          "text": "Deep Q-Network（DQN）：用神經網路來逼近 Q 函數，讓強化學習能處理高維感知輸入（如遊戲畫面）",
+          "url": "https://vocus.cc/article/68d0d43bfd897800016a3786"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1768142596876,
+          "id": "hk-1768142596875-51742",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768142596874,
+              "end": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68d0d43bfd897800016a3786 > p.lexical__paragraph:nth-of-type(51)",
+                "textOffset": 35
+              },
+              "quote": {
+                "exact": "Replay Buffer 用來儲存過去的經驗，並隨機抽取來訓練",
+                "prefix": "功，關鍵在於引入了三項重要的技術創新，有效解決了傳統 Q-Learning 在高維環境中的不穩定與無法泛化的問題。首先，",
+                "suffix": "，這樣可以打破樣本間的時間相關性，提升訓練穩定性。其次，Target Network 則是設計一個固定的目標網路，每隔幾"
+              },
+              "start": {
+                "css": "main.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-e45c49f0-1.sc-e45c49f0-7:nth-of-type(2) > div.sc-e45c49f0-1.sc-e45c49f0-5 > div.sc-1d284e97-0.drQoxc:nth-of-type(5) > article.editor-content-block.class-68d0d43bfd897800016a3786 > p.lexical__paragraph:nth-of-type(51)",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[51]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[5]/article[1]/p[51]/span[1]/text()[1]",
+            "text": "Replay Buffer 用來儲存過去的經驗，並隨機抽取來訓練"
+          },
+          "text": "Replay Buffer 用來儲存過去的經驗，並隨機抽取來訓練",
+          "url": "https://vocus.cc/article/68d0d43bfd897800016a3786"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10234568",
+      "title": "Day 7 強化學習之Q learning - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1768140681162,
+          "id": "hk-1768140681160-80090",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1768140681159,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 102
+              },
+              "quote": {
+                "exact": "強化學習",
+                "prefix": "                       強化學習之Q learning\n介紹完監督式學習與非監督式學習，我們來介紹",
+                "suffix": "!\nQ learning\nQ learning為強化學習，根據wiki的描述\n\nQ-學習就是要記錄下學習過的政策，因而告"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 98
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "強化學習"
+          },
+          "text": "強化學習",
+          "url": "https://ithelp.ithome.com.tw/articles/10234568"
+        }
+      ]
+    },
+    {
       "url": "https://superuser.com/questions/1559170/how-can-i-reduce-the-consumption-of-the-vmmem-process",
       "title": "windows 10 - How can I reduce the consumption of the `vmmem` process? - Super User",
       "entries": [
@@ -5364,6 +6110,466 @@
           },
           "text": " CPU 使用率",
           "url": "https://ithelp.ithome.com.tw/articles/10352596"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10345206",
+      "title": "Day25 GAI爆炸時代 - Advanced RAG 介紹 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716102664,
+          "id": "hk-1767716102663-10086",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716102661,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 644
+              },
+              "quote": {
+                "exact": "Hierarchical Indices(階層索引)",
+                "prefix": "ng-3-small\n\n\ntext-embedding-ada-002\n\n\n1. Pre-Retrieval:\n法1: ",
+                "suffix": "\n在擁有大量的documents集合時適用，可以顯著提高搜尋效率與結果，讓日後的search可更加針對相關文件進行搜尋\n"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 618
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[3]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[3]/text()[1]",
+            "text": "Hierarchical Indices(階層索引)"
+          },
+          "text": "Hierarchical Indices(階層索引)",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716114839,
+          "id": "hk-1767716114838-55943",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716114838,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 679
+              },
+              "quote": {
+                "exact": "擁有大量的documents集合時適用，可以顯著提高搜尋效率與結果",
+                "prefix": "ada-002\n\n\n1. Pre-Retrieval:\n法1: Hierarchical Indices(階層索引)\n在",
+                "suffix": "，讓日後的search可更加針對相關文件進行搜尋\n\n方法: (建立兩層search index)\n\n\n初次先對所有不同的"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 646
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "擁有大量的documents集合時適用，可以顯著提高搜尋效率與結果"
+          },
+          "text": "擁有大量的documents集合時適用，可以顯著提高搜尋效率與結果",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716121634,
+          "id": "hk-1767716121633-33571",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716121632,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 774
+              },
+              "quote": {
+                "exact": "先對所有不同的documents 做summary並儲存此向量在Vector DB ",
+                "prefix": "搜尋效率與結果，讓日後的search可更加針對相關文件進行搜尋\n\n方法: (建立兩層search index)\n\n\n初次",
+                "suffix": "(用Atlas可儲存內容與向量)\n→ 這裡的summary是直接下prompt給LLM去製作【精簡敘述的summary】"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 732
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/ol[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/ol[1]/li[1]/p[1]/text()[1]",
+            "text": "先對所有不同的documents 做summary並儲存此向量在Vector DB "
+          },
+          "text": "先對所有不同的documents 做summary並儲存此向量在Vector DB ",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716128646,
+          "id": "hk-1767716128644-34662",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716128644,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 881
+              },
+              "quote": {
+                "exact": "先從summarize的結果進行過濾，找出最相關的那幾個摘要後",
+                "prefix": "\n→ 這裡的summary是直接下prompt給LLM去製作【精簡敘述的summary】嗎?\n\n\n日後要進行搜尋時，就會",
+                "suffix": "\n\n\n再開始去讀他們原始完整的檔案內容並將他們的chunks向量化，去找出最相關的Top k個chunks\n\n\n再連同u"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 850
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/ol[1]/li[2]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/ol[1]/li[2]/p[1]/text()[1]",
+            "text": "先從summarize的結果進行過濾，找出最相關的那幾個摘要後"
+          },
+          "text": "先從summarize的結果進行過濾，找出最相關的那幾個摘要後",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716135286,
+          "id": "hk-1767716135285-59865",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716135285,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 934
+              },
+              "quote": {
+                "exact": "去讀他們原始完整的檔案內容並將他們的chunks向量化，去找出最相關的Top k個chunks",
+                "prefix": "ummary】嗎?\n\n\n日後要進行搜尋時，就會先從summarize的結果進行過濾，找出最相關的那幾個摘要後\n\n\n再開始",
+                "suffix": "\n\n\n再連同user query一同餵給LLM 生成最終答案\n\n\n\n\n\n執行方法:\n\n\n要先將所有chunks 取出co"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 887
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/ol[1]/li[3]/p[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ul[3]/li[1]/ol[1]/li[3]/p[1]/text()[1]",
+            "text": "去讀他們原始完整的檔案內容並將他們的chunks向量化，去找出最相關的Top k個chunks"
+          },
+          "text": "去讀他們原始完整的檔案內容並將他們的chunks向量化，去找出最相關的Top k個chunks",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716195281,
+          "id": "hk-1767716195280-19117",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716195279,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 3154
+              },
+              "quote": {
+                "exact": "Hypothetical Questions and the HyDE Approach",
+                "prefix": "messages=messages)\n    return response.content.strip()\n\n法2: ",
+                "suffix": "\n將各個documents利用LLM去產生出對應的questions，再儲存至Vector DB中。當user quer"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 3110
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[4]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[4]/text()[1]",
+            "text": "Hypothetical Questions and the HyDE Approach"
+          },
+          "text": "Hypothetical Questions and the HyDE Approach",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716213454,
+          "id": "hk-1767716213452-54336",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716213452,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 3188
+              },
+              "quote": {
+                "exact": "將各個documents利用LLM去產生出對應的questions",
+                "prefix": "t.strip()\n\n法2: Hypothetical Questions and the HyDE Approach\n",
+                "suffix": "，再儲存至Vector DB中。當user query 要進行查詢時，會先與hypothetical questions"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 3155
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[8]/text()[1]",
+            "text": "將各個documents利用LLM去產生出對應的questions"
+          },
+          "text": "將各個documents利用LLM去產生出對應的questions",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716230417,
+          "id": "hk-1767716230416-34417",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716230415,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 3340
+              },
+              "quote": {
+                "exact": "抓出Top k個chunks後，再連同user query一同餵給LLM 做生成",
+                "prefix": "uestions進行比對，去找出相關的documents後，再mapping到原始文檔再去切成chunk進行相似度比對，",
+                "suffix": "\n\nHypothetical Questions\n\n\n範例程式碼:\nfrom langchain_core.messag"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 3300
+              },
+              "version": 1
+            },
+            "endOffset": 152,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[8]/text()[2]",
+            "startOffset": 112,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[8]/text()[2]",
+            "text": "抓出Top k個chunks後，再連同user query一同餵給LLM 做生成"
+          },
+          "text": "抓出Top k個chunks後，再連同user query一同餵給LLM 做生成",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716244172,
+          "id": "hk-1767716244170-38322",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716244169,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6452
+              },
+              "quote": {
+                "exact": "結合傳統基於關鍵字的搜索方法（如TF-IDF或BM25）與現代基於向量的搜索技術的混合方法。這種混合方法通過整合多種相似性計算",
+                "prefix": ")\n    return response.content.strip()\n\n法3: Fusion Retrieval\n",
+                "suffix": "，來優化檢索結果\n\n\n步驟\n\n\n查詢向量化與傳統搜索：將user query轉換為vector表示，並在vector i"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 6389
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "結合傳統基於關鍵字的搜索方法（如TF-IDF或BM25）與現代基於向量的搜索技術的混合方法。這種混合方法通過整合多種相似性計算"
+          },
+          "text": "結合傳統基於關鍵字的搜索方法（如TF-IDF或BM25）與現代基於向量的搜索技術的混合方法。這種混合方法通過整合多種相似性計算",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716256067,
+          "id": "hk-1767716256066-83140",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716256064,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 10071
+              },
+              "quote": {
+                "exact": "Repack",
+                "prefix": "    return result['result'].strip()\n\n2. Post Retrieval :\n1. ",
+                "suffix": "（把分數比較高的放在prompt的頭尾）\n將檢索到的Top k 個chunk進行排序，有論文指出LLM較容易忽略掉中間的"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 10065
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[6]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[6]/text()[1]",
+            "text": "Repack"
+          },
+          "text": "Repack",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        },
+        {
+          "color": "#ffea80",
+          "createdAt": 1767716262555,
+          "id": "hk-1767716262553-98161",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767716262552,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 10113
+              },
+              "quote": {
+                "exact": "將檢索到的Top k 個chunk進行排序",
+                "prefix": ".strip()\n\n2. Post Retrieval :\n1. Repack（把分數比較高的放在prompt的頭尾）\n",
+                "suffix": "，有論文指出LLM較容易忽略掉中間的訊息，所以透過repack方法，先將最重要的chunk上下上下這樣去做插入\n\n2. "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 10092
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "將檢索到的Top k 個chunk進行排序"
+          },
+          "text": "將檢索到的Top k 個chunk進行排序",
+          "url": "https://ithelp.ithome.com.tw/articles/10345206"
+        }
+      ]
+    },
+    {
+      "url": "https://hackmd.io/@YungHuiHsu/rkqGpCDca",
+      "title": "[Building and Evaluating Advanced RAG Applications。建立與評估進階RAG] - HackMD",
+      "entries": [
+        {
+          "color": "#495583",
+          "createdAt": 1767715169992,
+          "id": "hk-1767715169990-21463",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767715169990,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(8)",
+                "textOffset": 35
+              },
+              "quote": {
+                "exact": "句子窗口檢索(Sentence Window retrieval)",
+                "prefix": "eration，檢索增強生成）管道的全面概覽，主要使用Llama Index並結合TruLens進行效能評估，包括：\n\n",
+                "suffix": "：\n\n透過將單句嵌入及檢索後，以原始檢索句子為中心，取出更大範圍的句子前後文(window)，提供LLM（大型語言模型）"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(8)",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/ul[8]/li[1]/p[1]/strong[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/ul[8]/li[1]/p[1]/strong[1]/span[1]/text()[1]",
+            "text": "句子窗口檢索(Sentence Window retrieval)"
+          },
+          "text": "句子窗口檢索(Sentence Window retrieval)",
+          "url": "https://hackmd.io/@YungHuiHsu/rkqGpCDca"
+        },
+        {
+          "color": "#495583",
+          "createdAt": 1767715179022,
+          "id": "hk-1767715179021-1578",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767715179021,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(8)",
+                "textOffset": 107
+              },
+              "quote": {
+                "exact": "以原始檢索句子為中心，取出更大範圍的句子前後文(window)，提供LLM（大型語言模型）更多上下文以改善回答品質",
+                "prefix": "進行效能評估，包括：\n\n句子窗口檢索(Sentence Window retrieval)：\n\n透過將單句嵌入及檢索後，",
+                "suffix": "\n\n\n\n自動合併檢索(Auto-merging retrieval)：\n\n建立一個包含大節點（父節點）與小節點（子節點）"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(8)",
+                "textOffset": 50
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/ul[8]/li[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/ul[8]/li[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "以原始檢索句子為中心，取出更大範圍的句子前後文(window)，提供LLM（大型語言模型）更多上下文以改善回答品質"
+          },
+          "text": "以原始檢索句子為中心，取出更大範圍的句子前後文(window)，提供LLM（大型語言模型）更多上下文以改善回答品質",
+          "url": "https://hackmd.io/@YungHuiHsu/rkqGpCDca"
+        },
+        {
+          "color": "#495583",
+          "createdAt": 1767715183889,
+          "id": "hk-1767715183888-69612",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1767715183887,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(8)",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "建立一個包含大節點（父節點）與小節點（子節點）的層次結構，子節點鏈接至父節點",
+                "prefix": "LLM（大型語言模型）更多上下文以改善回答品質\n\n\n\n自動合併檢索(Auto-merging retrieval)：\n\n",
+                "suffix": "\n檢索時，如果父節點的多數子節點被檢索到，則將這些子節點替換為父節點，進行層次性的節點合併\n\n\nBasic RAG pi"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(8)",
+                "textOffset": 144
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/ul[8]/li[2]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/ul[8]/li[2]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "建立一個包含大節點（父節點）與小節點（子節點）的層次結構，子節點鏈接至父節點"
+          },
+          "text": "建立一個包含大節點（父節點）與小節點（子節點）的層次結構，子節點鏈接至父節點",
+          "url": "https://hackmd.io/@YungHuiHsu/rkqGpCDca"
         }
       ]
     },
@@ -14277,7 +15483,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "ChatGPT",
+      "title": "Model Training Progress",
       "entries": [
         {
           "color": "#ffea9e",
@@ -24676,28 +25882,13 @@
       ]
     },
     {
-      "url": "http://10.166.57.21:7158/docs",
-      "title": "FastAPI - Swagger UI",
+      "url": "https://github.com/Chrouos/chrouos_obsidian_web/settings",
+      "title": "General",
       "entries": []
     },
     {
-      "url": "https://azole.medium.com/docker-container-%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80%E7%AF%87-2-c14d8f852ae4",
-      "title": "Docker Container 基礎入門篇 2. 不當邊緣人的 container | by Azole (小賴) | Medium",
-      "entries": []
-    },
-    {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
-      "entries": []
-    },
-    {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
-      "entries": []
-    },
-    {
-      "url": "https://vocus.cc/article/675305acfd897800017e49a0",
-      "title": "CDF 累積分布函數",
+      "url": "https://xrex.io/tw/zh/blog/beginner-s-guide/what-is-2fa-two-factor-authentication-setup-security-guide-zh/",
+      "title": "對抗駭客的保命符！什麼是 2FA 雙重驗證？設定方式、運作邏輯一次搞懂｜30 秒搞懂幣圈名詞 - XREX",
       "entries": []
     }
   ]
