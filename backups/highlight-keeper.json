@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1770715220954,
+  "exportedAt": 1770715274331,
   "pages": [
     {
       "url": "https://www.bnext.com.tw/article/90058/agent-skills-free-course-deeplearning-ai-anthropic-latest-partnership",
@@ -4786,204 +4786,6 @@
       ]
     },
     {
-      "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance",
-      "title": "新聞速讀｜Claude Code 爆紅後，Anthropic 把「寫程式的能力」做成一般人也能用的 Cowor...",
-      "entries": [
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769065749446,
-          "id": "hk-1769065749445-29922",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769648105025,
-              "end": {
-                "css": "div.s-component.s-text > div > div.s-component-content.s-font-body > h3 > blockquote > p.p2",
-                "textOffset": 16
-              },
-              "quote": {
-                "exact": "InfoAI 編輯部當 AI 不只會說，而是開始「做完」改變不是因為工具更強，而是因為人",
-                "prefix": "作模式，AI Agent 的重點正從「會答」轉向「能交付、可稽核」 · 新聞速讀,AI Agent,AI 工具,公司戰略",
-                "suffix": "們重新定義了「工作如何完成」。把它放在 2026 年的 AI 現場，最接近的對照之一，就是 Anthropic 近半年圍"
-              },
-              "start": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 16,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h3[1]/blockquote[1]/p[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/strong[1]/text()[1]",
-            "text": "InfoAI 編輯部當 AI 不只會說，而是開始「做完」改變不是因為工具更強，而是因為人"
-          },
-          "text": "InfoAI 編輯部當 AI 不只會說，而是開始「做完」改變不是因為工具更強，而是因為人",
-          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769065756402,
-          "id": "hk-1769065756401-79237",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769648105113,
-              "end": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
-                "textOffset": 71
-              },
-              "quote": {
-                "exact": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一，強調把工程任務做成可委派的工作流程。",
-                "prefix": "可追蹤、可治理」成為標配，整合深度與治理設計將比模型差距更早決定採用速度。FAQ1）Claude Code 到底是什麼？",
-                "suffix": "它的重點不在聊天，而在「能做事」：在授權範圍內理解專案、修改檔案、跑檢查與測試、回報結果，並把成果以可審查的形式交付。2"
-              },
-              "start": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
-                "textOffset": 20
-              },
-              "version": 1
-            },
-            "endOffset": 71,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[38]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "startOffset": 20,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[37]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/strong[1]/text()[1]",
-            "text": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一，強調把工程任務做成可委派的工作流程。"
-          },
-          "text": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一，強調把工程任務做成可委派的工作流程。",
-          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769477968009,
-          "id": "hk-1769477968008-7074",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769648105125,
-              "end": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p1.s1",
-                "textOffset": 48
-              },
-              "quote": {
-                "exact": "Claude 與 Claude Code 的熱潮已從工程圈外溢到非技術族群",
-                "prefix": "是 Anthropic 近半年圍繞 Claude Code 與 Cowork 的一連串動作。摘要：1）WSJ 報導指出，",
-                "suffix": "，許多人把它視為「可以交付一段工作」的工具。2）Claude Code 於 2025／02／24 隨 Claude 3."
-              },
-              "start": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p1.s1",
-                "textOffset": 11
-              },
-              "version": 1
-            },
-            "endOffset": 48,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "startOffset": 11,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "text": "Claude 與 Claude Code 的熱潮已從工程圈外溢到非技術族群"
-          },
-          "text": "Claude 與 Claude Code 的熱潮已從工程圈外溢到非技術族群",
-          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769477986859,
-          "id": "hk-1769477986858-34912",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769648105164,
-              "end": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2.s1",
-                "textOffset": 19
-              },
-              "quote": {
-                "exact": "WSJ 報導指出，Claude 與 Claude Code 的熱潮已從工程圈外溢到非技術族群，許多人把它視為「可以交付一段工作」的工具。2）Claude Code 於 202",
-                "prefix": "接近的對照之一，就是 Anthropic 近半年圍繞 Claude Code 與 Cowork 的一連串動作。摘要：1）",
-                "suffix": "5／02／24 隨 Claude 3.7 Sonnet 同步對外宣佈，定位是終端機上的 agentic coding 指"
-              },
-              "start": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p1.s1",
-                "textOffset": 2
-              },
-              "version": 1
-            },
-            "endOffset": 19,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "startOffset": 2,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "text": "WSJ 報導指出，Claude 與 Claude Code 的熱潮已從工程圈外溢到非技術族群，許多人把它視為「可以交付一段工作」的工具。2）Claude Code 於 202"
-          },
-          "text": "WSJ 報導指出，Claude 與 Claude Code 的熱潮已從工程圈外溢到非技術族群，許多人把它視為「可以交付一段工作」的工具。2）Claude Code 於 202",
-          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769478233403,
-          "id": "hk-1769478233401-42313",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769478233401,
-              "end": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p1",
-                "textOffset": 147
-              },
-              "quote": {
-                "exact": "；三是 Cowork，把委派概念帶到非技術工作的桌面情境。",
-                "prefix": "把重點放在「交付」：一是 Claude Code，讓工程任務可以被委派；二是網頁版的隔離執行方式，讓任務能平行跑、可追蹤",
-                "suffix": "當入口被設計好，AI 的角色就不只是對話伙伴，而是更像能接單、能回報、也能被檢查的工作代理。對 Anthropic 而言"
-              },
-              "start": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p1",
-                "textOffset": 118
-              },
-              "version": 1
-            },
-            "endOffset": 147,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "startOffset": 118,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[15]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "text": "；三是 Cowork，把委派概念帶到非技術工作的桌面情境。"
-          },
-          "text": "；三是 Cowork，把委派概念帶到非技術工作的桌面情境。",
-          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769497886974,
-          "id": "hk-1769497886968-98774",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769648105204,
-              "end": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
-                "textOffset": 52
-              },
-              "quote": {
-                "exact": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一",
-                "prefix": "可追蹤、可治理」成為標配，整合深度與治理設計將比模型差距更早決定採用速度。FAQ1）Claude Code 到底是什麼？",
-                "suffix": "，強調把工程任務做成可委派的工作流程。它的重點不在聊天，而在「能做事」：在授權範圍內理解專案、修改檔案、跑檢查與測試、回"
-              },
-              "start": {
-                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
-                "textOffset": 20
-              },
-              "version": 1
-            },
-            "endOffset": 52,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/mark[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
-            "startOffset": 20,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[37]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/strong[1]/text()[1]",
-            "text": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一"
-          },
-          "text": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一",
-          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
-        }
-      ]
-    },
-    {
       "url": "https://www.aiposthub.com/anthropic-claude-in-excel/",
       "title": "Anthropic 推出 Claude in Excel：AI 正式進軍 Excel，一鍵生成圖表、公式、數據分析",
       "entries": [
@@ -5686,300 +5488,6 @@
       ]
     },
     {
-      "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2",
-      "title": "Baked-in Brilliance: Reranking Meets RL with mxbai-rerank-v2",
-      "entries": [
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769155267661,
-          "id": "hk-1769155267648-1810",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769479818865,
-              "end": {
-                "css": "div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1 > div.relative.grid > div.col-start-2.grid",
-                "textOffset": 117
-              },
-              "quote": {
-                "exact": "Our V2 Reranking Family comes with state-of-the-art performance across 100+ languages, extended context length",
-                "prefix": "– our strongest model for the most demanding tasks.\n\nTLDR: \n",
-                "suffix": ", improved reasoning, and broad use-case support, outperform"
-              },
-              "start": {
-                "css": "div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1 > div.relative.grid > div.col-start-2.grid",
-                "textOffset": 7
-              },
-              "version": 1
-            },
-            "endOffset": 87,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[2]",
-            "text": "Our V2 Reranking Family comes with state-of-the-art performance across 100+ languages, extended context length"
-          },
-          "text": "Our V2 Reranking Family comes with state-of-the-art performance across 100+ languages, extended context length",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769155301720,
-          "id": "hk-1769155301708-48864",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769479818911,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 961
-              },
-              "quote": {
-                "exact": "to gather a set of candidate results",
-                "prefix": "t-stage retriever (e.g., a keyword engine or vector search) ",
-                "suffix": ". However, the top-ranked candidate isn't always the most re"
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 925
-              },
-              "version": 1
-            },
-            "endOffset": 130,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[3]/text()[1]",
-            "startOffset": 94,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[3]/text()[1]",
-            "text": "to gather a set of candidate results"
-          },
-          "text": "to gather a set of candidate results",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769155336464,
-          "id": "hk-1769155336452-51444",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769479819095,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 3378
-              },
-              "quote": {
-                "exact": "tested the mxbai-rerank-v2 models on English, Chinese, multilingual, tool retrieval",
-                "prefix": "n Source ✅\nFast & State of the Art: Performance Analysis\nWe ",
-                "suffix": ", and code-search benchmarks, comparing them to other open- "
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 3295
-              },
-              "version": 1
-            },
-            "endOffset": 86,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[11]/text()[1]",
-            "startOffset": 3,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[11]/text()[1]",
-            "text": "tested the mxbai-rerank-v2 models on English, Chinese, multilingual, tool retrieval"
-          },
-          "text": "tested the mxbai-rerank-v2 models on English, Chinese, multilingual, tool retrieval",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769482762853,
-          "id": "hk-1769482762836-9621",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769506643540,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 5722
-              },
-              "quote": {
-                "exact": "Our 1.5B model is 8x faster than bge-reranker-v2-gemma while delivering higher accuracy.",
-                "prefix": "24BAAI/bge-reranker-v2-m33.05BAAI/bge-reranker-v2-gemma7.20\n",
-                "suffix": " This speed advantage means you can process more queries per"
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 5634
-              },
-              "version": 1
-            },
-            "endOffset": 61,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[15]/text()[2]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/text()[26]",
-            "text": "Our 1.5B model is 8x faster than bge-reranker-v2-gemma while delivering higher accuracy."
-          },
-          "text": "Our 1.5B model is 8x faster than bge-reranker-v2-gemma while delivering higher accuracy.",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769482769584,
-          "id": "hk-1769482769571-88770",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769506643564,
-              "end": {
-                "css": "div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1 > p:nth-of-type(16) > a.inline-flex.items-center:nth-of-type(2)",
-                "textOffset": 8
-              },
-              "quote": {
-                "exact": "Building on insights from DeepSeek R-1 and starting with Qwen-2.5",
-                "prefix": "mance and cost-efficiency matter.\nHow We Trained the Models\n",
-                "suffix": ", we used a three-step reinforcement-learning process:\n\nThe "
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 5960
-              },
-              "version": 1
-            },
-            "endOffset": 8,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[16]/a[2]/strong[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/text()[28]",
-            "text": "Building on insights from DeepSeek R-1 and starting with Qwen-2.5"
-          },
-          "text": "Building on insights from DeepSeek R-1 and starting with Qwen-2.5",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769482785385,
-          "id": "hk-1769482785368-75254",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769506643624,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 6258
-              },
-              "quote": {
-                "exact": "output 1 for relevant documents and 0 for irrelevant ones",
-                "prefix": " Reinforcement Prompt Optimization) \nWe taught the model to ",
-                "suffix": ". GRPO ensures format consistency and gives a strong perform"
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 6201
-              },
-              "version": 1
-            },
-            "endOffset": 20,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ol[1]/li[1]/p[1]/text()[4]",
-            "startOffset": 24,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ol[1]/li[1]/p[1]/text()[2]",
-            "text": "output 1 for relevant documents and 0 for irrelevant ones"
-          },
-          "text": "output 1 for relevant documents and 0 for irrelevant ones",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769482790175,
-          "id": "hk-1769482790154-4331",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769506643638,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 6291
-              },
-              "quote": {
-                "exact": " format consistency",
-                "prefix": "r relevant documents and 0 for irrelevant ones. GRPO ensures",
-                "suffix": " and gives a strong performance boost from the start.\n\n\nCont"
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 6272
-              },
-              "version": 1
-            },
-            "endOffset": 33,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ol[1]/li[1]/p[1]/text()[3]",
-            "startOffset": 14,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ol[1]/li[1]/p[1]/text()[3]",
-            "text": " format consistency"
-          },
-          "text": " format consistency",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769482798630,
-          "id": "hk-1769482798616-57040",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769506643650,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 6657
-              },
-              "quote": {
-                "exact": "mirroring how real users judge search results.",
-                "prefix": "tuned the model to rank the most relevant documents highest—",
-                "suffix": "\n\n\nThis layered approach yields a richer query understanding"
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 6611
-              },
-              "version": 1
-            },
-            "endOffset": 119,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ol[1]/li[3]/p[1]/text()[2]",
-            "startOffset": 73,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ol[1]/li[3]/p[1]/text()[2]",
-            "text": "mirroring how real users judge search results."
-          },
-          "text": "mirroring how real users judge search results.",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769482823189,
-          "id": "hk-1769482823169-89831",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769506643658,
-              "end": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 10875
-              },
-              "quote": {
-                "exact": "Mixed Content Types",
-                "prefix": "or JSON documents—another step beyond plain-text ranking.\n\n\n",
-                "suffix": " \nOften, data comes in various formats: text, metadata, tech"
-              },
-              "start": {
-                "css": "div.container.relative > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
-                "textOffset": 10856
-              },
-              "version": 1
-            },
-            "endOffset": 19,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ul[2]/li[5]/p[1]/strong[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/ul[2]/li[5]/text()[1]",
-            "text": "Mixed Content Types"
-          },
-          "text": "Mixed Content Types",
-          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
-        }
-      ]
-    },
-    {
       "url": "https://zhuanlan.zhihu.com/p/1919159316763637213",
       "title": "智能检索的双引擎：深入解析 Embedding 与 ReRanker 模型的协同之道 - 知乎",
       "entries": [
@@ -6243,70 +5751,6 @@
             "text": "DCG（Discounted Cumulative Gain，Discounted CG）"
           },
           "text": "DCG（Discounted Cumulative Gain，Discounted CG）",
-          "url": "https://ithelp.ithome.com.tw/articles/10299050"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769415339846,
-          "id": "hk-1769415339846-39275",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769415339845,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1972
-              },
-              "quote": {
-                "exact": "NDCG（Normalized Discounted Cumulative Gain）",
-                "prefix": "於折損項的影響，影響分數越小。而兩種排序方式孰優孰劣，也能夠明確地從 DCG 看到。\n那為什麼還需要 NDCG 呢？\n\n",
-                "suffix": "\nNDCG 比 DCG 多一個 N，意思是正規化 normalized。因為不同模型、不同情境下產生排序清單的長度可能不"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1929
-              },
-              "version": 1
-            },
-            "endOffset": 43,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[3]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[3]/text()[1]",
-            "text": "NDCG（Normalized Discounted Cumulative Gain）"
-          },
-          "text": "NDCG（Normalized Discounted Cumulative Gain）",
-          "url": "https://ithelp.ithome.com.tw/articles/10299050"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1769415342550,
-          "id": "hk-1769415342549-67746",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1769415342548,
-              "end": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 2007
-              },
-              "quote": {
-                "exact": "意思是正規化 normalized",
-                "prefix": "DCG（Normalized Discounted Cumulative Gain）\nNDCG 比 DCG 多一個 N，",
-                "suffix": "。因為不同模型、不同情境下產生排序清單的長度可能不一致，為了比較不同長度的清單，需要將所有清單有一個統一比較的標準。\n算"
-              },
-              "start": {
-                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
-                "textOffset": 1990
-              },
-              "version": 1
-            },
-            "endOffset": 34,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[31]/text()[1]",
-            "startOffset": 17,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[31]/text()[1]",
-            "text": "意思是正規化 normalized"
-          },
-          "text": "意思是正規化 normalized",
           "url": "https://ithelp.ithome.com.tw/articles/10299050"
         }
       ]
@@ -7336,6 +6780,108 @@
           },
           "text": " not using reasoning, repeating the input prompt improves performance for popular models",
           "url": "https://arxiv.org/html/2512.14982v1?fbclid=IwY2xjawPab7hleHRuA2FlbQIxMQBicmlkETFEemQ4YXRPR2pUNjB5UFdUc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvtQw0BcEZydsJ1tA7iDOBdFBRRXO0bnvnAyNUclDo0cinSmm07QnI6LX4Zc_aem_ZTpWInPaiSnH0XUU_RshzA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2",
+      "title": "Baked-in Brilliance: Reranking Meets RL with mxbai-rerank-v2",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1769155267661,
+          "id": "hk-1769155267648-1810",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1769155267647,
+              "end": {
+                "css": "div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1 > div.relative.grid > div.col-start-2.grid",
+                "textOffset": 117
+              },
+              "quote": {
+                "exact": "Our V2 Reranking Family comes with state-of-the-art performance across 100+ languages, extended context length",
+                "prefix": "d-AI/MXBAI-Rerank-Large-V2 （1.5B） – 我們針對最嚴苛任務最強的模型。\n\nTLDR: \n",
+                "suffix": ", improved reasoning, and broad use-case support, outperform"
+              },
+              "start": {
+                "css": "div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1 > div.relative.grid > div.col-start-2.grid",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Our V2 Reranking Family comes with state-of-the-art performance across 100+ languages, extended context length"
+          },
+          "text": "Our V2 Reranking Family comes with state-of-the-art performance across 100+ languages, extended context length",
+          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1769155301720,
+          "id": "hk-1769155301708-48864",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1769155301707,
+              "end": {
+                "css": "div.container.relative:nth-of-type(3) > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
+                "textOffset": 1318
+              },
+              "quote": {
+                "exact": "to gather a set of candidate results",
+                "prefix": "t-stage retriever (e.g., a keyword engine or vector search) ",
+                "suffix": ". However, the top-ranked candidate isn't always the most re"
+              },
+              "start": {
+                "css": "div.container.relative:nth-of-type(3) > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
+                "textOffset": 1282
+              },
+              "version": 1
+            },
+            "endOffset": 130,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/p[3]/text()[1]",
+            "startOffset": 94,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/p[3]/text()[1]",
+            "text": "to gather a set of candidate results"
+          },
+          "text": "to gather a set of candidate results",
+          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1769155336464,
+          "id": "hk-1769155336452-51444",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1769155336451,
+              "end": {
+                "css": "div.container.relative:nth-of-type(3) > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
+                "textOffset": 4638
+              },
+              "quote": {
+                "exact": "tested the mxbai-rerank-v2 models on English, Chinese, multilingual, tool retrieval",
+                "prefix": "he Art: Performance AnalysisFast & State of the Art：效能分析\nWe ",
+                "suffix": ", and code-search benchmarks, comparing them to other open- "
+              },
+              "start": {
+                "css": "div.container.relative:nth-of-type(3) > div.relative.mx-auto > div.flex.flex-col:nth-of-type(2) > div.relative.w-full > div.prose.dark\\:prose-invert:nth-of-type(3) > div.prose.flex-1",
+                "textOffset": 4555
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/p[11]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/p[11]/text()[1]",
+            "text": "tested the mxbai-rerank-v2 models on English, Chinese, multilingual, tool retrieval"
+          },
+          "text": "tested the mxbai-rerank-v2 models on English, Chinese, multilingual, tool retrieval",
+          "url": "https://www.mixedbread.com/blog/mxbai-rerank-v2"
         }
       ]
     },
@@ -9454,6 +9000,76 @@
           },
           "text": "Google for Education 近期推出的 Gemini Certified Educator 證照",
           "url": "https://www.aiposthub.com/google-gemini-certified-educator/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance",
+      "title": "新聞速讀｜Claude Code 爆紅後，Anthropic 把「寫程式的能力」做成一般人也能用的 Cowor...",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1769065749446,
+          "id": "hk-1769065749445-29922",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1769065749444,
+              "end": {
+                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
+                "textOffset": 44
+              },
+              "quote": {
+                "exact": "Cowork 是 Anthropic 在 2026 年 1 月推出的研究預覽桌面工作模式",
+                "prefix": " AI 更自主，在邊界外則必須被阻擋或需要明確核准，避免便利變成不可控。4）Cowork 是什麼？它跟一般對話有何不同？",
+                "suffix": "。它把「委派」做成更直覺的使用方式：你指定一個資料夾，Claude 就能在該範圍內讀寫檔案、整理、彙整並產出初稿。差異在"
+              },
+              "start": {
+                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[46]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[46]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
+            "text": "Cowork 是 Anthropic 在 2026 年 1 月推出的研究預覽桌面工作模式"
+          },
+          "text": "Cowork 是 Anthropic 在 2026 年 1 月推出的研究預覽桌面工作模式",
+          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1769065756402,
+          "id": "hk-1769065756401-79237",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1769065756401,
+              "end": {
+                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
+                "textOffset": 71
+              },
+              "quote": {
+                "exact": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一，強調把工程任務做成可委派的工作流程。",
+                "prefix": "可追蹤、可治理」成為標配，整合深度與治理設計將比模型差距更早決定採用速度。FAQ1）Claude Code 到底是什麼？",
+                "suffix": "它的重點不在聊天，而在「能做事」：在授權範圍內理解專案、修改檔案、跑檢查與測試、回報結果，並把成果以可審查的形式交付。2"
+              },
+              "start": {
+                "css": "div.s-blog-section-inner > div.s-component.s-text > div > div.s-component-content.s-font-body > h4 > p.p2",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 71,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[40]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/div[40]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[1]/p[1]/text()[1]",
+            "text": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一，強調把工程任務做成可委派的工作流程。"
+          },
+          "text": "Claude Code 是 Anthropic 推出的 agentic coding 指令列工具路線之一，強調把工程任務做成可委派的工作流程。",
+          "url": "https://www.infoai.com.tw/blog/anthropic-claude-code-cowork-agentic-workflow-governance"
         }
       ]
     },
