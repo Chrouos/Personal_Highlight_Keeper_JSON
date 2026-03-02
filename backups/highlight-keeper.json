@@ -1,8 +1,282 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1770715274331,
+  "exportedAt": 1772464052328,
   "pages": [
+    {
+      "url": "https://www.ithome.com.tw/news/173023",
+      "title": "Claude Code加入LSP工具，支援即時診斷與程式碼導覽 | iThome",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1771495492940,
+          "id": "hk-1771495492939-44656",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771495492938,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 210
+              },
+              "quote": {
+                "exact": "LSP外掛可提供即時程式碼智慧",
+                "prefix": "在程式碼理解的能力，使其不只依賴文字內容推理，也能直接接上語言伺服器提供的語意資訊。\n依Claude Code文件說明，",
+                "suffix": "，語言伺服器會在每次程式碼編修後回報診斷結果，使Claude能更快看到錯誤與警告，並透過程式碼導覽查詢定位符號定義、參照"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 195
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "LSP外掛可提供即時程式碼智慧"
+          },
+          "text": "LSP外掛可提供即時程式碼智慧",
+          "url": "https://www.ithome.com.tw/news/173023"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1771495534337,
+          "id": "hk-1771495534336-95950",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771495534335,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 370
+              },
+              "quote": {
+                "exact": "在導入LSP機制前，Claude Code若要取得更精準的錯誤位置與符號關聯，常見做法是先讀取檔案內容，再搭配編譯器或型別檢查器等外部輸出來比對線索。",
+                "prefix": "laude能更快看到錯誤與警告，並透過程式碼導覽查詢定位符號定義、參照位置與滑鼠停駐時的資訊，同時取得型別與文件線索。\n",
+                "suffix": "導入LSP後，診斷與符號資訊會以較標準化的方式回饋，錯誤位置與符號關聯也更容易被直接指出。\nClaude Code文件將"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 295
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "在導入LSP機制前，Claude Code若要取得更精準的錯誤位置與符號關聯，常見做法是先讀取檔案內容，再搭配編譯器或型別檢查器等外部輸出來比對線索。"
+          },
+          "text": "在導入LSP機制前，Claude Code若要取得更精準的錯誤位置與符號關聯，常見做法是先讀取檔案內容，再搭配編譯器或型別檢查器等外部輸出來比對線索。",
+          "url": "https://www.ithome.com.tw/news/173023"
+        },
+        {
+          "color": "#a1b3dd",
+          "createdAt": 1771495544463,
+          "id": "hk-1771495544463-18159",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771495544462,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 415
+              },
+              "quote": {
+                "exact": "導入LSP後，診斷與符號資訊會以較標準化的方式回饋，錯誤位置與符號關聯也更容易被直接指出。",
+                "prefix": "e Code若要取得更精準的錯誤位置與符號關聯，常見做法是先讀取檔案內容，再搭配編譯器或型別檢查器等外部輸出來比對線索。",
+                "suffix": "\nClaude Code文件將外掛市集定位為外掛目錄，能提供集中式探索、版本追蹤與自動更新等管理能力，並支援以Git儲存"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 370
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[3]",
+            "text": "導入LSP後，診斷與符號資訊會以較標準化的方式回饋，錯誤位置與符號關聯也更容易被直接指出。"
+          },
+          "text": "導入LSP後，診斷與符號資訊會以較標準化的方式回饋，錯誤位置與符號關聯也更容易被直接指出。",
+          "url": "https://www.ithome.com.tw/news/173023"
+        }
+      ]
+    },
+    {
+      "url": "https://ailogora.com/card/a2ce315d-1c31-4b00-a5a7-04c7ee790d8a",
+      "title": "【譯】LangChain vs LangGraph：如何選擇正確的 AI 開發框架！ | AILogora",
+      "entries": [
+        {
+          "color": "#fff7ad",
+          "createdAt": 1771254293723,
+          "id": "hk-1771254293722-85841",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771254293721,
+              "end": {
+                "css": "main.min-w-0.space-y-6 > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 235
+              },
+              "quote": {
+                "exact": "一種是直線型的流水線",
+                "prefix": "angChain 與 LangGraph 的對決我平常在開發實際的 LLM 應用軟體，觀察下來發現有兩種主要的設計模式：",
+                "suffix": "；另一種是有狀態（stateful）、代理（agentic）工作流程。「LangChain vs LangGraph」這"
+              },
+              "start": {
+                "css": "main.min-w-0.space-y-6 > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 225
+              },
+              "version": 1
+            },
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "一種是直線型的流水線"
+          },
+          "text": "一種是直線型的流水線",
+          "url": "https://ailogora.com/card/a2ce315d-1c31-4b00-a5a7-04c7ee790d8a"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1771254298110,
+          "id": "hk-1771254298109-77742",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771254298108,
+              "end": {
+                "css": "main.min-w-0.space-y-6 > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 269
+              },
+              "quote": {
+                "exact": "有狀態（stateful）、代理（agentic）工作流程",
+                "prefix": "Graph 的對決我平常在開發實際的 LLM 應用軟體，觀察下來發現有兩種主要的設計模式：一種是直線型的流水線；另一種是",
+                "suffix": "。「LangChain vs LangGraph」這個問題不是純學術討論，它會直接影響你的架構設計、維護成本，以及系統如"
+              },
+              "start": {
+                "css": "main.min-w-0.space-y-6 > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 240
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[4]/text()[2]",
+            "text": "有狀態（stateful）、代理（agentic）工作流程"
+          },
+          "text": "有狀態（stateful）、代理（agentic）工作流程",
+          "url": "https://ailogora.com/card/a2ce315d-1c31-4b00-a5a7-04c7ee790d8a"
+        }
+      ]
+    },
+    {
+      "url": "https://www.uho.com.tw/article-62610.html",
+      "title": "人明明還活著，怎麼會精神死亡？他揭「自我放棄」5階段：死是解脫",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1771163856254,
+          "id": "hk-1771163856253-69103",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771163856253,
+              "end": {
+                "css": "article#article-post-62610 > div.article-post__body:nth-of-type(2)",
+                "textOffset": 2878
+              },
+              "quote": {
+                "exact": "歷經嚴重的心理創傷，逐漸失去對外界的興趣，在失去生存意志後，走向死亡，這種現象被稱為「自我放棄」（give-up-itis），臨床上則稱之為「精神死亡」（psychogenic death，一種心因性死亡）。",
+                "prefix": "軍醫們發現，有些戰俘身體沒有外傷，與人交談能理性應答，也不抑鬱，卻漸漸的停止說話，失去進食的意願，然後在幾天後死亡。\n\n",
+                "suffix": "\n\n這種現象也出現在第二次世界大戰期間，一艘沉沒貨船的船員和二戰納粹集中營俘虜身上。雖然有不少案例記錄了這種現象，卻沒有"
+              },
+              "start": {
+                "css": "article#article-post-62610 > div.article-post__body:nth-of-type(2)",
+                "textOffset": 2774
+              },
+              "version": 1
+            },
+            "endOffset": 104,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[5]/text()[1]",
+            "text": "歷經嚴重的心理創傷，逐漸失去對外界的興趣，在失去生存意志後，走向死亡，這種現象被稱為「自我放棄」（give-up-itis），臨床上則稱之為「精神死亡」（psychogenic death，一種心因性死亡）。"
+          },
+          "text": "歷經嚴重的心理創傷，逐漸失去對外界的興趣，在失去生存意志後，走向死亡，這種現象被稱為「自我放棄」（give-up-itis），臨床上則稱之為「精神死亡」（psychogenic death，一種心因性死亡）。",
+          "url": "https://www.uho.com.tw/article-62610.html"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1771163887650,
+          "id": "hk-1771163887650-55953",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771163887649,
+              "end": {
+                "css": "article#article-post-62610 > div.article-post__body:nth-of-type(2)",
+                "textOffset": 3454
+              },
+              "quote": {
+                "exact": "對事物都顯得漠不關心，有很深的無力感",
+                "prefix": "物人般消極被動。這樣的退縮是一種應對方式，是為了求得內心的安寧而採取的感情重組行為。\n\n第二階段：淡漠（Apathy）\n",
+                "suffix": "，即使簡單的事務也做不好。看上去悶悶不樂，不同於憤怒或悲傷，而是陷入嚴重憂鬱傾向。\n\n第三階段：喪失意志力（Abouli"
+              },
+              "start": {
+                "css": "article#article-post-62610 > div.article-post__body:nth-of-type(2)",
+                "textOffset": 3436
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[11]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[11]/text()[1]",
+            "text": "對事物都顯得漠不關心，有很深的無力感"
+          },
+          "text": "對事物都顯得漠不關心，有很深的無力感",
+          "url": "https://www.uho.com.tw/article-62610.html"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1771163894514,
+          "id": "hk-1771163894514-19816",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1771163894514,
+              "end": {
+                "css": "article#article-post-62610 > div.article-post__body:nth-of-type(2)",
+                "textOffset": 3384
+              },
+              "quote": {
+                "exact": "對外界失去興趣，避免人際接觸，退縮回到自己的小世界，變得像植物人般消極被動。",
+                "prefix": "研究成果，將「自我放棄」現象產生至死亡的過程，分成5階段。\n\n第一階段：社會退縮（Social withdrawal）\n",
+                "suffix": "這樣的退縮是一種應對方式，是為了求得內心的安寧而採取的感情重組行為。\n\n第二階段：淡漠（Apathy）\n對事物都顯得漠不"
+              },
+              "start": {
+                "css": "article#article-post-62610 > div.article-post__body:nth-of-type(2)",
+                "textOffset": 3346
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[10]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/article[1]/div[2]/p[10]/text()[1]",
+            "text": "對外界失去興趣，避免人際接觸，退縮回到自己的小世界，變得像植物人般消極被動。"
+          },
+          "text": "對外界失去興趣，避免人際接觸，退縮回到自己的小世界，變得像植物人般消極被動。",
+          "url": "https://www.uho.com.tw/article-62610.html"
+        }
+      ]
+    },
     {
       "url": "https://www.bnext.com.tw/article/90058/agent-skills-free-course-deeplearning-ai-anthropic-latest-partnership",
       "title": "免費Agent Skills課程來了！2小時上完、新手友善，教你打造高效工作流|數位時代 BusinessNext",
@@ -34046,43 +34320,8 @@
       ]
     },
     {
-      "url": "http://10.166.57.21:7158/docs",
-      "title": "FastAPI - Swagger UI",
-      "entries": []
-    },
-    {
-      "url": "https://azole.medium.com/docker-container-%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80%E7%AF%87-2-c14d8f852ae4",
-      "title": "Docker Container 基礎入門篇 2. 不當邊緣人的 container | by Azole (小賴) | Medium",
-      "entries": []
-    },
-    {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
-      "entries": []
-    },
-    {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
-      "entries": []
-    },
-    {
-      "url": "https://opencode.ai/docs/",
-      "title": "Intro | OpenCode",
-      "entries": []
-    },
-    {
-      "url": "https://sdwh.dev/posts/2020/07/Python-Rich/",
-      "title": "Python Rich Library - 豐富 Terminal 視覺化效果的函式庫 - The Skeptical Software Engineer",
-      "entries": []
-    },
-    {
-      "url": "https://vocus.cc/article/675305acfd897800017e49a0",
-      "title": "CDF 累積分布函數",
-      "entries": []
-    },
-    {
-      "url": "https://www.infoai.com.tw/blog/uk-ai-fintech-regulation",
-      "title": "精選解讀｜英國 FinTech 把 AI 理財帶向「制度化」：真正的門檻不是模型，而是責任鏈 - 精選解讀 A...",
+      "url": "https://terraria.wiki.gg/zh/wiki/Guide:%E4%BA%BA%E5%B7%A5%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB?variant=zh-tw",
+      "title": "指南:人工生物群系 - 官方中文泰拉瑞亚维基百科（The Official Chinese Terraria Wiki）",
       "entries": []
     }
   ]
