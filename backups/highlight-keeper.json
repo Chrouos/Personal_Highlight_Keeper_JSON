@@ -1,8 +1,794 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1772778935591,
+  "exportedAt": 1772782845792,
   "pages": [
+    {
+      "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
+      "title": "Teaching LLMs to reason like Bayesians",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781829492,
+          "id": "hk-1772781829491-49392",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781829490,
+              "end": {
+                "css": "div.blog-detail-page > div.glue-page > div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > section.blog-summary > div.blog-summary__summary:nth-of-type(2)",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": " reason in a Bayesian manner by training",
+                "prefix": "    \n                        \n\n\n    \n\n\n\n    We teach LLMs to",
+                "suffix": " them to mimic the predictions of an optimal Bayesian model."
+              },
+              "start": {
+                "css": "div.blog-detail-page > div.glue-page > div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > section.blog-summary > div.blog-summary__summary:nth-of-type(2)",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/p[1]/text()[1]",
+            "text": " reason in a Bayesian manner by training"
+          },
+          "text": " reason in a Bayesian manner by training",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781836024,
+          "id": "hk-1772781836024-54260",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781836023,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 462
+              },
+              "quote": {
+                "exact": "the LLM needs to gradually infer the user’s preferences from their choices over the course of multiple interactions.",
+                "prefix": "s accurate. Take personalized recommendations, for example: ",
+                "suffix": "基於大型語言模型（LLM）的人工智慧系統，越來越多地被用作與使用者及世界互動的代理。為了成功達成此目標，LLMs 需要建"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 346
+              },
+              "version": 1
+            },
+            "endOffset": 166,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[1]/text()[4]",
+            "text": "the LLM needs to gradually infer the user’s preferences from their choices over the course of multiple interactions."
+          },
+          "text": "the LLM needs to gradually infer the user’s preferences from their choices over the course of multiple interactions.",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782062716,
+          "id": "hk-1772782062715-84582",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782062714,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 642
+              },
+              "quote": {
+                "exact": "Bayesian inference defines the optimal way to perform such updates",
+                "prefix": "Ms 需要建構世界的內部表徵，並估算每個表徵準確的機率。以個人化推薦為例：LLM 需要透過多次互動逐步推斷使用者的偏好。",
+                "suffix": ". By implementing this strategy, LLMs could optimize user in"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 576
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[2]/a[1]/text()[1]",
+            "text": "Bayesian inference defines the optimal way to perform such updates"
+          },
+          "text": "Bayesian inference defines the optimal way to perform such updates",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782087325,
+          "id": "hk-1772782087324-93513",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782087324,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1366
+              },
+              "quote": {
+                "exact": "teach the LLMs to reason in a Bayesian manner by training them to mimic the predictions of the Bayesian model, which defines the optimal way to reason about probabilities",
+                "prefix": "ables probabilistic reasoning in large language models”, we ",
+                "suffix": ". We find that this approach not only significantly improves"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1196
+              },
+              "version": 1
+            },
+            "endOffset": 176,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/p[3]/text()[3]",
+            "text": "teach the LLMs to reason in a Bayesian manner by training them to mimic the predictions of the Bayesian model, which defines the optimal way to reason about probabilities"
+          },
+          "text": "teach the LLMs to reason in a Bayesian manner by training them to mimic the predictions of the Bayesian model, which defines the optimal way to reason about probabilities",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782268420,
+          "id": "hk-1772782268419-8783",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782268419,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1066
+              },
+              "quote": {
+                "exact": "Each simulated user was characterized by a set of preferences",
+                "prefix": " departure time, a duration, a number of stops, and a cost. ",
+                "suffix": ": for each feature, they could have a strong or weak prefere"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1005
+              },
+              "version": 1
+            },
+            "endOffset": 379,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 318,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Each simulated user was characterized by a set of preferences"
+          },
+          "text": "Each simulated user was characterized by a set of preferences",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782336623,
+          "id": "hk-1772782336621-74294",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782336621,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(4) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 132
+              },
+              "quote": {
+                "exact": "We evaluated a range of LLMs and found that they all performed significantly worse than the optimal Bayesian Assistant",
+                "prefix": "\n                    \n    \n\n\n\n    \n        \n  \n    \n\n\n\n\n    ",
+                "suffix": ". Most importantly, in contrast to the Bayesian Assistant, w"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(4) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 14
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[4]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[4]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "We evaluated a range of LLMs and found that they all performed significantly worse than the optimal Bayesian Assistant"
+          },
+          "text": "We evaluated a range of LLMs and found that they all performed significantly worse than the optimal Bayesian Assistant",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782372211,
+          "id": "hk-1772782372210-38712",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782372210,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1023
+              },
+              "quote": {
+                "exact": " through supervised fine-tuning",
+                "prefix": "odel how to perform these probabilistic updates. We did this",
+                "suffix": ", where we had the model update its parameters based on a la"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 992
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 91,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[2]/text()[1]",
+            "text": " through supervised fine-tuning"
+          },
+          "text": " through supervised fine-tuning",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782381487,
+          "id": "hk-1772782381486-44072",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782381485,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1132
+              },
+              "quote": {
+                "exact": "model update its parameters based on a large number of interactions it observed with users",
+                "prefix": "e did this through supervised fine-tuning, where we had the ",
+                "suffix": ".挑戰在於教導模型如何執行這些機率性更新。我們透過監督式微調來完成這點，讓模型根據觀察到的大量與使用者互動來更新參數。W"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1042
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "model update its parameters based on a large number of interactions it observed with users"
+          },
+          "text": "model update its parameters based on a large number of interactions it observed with users",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782393727,
+          "id": "hk-1772782393726-2030",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782393726,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1255
+              },
+              "quote": {
+                "exact": "create supervised fine-tuning data",
+                "prefix": "調來完成這點，讓模型根據觀察到的大量與使用者互動來更新參數。We explored two strategies to ",
+                "suffix": ". In the first strategy, which we refer to as Oracle teachin"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1221
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "create supervised fine-tuning data"
+          },
+          "text": "create supervised fine-tuning data",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782404565,
+          "id": "hk-1772782404563-87988",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782404563,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1317
+              },
+              "quote": {
+                "exact": "In the first strategy, which we refer to as Oracle teaching,",
+                "prefix": "lored two strategies to create supervised fine-tuning data. ",
+                "suffix": " we provided the LLM with interactions between simulated use"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1257
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[3]/text()[3]",
+            "text": "In the first strategy, which we refer to as Oracle teaching,"
+          },
+          "text": "In the first strategy, which we refer to as Oracle teaching,",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782414772,
+          "id": "hk-1772782414771-41188",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782414771,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1692
+              },
+              "quote": {
+                "exact": "The second strategy, which we call Bayesian teaching",
+                "prefix": "們提供模擬使用者與一個「oracle」助理之間的互動，該助理對使用者偏好有完美了解，因此總是推薦與使用者選擇相同的選項。",
+                "suffix": ", provided the LLM with interactions between the Bayesian As"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1640
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "The second strategy, which we call Bayesian teaching"
+          },
+          "text": "The second strategy, which we call Bayesian teaching",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782424671,
+          "id": "hk-1772782424670-86394",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782424670,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1773
+              },
+              "quote": {
+                "exact": "LLM with interactions between the Bayesian Assistant and the user.",
+                "prefix": "ond strategy, which we call Bayesian teaching, provided the ",
+                "suffix": " In this setting, the assistant often chose flights that did"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(6) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1707
+              },
+              "version": 1
+            },
+            "endOffset": 81,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[6]/div[1]/div[1]/p[4]/text()[2]",
+            "text": "LLM with interactions between the Bayesian Assistant and the user."
+          },
+          "text": "LLM with interactions between the Bayesian Assistant and the user.",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772782523273,
+          "id": "hk-1772782523271-20338",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772782523271,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(10) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "Bayesian teaching significantly outperformed Oracle teaching",
+                "prefix": "\n                    \n    \n\n\n\n    \n        \n  \n    \n\n\n\n\n    ",
+                "suffix": ", enabling models to agree with mathematical ideals 80% of t"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(10) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 14
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[10]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[10]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Bayesian teaching significantly outperformed Oracle teaching"
+          },
+          "text": "Bayesian teaching significantly outperformed Oracle teaching",
+          "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        }
+      ]
+    },
+    {
+      "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+      "title": "Towards a science of scaling agent systems: When and why agent systems work",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781218272,
+          "id": "hk-1772781218264-20426",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781218264,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1135
+              },
+              "quote": {
+                "exact": "Single-Agent (SAS)",
+                "prefix": "owseComp-Plus（網頁導航）、PlanCraft（規劃）及 Workbench（工具使用）。代理架構定義如下：",
+                "suffix": ": A solitary agent executing all reasoning and acting steps "
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1117
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[1]/i[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[1]/i[1]/text()[1]",
+            "text": "Single-Agent (SAS)"
+          },
+          "text": "Single-Agent (SAS)",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781231217,
+          "id": "hk-1772781231216-25736",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781231216,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1236
+              },
+              "quote": {
+                "exact": "all reasoning and acting steps sequentially with a unified memory stream",
+                "prefix": "使用）。代理架構定義如下：Single-Agent (SAS): A solitary agent executing ",
+                "suffix": ".單一代理（Single-Agent，SAS）：一個單獨代理，依序執行所有推理與行動步驟，並擁有統一的記憶體串流。Ind"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1164
+              },
+              "version": 1
+            },
+            "endOffset": 100,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "all reasoning and acting steps sequentially with a unified memory stream"
+          },
+          "text": "all reasoning and acting steps sequentially with a unified memory stream",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781232800,
+          "id": "hk-1772781232799-58408",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781232799,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1304
+              },
+              "quote": {
+                "exact": "Independent",
+                "prefix": "eam.單一代理（Single-Agent，SAS）：一個單獨代理，依序執行所有推理與行動步驟，並擁有統一的記憶體串流。",
+                "suffix": ": Multiple agents working in parallel on sub-tasks without c"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1293
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[2]/i[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[2]/i[1]/text()[1]",
+            "text": "Independent"
+          },
+          "text": "Independent",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781235834,
+          "id": "hk-1772781235833-90618",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781235833,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1376
+              },
+              "quote": {
+                "exact": "without communicating",
+                "prefix": "dependent: Multiple agents working in parallel on sub-tasks ",
+                "suffix": ", aggregating results only at the end.獨立：多個代理人並行執行子任務，不進行溝通，"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1355
+              },
+              "version": 1
+            },
+            "endOffset": 71,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "without communicating"
+          },
+          "text": "without communicating",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781241235,
+          "id": "hk-1772781241235-60971",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781241235,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1474
+              },
+              "quote": {
+                "exact": "hub-and-spoke",
+                "prefix": "y at the end.獨立：多個代理人並行執行子任務，不進行溝通，僅在最後彙整結果。Centralized: A \"",
+                "suffix": "\" model where a central orchestrator delegates tasks to work"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1461
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[3]/text()[2]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[3]/text()[2]",
+            "text": "hub-and-spoke"
+          },
+          "text": "hub-and-spoke",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781262293,
+          "id": "hk-1772781262292-78807",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781262291,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1663
+              },
+              "quote": {
+                "exact": "peer-to-peer mesh where agents communicate",
+                "prefix": "utputs.集中式：一種「樞紐輻射式」模式，中央協調者將任務委派給員工並綜合其產出。Decentralized: A ",
+                "suffix": " directly with one another to share information and reach co"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1621
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "text": "peer-to-peer mesh where agents communicate"
+          },
+          "text": "peer-to-peer mesh where agents communicate",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781265979,
+          "id": "hk-1772781265978-42634",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781265978,
+              "end": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1770
+              },
+              "quote": {
+                "exact": "Hybrid",
+                "prefix": "mation and reach consensus.去中心化：點對點網狀網路，代理人直接彼此溝通以分享資訊並達成共識。",
+                "suffix": ": A combination of hierarchical oversight and peer-to-peer c"
+              },
+              "start": {
+                "css": "div.glue-grid.blog-detail-page__grid > div.glue-grid__col.glue-grid__col--span-4-sm > div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(2) > div.glue-page > div.rich-text.--theme-light",
+                "textOffset": 1764
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[5]/i[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/ul[1]/li[5]/i[1]/text()[1]",
+            "text": "Hybrid"
+          },
+          "text": "Hybrid",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772781508522,
+          "id": "hk-1772781508522-40393",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772781508521,
+              "end": {
+                "css": "div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(3) > div.glue-page > div.dynamic_media.glue-grid__col > div.glue-grid.--remove-gap > div.glue-grid__col.glue-grid__col--span-4-sm:nth-of-type(2)",
+                "textOffset": 70
+              },
+              "quote": {
+                "exact": "Summary of the five canonical agent architectures evaluated",
+                "prefix": "\n  \n\n\n          \n        \n      \n\n      \n        \n          ",
+                "suffix": " in this study, including their computational complexity, co"
+              },
+              "start": {
+                "css": "div.blog-detail-wrapper.js-gt-blog-detail-wrapper:nth-of-type(2) > section.component-as-block.--no-padding-top:nth-of-type(3) > div.glue-page > div.dynamic_media.glue-grid__col > div.glue-grid.--remove-gap > div.glue-grid__col.glue-grid__col--span-4-sm:nth-of-type(2)",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[3]/div[1]/div[1]/div[1]/div[2]/p[1]/i[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[3]/div[1]/div[1]/div[1]/div[2]/p[1]/i[1]/text()[1]",
+            "text": "Summary of the five canonical agent architectures evaluated"
+          },
+          "text": "Summary of the five canonical agent architectures evaluated",
+          "url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "title": "Labor market impacts of AI: A new measure and early evidence \\ Anthropic",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772779206254,
+          "id": "hk-1772779206253-7236",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772779206253,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div.ArticleDetail-module-scss-module__YVTUHa__grid > div.Body-module-scss-module__z40yvW__body.ArticleDetail-module-scss-module__YVTUHa__body-container:nth-of-type(2) > ul.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 69
+              },
+              "quote": {
+                "exact": "observed exposure",
+                "prefix": "ings主要發現We introduce a new measure of AI displacement risk, ",
+                "suffix": ", that combines theoretical LLM capability and real-world us"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div.ArticleDetail-module-scss-module__YVTUHa__grid > div.Body-module-scss-module__z40yvW__body.ArticleDetail-module-scss-module__YVTUHa__body-container:nth-of-type(2) > ul.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 52
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[2]/ul[1]/li[1]/em[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[2]/ul[1]/li[1]/em[1]/text()[1]",
+            "text": "observed exposure"
+          },
+          "text": "observed exposure",
+          "url": "https://www.anthropic.com/research/labor-market-impacts"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772779454807,
+          "id": "hk-1772779454806-43200",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772779454805,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div.ArticleDetail-module-scss-module__YVTUHa__grid > div.Body-module-scss-module__z40yvW__body.ArticleDetail-module-scss-module__YVTUHa__body-container:nth-of-type(2) > p.Body-module-scss-module__z40yvW__reading-column.body-2:nth-of-type(2)",
+                "textOffset": 113
+              },
+              "quote": {
+                "exact": "measuring and forecasting its impacts on labor markets",
+                "prefix": "介The rapid diffusion of AI is generating a wave of research ",
+                "suffix": ". But the track record of past approaches gives reason for h"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div.ArticleDetail-module-scss-module__YVTUHa__grid > div.Body-module-scss-module__z40yvW__body.ArticleDetail-module-scss-module__YVTUHa__body-container:nth-of-type(2) > p.Body-module-scss-module__z40yvW__reading-column.body-2:nth-of-type(2)",
+                "textOffset": 59
+              },
+              "version": 1
+            },
+            "endOffset": 113,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[2]/p[2]/text()[1]",
+            "startOffset": 59,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[2]/p[2]/text()[1]",
+            "text": "measuring and forecasting its impacts on labor markets"
+          },
+          "text": "measuring and forecasting its impacts on labor markets",
+          "url": "https://www.anthropic.com/research/labor-market-impacts"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1772779512305,
+          "id": "hk-1772779512304-64834",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772779512303,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div.ArticleDetail-module-scss-module__YVTUHa__grid > div.Body-module-scss-module__z40yvW__body.ArticleDetail-module-scss-module__YVTUHa__body-container:nth-of-type(2) > ol.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 99
+              },
+              "quote": {
+                "exact": "The O*NET database, which enumerates tasks associated with around 800 unique occupations in the US.",
+                "prefix": "r approach combines data from three sources.我們的方法結合了三個來源的數據。",
+                "suffix": "O*NET 資料庫，列出美國約 800 個獨特職業相關的任務。Our own usage data (as measur"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div.ArticleDetail-module-scss-module__YVTUHa__grid > div.Body-module-scss-module__z40yvW__body.ArticleDetail-module-scss-module__YVTUHa__body-container:nth-of-type(2) > ol.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[2]/ol[1]/li[1]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[2]/ol[1]/li[1]/text()[1]",
+            "text": "The O*NET database, which enumerates tasks associated with around 800 unique occupations in the US."
+          },
+          "text": "The O*NET database, which enumerates tasks associated with around 800 unique occupations in the US.",
+          "url": "https://www.anthropic.com/research/labor-market-impacts"
+        }
+      ]
+    },
     {
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability/?utm_source=chatgpt.com",
       "title": "Reasoning models struggle to control their chains of thought, and that’s good | OpenAI",
