@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1772782845792,
+  "exportedAt": 1773564535230,
   "pages": [
     {
       "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/",
@@ -4362,6 +4362,178 @@
           },
           "text": "No Vectors Needed",
           "url": "https://docs.pageindex.ai/cookbook/vectorless-rag-pageindex"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "title": "Nano Banana 2: Google’s latest AI image generation model",
+      "entries": [
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465442139,
+          "id": "hk-1772465442137-48346",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465442136,
+              "end": {
+                "css": "section.uni-container.article-container:nth-of-type(2) > div.uni-wrapper.article-container__wrapper > div.uni-content.uni-blog-article-container > div.module--text.module--text__article:nth-of-type(3) > div.uni-paragraph.article-paragraph > div.rich-text",
+                "textOffset": 799
+              },
+              "quote": {
+                "exact": "Precision text rendering and translation",
+                "prefix": "尋的即時資訊與圖片驅動，以更準確地呈現特定主題。這種深入的理解也幫助你製作資訊圖表、將筆記轉為圖表，以及產生資料視覺化。",
+                "suffix": ": Nano Banana 2 allows you to generate accurate, legible tex"
+              },
+              "start": {
+                "css": "section.uni-container.article-container:nth-of-type(2) > div.uni-wrapper.article-container__wrapper > div.uni-content.uni-blog-article-container > div.module--text.module--text__article:nth-of-type(3) > div.uni-paragraph.article-paragraph > div.rich-text",
+                "textOffset": 759
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[2]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[2]/b[1]/text()[1]",
+            "text": "Precision text rendering and translation"
+          },
+          "text": "Precision text rendering and translation",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/174088",
+      "title": "Google公布Nano Banana 2 價格減半、可生成高品質圖像、翻譯文字 | iThome",
+      "entries": [
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465343970,
+          "id": "hk-1772465343969-64125",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465343968,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "圖像生成模型Nano Banana 2",
+                "prefix": "  \n    \n    \n    \n    \n      \n  \n\n圖片來源: Google\nGoogle本周四公布最新",
+                "suffix": "，以近乎半價成本提供前代模型高品質圖像及文字生成能力、還能翻譯文字。\nNano Banana 2是在去年10月Nano "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "圖像生成模型Nano Banana 2"
+          },
+          "text": "圖像生成模型Nano Banana 2",
+          "url": "https://www.ithome.com.tw/news/174088"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465354717,
+          "id": "hk-1772465354716-68713",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465354716,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 223
+              },
+              "quote": {
+                "exact": "使用的是Gemini 3.1 Flash Image模型，結合新版Flash模型加入高品質圖像生成、進階編輯能力，允許企業及開發人員生成大量高品質圖片。",
+                "prefix": "Nano Banana全面上線及11月Nano Banana Pro推出後的最新圖像生成模型。Nano Banana 2",
+                "suffix": "根據Google提供的標竿測試資料，新版模型以文字生成圖片的跑分，大幅高於Nano Banana Pro（Gemini "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 147
+              },
+              "version": 1
+            },
+            "endOffset": 102,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "使用的是Gemini 3.1 Flash Image模型，結合新版Flash模型加入高品質圖像生成、進階編輯能力，允許企業及開發人員生成大量高品質圖片。"
+          },
+          "text": "使用的是Gemini 3.1 Flash Image模型，結合新版Flash模型加入高品質圖像生成、進階編輯能力，允許企業及開發人員生成大量高品質圖片。",
+          "url": "https://www.ithome.com.tw/news/174088"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465363493,
+          "id": "hk-1772465363492-75268",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465363492,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 443
+              },
+              "quote": {
+                "exact": "可讓使用者在生成高品質圖片外，還能生成精準的文字，用於商業圖片或應用程式中。",
+                "prefix": "no Banana 2繼承Gemini模型以網頁搜尋圖片生成圖像的功能，並較前代Flash圖像生成模型強化文字渲染能力，",
+                "suffix": "它還支援圖像中定位（in-image localization），讓用戶可生成或翻譯多種語言文字並加入在圖片中。\n\n此外"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 405
+              },
+              "version": 1
+            },
+            "endOffset": 110,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 72,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "可讓使用者在生成高品質圖片外，還能生成精準的文字，用於商業圖片或應用程式中。"
+          },
+          "text": "可讓使用者在生成高品質圖片外，還能生成精準的文字，用於商業圖片或應用程式中。",
+          "url": "https://www.ithome.com.tw/news/174088"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465375218,
+          "id": "hk-1772465375216-34957",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465375216,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1191
+              },
+              "quote": {
+                "exact": "每張4K圖片輸出費用相當於0.24美元",
+                "prefix": "之下，Nano Banana Pro（Gemini 3 Pro Image）圖片輸出費用為每百萬token 120美元，",
+                "suffix": "。\n\n\n \n    \n  \n  \n       \n   \n\n\n      \n  \n    \n \n\n\n      \n   "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1172
+              },
+              "version": 1
+            },
+            "endOffset": 127,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "每張4K圖片輸出費用相當於0.24美元"
+          },
+          "text": "每張4K圖片輸出費用相當於0.24美元",
+          "url": "https://www.ithome.com.tw/news/174088"
         }
       ]
     },
@@ -9587,7 +9759,7 @@
     },
     {
       "url": "https://mail.google.com/mail/u/0/#inbox",
-      "title": "收件匣 (13) - chrbezz0487@gmail.com - Gmail",
+      "title": "收件匣 (61) - chrbezz0487@gmail.com - Gmail",
       "entries": [
         {
           "color": "#ffea9e",
@@ -31073,7 +31245,7 @@
     },
     {
       "url": "https://chatgpt.com/",
-      "title": "ChatGPT",
+      "title": "AI Model Upgrades for Devs",
       "entries": [
         {
           "color": "#ffea9e",
@@ -41472,48 +41644,8 @@
       ]
     },
     {
-      "url": "http://10.166.57.21:7158/docs",
-      "title": "FastAPI - Swagger UI",
-      "entries": []
-    },
-    {
-      "url": "https://azole.medium.com/docker-container-%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80%E7%AF%87-2-c14d8f852ae4",
-      "title": "Docker Container 基礎入門篇 2. 不當邊緣人的 container | by Azole (小賴) | Medium",
-      "entries": []
-    },
-    {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
-      "entries": []
-    },
-    {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
-      "entries": []
-    },
-    {
-      "url": "https://notebooklm.google.com/notebook/7354b316-3087-450f-aa49-db3951c64a44",
-      "title": "NotebookLM",
-      "entries": []
-    },
-    {
-      "url": "https://opencode.ai/docs/",
-      "title": "Intro | OpenCode",
-      "entries": []
-    },
-    {
-      "url": "https://sdwh.dev/posts/2020/07/Python-Rich/",
-      "title": "Python Rich Library - 豐富 Terminal 視覺化效果的函式庫 - The Skeptical Software Engineer",
-      "entries": []
-    },
-    {
-      "url": "https://vocus.cc/article/675305acfd897800017e49a0",
-      "title": "CDF 累積分布函數",
-      "entries": []
-    },
-    {
-      "url": "https://www.infoai.com.tw/blog/uk-ai-fintech-regulation",
-      "title": "精選解讀｜英國 FinTech 把 AI 理財帶向「制度化」：真正的門檻不是模型，而是責任鏈 - 精選解讀 A...",
+      "url": "https://terraria.wiki.gg/zh/wiki/Guide:%E4%BA%BA%E5%B7%A5%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB?variant=zh-tw",
+      "title": "指南:人工生物群系 - 官方中文泰拉瑞亚维基百科（The Official Chinese Terraria Wiki）",
       "entries": []
     }
   ]
