@@ -1,76 +1,882 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1775525208247,
+  "exportedAt": 1775641172780,
   "pages": [
+    {
+      "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering",
+      "title": "What is inference engineering? Deepdive - by Gergely Orosz",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775553640051,
+          "id": "hk-1775553640048-63057",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629086198,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(4) > div > div.available-content > div.body.markup",
+                "textOffset": 3336
+              },
+              "quote": {
+                "exact": "time to first token",
+                "prefix": "erformance computing, including LLM-related use cases.TTFT: ",
+                "suffix": ". Think of this as the “time to process the prompt.” This me"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(4) > div > div.available-content > div.body.markup",
+                "textOffset": 3317
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "time to first token"
+          },
+          "text": "time to first token",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775553647350,
+          "id": "hk-1775553647345-15328",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629086232,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(4) > div > div.available-content > div.body.markup",
+                "textOffset": 3526
+              },
+              "quote": {
+                "exact": "“typing speed.”",
+                "prefix": "and GenAI systems.TPS: tokens per second. Akin to a model’s ",
+                "suffix": "ITL: intertoken latency. The time between generating one tok"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(4) > div > div.available-content > div.body.markup",
+                "textOffset": 3511
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[4]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/span[1]/text()[1]",
+            "text": "“typing speed.”"
+          },
+          "text": "“typing speed.”",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629372317,
+          "id": "hk-1775629372313-16705",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629372312,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15223
+              },
+              "quote": {
+                "exact": "FlashAttention ",
+                "prefix": "LLM. Low-level optimization is important, with kernels like ",
+                "suffix": "delivering significant performance gains.執行層負責確保在 GPU 上（或單一實"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15208
+              },
+              "version": 1
+            },
+            "endOffset": 384,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[33]/text()[1]",
+            "startOffset": 369,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[33]/text()[1]",
+            "text": "FlashAttention "
+          },
+          "text": "FlashAttention ",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629390192,
+          "id": "hk-1775629390187-70921",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629390186,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15016
+              },
+              "quote": {
+                "exact": " runs as performantly and efficiently as possible",
+                "prefix": "nning on a GPU (or across several GPUs in a single instance)",
+                "suffix": ". This layer depends on a sophisticated software stack, from"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 14967
+              },
+              "version": 1
+            },
+            "endOffset": 177,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[33]/text()[1]",
+            "startOffset": 128,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[33]/text()[1]",
+            "text": " runs as performantly and efficiently as possible"
+          },
+          "text": " runs as performantly and efficiently as possible",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629398140,
+          "id": "hk-1775629398137-59713",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629398136,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15604
+              },
+              "quote": {
+                "exact": "Batching",
+                "prefix": "n generative AI models:執行層依賴多項模型效能技術，應用新研究來解決生成式 AI 模型推論的挑戰：",
+                "suffix": ": Run incoming requests in parallel, weaving them together o"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15596
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "Batching"
+          },
+          "text": "Batching",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629408549,
+          "id": "hk-1775629408546-73461",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629408545,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15639
+              },
+              "quote": {
+                "exact": "Run incoming requests in parallel",
+                "prefix": "ve AI models:執行層依賴多項模型效能技術，應用新研究來解決生成式 AI 模型推論的挑戰：Batching: ",
+                "suffix": ", weaving them together on a token-by-token basis to increas"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15606
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "Run incoming requests in parallel"
+          },
+          "text": "Run incoming requests in parallel",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629410598,
+          "id": "hk-1775629410595-85770",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629410593,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15754
+              },
+              "quote": {
+                "exact": "Caching",
+                "prefix": "s to increase throughput.批次處理：平行執行進來的請求，並以代幣一組一組的方式編織以提升吞吐量。",
+                "suffix": ": Reuse the KV cache – the cached results of the attention a"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15747
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/strong[1]/text()[1]",
+            "text": "Caching"
+          },
+          "text": "Caching",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629418605,
+          "id": "hk-1775629418602-47769",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629418602,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15774
+              },
+              "quote": {
+                "exact": "Reuse the KV cache",
+                "prefix": "ease throughput.批次處理：平行執行進來的請求，並以代幣一組一組的方式編織以提升吞吐量。Caching: ",
+                "suffix": " – the cached results of the attention algorithm – between r"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15756
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "Reuse the KV cache"
+          },
+          "text": "Reuse the KV cache",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629420505,
+          "id": "hk-1775629420503-96727",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629420502,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15908
+              },
+              "quote": {
+                "exact": "Quantization",
+                "prefix": "uests that share prefixes.快取：在共享前綴的請求間重用 KV 快取——注意力演算法的快取結果。",
+                "suffix": ": Lower the precision of select pieces of the model to acces"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15896
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[3]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[3]/p[1]/strong[1]/text()[1]",
+            "text": "Quantization"
+          },
+          "text": "Quantization",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629435922,
+          "id": "hk-1775629435919-64400",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629435918,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15959
+              },
+              "quote": {
+                "exact": " Lower the precision of select pieces of the model",
+                "prefix": "are prefixes.快取：在共享前綴的請求間重用 KV 快取——注意力演算法的快取結果。Quantization:",
+                "suffix": " to access more compute and reduce memory burden.量化：降低模型中特定部"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 15909
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[3]/p[1]/span[1]/text()[1]",
+            "text": " Lower the precision of select pieces of the model"
+          },
+          "text": " Lower the precision of select pieces of the model",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629438055,
+          "id": "hk-1775629438052-12238",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629438051,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16054
+              },
+              "quote": {
+                "exact": "Speculation",
+                "prefix": "and reduce memory burden.量化：降低模型中特定部分的精確度，以取得更多運算資源並減輕記憶體負擔。",
+                "suffix": ": Generate and validate draft tokens to produce more than on"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16043
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[4]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[4]/p[1]/strong[1]/text()[1]",
+            "text": "Speculation"
+          },
+          "text": "Speculation",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629447557,
+          "id": "hk-1775629447554-33764",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629447553,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16152
+              },
+              "quote": {
+                "exact": "produce more than one token per forward pass during decode",
+                "prefix": "並減輕記憶體負擔。Speculation: Generate and validate draft tokens to ",
+                "suffix": ".推測：在解碼過程中產生並驗證草稿代幣，讓每次轉發產生多個代幣。Parallelism: Efficiently lev"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16094
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[4]/p[1]/span[1]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[4]/p[1]/span[1]/text()[1]",
+            "text": "produce more than one token per forward pass during decode"
+          },
+          "text": "produce more than one token per forward pass during decode",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629450712,
+          "id": "hk-1775629450708-36701",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629450707,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16195
+              },
+              "quote": {
+                "exact": "Parallelism",
+                "prefix": "r forward pass during decode.推測：在解碼過程中產生並驗證草稿代幣，讓每次轉發產生多個代幣。",
+                "suffix": ": Efficiently leverage more than one GPU to accelerate large"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16184
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[5]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[5]/p[1]/strong[1]/text()[1]",
+            "text": "Parallelism"
+          },
+          "text": "Parallelism",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629463824,
+          "id": "hk-1775629463822-85886",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629463821,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16235
+              },
+              "quote": {
+                "exact": "Efficiently leverage more than one GPU",
+                "prefix": "s during decode.推測：在解碼過程中產生並驗證草稿代幣，讓每次轉發產生多個代幣。Parallelism: ",
+                "suffix": " to accelerate large models without introducing new bottlene"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 16197
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[5]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[5]/p[1]/span[1]/text()[1]",
+            "text": "Efficiently leverage more than one GPU"
+          },
+          "text": "Efficiently leverage more than one GPU",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629735915,
+          "id": "hk-1775629735911-13917",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629735909,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 22520
+              },
+              "quote": {
+                "exact": "GPU",
+                "prefix": "運算。The most common type of accelerator for inference is the ",
+                "suffix": ", and the market leader in GPUs for inference is NVIDIA. My "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 22517
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[50]/text()[3]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[50]/text()[3]",
+            "text": "GPU"
+          },
+          "text": "GPU",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629739501,
+          "id": "hk-1775629739497-10206",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629739496,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 22575
+              },
+              "quote": {
+                "exact": "NVIDIA",
+                "prefix": " is the GPU, and the market leader in GPUs for inference is ",
+                "suffix": ". My book focuses on inference engineering for NVIDIA GPUs i"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 22569
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[50]/text()[4]",
+            "startOffset": 49,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[50]/text()[4]",
+            "text": "NVIDIA"
+          },
+          "text": "NVIDIA",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629798857,
+          "id": "hk-1775629798855-33109",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629798853,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 23045
+              },
+              "quote": {
+                "exact": "Workstation ",
+                "prefix": "le: NVIDIA B200.資料中心 GPU：機架式伺服器，配備互連的高效能 GPU。範例：NVIDIA B200。",
+                "suffix": "GPUs: Individual desktop GPUs for professional workflows. Ex"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 23033
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[8]/li[2]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[8]/li[2]/p[1]/strong[1]/text()[1]",
+            "text": "Workstation "
+          },
+          "text": "Workstation ",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629799988,
+          "id": "hk-1775629799986-40068",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629799985,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 22904
+              },
+              "quote": {
+                "exact": "Datacenter ",
+                "prefix": ", there are three types of GPUs on the market:市面上有三種類型的 GPU：",
+                "suffix": "GPUs: Racked servers with interconnected high-performance GP"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 22893
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[8]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[8]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "Datacenter "
+          },
+          "text": "Datacenter ",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775629802462,
+          "id": "hk-1775629802458-44465",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775629802457,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 23204
+              },
+              "quote": {
+                "exact": "Personal computing",
+                "prefix": " 6000.工作站 GPU：專為專業工作流程設計的個別桌上型 GPU。舉例來說：NVIDIA RTX Pro 6000。",
+                "suffix": " GPUs: Individual desktop GPUs for everyday use. Example: NV"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 23186
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[8]/li[3]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[8]/li[3]/p[1]/strong[1]/text()[1]",
+            "text": "Personal computing"
+          },
+          "text": "Personal computing",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775632320459,
+          "id": "hk-1775632320449-10993",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775632320447,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 37506
+              },
+              "quote": {
+                "exact": "Usually, this is BF16 or FP16",
+                "prefix": "r components represented in a certain native number format. ",
+                "suffix": ", although 8-bit and 4-bit native precisions are becoming mo"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 37477
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[85]/a[2]/text()[1]",
+            "startOffset": 114,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[85]/span[1]/text()[1]",
+            "text": "Usually, this is BF16 or FP16"
+          },
+          "text": "Usually, this is BF16 or FP16",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775632403115,
+          "id": "hk-1775632403113-3197",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775632403111,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 41717
+              },
+              "quote": {
+                "exact": "FP4, MXFP4, and NVFP4",
+                "prefix": "formats, there are multiple options at each precision, like ",
+                "suffix": ". These formats differ in granularity, or in the number of v"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 41696
+              },
+              "version": 1
+            },
+            "endOffset": 103,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[96]/text()[1]",
+            "startOffset": 82,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[96]/text()[1]",
+            "text": "FP4, MXFP4, and NVFP4"
+          },
+          "text": "FP4, MXFP4, and NVFP4",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775632408751,
+          "id": "hk-1775632408749-96941",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775632408747,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 41951
+              },
+              "quote": {
+                "exact": "Tensor level",
+                "prefix": "所不同。Quantization can be applied at three levels:量子化可應用於三個層級：",
+                "suffix": ": Calculate a single scale factor for the entire QKV tensor."
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 41939
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[20]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[20]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "Tensor level"
+          },
+          "text": "Tensor level",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775632412239,
+          "id": "hk-1775632412236-93288",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775632412234,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 42004
+              },
+              "quote": {
+                "exact": "QKV ",
+                "prefix": "ensor level: Calculate a single scale factor for the entire ",
+                "suffix": "tensor.張量層級：計算整個 QKV 張量的單一尺度因子。Channel level: Calculate a di"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 42000
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[20]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[20]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "QKV "
+          },
+          "text": "QKV ",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775633043633,
+          "id": "hk-1775633043628-89323",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775633043619,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 50872
+              },
+              "quote": {
+                "exact": "tokenizers",
+                "prefix": "er the following two prompts, each with four tokens on most ",
+                "suffix": ":請考慮以下兩個提示，大多數分卡器中每個有四個標記：A pair of four-token sequences wit"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 50862
+              },
+              "version": 1
+            },
+            "endOffset": 76,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[120]/text()[1]",
+            "startOffset": 66,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[120]/text()[1]",
+            "text": "tokenizers"
+          },
+          "text": "tokenizers",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775633073665,
+          "id": "hk-1775633073660-2243",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775633073658,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 52112
+              },
+              "quote": {
+                "exact": "Complex system prompts",
+                "prefix": "certain domains:儲存兩個代幣對 TTFT 影響不大，但前綴快取可以跳過數千個代幣的預填充，在某些領域中：",
+                "suffix": ": Agents, customer-facing chatbots, RAG scaffolds, and tool "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 52090
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[21]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[21]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "Complex system prompts"
+          },
+          "text": "Complex system prompts",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775633081317,
+          "id": "hk-1775633081311-13166",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775633081307,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 52308
+              },
+              "quote": {
+                "exact": "Code completion",
+                "prefix": "l.複雜的系統提示：客服人員、面向客戶的聊天機器人、RAG 架構及工具呼叫，常常在每次通話中都包含冗長且複雜的系統提示。",
+                "suffix": ": Code completion, code generation, and other coding functio"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 52293
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[21]/li[2]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[21]/li[2]/p[1]/strong[1]/text()[1]",
+            "text": "Code completion"
+          },
+          "text": "Code completion",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775633141556,
+          "id": "hk-1775633141549-24006",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775633141543,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 53962
+              },
+              "quote": {
+                "exact": "Tensor Parallelism (TP)",
+                "prefix": "要善用前綴快取，請確保新穎的標記盡可能在提示中較晚出現。Approach #4: Parallelism方法#4：平行性",
+                "suffix": " should be your default strategy for multi-GPU model inferen"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 53939
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[128]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[128]/text()[1]",
+            "text": "Tensor Parallelism (TP)"
+          },
+          "text": "Tensor Parallelism (TP)",
+          "url": "https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering"
+        }
+      ]
+    },
     {
       "url": "https://www.trychroma.com/research/context-1",
       "title": "Chroma Context-1: Training a Self-Editing Search Agent·|·Chroma",
       "entries": [
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774839579351,
-          "id": "hk-1774839579349-44506",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1774928615134,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 855
-              },
-              "quote": {
-                "exact": "h informs the next, a process known as a multi-hop retrieval.",
-                "prefix": "in of intermediate searches in which the output of one searc",
-                "suffix": "To solve this, leveraging LLMs for multi-turn agentic search"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 794
-              },
-              "version": 1
-            },
-            "endOffset": 238,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[2]/text()[1]",
-            "startOffset": 177,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[2]/text()[1]",
-            "text": "h informs the next, a process known as a multi-hop retrieval."
-          },
-          "text": "h informs the next, a process known as a multi-hop retrieval.",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774839636092,
-          "id": "hk-1774839636090-28126",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1774839636090,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2053
-              },
-              "quote": {
-                "exact": " driving the cost and latency of agentic search is the growth of the context window.",
-                "prefix": "當。執行前沿規模模型進行多回合搜尋會產生高成本與延遲，因此促使將此任務卸給較小且專門訓練的模型。A key factor",
-                "suffix": " As the agent gathers information over multiple turns, its c"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 1969
-              },
-              "version": 1
-            },
-            "endOffset": 96,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[4]/text()[1]",
-            "startOffset": 12,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[4]/text()[1]",
-            "text": " driving the cost and latency of agentic search is the growth of the context window."
-          },
-          "text": " driving the cost and latency of agentic search is the growth of the context window.",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
         {
           "color": "#ffea9e",
           "createdAt": 1774839840828,
@@ -101,38 +907,6 @@
             "text": " requires large volumes of high-quality task data"
           },
           "text": " requires large volumes of high-quality task data",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774843078734,
-          "id": "hk-1774843078731-86207",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1775120137055,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 6036
-              },
-              "quote": {
-                "exact": " cost implications of running frontier models as subagents remain a",
-                "prefix": "subagents is a promising architectural direction, though the",
-                "suffix": " practical barrier.A key practical challenge for any multi-t"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 5969
-              },
-              "version": 1
-            },
-            "endOffset": 468,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[9]/text()[2]",
-            "startOffset": 401,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[9]/text()[2]",
-            "text": " cost implications of running frontier models as subagents remain a"
-          },
-          "text": " cost implications of running frontier models as subagents remain a",
           "url": "https://www.trychroma.com/research/context-1"
         },
         {
@@ -361,70 +1135,6 @@
         },
         {
           "color": "#ffea9e",
-          "createdAt": 1774928955652,
-          "id": "hk-1774928955651-82317",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1775525144594,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 927
-              },
-              "quote": {
-                "exact": " LLMs for multi-turn agentic search has become ",
-                "prefix": "ess known as a multi-hop retrieval.To solve this, leveraging",
-                "suffix": "a viable approach to answering multi-hop retrieval queries. "
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 880
-              },
-              "version": 1
-            },
-            "endOffset": 12,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[3]/text()[2]",
-            "startOffset": 25,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[3]/text()[1]",
-            "text": " LLMs for multi-turn agentic search has become "
-          },
-          "text": " LLMs for multi-turn agentic search has become ",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#febebe",
-          "createdAt": 1774938101965,
-          "id": "hk-1774938101962-69846",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1775120137156,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 1020
-              },
-              "quote": {
-                "exact": "ssuing a single quer",
-                "prefix": "oach to answering multi-hop retrieval queries. Rather than i",
-                "suffix": "y, an LLM agent iteratively decomposes a high-level question"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 1000
-              },
-              "version": 1
-            },
-            "endOffset": 105,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[3]/text()[2]",
-            "startOffset": 85,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[3]/text()[2]",
-            "text": "ssuing a single quer"
-          },
-          "text": "ssuing a single quer",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
           "createdAt": 1774938163292,
           "id": "hk-1774938163290-63765",
           "note": "",
@@ -453,134 +1163,6 @@
             "text": " for multi-turn search incurs high cost and latency, which motivates offloading this task to a smaller, purpose-trained model.A key factor driving the cost and latency of agentic search is the growth of"
           },
           "text": " for multi-turn search incurs high cost and latency, which motivates offloading this task to a smaller, purpose-trained model.A key factor driving the cost and latency of agentic search is the growth of",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774938212747,
-          "id": "hk-1774938212744-5740",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1774938212744,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2166
-              },
-              "quote": {
-                "exact": "its context window fills rapidly with retrieved documents",
-                "prefix": "ndow. As the agent gathers information over multiple turns, ",
-                "suffix": ", many of which may be tangential or redundant. This bloated"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2109
-              },
-              "version": 1
-            },
-            "endOffset": 208,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[4]/text()[1]",
-            "startOffset": 151,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[4]/text()[1]",
-            "text": "its context window fills rapidly with retrieved documents"
-          },
-          "text": "its context window fills rapidly with retrieved documents",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774938230661,
-          "id": "hk-1774938230659-75138",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1774938230658,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2316
-              },
-              "quote": {
-                "exact": "increases computational cost but can also degrade downstream performance",
-                "prefix": "y be tangential or redundant. This bloated context not only ",
-                "suffix": " due to increasing the presence of distracting information. "
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2244
-              },
-              "version": 1
-            },
-            "endOffset": 150,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[4]/text()[2]",
-            "startOffset": 78,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[4]/text()[2]",
-            "text": "increases computational cost but can also degrade downstream performance"
-          },
-          "text": "increases computational cost but can also degrade downstream performance",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774938243962,
-          "id": "hk-1774938243958-87062",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1775120137254,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2938
-              },
-              "quote": {
-                "exact": "selectively discards irrelevant results to free capacity",
-                "prefix": "oss multiple turns. As the agent's context window fills, it ",
-                "suffix": " and reduce noise for further exploration.In this work we pr"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 2882
-              },
-              "version": 1
-            },
-            "endOffset": 708,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[5]/text()[1]",
-            "startOffset": 652,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[5]/text()[1]",
-            "text": "selectively discards irrelevant results to free capacity"
-          },
-          "text": "selectively discards irrelevant results to free capacity",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774940411344,
-          "id": "hk-1774940411342-61279",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1774940411342,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 4575
-              },
-              "quote": {
-                "exact": " first optimizes for recall before shifting toward precision",
-                "prefix": "ent the following:我們呈現以下內容：A staged training curriculum that",
-                "suffix": ", training the agent to progressively narrow from broad retr"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 4515
-              },
-              "version": 1
-            },
-            "endOffset": 93,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/ul[1]/li[1]/text()[2]",
-            "startOffset": 33,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/ul[1]/li[1]/text()[2]",
-            "text": " first optimizes for recall before shifting toward precision"
-          },
-          "text": " first optimizes for recall before shifting toward precision",
           "url": "https://www.trychroma.com/research/context-1"
         },
         {
@@ -806,6 +1388,254 @@
           },
           "text": "relied on single-stage retrieval pipelines composed of vector search, lexical search, or regular expression matching",
           "url": "https://www.trychroma.com/research/context-1"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775628093329,
+          "id": "hk-1775628093326-13585",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775628093323,
+              "end": {
+                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
+                "textOffset": 30614
+              },
+              "quote": {
+                "exact": "observe, infer, and act.",
+                "prefix": "as a provider-agnostic state machine with three operations: ",
+                "suffix": " The agent maintains a trajectory, an ordered sequence of ob"
+              },
+              "start": {
+                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
+                "textOffset": 30590
+              },
+              "version": 1
+            },
+            "endOffset": 117,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[39]/text()[2]",
+            "startOffset": 93,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/article[1]/p[39]/text()[2]",
+            "text": "observe, infer, and act."
+          },
+          "text": "observe, infer, and act.",
+          "url": "https://www.trychroma.com/research/context-1"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bnext.com.tw/article/90496/claude-code-kairos-claw-code",
+      "title": "Anthropic最慘洩密事件！逾50萬行Claude Code原始碼流出，44個隱藏功能曝光|數位時代 BusinessNext",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775627084033,
+          "id": "hk-1775627084026-64466",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775627084023,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 91
+              },
+              "quote": {
+                "exact": "把原本只給內部用的除錯檔，一起丟上了公開的 npm 套件",
+                "prefix": "6 年 3 月底，Anthropic 在替 Claude Code 推出 2.1.88 版時，犯了一個工程師噩夢級錯誤：",
+                "suffix": "。\n\n這個檔案叫「source map」，大小 59.8 MB。照理說，它只應該幫工程師對照「壓縮後程式」和「原始碼」，"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 63
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/strong[1]/text()[1]",
+            "text": "把原本只給內部用的除錯檔，一起丟上了公開的 npm 套件"
+          },
+          "text": "把原本只給內部用的除錯檔，一起丟上了公開的 npm 套件",
+          "url": "https://www.bnext.com.tw/article/90496/claude-code-kairos-claw-code"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cool3c.com/article/247536",
+      "title": "Netflix 開源 AI 影片模型 VOID 秒除穿幫鏡頭 物理互動自動補正 #軟體 (247536) - Cool3c",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775611142217,
+          "id": "hk-1775611142213-98616",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775611142211,
+              "end": {
+                "css": "div.row.side-sync:nth-of-type(2) > div.content-main > article.article > div.row.content:nth-of-type(4) > div.col-12 > p.ck-section:nth-of-type(4)",
+                "textOffset": 47
+              },
+              "quote": {
+                "exact": "Video Object and Interaction Deletion",
+                "prefix": "期將為全球影視產業的特效後製流程帶來顛覆性改變。什麼是VOID？不僅移除物件，更理解「物理因果關係」這款名為VOID (",
+                "suffix": "，影片物件與互動刪除)的AI模型，其最大的技術突破在於突破傳統AI影片修補 (Inpainting)的極限。過去AI工具"
+              },
+              "start": {
+                "css": "div.row.side-sync:nth-of-type(2) > div.content-main > article.article > div.row.content:nth-of-type(4) > div.col-12 > p.ck-section:nth-of-type(4)",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/article[1]/div[4]/div[1]/p[4]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/article[1]/div[4]/div[1]/p[4]/text()[1]",
+            "text": "Video Object and Interaction Deletion"
+          },
+          "text": "Video Object and Interaction Deletion",
+          "url": "https://www.cool3c.com/article/247536"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775611150442,
+          "id": "hk-1775611150440-27203",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775611150439,
+              "end": {
+                "css": "div.row.side-sync:nth-of-type(2) > div.content-main > article.article > div.row.content:nth-of-type(4) > div.col-12 > p.ck-section:nth-of-type(5)",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "通常只是用背景像素去填補空缺",
+                "prefix": "的AI模型，其最大的技術突破在於突破傳統AI影片修補 (Inpainting)的極限。過去AI工具若要抹除影片中的物件，",
+                "suffix": "；但如果該物件與環境有「物理互動」，畫面就會破綻百出。而VOID具備理解複雜動態的物理邏輯運算能力，Netflix在論文"
+              },
+              "start": {
+                "css": "div.row.side-sync:nth-of-type(2) > div.content-main > article.article > div.row.content:nth-of-type(4) > div.col-12 > p.ck-section:nth-of-type(5)",
+                "textOffset": 17
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/article[1]/div[4]/div[1]/p[5]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/article[1]/div[4]/div[1]/p[5]/text()[1]",
+            "text": "通常只是用背景像素去填補空缺"
+          },
+          "text": "通常只是用背景像素去填補空缺",
+          "url": "https://www.cool3c.com/article/247536"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775611158801,
+          "id": "hk-1775611158797-45753",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775611158796,
+              "end": {
+                "css": "div.row.side-sync:nth-of-type(2) > div.content-main > article.article > div.row.content:nth-of-type(4) > div.col-12 > p.ck-section:nth-of-type(5)",
+                "textOffset": 57
+              },
+              "quote": {
+                "exact": "「物理互動」，畫面就會破綻百出",
+                "prefix": "補 (Inpainting)的極限。過去AI工具若要抹除影片中的物件，通常只是用背景像素去填補空缺；但如果該物件與環境有",
+                "suffix": "。而VOID具備理解複雜動態的物理邏輯運算能力，Netflix在論文中舉了兩個極具代表性的應用場景：\n  \n\n\n    "
+              },
+              "start": {
+                "css": "div.row.side-sync:nth-of-type(2) > div.content-main > article.article > div.row.content:nth-of-type(4) > div.col-12 > p.ck-section:nth-of-type(5)",
+                "textOffset": 42
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/article[1]/div[4]/div[1]/p[5]/text()[2]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/div[1]/article[1]/div[4]/div[1]/p[5]/text()[2]",
+            "text": "「物理互動」，畫面就會破綻百出"
+          },
+          "text": "「物理互動」，畫面就會破綻百出",
+          "url": "https://www.cool3c.com/article/247536"
+        }
+      ]
+    },
+    {
+      "url": "https://zhuanlan.zhihu.com/p/2011531601574634894",
+      "title": "《Inference Engineering》免费电子书分享 - 知乎",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775553560067,
+          "id": "hk-1775553560064-32965",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775553560062,
+              "end": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 411
+              },
+              "quote": {
+                "exact": "由于BaseTen是英伟达投资的，书中只讲了英伟达的GPU架构",
+                "prefix": "01:11Inference Engineering先说缺点，全书一共200多页，所以对于模型推理的讲解不可能特别深入。",
+                "suffix": "（如果你想了解谷歌TPU的架构，可以看这个免费电子书）。另外，因为电子书是免费的，所以不免会植入商业广告。书中着重强调了"
+              },
+              "start": {
+                "css": "span#content > div.RichText.ztext",
+                "textOffset": 380
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/span[1]/div[1]/p[2]/text()[1]",
+            "text": "由于BaseTen是英伟达投资的，书中只讲了英伟达的GPU架构"
+          },
+          "text": "由于BaseTen是英伟达投资的，书中只讲了英伟达的GPU架构",
+          "url": "https://zhuanlan.zhihu.com/p/2011531601574634894"
+        }
+      ]
+    },
+    {
+      "url": "https://hub.baai.ac.cn/view/53716",
+      "title": "书 | 2026年 | 《推理工程（Inference Engineering）》| Philip Kiely - 智源社区",
+      "entries": [
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775553529022,
+          "id": "hk-1775553529019-89645",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775553529017,
+              "end": {
+                "css": "div#js_content",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "推理（Inference）是最具价值的范畴",
+                "prefix": "来源于mp.weixin.qq.com\n             推理：AI 产业的核心价值与工程演进在人工智能产业中，",
+                "suffix": "。相比之下，推理工程（Inference Engineering）仍处于起步阶段。推理工程师的工作贯穿了从 CUDA 到"
+              },
+              "start": {
+                "css": "div#js_content",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[2]/span[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/div[1]/p[2]/span[1]/span[1]/text()[1]",
+            "text": "推理（Inference）是最具价值的范畴"
+          },
+          "text": "推理（Inference）是最具价值的范畴",
+          "url": "https://hub.baai.ac.cn/view/53716"
         }
       ]
     },
@@ -2319,38 +3149,6 @@
         },
         {
           "color": "#ffea9e",
-          "createdAt": 1774939300760,
-          "id": "hk-1774939300753-23679",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1774942047105,
-              "end": {
-                "css": "div#history > ul.m-0.list-none:nth-of-type(2) > li.list-none > a.group.__menu-item > div.flex.min-w-0 > div.truncate",
-                "textOffset": 17
-              },
-              "quote": {
-                "exact": "Chroma Context-1 ",
-                "prefix": "ongo Buddy探索 GPT專案新增專案寫論文CLSR你的聊天IPAS AI 題目練習已釘選生成型 AI 題目已釘選",
-                "suffix": "概述LLM服務逾時錯誤Roblox 多語言模型解析EZWAY 預先委任解釋取消委任流程取消委任操作指南Java vs J"
-              },
-              "start": {
-                "css": "ul.m-0.list-none > li.list-none:nth-of-type(2) > a.group.__menu-item > div.flex.min-w-0 > div.truncate > span.sr-only:nth-of-type(2)",
-                "textOffset": 3
-              },
-              "version": 1
-            },
-            "endOffset": 17,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/div[6]/div[1]/ul[2]/li[1]/a[1]/div[1]/div[1]/span[1]/text()[1]",
-            "startOffset": 3,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/nav[1]/div[6]/div[1]/ul[1]/li[2]/a[1]/div[1]/div[1]/span[2]/text()[1]",
-            "text": "Chroma Context-1 "
-          },
-          "text": "Chroma Context-1 ",
-          "url": "https://chatgpt.com/"
-        },
-        {
-          "color": "#ffea9e",
           "createdAt": 1774939303403,
           "id": "hk-1774939303390-4195",
           "note": "",
@@ -2868,29 +3666,29 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1774940447011,
+              "createdAt": 1775610220603,
               "end": {
-                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(2) > div.flex.w-full > div.markdown.prose",
-                "textOffset": 292
+                "css": "div#prompt-textarea",
+                "textOffset": 77
               },
               "quote": {
-                "exact": "主動刪掉已判斷為不重要的段落",
-                "prefix": "t management：搜尋過程中自己清理上下文\nagent 在搜尋時，不是一直把新文件塞進 context，而是會 ",
-                "suffix": "，把 context 空間留給後續更有價值的探索。\n這解決的是：\n\n\ncontext window 被無關資訊塞滿\n\n\n"
+                "exact": "urn satellites",
+                "prefix": "d morning, tech enthusiasts. A California startup wants to t",
+                "suffix": " into giant mirrors and aim them at Earth after dark, lighti"
               },
               "start": {
-                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(2) > div.flex.w-full > div.markdown.prose",
-                "textOffset": 278
+                "css": "div#prompt-textarea",
+                "textOffset": 63
               },
               "version": 1
             },
-            "endOffset": 14,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[6]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[6]/strong[1]/text()[1]",
-            "text": "主動刪掉已判斷為不重要的段落"
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "urn satellites"
           },
-          "text": "主動刪掉已判斷為不重要的段落",
+          "text": "urn satellites",
           "url": "https://chatgpt.com/"
         },
         {
@@ -3156,29 +3954,29 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1774950538703,
+              "createdAt": 1775610220840,
               "end": {
-                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(2) > div.flex.w-full > div.markdown.prose",
-                "textOffset": 71
+                "css": "div#prompt-textarea",
+                "textOffset": 146
               },
               "quote": {
-                "exact": "context rot",
-                "prefix": "這段在講 multi-turn search agent 最大的實務難題之一：context 會越積越亂。\n\n核心問題：",
-                "suffix": "\nagent 每多找一輪，就會多帶一些文件、段落、線索進 context。\n但這些內容不一定都重要，很多可能只是：\n\n\n"
+                "exact": "ting up eve",
+                "prefix": "es into giant mirrors and aim them at Earth after dark, ligh",
+                "suffix": "rything from construction sites to public events.  Reflect O"
               },
               "start": {
-                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(2) > div.flex.w-full > div.markdown.prose",
-                "textOffset": 60
+                "css": "div#prompt-textarea",
+                "textOffset": 135
               },
               "version": 1
             },
-            "endOffset": 16,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[10]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/text()[1]",
-            "startOffset": 5,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[10]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/text()[1]",
-            "text": "context rot"
+            "endOffset": 146,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 135,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "ting up eve"
           },
-          "text": "context rot",
+          "text": "ting up eve",
           "url": "https://chatgpt.com/"
         },
         {
@@ -4971,6 +5769,70 @@
             "text": "和這種討好型 AI 互動後，受試者會更相信自己是對的、較不願意道歉或修補衝突，同時又更信任、也更偏好這種 AI"
           },
           "text": "和這種討好型 AI 互動後，受試者會更相信自己是對的、較不願意道歉或修補衝突，同時又更信任、也更偏好這種 AI",
+          "url": "https://chatgpt.com/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775527952875,
+          "id": "hk-1775527952859-20411",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775527952859,
+              "end": {
+                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(3) > div.flex.w-full > div.streaming-animation.markdown",
+                "textOffset": 75
+              },
+              "quote": {
+                "exact": "真正端到端 1-bit",
+                "prefix": "點\n這篇是 PrismML 在 2026/03/31 發的發表文，主軸是宣布 1-bit Bonsai 8B：一個號稱「",
+                "suffix": "」的 LLM。它把 embedding、attention、MLP、LM head 都做成 1-bit，沒有中途回到高精"
+              },
+              "start": {
+                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(3) > div.flex.w-full > div.streaming-animation.markdown",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "真正端到端 1-bit"
+          },
+          "text": "真正端到端 1-bit",
+          "url": "https://chatgpt.com/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1775527960160,
+          "id": "hk-1775527960143-73664",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775527960143,
+              "end": {
+                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(3) > div.flex.w-full > div.streaming-animation.markdown",
+                "textOffset": 165
+              },
+              "quote": {
+                "exact": "模型是 8.2B 參數，但記憶體占用只有 1.15 GB",
+                "prefix": " LLM。它把 embedding、attention、MLP、LM head 都做成 1-bit，沒有中途回到高精度；",
+                "suffix": "，定位很明確，就是要把原本只適合跑在雲端的大模型，壓到可以在手機、筆電、邊緣裝置上本地運行。prismml.com\n它想"
+              },
+              "start": {
+                "css": "div.text-base.my-auto > div.\\[--thread-content-max-width\\:40rem\\].\\@w-lg\\/main\\:\\[--thread-content-max-width\\:48rem\\] > div.flex.max-w-full > div.min-h-8.text-message:nth-of-type(3) > div.flex.w-full > div.streaming-animation.markdown",
+                "textOffset": 137
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/strong[4]/text()[1]",
+            "startOffset": 62,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/section[2]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[4]",
+            "text": "模型是 8.2B 參數，但記憶體占用只有 1.15 GB"
+          },
+          "text": "模型是 8.2B 參數，但記憶體占用只有 1.15 GB",
           "url": "https://chatgpt.com/"
         }
       ]
@@ -22955,7 +23817,7 @@
     },
     {
       "url": "https://mail.google.com/mail/u/0/#inbox",
-      "title": "收件匣 (1) - chrbezz0487@gmail.com - Gmail",
+      "title": "收件匣 (5) - chrbezz0487@gmail.com - Gmail",
       "entries": [
         {
           "color": "#ffea9e",
