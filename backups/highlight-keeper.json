@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1776327301152,
+  "exportedAt": 1776328310907,
   "pages": [
     {
       "url": "https://datasciocean.com/paper-intro/memgpt/",
@@ -37,6 +37,134 @@
             "text": " 2023 年 10 月被發布到 arXiv 上，截至 2025 年 5 月 14 日已經累積了 154 次 Citation，目前被收錄在 CoRR 2023"
           },
           "text": " 2023 年 10 月被發布到 arXiv 上，截至 2025 年 5 月 14 日已經累積了 154 次 Citation，目前被收錄在 CoRR 2023",
+          "url": "https://datasciocean.com/paper-intro/memgpt/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1776327355607,
+          "id": "hk-1776327355606-49152",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776327355606,
+              "end": {
+                "css": "div#content",
+                "textOffset": 693
+              },
+              "quote": {
+                "exact": "基於我們的 Prompt",
+                "prefix": "而不會提及實驗結果等細節，有興趣的讀者再請自行閱讀原論文！2 MemGPT 想解決的問題LLM 的輸入與輸出如上圖所示，",
+                "suffix": "，LLM 會以 Auto-Regressive 的方式進行「文字接龍」產生 Completion。如果這一個 LLM 是"
+              },
+              "start": {
+                "css": "div#content",
+                "textOffset": 681
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/p[5]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/p[5]/text()[1]",
+            "text": "基於我們的 Prompt"
+          },
+          "text": "基於我們的 Prompt",
+          "url": "https://datasciocean.com/paper-intro/memgpt/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1776327359714,
+          "id": "hk-1776327359713-12498",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776327359712,
+              "end": {
+                "css": "div#content",
+                "textOffset": 741
+              },
+              "quote": {
+                "exact": "以 Auto-Regressive 的方式進行「文字接龍」產生 Completion",
+                "prefix": "者再請自行閱讀原論文！2 MemGPT 想解決的問題LLM 的輸入與輸出如上圖所示，基於我們的 Prompt，LLM 會",
+                "suffix": "。如果這一個 LLM 是一個你所開發的 Chatbot，專門解決你的客戶的疑難雜症，那麼你可能會在 Prompt 中提供"
+              },
+              "start": {
+                "css": "div#content",
+                "textOffset": 699
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/p[5]/text()[2]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/p[5]/text()[2]",
+            "text": "以 Auto-Regressive 的方式進行「文字接龍」產生 Completion"
+          },
+          "text": "以 Auto-Regressive 的方式進行「文字接龍」產生 Completion",
+          "url": "https://datasciocean.com/paper-intro/memgpt/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1776327399100,
+          "id": "hk-1776327399098-73846",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776327399098,
+              "end": {
+                "css": "div#content",
+                "textOffset": 1233
+              },
+              "quote": {
+                "exact": "決定要把什麼資訊放到 Prompt 中",
+                "prefix": "，MemGPT 的核心概念，正是希望透過 LLM 打造一個作業系統（Operating System）來管理自己的狀態，",
+                "suffix": "。Prompt Compilation舉例來說，如上圖所示，對於一個 Agent 而言，它目前的狀態 (State) 可"
+              },
+              "start": {
+                "css": "div#content",
+                "textOffset": 1214
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/p[8]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/p[8]/strong[1]/text()[1]",
+            "text": "決定要把什麼資訊放到 Prompt 中"
+          },
+          "text": "決定要把什麼資訊放到 Prompt 中",
+          "url": "https://datasciocean.com/paper-intro/memgpt/"
+        },
+        {
+          "color": "#ffea9e",
+          "createdAt": 1776327422368,
+          "id": "hk-1776327422367-49960",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776327422366,
+              "end": {
+                "css": "div#content > div.details.admonition:nth-of-type(2) > div.details-content:nth-of-type(2) > div.admonition-content",
+                "textOffset": 59
+              },
+              "quote": {
+                "exact": "MemGPT 的最終目標就是：基於目前的任務，從 Agent State 中取出必要的資訊放到 Prompt 中",
+                "prefix": "ext Window 有所限制，導致我們沒辦法把整個 Agent State 都放到 Prompt 裡面。重點概念因此，",
+                "suffix": "，讓 LLM 基於 Prompt 成功產生正確的輸出。而把大量資訊從 Agent State 精鍊到 Prompt 中的"
+              },
+              "start": {
+                "css": "div#content > div.details.admonition:nth-of-type(2) > div.details-content:nth-of-type(2) > div.admonition-content",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/div[2]/div[2]/div[1]/strong[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[4]/div[2]/div[2]/div[1]/text()[1]",
+            "text": "MemGPT 的最終目標就是：基於目前的任務，從 Agent State 中取出必要的資訊放到 Prompt 中"
+          },
+          "text": "MemGPT 的最終目標就是：基於目前的任務，從 Agent State 中取出必要的資訊放到 Prompt 中",
           "url": "https://datasciocean.com/paper-intro/memgpt/"
         }
       ]
@@ -75,38 +203,6 @@
             "text": "his connection, in what city was the author of th"
           },
           "text": "his connection, in what city was the author of th",
-          "url": "https://www.trychroma.com/research/context-1"
-        },
-        {
-          "color": "#ffea9e",
-          "createdAt": 1774843152930,
-          "id": "hk-1774843152927-20110",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1776327001012,
-              "end": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 6961
-              },
-              "quote": {
-                "exact": "scarding fine-grained evidence that ",
-                "prefix": "ated context, avoid the need for external memory but risk di",
-                "suffix": "may prove relevant in later retrieval turns. Recursive Langu"
-              },
-              "start": {
-                "css": "div.mb-62.z-10 > div.markdown-content.col-2 > div.relative.mx-auto > div > div.xl\\:pr-0 > article.research-article",
-                "textOffset": 6925
-              },
-              "version": 1
-            },
-            "endOffset": 134,
-            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/p[10]/text()[5]",
-            "startOffset": 98,
-            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/p[10]/text()[5]",
-            "text": "scarding fine-grained evidence that "
-          },
-          "text": "scarding fine-grained evidence that ",
           "url": "https://www.trychroma.com/research/context-1"
         },
         {
