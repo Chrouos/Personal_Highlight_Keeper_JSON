@@ -1,8 +1,218 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1776328310907,
+  "exportedAt": 1777375172066,
   "pages": [
+    {
+      "url": "https://www.nxcode.io/zh-TW/resources/news/kimi-k2-5-pricing-plans-api-costs-2026",
+      "title": "Kimi K2.5 定價 2026：方案、API 費用和免費層級詳解 | NxCode",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1776602439141,
+          "id": "hk-1776602439139-46982",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776602439138,
+              "end": {
+                "css": "div.min-h-screen.flex > main.flex-grow > div.container.mx-auto:nth-of-type(2) > div.max-w-4xl.mx-auto > article > div.prose.prose-lg:nth-of-type(3)",
+                "textOffset": 71
+              },
+              "quote": {
+                "exact": "Kimi K2.5 由 Moonshot AI 於 2026 年 1 月 27 日發布",
+                "prefix": "想法變成可運行的應用——無需編程。用 NxCode 建構免費開始Kimi K2.5 2026 年定價：你需要知道的一切\n",
+                "suffix": "，憑藉其強勁的效能和極具競爭力的定價迅速成為最受關注的 AI 模型之一。無論你是評估 API 費用的開發者、尋找預算型 "
+              },
+              "start": {
+                "css": "div.min-h-screen.flex > main.flex-grow > div.container.mx-auto:nth-of-type(2) > div.max-w-4xl.mx-auto > article > div.prose.prose-lg:nth-of-type(3)",
+                "textOffset": 28
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/article[1]/div[3]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/article[1]/div[3]/p[1]/text()[1]",
+            "text": "Kimi K2.5 由 Moonshot AI 於 2026 年 1 月 27 日發布"
+          },
+          "text": "Kimi K2.5 由 Moonshot AI 於 2026 年 1 月 27 日發布",
+          "url": "https://www.nxcode.io/zh-TW/resources/news/kimi-k2-5-pricing-plans-api-costs-2026"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1776602542317,
+          "id": "hk-1776602542316-37994",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776602542316,
+              "end": {
+                "css": "div.min-h-screen.flex > main.flex-grow > div.container.mx-auto:nth-of-type(2) > div.max-w-4xl.mx-auto > article > div.prose.prose-lg:nth-of-type(3)",
+                "textOffset": 256
+              },
+              "quote": {
+                "exact": "具備視覺程式設計能力、256K 上下文視窗和創新的自導向代理叢集範式",
+                "prefix": "定價層級、限制和隱藏費用，幫助你做出明智的決定。\nMoonshot AI 將 Kimi K2.5 定位為原生多模態模型，",
+                "suffix": "。該模型在 Modified MIT 授權條款下開源，直接與 GPT-5.4、Claude Sonnet 4.6 和 G"
+              },
+              "start": {
+                "css": "div.min-h-screen.flex > main.flex-grow > div.container.mx-auto:nth-of-type(2) > div.max-w-4xl.mx-auto > article > div.prose.prose-lg:nth-of-type(3)",
+                "textOffset": 222
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/article[1]/div[3]/p[2]/text()[1]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/article[1]/div[3]/p[2]/text()[1]",
+            "text": "具備視覺程式設計能力、256K 上下文視窗和創新的自導向代理叢集範式"
+          },
+          "text": "具備視覺程式設計能力、256K 上下文視窗和創新的自導向代理叢集範式",
+          "url": "https://www.nxcode.io/zh-TW/resources/news/kimi-k2-5-pricing-plans-api-costs-2026"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1776602544665,
+          "id": "hk-1776602544664-23891",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776602544664,
+              "end": {
+                "css": "div.min-h-screen.flex > main.flex-grow > div.container.mx-auto:nth-of-type(2) > div.max-w-4xl.mx-auto > article > div.prose.prose-lg:nth-of-type(3)",
+                "textOffset": 282
+              },
+              "quote": {
+                "exact": "Modified MIT 授權條款下開源",
+                "prefix": "imi K2.5 定位為原生多模態模型，具備視覺程式設計能力、256K 上下文視窗和創新的自導向代理叢集範式。該模型在 ",
+                "suffix": "，直接與 GPT-5.4、Claude Sonnet 4.6 和 Gemini 3.1 Pro 競爭——但成本只是它們的"
+              },
+              "start": {
+                "css": "div.min-h-screen.flex > main.flex-grow > div.container.mx-auto:nth-of-type(2) > div.max-w-4xl.mx-auto > article > div.prose.prose-lg:nth-of-type(3)",
+                "textOffset": 262
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/article[1]/div[3]/p[2]/text()[2]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/article[1]/div[3]/p[2]/text()[2]",
+            "text": "Modified MIT 授權條款下開源"
+          },
+          "text": "Modified MIT 授權條款下開源",
+          "url": "https://www.nxcode.io/zh-TW/resources/news/kimi-k2-5-pricing-plans-api-costs-2026"
+        }
+      ]
+    },
+    {
+      "url": "https://ollama.com/library/gemma4",
+      "title": "gemma4",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1776600599619,
+          "id": "hk-1776600599618-1636",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776600599617,
+              "end": {
+                "css": "div.py-8:nth-of-type(2) > section.mb-8 > div.relative.rounded-lg > div.relative:nth-of-type(2) > div.use-panel.p-4:nth-of-type(2) > pre.m-0.whitespace-pre-wrap",
+                "textOffset": 17
+              },
+              "quote": {
+                "exact": "emma4",
+                "prefix": "            \n          \n        \n      \n\n      \nollama run g",
+                "suffix": "\n      \n\n      \n      \n\ncurl http://localhost:11434/api/chat"
+              },
+              "start": {
+                "css": "div.py-8:nth-of-type(2) > section.mb-8 > div.relative.rounded-lg > div.relative:nth-of-type(2) > div.use-panel.p-4:nth-of-type(2) > pre.m-0.whitespace-pre-wrap",
+                "textOffset": 12
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/section[1]/div[1]/div[2]/div[2]/pre[1]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/section[1]/div[1]/div[2]/div[2]/pre[1]/text()[1]",
+            "text": "emma4"
+          },
+          "text": "emma4",
+          "url": "https://ollama.com/library/gemma4"
+        }
+      ]
+    },
+    {
+      "url": "https://ailogora.com/card/5caeb8cf-bbf2-4a38-92ed-e0119acdaa5f",
+      "title": "Gemma 4 E4B 語音理解能力分析 | AILogora",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1776600140424,
+          "id": "hk-1776600140423-88338",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776600140423,
+              "end": {
+                "css": "div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror > h1.font-bold",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "Gemma 4 E4B",
+                "prefix": "實測經驗LLM/SLMGemma 4 E4B 語音理解能力分析Liang-Hsun Huang發布於: 11 天前528",
+                "suffix": " 音訊理解能力全面實測：9 項任務、327 筆測試的殘酷真相Google 最新開源的 Gemma 4 E4B（4.5B "
+              },
+              "start": {
+                "css": "div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror > h1.font-bold",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/text()[1]",
+            "text": "Gemma 4 E4B"
+          },
+          "text": "Gemma 4 E4B",
+          "url": "https://ailogora.com/card/5caeb8cf-bbf2-4a38-92ed-e0119acdaa5f"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1776600150840,
+          "id": "hk-1776600150838-42997",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1776600150838,
+              "end": {
+                "css": "main.min-w-0.space-y-6 > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 376
+              },
+              "quote": {
+                "exact": "分別為 Mozilla Common Voice TW（國語單句）、 TaigiSpeech（台語單句）和 tw-daily-dialogue-audio（國語對話）",
+                "prefix": "，ASR CER 由 Twinkle Eval 計算。零、前置作業評測集為了能有效評估模型的表現，我們準備了三項評測集，",
+                "suffix": "。Mozilla Common Voice TWMozilla Common Voice 是 Mozilla 基金會發起"
+              },
+              "start": {
+                "css": "main.min-w-0.space-y-6 > div.rounded-lg.border > div.flex.flex-col:nth-of-type(2) > div.text-base.mb-6 > div.rich-text-content > div.tiptap.ProseMirror",
+                "textOffset": 293
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "分別為 Mozilla Common Voice TW（國語單句）、 TaigiSpeech（台語單句）和 tw-daily-dialogue-audio（國語對話）"
+          },
+          "text": "分別為 Mozilla Common Voice TW（國語單句）、 TaigiSpeech（台語單句）和 tw-daily-dialogue-audio（國語對話）",
+          "url": "https://ailogora.com/card/5caeb8cf-bbf2-4a38-92ed-e0119acdaa5f"
+        }
+      ]
+    },
     {
       "url": "https://datasciocean.com/paper-intro/memgpt/",
       "title": "[論文介紹] MemGPT: Towards LLMs as Operating Systems - DataSci Ocean",
@@ -1386,6 +1596,268 @@
           },
           "text": "Compaction is the practice of taking a conversation nearing the context window limit, summarizing its contents, and reinitiating a new context window with the summary. ",
           "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+        }
+      ]
+    },
+    {
+      "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619",
+      "title": "【心得】機器人心得 機油...好難喝... @Slay the Spire 哈啦板 - 巴哈姆特",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918546082,
+          "id": "hk-1775918546079-50665",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918546078,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 452
+              },
+              "quote": {
+                "exact": "萬物一心",
+                "prefix": "、火箭飛拳，輔以化廢為寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為",
+                "suffix": "、刮削、超頻、內核加速，輔以各種零費牌如適應打擊、火箭飛拳、爪擊。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 448
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[1]",
+            "text": "萬物一心"
+          },
+          "text": "萬物一心",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918547438,
+          "id": "hk-1775918547437-44932",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918547437,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 455
+              },
+              "quote": {
+                "exact": "刮削",
+                "prefix": "，輔以化廢為寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、",
+                "suffix": "、超頻、內核加速，輔以各種零費牌如適應打擊、火箭飛拳、爪擊。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有度較低"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 453
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[2]",
+            "text": "刮削"
+          },
+          "text": "刮削",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918548782,
+          "id": "hk-1775918548781-38799",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918548781,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 458
+              },
+              "quote": {
+                "exact": "超頻",
+                "prefix": "化廢為寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、刮削、",
+                "suffix": "、內核加速，輔以各種零費牌如適應打擊、火箭飛拳、爪擊。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有度較低，成形"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 456
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[3]",
+            "text": "超頻"
+          },
+          "text": "超頻",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918550249,
+          "id": "hk-1775918550248-50298",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918550248,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 463
+              },
+              "quote": {
+                "exact": "內核加速",
+                "prefix": "寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、刮削、超頻、",
+                "suffix": "，輔以各種零費牌如適應打擊、火箭飛拳、爪擊。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有度較低，成形較穩定且與"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 459
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[4]",
+            "text": "內核加速"
+          },
+          "text": "內核加速",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918552800,
+          "id": "hk-1775918552799-20341",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918552799,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 476
+              },
+              "quote": {
+                "exact": "適應打擊",
+                "prefix": "費流的牌有不錯的兼容性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、刮削、超頻、內核加速，輔以各種零費牌如",
+                "suffix": "、火箭飛拳、爪擊。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有度較低，成形較穩定且與狀態流兼容度高。C.雷電流"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 472
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[5]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[5]",
+            "text": "適應打擊"
+          },
+          "text": "適應打擊",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918569084,
+          "id": "hk-1775918569083-85637",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918569083,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 481
+              },
+              "quote": {
+                "exact": "火箭飛拳",
+                "prefix": "不錯的兼容性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、刮削、超頻、內核加速，輔以各種零費牌如適應打擊、",
+                "suffix": "、爪擊。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有度較低，成形較穩定且與狀態流兼容度高。C.雷電流:核心牌為"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 477
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[6]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[6]",
+            "text": "火箭飛拳"
+          },
+          "text": "火箭飛拳",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775918570531,
+          "id": "hk-1775918570530-56413",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775918570530,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 484
+              },
+              "quote": {
+                "exact": "爪擊",
+                "prefix": "性，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、刮削、超頻、內核加速，輔以各種零費牌如適應打擊、火箭飛拳、",
+                "suffix": "。零費牌前期拿起來沒壓力，好過渡，除了萬物一心其他牌稀有度較低，成形較穩定且與狀態流兼容度高。C.雷電流:核心牌為雷霆、"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 482
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[7]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[16]/text()[7]",
+            "text": "爪擊"
+          },
+          "text": "爪擊",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
+        },
+        {
+          "color": "#a1b3dd",
+          "createdAt": 1775919237477,
+          "id": "hk-1775919237474-62170",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775919237473,
+              "end": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 423
+              },
+              "quote": {
+                "exact": "內核加速、超頻、高速脫離、散射炮、火箭飛拳，輔以化廢為寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性",
+                "prefix": "汙染等等機制，常常會需要硬拚傷害，而機器人前期的爆發不太穩定。2. 狀態流=零費流>雷電流>能力流:A.狀態流:核心牌為",
+                "suffix": "，過渡較容易且稀有牌需求較低。B.零費流:核心牌為萬物一心、刮削、超頻、內核加速，輔以各種零費牌如適應打擊、火箭飛拳、爪"
+              },
+              "start": {
+                "css": "article#cf1130 > div.c-article__content",
+                "textOffset": 372
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[14]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/div[2]/section[1]/div[2]/div[2]/article[1]/div[1]/div[14]/text()[1]",
+            "text": "內核加速、超頻、高速脫離、散射炮、火箭飛拳，輔以化廢為寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性"
+          },
+          "text": "內核加速、超頻、高速脫離、散射炮、火箭飛拳，輔以化廢為寶、煙囪、壓縮。狀態流與零費流的牌有不錯的兼容性",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=33661&snA=619"
         }
       ]
     },
@@ -6628,6 +7100,574 @@
       ]
     },
     {
+      "url": "https://technews.tw/2026/04/01/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models/",
+      "title": "加州理工學院突破 AI 模型壓縮技術，成功開發 1 位元高效能模型 | TechNews 科技新報",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775496187445,
+          "id": "hk-1775496187443-64665",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775496187441,
+              "end": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 204
+              },
+              "quote": {
+                "exact": "多數AI模型採用16位元精度編寫，部分使用4位元或更低",
+                "prefix": "\n\t\t\t\t\t\t\t\t\t\n團隊創立的新創公司PrismML 3月31日亮相，並開源1位元技術模型開源，供外界免費使用。\n目前",
+                "suffix": "。PrismML突破性地實現1位元模型，卻能保留完整的推理、程式編寫及知識處理。哈西比比喻為「壓縮數位照片卻不損失畫質」"
+              },
+              "start": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 177
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "text": "多數AI模型採用16位元精度編寫，部分使用4位元或更低"
+          },
+          "text": "多數AI模型採用16位元精度編寫，部分使用4位元或更低",
+          "url": "https://technews.tw/2026/04/01/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775496189157,
+          "id": "hk-1775496189156-10541",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775496189155,
+              "end": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 223
+              },
+              "quote": {
+                "exact": "實現1位元模型",
+                "prefix": "1位元技術模型開源，供外界免費使用。\n目前多數AI模型採用16位元精度編寫，部分使用4位元或更低。PrismML突破性地",
+                "suffix": "，卻能保留完整的推理、程式編寫及知識處理。哈西比比喻為「壓縮數位照片卻不損失畫質」。\n哈西比表示：「我們花費數年開發所需"
+              },
+              "start": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 216
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[4]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[4]/text()[2]",
+            "text": "實現1位元模型"
+          },
+          "text": "實現1位元模型",
+          "url": "https://technews.tw/2026/04/01/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775496195789,
+          "id": "hk-1775496195788-20832",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775496195788,
+              "end": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 462
+              },
+              "quote": {
+                "exact": "PrismML將模型權重簡化為僅以+1或-1表示的單一位元",
+                "prefix": "置終端運行，也能讓資料中心以更少資源達成更多任務，避免能源成本飆升。\nAI模型運作時，延遲和能耗主要來自記憶體資料讀寫。",
+                "suffix": "，旗艦產品「Bonsai 8B」模型可將處理速度提升最高8倍，能耗降低75%~80%。\n以實際數據看，一個2TB模型可瞬"
+              },
+              "start": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 433
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[6]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[6]/text()[1]",
+            "text": "PrismML將模型權重簡化為僅以+1或-1表示的單一位元"
+          },
+          "text": "PrismML將模型權重簡化為僅以+1或-1表示的單一位元",
+          "url": "https://technews.tw/2026/04/01/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775496198450,
+          "id": "hk-1775496198449-16516",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775496198448,
+              "end": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 505
+              },
+              "quote": {
+                "exact": "「Bonsai 8B」模型可將處理速度提升最高8倍，能耗降低75%~80%。",
+                "prefix": "\nAI模型運作時，延遲和能耗主要來自記憶體資料讀寫。PrismML將模型權重簡化為僅以+1或-1表示的單一位元，旗艦產品",
+                "suffix": "\n以實際數據看，一個2TB模型可瞬間縮減至150GB。Bonsai 8B是擁有80億參數的大型語言模型，記憶體需求僅1G"
+              },
+              "start": {
+                "css": "article#post-1534273 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2)",
+                "textOffset": 467
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[6]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[6]/text()[2]",
+            "text": "「Bonsai 8B」模型可將處理速度提升最高8倍，能耗降低75%~80%。"
+          },
+          "text": "「Bonsai 8B」模型可將處理速度提升最高8倍，能耗降低75%~80%。",
+          "url": "https://technews.tw/2026/04/01/caltech-researchers-claim-radical-compression-of-high-fidelity-ai-models/"
+        }
+      ]
+    },
+    {
+      "url": "https://news.cnyes.com/news/id/6407977",
+      "title": "阿里巴巴Qwen3.6-Plus日調用量突破1.4 兆！全球領先、程式設計能力中國第一 | 鉅亨網 - 港股",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775495932883,
+          "id": "hk-1775495932881-87895",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775495932881,
+              "end": {
+                "css": "main#article-container",
+                "textOffset": 415
+              },
+              "quote": {
+                "exact": "Qwen3.6-Plus ",
+                "prefix": "n 消耗量，OpenRouter 的排行榜被視為全球大模型的「實戰戰場」，能直接反映模型的市場受歡迎程度。\n\n分析指出，",
+                "suffix": "這一驚人的日調用量，代表中國自主研發的大模型已經具備了與國際頂尖模型正面競爭的能力，也顯示開發者正在實際選擇 Qwen3"
+              },
+              "start": {
+                "css": "main#article-container",
+                "textOffset": 402
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[9]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/main[1]/section[9]/p[1]/text()[1]",
+            "text": "Qwen3.6-Plus "
+          },
+          "text": "Qwen3.6-Plus ",
+          "url": "https://news.cnyes.com/news/id/6407977"
+        }
+      ]
+    },
+    {
+      "url": "https://ai.google.dev/gemma/docs/core/model_card_4?hl=zh-tw",
+      "title": "Gemma 4 模型資訊卡  |  Google AI for Developers",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775495427091,
+          "id": "hk-1775495427089-95924",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775495427088,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 179
+              },
+              "quote": {
+                "exact": "Gemma 4 模型為多模態模型",
+                "prefix": " | 作者：Google DeepMind\n\n\nGemma 是由 Google DeepMind 建構的開放式模型系列，",
+                "suffix": "，可處理文字和圖像輸入內容 (小型模型支援音訊)，並生成文字輸出內容。這個版本包含預先訓練和指令微調變體的開放權重模型。"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 163
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[4]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[4]/text()[1]",
+            "text": "Gemma 4 模型為多模態模型"
+          },
+          "text": "Gemma 4 模型為多模態模型",
+          "url": "https://ai.google.dev/gemma/docs/core/model_card_4?hl=zh-tw"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775495455164,
+          "id": "hk-1775495455162-79649",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775495455162,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 280
+              },
+              "quote": {
+                "exact": " 25.6 萬個權杖，並支援超過 140 種語言",
+                "prefix": "模型支援音訊)，並生成文字輸出內容。這個版本包含預先訓練和指令微調變體的開放權重模型。Gemma 4 的脈絡窗口最多可達",
+                "suffix": "。\n\nGemma 4 採用密集和混合專家模型 (MoE) 架構，非常適合用於文字生成、程式設計和推論等工作。這些型號有四"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 256
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[4]/text()[2]",
+            "startOffset": 77,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[4]/text()[2]",
+            "text": " 25.6 萬個權杖，並支援超過 140 種語言"
+          },
+          "text": " 25.6 萬個權杖，並支援超過 140 種語言",
+          "url": "https://ai.google.dev/gemma/docs/core/model_card_4?hl=zh-tw"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775495458653,
+          "id": "hk-1775495458650-41229",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775495458650,
+              "end": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 367
+              },
+              "quote": {
+                "exact": "E2B、E4B、26B A4B 和 31B",
+                "prefix": "ma 4 採用密集和混合專家模型 (MoE) 架構，非常適合用於文字生成、程式設計和推論等工作。這些型號有四種不同尺寸：",
+                "suffix": "。這些模型大小不一，因此可部署在各種環境中，從高階手機到筆電和伺服器皆適用，讓更多人能使用最先進的 AI 技術。\n\nGe"
+              },
+              "start": {
+                "css": "main#main-content > devsite-content > article.devsite-article > div.devsite-article-body.clearfix:nth-of-type(4)",
+                "textOffset": 346
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[5]/strong[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/section[1]/section[1]/main[1]/devsite-content[1]/article[1]/div[4]/p[5]/strong[1]/text()[1]",
+            "text": "E2B、E4B、26B A4B 和 31B"
+          },
+          "text": "E2B、E4B、26B A4B 和 31B",
+          "url": "https://ai.google.dev/gemma/docs/core/model_card_4?hl=zh-tw"
+        }
+      ]
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email",
+      "title": "A Guide to Context Engineering for LLMs",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494304202,
+          "id": "hk-1775494304200-80497",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494304199,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 624
+              },
+              "quote": {
+                "exact": "Giving an LLM more information can make it dumber",
+                "prefix": "、AI 在其中的角色，以及當你準備簡化時，如何思考成本。Register your spot today立即登記您的名額",
+                "suffix": ". A 2025 research study by Chroma tested 18 of the most powe"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 575
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "Giving an LLM more information can make it dumber"
+          },
+          "text": "Giving an LLM more information can make it dumber",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494311721,
+          "id": "hk-1775494311719-82531",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494311719,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2046
+              },
+              "quote": {
+                "exact": "Tokens",
+                "prefix": "ason about.在我們繼續之前，談到大型語言模型時，有三個詞經常被提及。先釐清這些詞彙，會讓後續的思考更容易理解。",
+                "suffix": ": They are the units LLMs think in. They aren’t full words, "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2040
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "Tokens"
+          },
+          "text": "Tokens",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494314877,
+          "id": "hk-1775494314875-89844",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494314874,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2538
+              },
+              "quote": {
+                "exact": "Context Window",
+                "prefix": "而「engineering」這個詞則被分成兩個。模型處理的每一段文字，從你的問題、指示到你所附的文件，都是以代幣計算的。",
+                "suffix": ": It is the total number of tokens the model can see at once"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2524
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/p[1]/strong[1]/text()[1]",
+            "text": "Context Window"
+          },
+          "text": "Context Window",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494317358,
+          "id": "hk-1775494317356-13176",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494317356,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3145
+              },
+              "quote": {
+                "exact": "Attention",
+                "prefix": "的上下文視窗數量從 128,000 到 超過 200 萬個代幣不等。這聽起來龐大，但正如我們將看到的，越大並不代表越好。",
+                "suffix": ": This is the mechanism the model uses to figure out which t"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3136
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/strong[1]/text()[1]",
+            "text": "Attention"
+          },
+          "text": "Attention",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494331794,
+          "id": "hk-1775494331791-19540",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494331791,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4569
+              },
+              "quote": {
+                "exact": " Research has consistently shown that LLMs pay the most attention to tokens at the beginning and end of the input,",
+                "prefix": "ttention isn’t distributed evenly across the context window.",
+                "suffix": " with a significant drop-off in the middle. This is known as"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4455
+              },
+              "version": 1
+            },
+            "endOffset": 214,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[2]/p[1]/text()[1]",
+            "startOffset": 100,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[2]/p[1]/text()[1]",
+            "text": " Research has consistently shown that LLMs pay the most attention to tokens at the beginning and end of the input,"
+          },
+          "text": " Research has consistently shown that LLMs pay the most attention to tokens at the beginning and end of the input,",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494343159,
+          "id": "hk-1775494343157-64682",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494343156,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5095
+              },
+              "quote": {
+                "exact": "structural property of how transformers",
+                "prefix": "線的圖表：This isn’t a bug in any particular model, but rather a ",
+                "suffix": " (the neural network architecture that powers virtually all "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5056
+              },
+              "version": 1
+            },
+            "endOffset": 94,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "structural property of how transformers"
+          },
+          "text": "structural property of how transformers",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494349819,
+          "id": "hk-1775494349816-66672",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494349815,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5354
+              },
+              "quote": {
+                "exact": "RoPE",
+                "prefix": "d in most modern LLMs (called Rotary Position Embedding, or ",
+                "suffix": ") introduces a decay effect that makes tokens far from both "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5350
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 94,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "RoPE"
+          },
+          "text": "RoPE",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494387762,
+          "id": "hk-1775494387761-73683",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494387760,
+              "end": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h3.header-anchor-post:nth-of-type(3)",
+                "textOffset": 33
+              },
+              "quote": {
+                "exact": "Compress: Keep Only What You Need",
+                "prefix": "乎相關但不完全相關，它們就會成為干擾，增加標記，將重要脈絡推入低注意力區域。回收步驟本身必須好，否則整個策略會適得其反。",
+                "suffix": "壓縮：只保留你需要的部分The constraint it addresses is the context rot a"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h3.header-anchor-post:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h3[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h3[3]/text()[1]",
+            "text": "Compress: Keep Only What You Need"
+          },
+          "text": "Compress: Keep Only What You Need",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1775494393907,
+          "id": "hk-1775494393904-30024",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1775494393904,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 13074
+              },
+              "quote": {
+                "exact": "Retrieval-Augmented Generation, or RAG",
+                "prefix": "更好，模型需要正確的資訊，而非所有可用的資訊。The most important technique here is ",
+                "suffix": ". Instead of stuffing all your knowledge into the context wi"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 13036
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[31]/text()[1]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[31]/text()[1]",
+            "text": "Retrieval-Augmented Generation, or RAG"
+          },
+          "text": "Retrieval-Augmented Generation, or RAG",
+          "url": "https://blog.bytebytego.com/p/a-guide-to-context-engineering-for?utm_source=post-email-title&publication_id=817132&post_id=193030505&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email"
+        }
+      ]
+    },
+    {
       "url": "https://ithelp.ithome.com.tw/articles/10345708",
       "title": "ELI5 GenAI Day 02 - 什麼是 GuardRails 與 Responsible AI - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
       "entries": [
@@ -10672,6 +11712,478 @@
       ]
     },
     {
+      "url": "https://www.google.com/search?q=hinge+loss&sca_esv=86cb2b2550399d81&sxsrf=ANbL-n4-b0T0ET3BO7im7K8zT15ejNr5qg%3A1774043083299&ei=y7-9aaT-EbqBvr0Pu46WuAc&biw=1628&bih=1286&ved=0ahUKEwjkj6--ua-TAxW6gK8BHTuHBXcQ4dUDCBE&uact=5&oq=hinge+loss&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmhpbmdlIGxvc3MyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeSI8YUKkKWJwXcAF4AZABAJgBWaABlgWqAQIxMLgBA8gBAPgBAZgCC6ACsAXCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICBxAjGPAFGCfCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQLhiABBixAxiDAcICChAAGIAEGEMYigXCAggQLhiABBixA8ICEBAAGIAEGLEDGEMYgwEYigXCAgUQLhiABJgDAIgGAZAGCpIHAjExoAe1OLIHAjEwuAetBcIHBDAuMTHIBxKACAA&sclient=gws-wiz-serp",
+      "title": "hinge loss - Google 搜尋",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774043142694,
+          "id": "hk-1774043142692-77550",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774043142690,
+              "end": {
+                "css": "div.MjjYud:nth-of-type(2) > div.A6K0A > div.wHYlTd.Ww4FFb > div.srKDX > div.kb0PBd.ieodic:nth-of-type(2) > div.VwiC3b.yXK7lf",
+                "textOffset": 26
+              },
+              "quote": {
+                "exact": "分類器的損失函數",
+                "prefix": "ps://zh.wikipedia.org › zh-tw › Hinge_loss在機器學習中，鉸鏈損失是一個用於訓練",
+                "suffix": "。鉸鏈損失被用於「最大間格分類」，因此非常適合用於支持向量機 (SVM)。支援向量機（Support Vector Ma"
+              },
+              "start": {
+                "css": "div.MjjYud:nth-of-type(2) > div.A6K0A > div.wHYlTd.Ww4FFb > div.srKDX > div.kb0PBd.ieodic:nth-of-type(2) > div.VwiC3b.yXK7lf",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[12]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/text()[1]",
+            "text": "分類器的損失函數"
+          },
+          "text": "分類器的損失函數",
+          "url": "https://www.google.com/search?q=hinge+loss&sca_esv=86cb2b2550399d81&sxsrf=ANbL-n4-b0T0ET3BO7im7K8zT15ejNr5qg%3A1774043083299&ei=y7-9aaT-EbqBvr0Pu46WuAc&biw=1628&bih=1286&ved=0ahUKEwjkj6--ua-TAxW6gK8BHTuHBXcQ4dUDCBE&uact=5&oq=hinge+loss&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmhpbmdlIGxvc3MyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeSI8YUKkKWJwXcAF4AZABAJgBWaABlgWqAQIxMLgBA8gBAPgBAZgCC6ACsAXCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICBxAjGPAFGCfCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQLhiABBixAxiDAcICChAAGIAEGEMYigXCAggQLhiABBixA8ICEBAAGIAEGLEDGEMYgwEYigXCAgUQLhiABJgDAIgGAZAGCpIHAjExoAe1OLIHAjEwuAetBcIHBDAuMTHIBxKACAA&sclient=gws-wiz-serp"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10213384",
+      "title": "Day02 What is EDA (Exploratory Data Analysis)? 淺談何謂探索式資料分析 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774043017295,
+          "id": "hk-1774043017294-22769",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774043017293,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "EDA (Exploratory Data Analysis) ",
+                "prefix": "                                                            ",
+                "suffix": "探索式資料分析\n簡單來說，探索式資料分析是運用視覺化或基本統計等工具，來對資料有個初步的認識，以利後續對資料進行複雜或嚴"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 61
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h2[1]/text()[1]",
+            "text": "EDA (Exploratory Data Analysis) "
+          },
+          "text": "EDA (Exploratory Data Analysis) ",
+          "url": "https://ithelp.ithome.com.tw/articles/10213384"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774043022028,
+          "id": "hk-1774043022026-95261",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774043022026,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "運用視覺化或基本統計等工具，來對資料有個初步的認識，以利後續對資料進行複雜或嚴謹的分析",
+                "prefix": "       EDA (Exploratory Data Analysis) 探索式資料分析\n簡單來說，探索式資料分析是",
+                "suffix": "。主要能幫助我們認識資料中三個部分：\n\n瞭解資料，獲取資料的資訊、結構和特點。\n檢查有無離群值或異常值，看資料是否有誤。"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 114
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "運用視覺化或基本統計等工具，來對資料有個初步的認識，以利後續對資料進行複雜或嚴謹的分析"
+          },
+          "text": "運用視覺化或基本統計等工具，來對資料有個初步的認識，以利後續對資料進行複雜或嚴謹的分析",
+          "url": "https://ithelp.ithome.com.tw/articles/10213384"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/marketingdatascience/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E9%80%B2%E5%8C%96%E8%AB%96-%E4%BA%94%E7%A8%AE%E5%88%86%E6%9E%90%E6%96%B9%E5%BC%8F-types-of-business-analytics-97fe78938769",
+      "title": "資料科學進化論─五種分析方式（Types of Business Analytics） | by 行銷資料科學 | Marketingdatascience | Medium",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013649926,
+          "id": "hk-1774013649925-55559",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013649924,
+              "end": {
+                "css": "p#\\34 e51",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "「預測性分析」能協助企業解決可能發生的事",
+                "prefix": "的促銷活動，「以十八到廿五歲的女性佔五十五％，排行第一，所購買的產品以卸妝蜜最多，金額達二百八十萬元」。就是描述性分析。",
+                "suffix": "，例如分析出消費者可能還會購買什麼？進而提前給予消費者相關的產品資訊。舉例來說，「從去年同期的銷售情況來看，在氣溫持續炎"
+              },
+              "start": {
+                "css": "p#\\34 e51",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "「預測性分析」能協助企業解決可能發生的事"
+          },
+          "text": "「預測性分析」能協助企業解決可能發生的事",
+          "url": "https://medium.com/marketingdatascience/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E9%80%B2%E5%8C%96%E8%AB%96-%E4%BA%94%E7%A8%AE%E5%88%86%E6%9E%90%E6%96%B9%E5%BC%8F-types-of-business-analytics-97fe78938769"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013658513,
+          "id": "hk-1774013658512-74490",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013658512,
+              "end": {
+                "css": "p#\\31 0ee",
+                "textOffset": 58
+              },
+              "quote": {
+                "exact": "描述性分析又稱敘述性分析",
+                "prefix": "tive）(繪圖者：張庭瑄)以商業應用來說，「描述性分析」能解釋已經發生的事，協助企業分析出消費者是誰？或是買了些什麼？",
+                "suffix": "，舉例來說，根據上個月的銷售資料分析發現，這次的促銷活動，「以十八到廿五歲的女性佔五十五％，排行第一，所購買的產品以卸妝"
+              },
+              "start": {
+                "css": "p#\\31 0ee",
+                "textOffset": 46
+              },
+              "version": 1
+            },
+            "endOffset": 58,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 46,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "描述性分析又稱敘述性分析"
+          },
+          "text": "描述性分析又稱敘述性分析",
+          "url": "https://medium.com/marketingdatascience/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E9%80%B2%E5%8C%96%E8%AB%96-%E4%BA%94%E7%A8%AE%E5%88%86%E6%9E%90%E6%96%B9%E5%BC%8F-types-of-business-analytics-97fe78938769"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013664501,
+          "id": "hk-1774013664500-7843",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013664499,
+              "end": {
+                "css": "p#\\33 136",
+                "textOffset": 19
+              },
+              "quote": {
+                "exact": "「指示性分析」則能指導執行該如何做",
+                "prefix": "的銷售情況來看，在氣溫持續炎熱的條件不變下，今年芒果口味的冰品，有八十五％的機率依舊會暢銷，請各單位提早進貨備料」。至於",
+                "suffix": "，舉例來說，當消費者走到某商圈時，手機會主動收到適合自己的附近店家折價券。除了以上三種分類基礎，顧能（Gartner）顧"
+              },
+              "start": {
+                "css": "p#\\33 136",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "「指示性分析」則能指導執行該如何做"
+          },
+          "text": "「指示性分析」則能指導執行該如何做",
+          "url": "https://medium.com/marketingdatascience/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E9%80%B2%E5%8C%96%E8%AB%96-%E4%BA%94%E7%A8%AE%E5%88%86%E6%9E%90%E6%96%B9%E5%BC%8F-types-of-business-analytics-97fe78938769"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013673462,
+          "id": "hk-1774013673461-61118",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013673461,
+              "end": {
+                "css": "p#a561",
+                "textOffset": 109
+              },
+              "quote": {
+                "exact": "「描述性分析」強調分析出「發生了什麼？（What happened）」",
+                "prefix": "（Diagnostic Analytics）」與「描述性分析（Descriptive Analytics）」的不同之處。",
+                "suffix": "，例如：消費者買了什麼？而「診斷性分析」強調分析出「為何會發生？（What did it happen）」例如：消費者為"
+              },
+              "start": {
+                "css": "p#a561",
+                "textOffset": 74
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 74,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "「描述性分析」強調分析出「發生了什麼？（What happened）」"
+          },
+          "text": "「描述性分析」強調分析出「發生了什麼？（What happened）」",
+          "url": "https://medium.com/marketingdatascience/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E9%80%B2%E5%8C%96%E8%AB%96-%E4%BA%94%E7%A8%AE%E5%88%86%E6%9E%90%E6%96%B9%E5%BC%8F-types-of-business-analytics-97fe78938769"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013679645,
+          "id": "hk-1774013679643-76121",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013679642,
+              "end": {
+                "css": "p#a561",
+                "textOffset": 162
+              },
+              "quote": {
+                "exact": "而「診斷性分析」強調分析出「為何會發生？（What did it happen）」",
+                "prefix": "ytics）」的不同之處。「描述性分析」強調分析出「發生了什麼？（What happened）」，例如：消費者買了什麼？",
+                "suffix": "例如：消費者為何購買？這兩類分析，都是屬於事後分析。值得一提的是，哈佛大學教授湯馬斯．戴文波特（Thomas H. Da"
+              },
+              "start": {
+                "css": "p#a561",
+                "textOffset": 121
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[7]/article[1]/div[1]/div[1]/section[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "text": "而「診斷性分析」強調分析出「為何會發生？（What did it happen）」"
+          },
+          "text": "而「診斷性分析」強調分析出「為何會發生？（What did it happen）」",
+          "url": "https://medium.com/marketingdatascience/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E9%80%B2%E5%8C%96%E8%AB%96-%E4%BA%94%E7%A8%AE%E5%88%86%E6%9E%90%E6%96%B9%E5%BC%8F-types-of-business-analytics-97fe78938769"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10268703",
+      "title": "推論統計－認識假設檢定 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013547261,
+          "id": "hk-1774013547259-3383",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013547258,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 310
+              },
+              "quote": {
+                "exact": "設立虛無假設H0（Null Hypothesis）",
+                "prefix": "？」中有談到，當我們定義好問題後，我要針對其原因進行驗證，而假設檢定便是你設立實驗的框架基礎。\n假設檢定的步驟如下：\n\n",
+                "suffix": "與對立假設H1（Alternative Hypothesis）\n選擇檢定統計量（test statistic）\n選擇顯著"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 285
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[1]/text()[1]",
+            "text": "設立虛無假設H0（Null Hypothesis）"
+          },
+          "text": "設立虛無假設H0（Null Hypothesis）",
+          "url": "https://ithelp.ithome.com.tw/articles/10268703"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013550471,
+          "id": "hk-1774013550470-61627",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013550470,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 379
+              },
+              "quote": {
+                "exact": "選擇顯著水準並決定決策法則",
+                "prefix": "sis）與對立假設H1（Alternative Hypothesis）\n選擇檢定統計量（test statistic）\n",
+                "suffix": "\n比較樣本統計量與臨界值\n結論\n\n我們在虛無假設為真的情況下進行推論，整個過程需要確定是否有足夠的證據來推翻虛無假設，也"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 366
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[3]/text()[1]",
+            "text": "選擇顯著水準並決定決策法則"
+          },
+          "text": "選擇顯著水準並決定決策法則",
+          "url": "https://ithelp.ithome.com.tw/articles/10268703"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013554702,
+          "id": "hk-1774013554700-26094",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013554700,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 505
+              },
+              "quote": {
+                "exact": "我們不拒絕虛無假設，也不接受對立假設",
+                "prefix": "的證據來推翻虛無假設，也就是證明對立假設為真。因此如果有足夠的證據支持對立假設，那便是拒絕虛無假設，接受對立假設；反之，",
+                "suffix": "。\n為甚麼要特別強調不拒絕虛無假設，而不是說接受虛無假設？\n打一個比方，以法官判案來說，我們的虛無假設H0是「被告無罪」"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 487
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 91,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "我們不拒絕虛無假設，也不接受對立假設"
+          },
+          "text": "我們不拒絕虛無假設，也不接受對立假設",
+          "url": "https://ithelp.ithome.com.tw/articles/10268703"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013567225,
+          "id": "hk-1774013567224-52318",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013567224,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 483
+              },
+              "quote": {
+                "exact": "有足夠的證據支持對立假設，那便是拒絕虛無假設，接受對立假設",
+                "prefix": "\n\n我們在虛無假設為真的情況下進行推論，整個過程需要確定是否有足夠的證據來推翻虛無假設，也就是證明對立假設為真。因此如果",
+                "suffix": "；反之，我們不拒絕虛無假設，也不接受對立假設。\n為甚麼要特別強調不拒絕虛無假設，而不是說接受虛無假設？\n打一個比方，以法"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 454
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 58,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "有足夠的證據支持對立假設，那便是拒絕虛無假設，接受對立假設"
+          },
+          "text": "有足夠的證據支持對立假設，那便是拒絕虛無假設，接受對立假設",
+          "url": "https://ithelp.ithome.com.tw/articles/10268703"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013590679,
+          "id": "hk-1774013590678-4404",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013590678,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 880
+              },
+              "quote": {
+                "exact": "當一個真正無罪的人被我們宣判有罪時，便是型 I 錯誤 。",
+                "prefix": " I 錯誤 （Type I error）？也就是我們拒絕的一個真實的虛無假設H0所會犯下的錯誤，沿用剛剛法官判案的例子，",
+                "suffix": "\n而型 II 錯誤 （Type II error）就是我們不拒絕一個錯誤的虛無假設H0，也就是一個有罪的人卻被宣判無罪釋"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 852
+              },
+              "version": 1
+            },
+            "endOffset": 92,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 64,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "當一個真正無罪的人被我們宣判有罪時，便是型 I 錯誤 。"
+          },
+          "text": "當一個真正無罪的人被我們宣判有罪時，便是型 I 錯誤 。",
+          "url": "https://ithelp.ithome.com.tw/articles/10268703"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1774013620833,
+          "id": "hk-1774013620832-72024",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1774013620832,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 923
+              },
+              "quote": {
+                "exact": "而型 II 錯誤 （Type II error）就是我們不拒絕一個錯誤的虛無假設H0",
+                "prefix": "一個真實的虛無假設H0所會犯下的錯誤，沿用剛剛法官判案的例子，當一個真正無罪的人被我們宣判有罪時，便是型 I 錯誤 。\n",
+                "suffix": "，也就是一個有罪的人卻被宣判無罪釋放。\n換一個現在我們比較熟悉的說法，大家應該都有聽過偽陰性和偽陽性吧？\n虛無假設H0為"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 881
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "而型 II 錯誤 （Type II error）就是我們不拒絕一個錯誤的虛無假設H0"
+          },
+          "text": "而型 II 錯誤 （Type II error）就是我們不拒絕一個錯誤的虛無假設H0",
+          "url": "https://ithelp.ithome.com.tw/articles/10268703"
+        }
+      ]
+    },
+    {
       "url": "https://vrest.tradevan.com.tw/csadmin/access/enr?page=23",
       "title": "關貿智能客服-管理後台",
       "entries": [
@@ -12722,6 +14234,944 @@
           },
           "text": "槽位填充 (Slot Filling)",
           "url": "https://vocus.cc/article/6833103cfd89780001581e41"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10343086",
+      "title": "數據挖掘的CRISP-DM方法論 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585112348,
+          "id": "hk-1773585112347-80541",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585112347,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 147
+              },
+              "quote": {
+                "exact": "數據挖掘方法論",
+                "prefix": "stry Standard Process for Data Mining，跨行業數據挖掘標準流程）是目前最為廣泛使用的",
+                "suffix": "。它為數據挖掘項目的整個過程提供了一個明確的框架，從業務理解到模型部署，涵蓋了數據挖掘的所有主要階段。這種方法論的優點在"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 140
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 79,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "數據挖掘方法論"
+          },
+          "text": "數據挖掘方法論",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585117226,
+          "id": "hk-1773585117225-59664",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585117225,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 130
+              },
+              "quote": {
+                "exact": "CRISP-DM（Cross-Industry Standard Process for Data Mining，跨行業數據挖掘標準流程）",
+                "prefix": "                                                            ",
+                "suffix": "是目前最為廣泛使用的數據挖掘方法論。它為數據挖掘項目的整個過程提供了一個明確的框架，從業務理解到模型部署，涵蓋了數據挖掘"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 61
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "CRISP-DM（Cross-Industry Standard Process for Data Mining，跨行業數據挖掘標準流程）"
+          },
+          "text": "CRISP-DM（Cross-Industry Standard Process for Data Mining，跨行業數據挖掘標準流程）",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585122361,
+          "id": "hk-1773585122361-15055",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585122360,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 305
+              },
+              "quote": {
+                "exact": "明確項目的商業目標",
+                "prefix": "。\nCRISP-DM的六個主要階段\n\n業務理解（Business Understanding）\n在這一階段，項目團隊需要",
+                "suffix": "，並將其轉化為數據挖掘目標。這包括了解業務需求、確定項目的範圍和目標，並制定項目計劃。業務理解階段是數據挖掘項目成功的關"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 296
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "明確項目的商業目標"
+          },
+          "text": "明確項目的商業目標",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585128681,
+          "id": "hk-1773585128680-52687",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585128680,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 431
+              },
+              "quote": {
+                "exact": "收集初步的數據",
+                "prefix": "關鍵，因為它確保了數據分析的方向與業務目標保持一致。\n數據理解（Data Understanding）\n這一階段的目的是",
+                "suffix": "，並對數據進行初步分析，以了解數據的結構、質量和潛在的問題。這包括數據的收集、描述、探索和驗證。數據理解階段有助於識別數"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 424
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "收集初步的數據"
+          },
+          "text": "收集初步的數據",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585132556,
+          "id": "hk-1773585132555-25264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585132555,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 566
+              },
+              "quote": {
+                "exact": "數據準備階段，數據被清洗、轉換和整理，以便用於建模",
+                "prefix": "理解階段有助於識別數據中的問題和特徵，為後續的數據準備和建模提供基礎。\n數據準備（Data Preparation）\n在",
+                "suffix": "。這一階段包括數據選擇、清洗、構建、整合和格式化。數據準備通常是數據挖掘過程中最耗時的部分，但它對於保證模型的準確性和可"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 541
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "數據準備階段，數據被清洗、轉換和整理，以便用於建模"
+          },
+          "text": "數據準備階段，數據被清洗、轉換和整理，以便用於建模",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585136118,
+          "id": "hk-1773585136117-64918",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585136117,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 672
+              },
+              "quote": {
+                "exact": "構建模型",
+                "prefix": "的部分，但它對於保證模型的準確性和可靠性至關重要。\n建模（Modeling）\n在建模階段，選擇和應用不同的數據挖掘算法來",
+                "suffix": "。這包括選擇建模技術、生成測試設計、構建模型和評估模型。根據具體的數據和業務需求，不同的算法和技術可能需要進行調整和優化"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 668
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "構建模型"
+          },
+          "text": "構建模型",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585140280,
+          "id": "hk-1773585140280-54793",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585140280,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 781
+              },
+              "quote": {
+                "exact": "對模型的性能進行評估，以確保它能夠達到預期的商業目標",
+                "prefix": "評估模型。根據具體的數據和業務需求，不同的算法和技術可能需要進行調整和優化。\n評估（Evaluation）\n在評估階段，",
+                "suffix": "。這包括模型評估、檢查過程、確定下一步行動等。評估階段的目的是確保模型在實際業務中具有實用性和可解釋性。\n部署（Depl"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 755
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "對模型的性能進行評估，以確保它能夠達到預期的商業目標"
+          },
+          "text": "對模型的性能進行評估，以確保它能夠達到預期的商業目標",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773585145457,
+          "id": "hk-1773585145457-98600",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773585145457,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 902
+              },
+              "quote": {
+                "exact": "模型被應用到實際業務環境中，以產生預測或決策。這包括模型的實施、結果的報告、模型的監控和維護。",
+                "prefix": "確定下一步行動等。評估階段的目的是確保模型在實際業務中具有實用性和可解釋性。\n部署（Deployment）\n在部署階段，",
+                "suffix": "部署階段的目的是將數據挖掘成果轉化為實際的業務價值。\n \n                               "
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix > div.qa-panel__content:nth-of-type(2) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 855
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/p[8]/text()[1]",
+            "text": "模型被應用到實際業務環境中，以產生預測或決策。這包括模型的實施、結果的報告、模型的監控和維護。"
+          },
+          "text": "模型被應用到實際業務環境中，以產生預測或決策。這包括模型的實施、結果的報告、模型的監控和維護。",
+          "url": "https://ithelp.ithome.com.tw/articles/10343086"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikipedia.org/zh-tw/%E9%9B%86%E4%B8%AD%E8%B6%8B%E5%8A%BF",
+      "title": "集中趨勢 - 維基百科，自由的百科全書",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773584964089,
+          "id": "hk-1773584964088-22967",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773584964087,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 33
+              },
+              "quote": {
+                "exact": "集中趨勢（central tendency）或中央趨勢",
+                "prefix": "\t\n\t\t\n\n\t\t\t\t\t\t維基百科，自由的百科全書\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t在統計學中，",
+                "suffix": "，在口語上也經常被稱為平均，表示一個機率分佈的中間值[1]。最常見的幾種集中趨勢包括算數平均數、中位數及眾數。集中趨勢可"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[1]/text()[1]",
+            "text": "集中趨勢（central tendency）或中央趨勢"
+          },
+          "text": "集中趨勢（central tendency）或中央趨勢",
+          "url": "https://zh.wikipedia.org/zh-tw/%E9%9B%86%E4%B8%AD%E8%B6%8B%E5%8A%BF"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773584966346,
+          "id": "hk-1773584966346-770",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773584966346,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 46
+              },
+              "quote": {
+                "exact": "平均",
+                "prefix": "\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t在統計學中，集中趨勢（central tendency）或中央趨勢，在口語上也經常被稱為",
+                "suffix": "，表示一個機率分佈的中間值[1]。最常見的幾種集中趨勢包括算數平均數、中位數及眾數。集中趨勢可以由有限的數組（如一群樣本"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 44
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[3]/text()[1]",
+            "text": "平均"
+          },
+          "text": "平均",
+          "url": "https://zh.wikipedia.org/zh-tw/%E9%9B%86%E4%B8%AD%E8%B6%8B%E5%8A%BF"
+        }
+      ]
+    },
+    {
+      "url": "https://medium.com/@davidtnfsh/%E5%AF%A6%E5%8B%99%E4%B8%8A%E5%AE%B9%E6%98%93%E5%BF%BD%E7%95%A5%E7%9A%84%E7%B5%B1%E8%A8%88%E8%A7%80%E5%BF%B5-%E9%9B%86%E4%B8%AD%E8%B6%A8%E5%8B%A2-central-tendency-9e12d8841dd1",
+      "title": "實務上容易忽略的統計觀念：集中趨勢（Central Tendency） | by 張泰瑋 David Chang | Medium",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773584948526,
+          "id": "hk-1773584948524-21864",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773584948524,
+              "end": {
+                "css": "p#\\33 956",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "集中趨勢（central tendency）是一種代表一個 dataset 其中間值的指標",
+                "prefix": "cs，今天就來幫大家科普一下不要重蹈我覆轍惹😅集中趨勢（central tendency）一詞於1920年代後期出現。",
+                "suffix": "，這些集中趨勢們代表著資料集中大部分的資料點或是位於中間的資料點，你可以想像它是一個量化一個 cluster 趨近中央的"
+              },
+              "start": {
+                "css": "p#\\33 956",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[5]/article[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "集中趨勢（central tendency）是一種代表一個 dataset 其中間值的指標"
+          },
+          "text": "集中趨勢（central tendency）是一種代表一個 dataset 其中間值的指標",
+          "url": "https://medium.com/@davidtnfsh/%E5%AF%A6%E5%8B%99%E4%B8%8A%E5%AE%B9%E6%98%93%E5%BF%BD%E7%95%A5%E7%9A%84%E7%B5%B1%E8%A8%88%E8%A7%80%E5%BF%B5-%E9%9B%86%E4%B8%AD%E8%B6%A8%E5%8B%A2-central-tendency-9e12d8841dd1"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/173053",
+      "title": "【回顧2025】從2百位CIO第一手洞察，剖析臺灣大型企業的GenAI進化之路(上) | iThome",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773584802848,
+          "id": "hk-1773584802847-62336",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773584802845,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1147
+              },
+              "quote": {
+                "exact": "「資料幻覺」、「資料正確性」、「如何驗證答案100%正確」、「資料外洩、隱私問題」",
+                "prefix": "站在起點的企業，有不少是IT預算相對不足的製造業，有家傳統製造公司IT主管就直言：「經費不足，更遑論導入生成式AI。」\n",
+                "suffix": "都是這群企業對GenAI最常見的擔心，也是最基本的恐懼。\n當企業開始導入和驗證時，所面對的挑戰也從What轉向How的課"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1106
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "「資料幻覺」、「資料正確性」、「如何驗證答案100%正確」、「資料外洩、隱私問題」"
+          },
+          "text": "「資料幻覺」、「資料正確性」、「如何驗證答案100%正確」、「資料外洩、隱私問題」",
+          "url": "https://www.ithome.com.tw/news/173053"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773584806159,
+          "id": "hk-1773584806158-32076",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773584806158,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1395
+              },
+              "quote": {
+                "exact": "如何找出有價值的業務應用案例（business use case）",
+                "prefix": "大挑戰。」\n對於已經在正式環境採用GenAI的登頂者，上線後的挑戰是如何規模化的創造價值，家福公司資訊長丁平碩就觀察：「",
+                "suffix": "，來利用生成式AI提升企業營收及降低成本，應該是目前各行各業在生成式 AI 的最大挑戰。」\n除了價值證明，領先者面臨的課"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1362
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "如何找出有價值的業務應用案例（business use case）"
+          },
+          "text": "如何找出有價值的業務應用案例（business use case）",
+          "url": "https://www.ithome.com.tw/news/173053"
+        }
+      ]
+    },
+    {
+      "url": "https://www.managertoday.com.tw/articles/view/71758?",
+      "title": "AI 已成為員工的隱形助理！但它帶來的治理風險，企業準備好了嗎？|經理人",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773571711702,
+          "id": "hk-1773571711701-26579",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773571711700,
+              "end": {
+                "css": "div.text-black.dark\\:bg-black:nth-of-type(2) > div > div.main_box:nth-of-type(2) > section.view_box > div.px-5.md\\:px-0:nth-of-type(2) > main.htmlview.mb-10",
+                "textOffset": 311
+              },
+              "quote": {
+                "exact": "AI治理（AI governance）是指政府或組織 為了管理AI風險、引導技術發展並確保其負責任的部署，因而建立的一系列監管框架、問責制度與風險控管流程。",
+                "prefix": "代新鮮人」是種短視？IBM 重新定義入門職位，並擴大招募 3 倍人力\n\n\n\n\nAI治理（AI governance）\n\n",
+                "suffix": "\n\n它的核心在於，讓技術在可控範圍內服務人類，將抽象的倫理原則化為具體可執行的規範，建立大眾對AI的信心。\n\n台灣在20"
+              },
+              "start": {
+                "css": "div.text-black.dark\\:bg-black:nth-of-type(2) > div > div.main_box:nth-of-type(2) > section.view_box > div.px-5.md\\:px-0:nth-of-type(2) > main.htmlview.mb-10",
+                "textOffset": 233
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[2]/main[1]/p[2]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/section[1]/div[2]/main[1]/p[2]/text()[1]",
+            "text": "AI治理（AI governance）是指政府或組織 為了管理AI風險、引導技術發展並確保其負責任的部署，因而建立的一系列監管框架、問責制度與風險控管流程。"
+          },
+          "text": "AI治理（AI governance）是指政府或組織 為了管理AI風險、引導技術發展並確保其負責任的部署，因而建立的一系列監管框架、問責制度與風險控管流程。",
+          "url": "https://www.managertoday.com.tw/articles/view/71758?"
+        }
+      ]
+    },
+    {
+      "url": "https://edge.aif.tw/ai-govermance-of-global-trends/",
+      "title": "AI 治理（一）：內涵、核心理念與全球發展趨勢",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564836494,
+          "id": "hk-1773564836493-13993",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564836492,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 572
+              },
+              "quote": {
+                "exact": "AI治理的核心在於「讓技術在可控範圍內服務人類」",
+                "prefix": "，帶來前所未有的效率與風險。這些風險不僅包括演算法偏誤、資料濫用與不透明性，更牽涉倫理、隱私與民主信任等根本問題。因此，",
+                "suffix": "。它不只是建立法律規範或技術標準，更是一種跨層次的社會治理工程——結合倫理原則、組織制度與公共參與，以確保AI的發展能維"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 548
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[3]/text()[1]",
+            "text": "AI治理的核心在於「讓技術在可控範圍內服務人類」"
+          },
+          "text": "AI治理的核心在於「讓技術在可控範圍內服務人類」",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564882310,
+          "id": "hk-1773564882309-4772",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564882309,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1059
+              },
+              "quote": {
+                "exact": "「負責任人工智慧」（Responsible AI）與「可信任人工智慧」（Trustworthy AI）為AI治理的兩大核心理念，前者重倫理文化與社會責任，後者重制度信任與技術可驗證性。",
+                "prefix": "策協調，形成多邊信任網絡；日、韓、新加坡等亞洲國家也相繼推動相關的國家政策與立法監理，積極且與國際接軌。在此多元架構中，",
+                "suffix": "兩者共同構成AI治理的基礎，並在制度層面預期將經由AISI、ISO/IEC 42001及GPAI等機制逐步落實。二、AI"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 967
+              },
+              "version": 1
+            },
+            "endOffset": 100,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[5]/text()[1]",
+            "text": "「負責任人工智慧」（Responsible AI）與「可信任人工智慧」（Trustworthy AI）為AI治理的兩大核心理念，前者重倫理文化與社會責任，後者重制度信任與技術可驗證性。"
+          },
+          "text": "「負責任人工智慧」（Responsible AI）與「可信任人工智慧」（Trustworthy AI）為AI治理的兩大核心理念，前者重倫理文化與社會責任，後者重制度信任與技術可驗證性。",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564911053,
+          "id": "hk-1773564911051-92314",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564911051,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1285
+              },
+              "quote": {
+                "exact": "確保安全與信任",
+                "prefix": "更具挑戰性，因為AI具自我學習與非線性決策特徵，使透明度與責任歸屬更為複雜。AI治理的核心價值主要體現在幾個方向：（1）",
+                "suffix": "：降低演算法偏誤與系統風險，強化公眾信賴；（2）促進責任分配：明確界定AI錯誤與損害的責任主體；（3）兼顧創新與監管：確"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1278
+              },
+              "version": 1
+            },
+            "endOffset": 156,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 149,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[1]",
+            "text": "確保安全與信任"
+          },
+          "text": "確保安全與信任",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564912519,
+          "id": "hk-1773564912518-2428",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564912518,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1315
+              },
+              "quote": {
+                "exact": "促進責任分配",
+                "prefix": "歸屬更為複雜。AI治理的核心價值主要體現在幾個方向：（1）確保安全與信任：降低演算法偏誤與系統風險，強化公眾信賴；（2）",
+                "suffix": "：明確界定AI錯誤與損害的責任主體；（3）兼顧創新與監管：確保治理不扼殺創新，形成動態平衡；（4）強化國際競爭力：以治理"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1309
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[2]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[2]",
+            "text": "促進責任分配"
+          },
+          "text": "促進責任分配",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564914713,
+          "id": "hk-1773564914711-54980",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564914711,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1343
+              },
+              "quote": {
+                "exact": "兼顧創新與監管",
+                "prefix": "1）確保安全與信任：降低演算法偏誤與系統風險，強化公眾信賴；（2）促進責任分配：明確界定AI錯誤與損害的責任主體；（3）",
+                "suffix": "：確保治理不扼殺創新，形成動態平衡；（4）強化國際競爭力：以治理能力與標準輸出塑造國際規則影響力；（5）推動永續發展：逐"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1336
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[3]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[3]",
+            "text": "兼顧創新與監管"
+          },
+          "text": "兼顧創新與監管",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564916147,
+          "id": "hk-1773564916145-62939",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564916145,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1371
+              },
+              "quote": {
+                "exact": "強化國際競爭力",
+                "prefix": "賴；（2）促進責任分配：明確界定AI錯誤與損害的責任主體；（3）兼顧創新與監管：確保治理不扼殺創新，形成動態平衡；（4）",
+                "suffix": "：以治理能力與標準輸出塑造國際規則影響力；（5）推動永續發展：逐漸將AI納入ESG與SDGs框架，確保技術發展與人類長遠"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1364
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[4]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[4]",
+            "text": "強化國際競爭力"
+          },
+          "text": "強化國際競爭力",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564917471,
+          "id": "hk-1773564917469-50012",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564917469,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1401
+              },
+              "quote": {
+                "exact": "推動永續發展",
+                "prefix": "）兼顧創新與監管：確保治理不扼殺創新，形成動態平衡；（4）強化國際競爭力：以治理能力與標準輸出塑造國際規則影響力；（5）",
+                "suffix": "：逐漸將AI納入ESG與SDGs框架，確保技術發展與人類長遠利益一致。其中，「負責任AI」與「可信任AI」是兩個動態互補"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1395
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[5]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[6]/text()[5]",
+            "text": "推動永續發展"
+          },
+          "text": "推動永續發展",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564924657,
+          "id": "hk-1773564924656-59809",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564924655,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1499
+              },
+              "quote": {
+                "exact": "負責任AI（Responsible AI） 強調「行動者的責任」",
+                "prefix": "納入ESG與SDGs框架，確保技術發展與人類長遠利益一致。其中，「負責任AI」與「可信任AI」是兩個動態互補的核心內涵。",
+                "suffix": "——即AI的開發者、使用者與管理者應對AI的結果負責。它注重透明、問責、可解釋性與風險管理等原則，要求AI開發全流程中落"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1467
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[8]/text()[1]",
+            "text": "負責任AI（Responsible AI） 強調「行動者的責任」"
+          },
+          "text": "負責任AI（Responsible AI） 強調「行動者的責任」",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564930506,
+          "id": "hk-1773564930505-7786",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564930505,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1547
+              },
+              "quote": {
+                "exact": "注重透明、問責、可解釋性與風險管理等原則",
+                "prefix": "負責任AI（Responsible AI） 強調「行動者的責任」——即AI的開發者、使用者與管理者應對AI的結果負責。它",
+                "suffix": "，要求AI開發全流程中落實人權尊重、偏誤防範與透明溝通，並形成企業內部治理機制， 反映一種以人為中心、以社會責任為導向的"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1527
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[8]/text()[2]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[8]/text()[2]",
+            "text": "注重透明、問責、可解釋性與風險管理等原則"
+          },
+          "text": "注重透明、問責、可解釋性與風險管理等原則",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564936347,
+          "id": "hk-1773564936346-54523",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564936346,
+              "end": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1887
+              },
+              "quote": {
+                "exact": "可信任AI（Trustworthy AI） 則代表AI治理從倫理文化走向制度化與可驗證信任的階段，更強調「系統的品質與社會信任」",
+                "prefix": "軟性治理」（soft governance），主要透過道德倡議與自律文化引導開發者行為，強調組織內部倫理自覺與社會問責。",
+                "suffix": "。它關注技術本身是否具備可靠、安全、公平與尊重人權的特質，並能建立長期的信任關係。可信任AI的實踐不僅依賴倫理宣言，更需"
+              },
+              "start": {
+                "css": "main#site-main > div.inner > article.post-full.post > section.post-full-content > div.post-content",
+                "textOffset": 1823
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/article[1]/section[1]/div[1]/p[10]/text()[1]",
+            "text": "可信任AI（Trustworthy AI） 則代表AI治理從倫理文化走向制度化與可驗證信任的階段，更強調「系統的品質與社會信任」"
+          },
+          "text": "可信任AI（Trustworthy AI） 則代表AI治理從倫理文化走向制度化與可驗證信任的階段，更強調「系統的品質與社會信任」",
+          "url": "https://edge.aif.tw/ai-govermance-of-global-trends/"
+        }
+      ]
+    },
+    {
+      "url": "https://aws.amazon.com/tw/compare/the-difference-between-machine-learning-supervised-and-unsupervised/",
+      "title": "監督式與非監督式學習 - 機器學習演算法之間的區別 - AWS",
+      "entries": [
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564701074,
+          "id": "hk-1773564701073-15827",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564701072,
+              "end": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 205
+              },
+              "quote": {
+                "exact": "監督式學習中，可以使用一組輸入資料和一組對應的配對已標記輸出資料來訓練模型。",
+                "prefix": "演算法。\n                \n                監督學習\n                在",
+                "suffix": "通常是手動完成標記。下面是一些類型的監督式機器學習技術。\n                物流回歸  \n        "
+              },
+              "start": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 167
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "監督式學習中，可以使用一組輸入資料和一組對應的配對已標記輸出資料來訓練模型。"
+          },
+          "text": "監督式學習中，可以使用一組輸入資料和一組對應的配對已標記輸出資料來訓練模型。",
+          "url": "https://aws.amazon.com/tw/compare/the-difference-between-machine-learning-supervised-and-unsupervised/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564715147,
+          "id": "hk-1773564715146-32616",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564715146,
+              "end": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 292
+              },
+              "quote": {
+                "exact": "邏輯迴歸基於一個或多個輸入預測分類輸出",
+                "prefix": "記。下面是一些類型的監督式機器學習技術。\n                物流回歸  \n                ",
+                "suffix": "。二進制分類是指輸出適合兩個類別之一，例如「是」或「否」以及「通過」或「失敗」。多類分類是指輸出適合兩個以上的類別，如貓"
+              },
+              "start": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 273
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "邏輯迴歸基於一個或多個輸入預測分類輸出"
+          },
+          "text": "邏輯迴歸基於一個或多個輸入預測分類輸出",
+          "url": "https://aws.amazon.com/tw/compare/the-difference-between-machine-learning-supervised-and-unsupervised/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564724105,
+          "id": "hk-1773564724105-61264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564724104,
+              "end": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 500
+              },
+              "quote": {
+                "exact": "線性迴歸是指依據一個或多個輸入，從連續規模預測值的監督式學習模型",
+                "prefix": "          閱讀有關物流回歸」 \n                線性迴歸  \n                ",
+                "suffix": "。線性迴歸的一個範例是預測房價。在使用帶有房屋位置、房齡和房間數量變數的一組歷史銷售訓練資料訓練模型之後，就可以依據這些"
+              },
+              "start": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 468
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "線性迴歸是指依據一個或多個輸入，從連續規模預測值的監督式學習模型"
+          },
+          "text": "線性迴歸是指依據一個或多個輸入，從連續規模預測值的監督式學習模型",
+          "url": "https://aws.amazon.com/tw/compare/the-difference-between-machine-learning-supervised-and-unsupervised/"
+        },
+        {
+          "color": "#fbed6f",
+          "createdAt": 1773564732174,
+          "id": "hk-1773564732173-24228",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1773564732173,
+              "end": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 679
+              },
+              "quote": {
+                "exact": "決策樹監督式機器學習技術取得一些給定的輸入，並套用 if-else 結構來預測結果。",
+                "prefix": "           閱讀有關線性回歸」 \n                決策樹  \n                ",
+                "suffix": "決策樹問題的一個範例是預測客戶流失。例如，如果客戶在註冊後沒有存取應用程式，則該模型可能會預測客戶流失。或者，如果客戶在"
+              },
+              "start": {
+                "css": "div.eb-faq > div.eb-faq-content:nth-of-type(2) > div.lb-none-v-margin.lb-grid:nth-of-type(2) > div.lb-row.lb-row-max-large > div.lb-col.lb-tiny-24 > div.lb-txt-14.lb-rtxt",
+                "textOffset": 637
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "決策樹監督式機器學習技術取得一些給定的輸入，並套用 if-else 結構來預測結果。"
+          },
+          "text": "決策樹監督式機器學習技術取得一些給定的輸入，並套用 if-else 結構來預測結果。",
+          "url": "https://aws.amazon.com/tw/compare/the-difference-between-machine-learning-supervised-and-unsupervised/"
         }
       ]
     },
@@ -19386,6 +21836,178 @@
       ]
     },
     {
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "title": "Nano Banana 2: Google’s latest AI image generation model",
+      "entries": [
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465442139,
+          "id": "hk-1772465442137-48346",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465442136,
+              "end": {
+                "css": "section.uni-container.article-container:nth-of-type(2) > div.uni-wrapper.article-container__wrapper > div.uni-content.uni-blog-article-container > div.module--text.module--text__article:nth-of-type(3) > div.uni-paragraph.article-paragraph > div.rich-text",
+                "textOffset": 799
+              },
+              "quote": {
+                "exact": "Precision text rendering and translation",
+                "prefix": "尋的即時資訊與圖片驅動，以更準確地呈現特定主題。這種深入的理解也幫助你製作資訊圖表、將筆記轉為圖表，以及產生資料視覺化。",
+                "suffix": ": Nano Banana 2 allows you to generate accurate, legible tex"
+              },
+              "start": {
+                "css": "section.uni-container.article-container:nth-of-type(2) > div.uni-wrapper.article-container__wrapper > div.uni-content.uni-blog-article-container > div.module--text.module--text__article:nth-of-type(3) > div.uni-paragraph.article-paragraph > div.rich-text",
+                "textOffset": 759
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[2]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[2]/b[1]/text()[1]",
+            "text": "Precision text rendering and translation"
+          },
+          "text": "Precision text rendering and translation",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/174088",
+      "title": "Google公布Nano Banana 2 價格減半、可生成高品質圖像、翻譯文字 | iThome",
+      "entries": [
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465343970,
+          "id": "hk-1772465343969-64125",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465343968,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "圖像生成模型Nano Banana 2",
+                "prefix": "  \n    \n    \n    \n    \n      \n  \n\n圖片來源: Google\nGoogle本周四公布最新",
+                "suffix": "，以近乎半價成本提供前代模型高品質圖像及文字生成能力、還能翻譯文字。\nNano Banana 2是在去年10月Nano "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "圖像生成模型Nano Banana 2"
+          },
+          "text": "圖像生成模型Nano Banana 2",
+          "url": "https://www.ithome.com.tw/news/174088"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465354717,
+          "id": "hk-1772465354716-68713",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465354716,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 223
+              },
+              "quote": {
+                "exact": "使用的是Gemini 3.1 Flash Image模型，結合新版Flash模型加入高品質圖像生成、進階編輯能力，允許企業及開發人員生成大量高品質圖片。",
+                "prefix": "Nano Banana全面上線及11月Nano Banana Pro推出後的最新圖像生成模型。Nano Banana 2",
+                "suffix": "根據Google提供的標竿測試資料，新版模型以文字生成圖片的跑分，大幅高於Nano Banana Pro（Gemini "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 147
+              },
+              "version": 1
+            },
+            "endOffset": 102,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "使用的是Gemini 3.1 Flash Image模型，結合新版Flash模型加入高品質圖像生成、進階編輯能力，允許企業及開發人員生成大量高品質圖片。"
+          },
+          "text": "使用的是Gemini 3.1 Flash Image模型，結合新版Flash模型加入高品質圖像生成、進階編輯能力，允許企業及開發人員生成大量高品質圖片。",
+          "url": "https://www.ithome.com.tw/news/174088"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465363493,
+          "id": "hk-1772465363492-75268",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465363492,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 443
+              },
+              "quote": {
+                "exact": "可讓使用者在生成高品質圖片外，還能生成精準的文字，用於商業圖片或應用程式中。",
+                "prefix": "no Banana 2繼承Gemini模型以網頁搜尋圖片生成圖像的功能，並較前代Flash圖像生成模型強化文字渲染能力，",
+                "suffix": "它還支援圖像中定位（in-image localization），讓用戶可生成或翻譯多種語言文字並加入在圖片中。\n\n此外"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 405
+              },
+              "version": 1
+            },
+            "endOffset": 110,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 72,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "可讓使用者在生成高品質圖片外，還能生成精準的文字，用於商業圖片或應用程式中。"
+          },
+          "text": "可讓使用者在生成高品質圖片外，還能生成精準的文字，用於商業圖片或應用程式中。",
+          "url": "https://www.ithome.com.tw/news/174088"
+        },
+        {
+          "color": "#fff7ad",
+          "createdAt": 1772465375218,
+          "id": "hk-1772465375216-34957",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1772465375216,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1191
+              },
+              "quote": {
+                "exact": "每張4K圖片輸出費用相當於0.24美元",
+                "prefix": "之下，Nano Banana Pro（Gemini 3 Pro Image）圖片輸出費用為每百萬token 120美元，",
+                "suffix": "。\n\n\n \n    \n  \n  \n       \n   \n\n\n      \n  \n    \n \n\n\n      \n   "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1172
+              },
+              "version": 1
+            },
+            "endOffset": 127,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "每張4K圖片輸出費用相當於0.24美元"
+          },
+          "text": "每張4K圖片輸出費用相當於0.24美元",
+          "url": "https://www.ithome.com.tw/news/174088"
+        }
+      ]
+    },
+    {
       "url": "https://huggingface.co/openai/gpt-oss-120b/discussions/70",
       "title": "openai/gpt-oss-120b · [Discussion] gpt-oss-120b hangs indefinitely (\"thinking...\") when using YaRN rope scaling to extend context length",
       "entries": [
@@ -24607,7 +27229,7 @@
     },
     {
       "url": "https://mail.google.com/mail/u/0/#inbox",
-      "title": "收件匣 (5) - chrbezz0487@gmail.com - Gmail",
+      "title": "收件匣 (61) - chrbezz0487@gmail.com - Gmail",
       "entries": [
         {
           "color": "#ffea9e",
@@ -56454,53 +59076,13 @@
       ]
     },
     {
-      "url": "http://10.166.57.21:7158/docs",
-      "title": "FastAPI - Swagger UI",
+      "url": "https://terraria.wiki.gg/zh/wiki/Guide:%E4%BA%BA%E5%B7%A5%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB?variant=zh-tw",
+      "title": "指南:人工生物群系 - 官方中文泰拉瑞亚维基百科（The Official Chinese Terraria Wiki）",
       "entries": []
     },
     {
-      "url": "https://azole.medium.com/docker-container-%E5%9F%BA%E7%A4%8E%E5%85%A5%E9%96%80%E7%AF%87-2-c14d8f852ae4",
-      "title": "Docker Container 基礎入門篇 2. 不當邊緣人的 container | by Azole (小賴) | Medium",
-      "entries": []
-    },
-    {
-      "url": "https://chatgpt.com/c/695367e5-024c-8324-8f92-025e77618972",
-      "title": "程式碼範例與解釋",
-      "entries": []
-    },
-    {
-      "url": "https://mail.google.com/mail/u/0/?pli=1",
-      "title": "收件匣 (11) - chrbezz0487@gmail.com - Gmail",
-      "entries": []
-    },
-    {
-      "url": "https://notebooklm.google.com/notebook/7354b316-3087-450f-aa49-db3951c64a44",
-      "title": "NotebookLM",
-      "entries": []
-    },
-    {
-      "url": "https://opencode.ai/docs/",
-      "title": "Intro | OpenCode",
-      "entries": []
-    },
-    {
-      "url": "https://sdwh.dev/posts/2020/07/Python-Rich/",
-      "title": "Python Rich Library - 豐富 Terminal 視覺化效果的函式庫 - The Skeptical Software Engineer",
-      "entries": []
-    },
-    {
-      "url": "https://sunmedia.tw/news/technology/1776127515-MiniMax%E7%99%BC%E5%B8%83M2.7%E9%A0%82%E5%B0%96AI%E4%BB%A3%E7%90%86%E6%A8%A1%E5%9E%8B%20%E5%95%86%E6%A5%AD%E6%8E%88%E6%AC%8A%E6%82%84%E7%84%B6%E7%94%9F%E8%AE%8A",
-      "title": "MiniMax發布M2.7頂尖AI代理模型 商業授權悄然生變 - 商傳媒",
-      "entries": []
-    },
-    {
-      "url": "https://vocus.cc/article/675305acfd897800017e49a0",
-      "title": "CDF 累積分布函數",
-      "entries": []
-    },
-    {
-      "url": "https://www.infoai.com.tw/blog/uk-ai-fintech-regulation",
-      "title": "精選解讀｜英國 FinTech 把 AI 理財帶向「制度化」：真正的門檻不是模型，而是責任鏈 - 精選解讀 A...",
+      "url": "https://vocus.cc/article/67e4df28fd897800018e9ab0",
+      "title": "L11102：AI治理概念",
       "entries": []
     }
   ]
