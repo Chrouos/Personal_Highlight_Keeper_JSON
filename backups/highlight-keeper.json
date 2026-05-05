@@ -1,8 +1,1690 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 1,
-  "exportedAt": 1777821949604,
+  "exportedAt": 1777944225350,
   "pages": [
+    {
+      "url": "https://www.ithome.com.tw/news/175465",
+      "title": "台灣大哥大與GMI Cloud合作在桃園打造25MW的AI算力中心，PUE小於1.2 | iThome",
+      "entries": [
+        {
+          "color": "#fbf08e",
+          "createdAt": 1777944105916,
+          "id": "hk-ai-preview-1777944105916-28782",
+          "note": "AI：桃園AI算力中心的核心規模是25MW電力總負載容量。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105916,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 90
+              },
+              "quote": {
+                "exact": "台灣大哥大將在桃園建置電力總負載容量為25MW的AI算力中心",
+                "prefix": "台灣大哥大積極布局AI DC市場，去年與GMI Cloud合作AI Factory，台灣大哥大本周在媒體交流活動中預告，",
+                "suffix": "，並且與GMI Cloud合作，該資料中心將會採用Nvidia的GB300，以成為國內第一大AI算力中心為目標。\nGMI"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 60
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "台灣大哥大將在桃園建置電力總負載容量為25MW的AI算力中心"
+          },
+          "text": "台灣大哥大將在桃園建置電力總負載容量為25MW的AI算力中心",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1777944105919,
+          "id": "hk-ai-preview-1777944105918-29906",
+          "note": "AI：此案結合GMI Cloud與Nvidia GB300，目標是成為國內最大AI算力中心。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105918,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 146
+              },
+              "quote": {
+                "exact": "並且與GMI Cloud合作，該資料中心將會採用Nvidia的GB300，以成為國內第一大AI算力中心為目標。",
+                "prefix": "AI Factory，台灣大哥大本周在媒體交流活動中預告，台灣大哥大將在桃園建置電力總負載容量為25MW的AI算力中心，",
+                "suffix": "\nGMI Cloud為Nvidia 的NCP雲端服務夥伴，為少數獲得Nvidia Reference Platform認"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 91
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "並且與GMI Cloud合作，該資料中心將會採用Nvidia的GB300，以成為國內第一大AI算力中心為目標。"
+          },
+          "text": "並且與GMI Cloud合作，該資料中心將會採用Nvidia的GB300，以成為國內第一大AI算力中心為目標。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105921,
+          "id": "hk-ai-preview-1777944105921-40090",
+          "note": "AI：GMI Cloud具備Nvidia合作夥伴與Reference Platform認證供應商身份。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105921,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 216
+              },
+              "quote": {
+                "exact": "GMI Cloud為Nvidia 的NCP雲端服務夥伴，為少數獲得Nvidia Reference Platform認證的雲端供應商之一。",
+                "prefix": "力中心，並且與GMI Cloud合作，該資料中心將會採用Nvidia的GB300，以成為國內第一大AI算力中心為目標。\n",
+                "suffix": "去年11月GMI Cloud大動作宣布將在臺灣投入約160億元，以7,000顆GB300打造大型AI Factory, "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 147
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[1]",
+            "text": "GMI Cloud為Nvidia 的NCP雲端服務夥伴，為少數獲得Nvidia Reference Platform認證的雲端供應商之一。"
+          },
+          "text": "GMI Cloud為Nvidia 的NCP雲端服務夥伴，為少數獲得Nvidia Reference Platform認證的雲端供應商之一。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105925,
+          "id": "hk-ai-preview-1777944105925-91749",
+          "note": "AI：算力中心採用UPTime Tier III等級作為資料中心設計標準。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105925,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 367
+              },
+              "quote": {
+                "exact": "該算力中心將會採用符合UPTime Tier III規格設計",
+                "prefix": "時預告於今年第一季完成。\n台灣大哥大周三對外說明今年營運策略，其中在企業服務方面，揭示在桃園建置25MW的AI算力中心，",
+                "suffix": "，採用N+1備援架構，其PUE低於1.2，可支援單櫃散熱達135kW+，並採用模組化設計，以及最新的液冷技術。\n\n根據台"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 337
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[2]",
+            "text": "該算力中心將會採用符合UPTime Tier III規格設計"
+          },
+          "text": "該算力中心將會採用符合UPTime Tier III規格設計",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105926,
+          "id": "hk-ai-preview-1777944105926-81407",
+          "note": "AI：資料中心透過N+1備援提升基礎設施可用性與容錯能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105926,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 377
+              },
+              "quote": {
+                "exact": "採用N+1備援架構",
+                "prefix": "其中在企業服務方面，揭示在桃園建置25MW的AI算力中心，該算力中心將會採用符合UPTime Tier III規格設計，",
+                "suffix": "，其PUE低於1.2，可支援單櫃散熱達135kW+，並採用模組化設計，以及最新的液冷技術。\n\n根據台灣大哥大先前的資料，"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 368
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[3]",
+            "text": "採用N+1備援架構"
+          },
+          "text": "採用N+1備援架構",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105927,
+          "id": "hk-ai-preview-1777944105927-72433",
+          "note": "AI：PUE低於1.2代表能源使用效率較佳。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105927,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 387
+              },
+              "quote": {
+                "exact": "其PUE低於1.2",
+                "prefix": "揭示在桃園建置25MW的AI算力中心，該算力中心將會採用符合UPTime Tier III規格設計，採用N+1備援架構，",
+                "suffix": "，可支援單櫃散熱達135kW+，並採用模組化設計，以及最新的液冷技術。\n\n根據台灣大哥大先前的資料，與GMI Cloud"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 378
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[4]",
+            "text": "其PUE低於1.2"
+          },
+          "text": "其PUE低於1.2",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105928,
+          "id": "hk-ai-preview-1777944105928-79132",
+          "note": "AI：單櫃135kW以上散熱能力可支援高密度AI伺服器部署。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105928,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 402
+              },
+              "quote": {
+                "exact": "可支援單櫃散熱達135kW+",
+                "prefix": "W的AI算力中心，該算力中心將會採用符合UPTime Tier III規格設計，採用N+1備援架構，其PUE低於1.2，",
+                "suffix": "，並採用模組化設計，以及最新的液冷技術。\n\n根據台灣大哥大先前的資料，與GMI Cloud的合作，涵蓋主流的H100、H"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 388
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[5]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[5]",
+            "text": "可支援單櫃散熱達135kW+"
+          },
+          "text": "可支援單櫃散熱達135kW+",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105929,
+          "id": "hk-ai-preview-1777944105928-41156",
+          "note": "AI：資料中心透過模組化與液冷技術支撐高密度AI運算需求。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105928,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 422
+              },
+              "quote": {
+                "exact": "並採用模組化設計，以及最新的液冷技術。",
+                "prefix": "會採用符合UPTime Tier III規格設計，採用N+1備援架構，其PUE低於1.2，可支援單櫃散熱達135kW+，",
+                "suffix": "\n\n根據台灣大哥大先前的資料，與GMI Cloud的合作，涵蓋主流的H100、H200、GB200，預計年中再上線的最高"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 403
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[6]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[6]",
+            "text": "並採用模組化設計，以及最新的液冷技術。"
+          },
+          "text": "並採用模組化設計，以及最新的液冷技術。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105929,
+          "id": "hk-ai-preview-1777944105929-12642",
+          "note": "AI：合作內容涵蓋目前主流Nvidia AI GPU平台。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105929,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 471
+              },
+              "quote": {
+                "exact": "與GMI Cloud的合作，涵蓋主流的H100、H200、GB200",
+                "prefix": "，其PUE低於1.2，可支援單櫃散熱達135kW+，並採用模組化設計，以及最新的液冷技術。\n\n根據台灣大哥大先前的資料，",
+                "suffix": "，預計年中再上線的最高規格的Blackwell GB300 NVL72超級晶片。\n台灣大哥大企業服務事業商務長朱曉幸曾指"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 437
+              },
+              "version": 1
+            },
+            "endOffset": 47,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "與GMI Cloud的合作，涵蓋主流的H100、H200、GB200"
+          },
+          "text": "與GMI Cloud的合作，涵蓋主流的H100、H200、GB200",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105930,
+          "id": "hk-ai-preview-1777944105930-56239",
+          "note": "AI：算力中心後續將導入Blackwell GB300 NVL72超級晶片。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105930,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 511
+              },
+              "quote": {
+                "exact": "預計年中再上線的最高規格的Blackwell GB300 NVL72超級晶片。",
+                "prefix": "以及最新的液冷技術。\n\n根據台灣大哥大先前的資料，與GMI Cloud的合作，涵蓋主流的H100、H200、GB200，",
+                "suffix": "\n台灣大哥大企業服務事業商務長朱曉幸曾指出，隨著企業專屬LLM落地部署、數位孿生、高階邊緣運算的需求爆發，加上高敏感產業"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 472
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[2]",
+            "text": "預計年中再上線的最高規格的Blackwell GB300 NVL72超級晶片。"
+          },
+          "text": "預計年中再上線的最高規格的Blackwell GB300 NVL72超級晶片。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1777944105932,
+          "id": "hk-ai-preview-1777944105932-60373",
+          "note": "AI：資料主權與低延遲需求推動高敏感產業採用在地AI算力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105932,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 583
+              },
+              "quote": {
+                "exact": "加上高敏感產業對資料主權與低延遲的需求",
+                "prefix": "72超級晶片。\n台灣大哥大企業服務事業商務長朱曉幸曾指出，隨著企業專屬LLM落地部署、數位孿生、高階邊緣運算的需求爆發，",
+                "suffix": "，台灣大哥大AIDC將鎖定政府、金融、製造、醫療四大領域，預期AIDC營收將有倍數成長。\n由於資料中心用電量大，台電早在"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 564
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[2]",
+            "text": "加上高敏感產業對資料主權與低延遲的需求"
+          },
+          "text": "加上高敏感產業對資料主權與低延遲的需求",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105932,
+          "id": "hk-ai-preview-1777944105932-86157",
+          "note": "AI：AIDC市場策略聚焦政府、金融、製造與醫療四大產業。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105932,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 611
+              },
+              "quote": {
+                "exact": "台灣大哥大AIDC將鎖定政府、金融、製造、醫療四大領域",
+                "prefix": "務長朱曉幸曾指出，隨著企業專屬LLM落地部署、數位孿生、高階邊緣運算的需求爆發，加上高敏感產業對資料主權與低延遲的需求，",
+                "suffix": "，預期AIDC營收將有倍數成長。\n由於資料中心用電量大，台電早在2023年限制桃園以北地區的資料中心停止申請5MW以上的"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 584
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[3]",
+            "text": "台灣大哥大AIDC將鎖定政府、金融、製造、醫療四大領域"
+          },
+          "text": "台灣大哥大AIDC將鎖定政府、金融、製造、醫療四大領域",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#f9b9cf",
+          "createdAt": 1777944105934,
+          "id": "hk-ai-preview-1777944105934-58094",
+          "note": "AI：北部大型資料中心面臨5MW以上新增用電申請限制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105934,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 676
+              },
+              "quote": {
+                "exact": "由於資料中心用電量大，台電早在2023年限制桃園以北地區的資料中心停止申請5MW以上的用電申請。",
+                "prefix": "感產業對資料主權與低延遲的需求，台灣大哥大AIDC將鎖定政府、金融、製造、醫療四大領域，預期AIDC營收將有倍數成長。\n",
+                "suffix": "台灣大哥大在桃園的資料中心則在限制之前通過取得25MW用電容量，此次與GMI Cloud的合作改建為新的AI算力中心，得"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 628
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[6]",
+            "text": "由於資料中心用電量大，台電早在2023年限制桃園以北地區的資料中心停止申請5MW以上的用電申請。"
+          },
+          "text": "由於資料中心用電量大，台電早在2023年限制桃園以北地區的資料中心停止申請5MW以上的用電申請。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105936,
+          "id": "hk-ai-preview-1777944105935-52000",
+          "note": "AI：既有用電容量讓此案能在限制下部署較大規模AI算力中心。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105935,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 750
+              },
+              "quote": {
+                "exact": "此次與GMI Cloud的合作改建為新的AI算力中心，得以突破限制使用較大的電容量。",
+                "prefix": "限制桃園以北地區的資料中心停止申請5MW以上的用電申請。台灣大哥大在桃園的資料中心則在限制之前通過取得25MW用電容量，",
+                "suffix": "台灣大哥大預告該算力中心目前預售期已100%售罄。\n在AI資料中心受限於用電限制移往中南部地區之下，這座AI Facto"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 708
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "此次與GMI Cloud的合作改建為新的AI算力中心，得以突破限制使用較大的電容量。"
+          },
+          "text": "此次與GMI Cloud的合作改建為新的AI算力中心，得以突破限制使用較大的電容量。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1777944105936,
+          "id": "hk-ai-preview-1777944105936-66103",
+          "note": "AI：算力中心在預售階段已完全售罄，顯示市場需求強。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105936,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 775
+              },
+              "quote": {
+                "exact": "該算力中心目前預售期已100%售罄。",
+                "prefix": "取得25MW用電容量，此次與GMI Cloud的合作改建為新的AI算力中心，得以突破限制使用較大的電容量。台灣大哥大預告",
+                "suffix": "\n在AI資料中心受限於用電限制移往中南部地區之下，這座AI Factory也是國內少數在北部建置的大型AI算力中心，資料"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 757
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "text": "該算力中心目前預售期已100%售罄。"
+          },
+          "text": "該算力中心目前預售期已100%售罄。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#f9b9cf",
+          "createdAt": 1777944105937,
+          "id": "hk-ai-preview-1777944105937-98406",
+          "note": "AI：AI資料中心因北部用電限制而有往中南部移動的趨勢。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105937,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 799
+              },
+              "quote": {
+                "exact": "在AI資料中心受限於用電限制移往中南部地區之下",
+                "prefix": "loud的合作改建為新的AI算力中心，得以突破限制使用較大的電容量。台灣大哥大預告該算力中心目前預售期已100%售罄。\n",
+                "suffix": "，這座AI Factory也是國內少數在北部建置的大型AI算力中心，資料中心位於桃園地區，在交通上可配合多設置於北部的企"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 776
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[7]",
+            "text": "在AI資料中心受限於用電限制移往中南部地區之下"
+          },
+          "text": "在AI資料中心受限於用電限制移往中南部地區之下",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105939,
+          "id": "hk-ai-preview-1777944105939-67310",
+          "note": "AI：桃園位置有利於北部企業總部進行人員與設備往返。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105939,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 877
+              },
+              "quote": {
+                "exact": "資料中心位於桃園地區，在交通上可配合多設置於北部的企業總部，人員、設備交通往返比較方便。",
+                "prefix": "罄。\n在AI資料中心受限於用電限制移往中南部地區之下，這座AI Factory也是國內少數在北部建置的大型AI算力中心，",
+                "suffix": "\nGMI身為Nvidia的雲端合作夥伴，具有優先配貨權，未來取得的GB300，其效能為GB200的1.5倍，為H200的"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 833
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[2]",
+            "text": "資料中心位於桃園地區，在交通上可配合多設置於北部的企業總部，人員、設備交通往返比較方便。"
+          },
+          "text": "資料中心位於桃園地區，在交通上可配合多設置於北部的企業總部，人員、設備交通往返比較方便。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105940,
+          "id": "hk-ai-preview-1777944105940-59089",
+          "note": "AI：GMI Cloud的Nvidia合作夥伴身份帶來GPU取得上的供應優勢。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105940,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 904
+              },
+              "quote": {
+                "exact": "GMI身為Nvidia的雲端合作夥伴，具有優先配貨權",
+                "prefix": "在北部建置的大型AI算力中心，資料中心位於桃園地區，在交通上可配合多設置於北部的企業總部，人員、設備交通往返比較方便。\n",
+                "suffix": "，未來取得的GB300，其效能為GB200的1.5倍，為H200的7.5倍。\n去年在對外活動中，GMI Cloud預告在"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 878
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[8]",
+            "text": "GMI身為Nvidia的雲端合作夥伴，具有優先配貨權"
+          },
+          "text": "GMI身為Nvidia的雲端合作夥伴，具有優先配貨權",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105941,
+          "id": "hk-ai-preview-1777944105941-97808",
+          "note": "AI：GB300相較GB200與H200具備明顯效能提升。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105941,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 942
+              },
+              "quote": {
+                "exact": "未來取得的GB300，其效能為GB200的1.5倍，為H200的7.5倍。",
+                "prefix": "交通上可配合多設置於北部的企業總部，人員、設備交通往返比較方便。\nGMI身為Nvidia的雲端合作夥伴，具有優先配貨權，",
+                "suffix": "\n去年在對外活動中，GMI Cloud預告在臺灣建立的AI Factory，將會採用7,000顆Blackwell GB"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 905
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "未來取得的GB300，其效能為GB200的1.5倍，為H200的7.5倍。"
+          },
+          "text": "未來取得的GB300，其效能為GB200的1.5倍，為H200的7.5倍。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105942,
+          "id": "hk-ai-preview-1777944105942-24380",
+          "note": "AI：AI Factory規劃以7,000顆GB300搭配NVLink高速互連。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105942,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1018
+              },
+              "quote": {
+                "exact": "將會採用7,000顆Blackwell GB300，搭配NVLink高速連接",
+                "prefix": "GB200的1.5倍，為H200的7.5倍。\n去年在對外活動中，GMI Cloud預告在臺灣建立的AI Factory，",
+                "suffix": "，相當於一秒可處理200萬token的超級電腦。\nGMI Cloud執行長葉威廷當時比喻，7,000顆GB300的算力相"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 980
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[1]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[1]",
+            "text": "將會採用7,000顆Blackwell GB300，搭配NVLink高速連接"
+          },
+          "text": "將會採用7,000顆Blackwell GB300，搭配NVLink高速連接",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105943,
+          "id": "hk-ai-preview-1777944105943-39924",
+          "note": "AI：該AI Factory被描述為具備每秒處理200萬token的高吞吐能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105942,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1042
+              },
+              "quote": {
+                "exact": "相當於一秒可處理200萬token的超級電腦。",
+                "prefix": "ud預告在臺灣建立的AI Factory，將會採用7,000顆Blackwell GB300，搭配NVLink高速連接，",
+                "suffix": "\nGMI Cloud執行長葉威廷當時比喻，7,000顆GB300的算力相當於10萬顆H100，Llama 3花費6個月的"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1019
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[10]/text()[2]",
+            "text": "相當於一秒可處理200萬token的超級電腦。"
+          },
+          "text": "相當於一秒可處理200萬token的超級電腦。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105943,
+          "id": "hk-ai-preview-1777944105943-52669",
+          "note": "AI：7,000顆GB300被比喻為具備相當於10萬顆H100的算力規模。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105943,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1088
+              },
+              "quote": {
+                "exact": "7,000顆GB300的算力相當於10萬顆H100",
+                "prefix": "00，搭配NVLink高速連接，相當於一秒可處理200萬token的超級電腦。\nGMI Cloud執行長葉威廷當時比喻，",
+                "suffix": "，Llama 3花費6個月的時間訓練完成，這座AI Factory只要2周就能完成。\n該資料中心將鎖定大規模推論、模型訓"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1063
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "7,000顆GB300的算力相當於10萬顆H100"
+          },
+          "text": "7,000顆GB300的算力相當於10萬顆H100",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105944,
+          "id": "hk-ai-preview-1777944105944-34911",
+          "note": "AI：AI Factory被強調可大幅縮短大型模型訓練時間。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105944,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1130
+              },
+              "quote": {
+                "exact": "Llama 3花費6個月的時間訓練完成，這座AI Factory只要2周就能完成。",
+                "prefix": "0萬token的超級電腦。\nGMI Cloud執行長葉威廷當時比喻，7,000顆GB300的算力相當於10萬顆H100，",
+                "suffix": "\n該資料中心將鎖定大規模推論、模型訓練及AI應用開發，此外，也可供需要複雜運算的科學研究使用，像是預測未來災害的發展，例"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1089
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[11]/text()[2]",
+            "text": "Llama 3花費6個月的時間訓練完成，這座AI Factory只要2周就能完成。"
+          },
+          "text": "Llama 3花費6個月的時間訓練完成，這座AI Factory只要2周就能完成。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#ddeffd",
+          "createdAt": 1777944105945,
+          "id": "hk-ai-preview-1777944105945-45299",
+          "note": "AI：資料中心主要用途涵蓋大規模推論、模型訓練與AI應用開發。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105945,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1156
+              },
+              "quote": {
+                "exact": "該資料中心將鎖定大規模推論、模型訓練及AI應用開發",
+                "prefix": "300的算力相當於10萬顆H100，Llama 3花費6個月的時間訓練完成，這座AI Factory只要2周就能完成。\n",
+                "suffix": "，此外，也可供需要複雜運算的科學研究使用，像是預測未來災害的發展，例如預測模擬颱風的動向。\n    \n  \n  \n   "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1131
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[11]",
+            "text": "該資料中心將鎖定大規模推論、模型訓練及AI應用開發"
+          },
+          "text": "該資料中心將鎖定大規模推論、模型訓練及AI應用開發",
+          "url": "https://www.ithome.com.tw/news/175465"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1777944105946,
+          "id": "hk-ai-preview-1777944105946-70958",
+          "note": "AI：高算力資料中心也能支援災害預測與颱風模擬等科學研究。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777944105946,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1201
+              },
+              "quote": {
+                "exact": "也可供需要複雜運算的科學研究使用，像是預測未來災害的發展，例如預測模擬颱風的動向。",
+                "prefix": "月的時間訓練完成，這座AI Factory只要2周就能完成。\n該資料中心將鎖定大規模推論、模型訓練及AI應用開發，此外，",
+                "suffix": "\n    \n  \n  \n       \n   \n\n\n      \n  \n    \n \n\n\n      \n    \n  \n"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 1160
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "也可供需要複雜運算的科學研究使用，像是預測未來災害的發展，例如預測模擬颱風的動向。"
+          },
+          "text": "也可供需要複雜運算的科學研究使用，像是預測未來災害的發展，例如預測模擬颱風的動向。",
+          "url": "https://www.ithome.com.tw/news/175465"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/175509",
+      "title": "紅帽釋出Tank OS，打造代理式作業系統原型強化OpenClaw企業部署安全 | iThome",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1777943475033,
+          "id": "hk-ai-preview-1777943475033-9993",
+          "note": "AI：Tank OS的核心目標是用容器化與rootless架構提升企業部署安全。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943546630,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 115
+              },
+              "quote": {
+                "exact": "透過容器化與無root權限（rootless）架構，強化OpenClaw在企業環境中的部署安全。",
+                "prefix": "Hat）首席軟體工程師、同時也是OpenClaw開源專案維護者的Sally O'Malley發布開源專案Tank OS，",
+                "suffix": "\nO'Malley將Tank OS定位為「代理型作業系統（agentic OS）」的概念原型，嘗試在作業系統層建立專為A"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 67
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "透過容器化與無root權限（rootless）架構，強化OpenClaw在企業環境中的部署安全。"
+          },
+          "text": "透過容器化與無root權限（rootless）架構，強化OpenClaw在企業環境中的部署安全。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#c792ea",
+          "createdAt": 1777943475036,
+          "id": "hk-ai-preview-1777943475035-89690",
+          "note": "AI：Tank OS的設計背景是AI代理需要專門的作業系統層執行環境。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475035,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 185
+              },
+              "quote": {
+                "exact": "嘗試在作業系統層建立專為AI代理設計的執行環境",
+                "prefix": "w在企業環境中的部署安全。\nO'Malley將Tank OS定位為「代理型作業系統（agentic OS）」的概念原型，",
+                "suffix": "，作為代理執行環境的示範實作。\nOpenClaw是一套可在本地電腦執行AI代理的開源執行環境，已被用於各類自動化任務。不"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 162
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "嘗試在作業系統層建立專為AI代理設計的執行環境"
+          },
+          "text": "嘗試在作業系統層建立專為AI代理設計的執行環境",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#c792ea",
+          "createdAt": 1777943475037,
+          "id": "hk-ai-preview-1777943475036-77515",
+          "note": "AI：OpenClaw本身是本地AI代理執行環境，已有自動化任務使用場景。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475036,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 244
+              },
+              "quote": {
+                "exact": "OpenClaw是一套可在本地電腦執行AI代理的開源執行環境，已被用於各類自動化任務。",
+                "prefix": "系統（agentic OS）」的概念原型，嘗試在作業系統層建立專為AI代理設計的執行環境，作為代理執行環境的示範實作。\n",
+                "suffix": "不過，O'Malley指出，OpenClaw雖然功能強大，但若未妥善設定，可能導致資料誤刪或敏感資訊外洩。\nTank O"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 201
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[2]",
+            "text": "OpenClaw是一套可在本地電腦執行AI代理的開源執行環境，已被用於各類自動化任務。"
+          },
+          "text": "OpenClaw是一套可在本地電腦執行AI代理的開源執行環境，已被用於各類自動化任務。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#ffa726",
+          "createdAt": 1777943475038,
+          "id": "hk-ai-preview-1777943475038-40662",
+          "note": "AI：OpenClaw在設定不當時存在資料破壞與敏感資訊外洩風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475037,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 297
+              },
+              "quote": {
+                "exact": "但若未妥善設定，可能導致資料誤刪或敏感資訊外洩。",
+                "prefix": "在本地電腦執行AI代理的開源執行環境，已被用於各類自動化任務。不過，O'Malley指出，OpenClaw雖然功能強大，",
+                "suffix": "\nTank OS的核心設計，是將OpenClaw執行環境封裝於容器中，並採用紅帽開發的Podman技術，以無root權限"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 273
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[3]",
+            "text": "但若未妥善設定，可能導致資料誤刪或敏感資訊外洩。"
+          },
+          "text": "但若未妥善設定，可能導致資料誤刪或敏感資訊外洩。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475038,
+          "id": "hk-ai-preview-1777943475038-22235",
+          "note": "AI：Tank OS透過容器封裝OpenClaw執行環境來降低部署風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475038,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 331
+              },
+              "quote": {
+                "exact": "將OpenClaw執行環境封裝於容器中",
+                "prefix": "ley指出，OpenClaw雖然功能強大，但若未妥善設定，可能導致資料誤刪或敏感資訊外洩。\nTank OS的核心設計，是",
+                "suffix": "，並採用紅帽開發的Podman技術，以無root權限方式執行代理，使容器無法取得主機系統權限。\n在架構上，O'Malle"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 312
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "將OpenClaw執行環境封裝於容器中"
+          },
+          "text": "將OpenClaw執行環境封裝於容器中",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475039,
+          "id": "hk-ai-preview-1777943475039-55292",
+          "note": "AI：Tank OS使用Podman rootless模式執行AI代理。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475039,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 363
+              },
+              "quote": {
+                "exact": "採用紅帽開發的Podman技術，以無root權限方式執行代理",
+                "prefix": "但若未妥善設定，可能導致資料誤刪或敏感資訊外洩。\nTank OS的核心設計，是將OpenClaw執行環境封裝於容器中，並",
+                "suffix": "，使容器無法取得主機系統權限。\n在架構上，O'Malley表示，Tank OS建立於Fedora Linux與fedor"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 333
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[3]",
+            "text": "採用紅帽開發的Podman技術，以無root權限方式執行代理"
+          },
+          "text": "採用紅帽開發的Podman技術，以無root權限方式執行代理",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#b4f3b8",
+          "createdAt": 1777943475040,
+          "id": "hk-ai-preview-1777943475040-90703",
+          "note": "AI：rootless容器可降低代理取得主機權限的風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475040,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 378
+              },
+              "quote": {
+                "exact": "使容器無法取得主機系統權限。",
+                "prefix": "S的核心設計，是將OpenClaw執行環境封裝於容器中，並採用紅帽開發的Podman技術，以無root權限方式執行代理，",
+                "suffix": "\n在架構上，O'Malley表示，Tank OS建立於Fedora Linux與fedora-bootc技術之上，後者可"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 364
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/text()[4]",
+            "text": "使容器無法取得主機系統權限。"
+          },
+          "text": "使容器無法取得主機系統權限。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475041,
+          "id": "hk-ai-preview-1777943475041-94686",
+          "note": "AI：Tank OS的基礎架構採用Fedora Linux與fedora-bootc。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475041,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 434
+              },
+              "quote": {
+                "exact": "Tank OS建立於Fedora Linux與fedora-bootc技術之上",
+                "prefix": "紅帽開發的Podman技術，以無root權限方式執行代理，使容器無法取得主機系統權限。\n在架構上，O'Malley表示，",
+                "suffix": "，後者可將整個作業系統封裝為容器映像並進行部署，系統啟動後即直接以該映像作為完整執行環境。系統亦支援在同一臺設備上運行多"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 395
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "Tank OS建立於Fedora Linux與fedora-bootc技術之上"
+          },
+          "text": "Tank OS建立於Fedora Linux與fedora-bootc技術之上",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475042,
+          "id": "hk-ai-preview-1777943475042-1475",
+          "note": "AI：fedora-bootc讓整個作業系統能以容器映像方式部署。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475042,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 457
+              },
+              "quote": {
+                "exact": "後者可將整個作業系統封裝為容器映像並進行部署",
+                "prefix": "權限。\n在架構上，O'Malley表示，Tank OS建立於Fedora Linux與fedora-bootc技術之上，",
+                "suffix": "，系統啟動後即直接以該映像作為完整執行環境。系統亦支援在同一臺設備上運行多個代理實例，各實例彼此隔離且不共享憑證或系統資"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 435
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[2]",
+            "text": "後者可將整個作業系統封裝為容器映像並進行部署"
+          },
+          "text": "後者可將整個作業系統封裝為容器映像並進行部署",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475042,
+          "id": "hk-ai-preview-1777943475042-43193",
+          "note": "AI：Tank OS支援同機多代理實例運行。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475042,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 499
+              },
+              "quote": {
+                "exact": "系統亦支援在同一臺設備上運行多個代理實例",
+                "prefix": "edora-bootc技術之上，後者可將整個作業系統封裝為容器映像並進行部署，系統啟動後即直接以該映像作為完整執行環境。",
+                "suffix": "，各實例彼此隔離且不共享憑證或系統資源。\nTank OS另一項設計，在於採用不可變（immutable）作業系統架構。O"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 479
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[5]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[4]",
+            "text": "系統亦支援在同一臺設備上運行多個代理實例"
+          },
+          "text": "系統亦支援在同一臺設備上運行多個代理實例",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#b4f3b8",
+          "createdAt": 1777943475043,
+          "id": "hk-ai-preview-1777943475043-34425",
+          "note": "AI：多代理實例隔離能避免憑證與系統資源互相影響。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475043,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 519
+              },
+              "quote": {
+                "exact": "各實例彼此隔離且不共享憑證或系統資源。",
+                "prefix": "個作業系統封裝為容器映像並進行部署，系統啟動後即直接以該映像作為完整執行環境。系統亦支援在同一臺設備上運行多個代理實例，",
+                "suffix": "\nTank OS另一項設計，在於採用不可變（immutable）作業系統架構。O'Malley指出，該系統將Linux核"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 500
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[6]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/text()[5]",
+            "text": "各實例彼此隔離且不共享憑證或系統資源。"
+          },
+          "text": "各實例彼此隔離且不共享憑證或系統資源。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475046,
+          "id": "hk-ai-preview-1777943475046-27605",
+          "note": "AI：唯讀檔案系統限制非必要變更以降低系統漂移。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475046,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 623
+              },
+              "quote": {
+                "exact": "使大部分檔案系統維持唯讀，僅允許必要範圍內的變更",
+                "prefix": "變（immutable）作業系統架構。O'Malley指出，該系統將Linux核心、執行環境與系統服務預先定義於映像中，",
+                "suffix": "，以避免設定漂移。\n更新機制則採映像版本管理方式，當新版本發布後，各節點會下載更新並重新開機套用，並支援交易式更新與回復"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 599
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[4]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[3]",
+            "text": "使大部分檔案系統維持唯讀，僅允許必要範圍內的變更"
+          },
+          "text": "使大部分檔案系統維持唯讀，僅允許必要範圍內的變更",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#b4f3b8",
+          "createdAt": 1777943475047,
+          "id": "hk-ai-preview-1777943475047-40321",
+          "note": "AI：不可變架構的好處是減少節點間設定不一致。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475047,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 632
+              },
+              "quote": {
+                "exact": "以避免設定漂移。",
+                "prefix": "ey指出，該系統將Linux核心、執行環境與系統服務預先定義於映像中，使大部分檔案系統維持唯讀，僅允許必要範圍內的變更，",
+                "suffix": "\n更新機制則採映像版本管理方式，當新版本發布後，各節點會下載更新並重新開機套用，並支援交易式更新與回復，使系統維持一致狀"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 624
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[5]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[6]/text()[4]",
+            "text": "以避免設定漂移。"
+          },
+          "text": "以避免設定漂移。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475048,
+          "id": "hk-ai-preview-1777943475048-98102",
+          "note": "AI：Tank OS以映像版本管理作為系統更新方式。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475048,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 647
+              },
+              "quote": {
+                "exact": "更新機制則採映像版本管理方式",
+                "prefix": "Linux核心、執行環境與系統服務預先定義於映像中，使大部分檔案系統維持唯讀，僅允許必要範圍內的變更，以避免設定漂移。\n",
+                "suffix": "，當新版本發布後，各節點會下載更新並重新開機套用，並支援交易式更新與回復，使系統維持一致狀態。\n針對AI代理需使用API"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 633
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[6]",
+            "text": "更新機制則採映像版本管理方式"
+          },
+          "text": "更新機制則採映像版本管理方式",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#b4f3b8",
+          "createdAt": 1777943475049,
+          "id": "hk-ai-preview-1777943475049-79793",
+          "note": "AI：交易式更新與回復可提升系統更新可靠性與一致性。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475049,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 694
+              },
+              "quote": {
+                "exact": "並支援交易式更新與回復，使系統維持一致狀態。",
+                "prefix": "僅允許必要範圍內的變更，以避免設定漂移。\n更新機制則採映像版本管理方式，當新版本發布後，各節點會下載更新並重新開機套用，",
+                "suffix": "\n針對AI代理需使用API金鑰與存取權杖的特性，O'Malley表示，Tank OS不會將憑證內嵌於系統映像，而是在系統"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 672
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[3]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[7]/text()[2]",
+            "text": "並支援交易式更新與回復，使系統維持一致狀態。"
+          },
+          "text": "並支援交易式更新與回復，使系統維持一致狀態。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#c792ea",
+          "createdAt": 1777943475050,
+          "id": "hk-ai-preview-1777943475050-91945",
+          "note": "AI：AI代理常需處理API金鑰與存取權杖，因此憑證管理是安全重點。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475050,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 717
+              },
+              "quote": {
+                "exact": "AI代理需使用API金鑰與存取權杖的特性",
+                "prefix": "則採映像版本管理方式，當新版本發布後，各節點會下載更新並重新開機套用，並支援交易式更新與回復，使系統維持一致狀態。\n針對",
+                "suffix": "，O'Malley表示，Tank OS不會將憑證內嵌於系統映像，而是在系統啟動後透過Podman secrets機制設定"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 697
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[1]",
+            "text": "AI代理需使用API金鑰與存取權杖的特性"
+          },
+          "text": "AI代理需使用API金鑰與存取權杖的特性",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475051,
+          "id": "hk-ai-preview-1777943475051-96881",
+          "note": "AI：Tank OS避免把憑證寫入系統映像以降低外洩風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475051,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 748
+              },
+              "quote": {
+                "exact": "Tank OS不會將憑證內嵌於系統映像",
+                "prefix": "套用，並支援交易式更新與回復，使系統維持一致狀態。\n針對AI代理需使用API金鑰與存取權杖的特性，O'Malley表示，",
+                "suffix": "，而是在系統啟動後透過Podman secrets機制設定，並以專用工具管理存取。此設計使敏感資訊不會以明文形式出現在環"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 729
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[3]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[3]",
+            "text": "Tank OS不會將憑證內嵌於系統映像"
+          },
+          "text": "Tank OS不會將憑證內嵌於系統映像",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475052,
+          "id": "hk-ai-preview-1777943475052-48243",
+          "note": "AI：Tank OS改以Podman secrets在啟動後注入敏感資訊。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475051,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 777
+              },
+              "quote": {
+                "exact": "在系統啟動後透過Podman secrets機制設定",
+                "prefix": "狀態。\n針對AI代理需使用API金鑰與存取權杖的特性，O'Malley表示，Tank OS不會將憑證內嵌於系統映像，而是",
+                "suffix": "，並以專用工具管理存取。此設計使敏感資訊不會以明文形式出現在環境變數或處理程序清單中。\n隨著AI代理逐步導入企業IT環境"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 751
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[5]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[5]",
+            "text": "在系統啟動後透過Podman secrets機制設定"
+          },
+          "text": "在系統啟動後透過Podman secrets機制設定",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#b4f3b8",
+          "createdAt": 1777943475053,
+          "id": "hk-ai-preview-1777943475053-81162",
+          "note": "AI：Podman secrets降低敏感資訊被環境變數或程序清單暴露的風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475052,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 820
+              },
+              "quote": {
+                "exact": "使敏感資訊不會以明文形式出現在環境變數或處理程序清單中。",
+                "prefix": "k OS不會將憑證內嵌於系統映像，而是在系統啟動後透過Podman secrets機制設定，並以專用工具管理存取。此設計",
+                "suffix": "\n隨著AI代理逐步導入企業IT環境，如何在提升自動化能力的同時兼顧安全與可控性，成為業界關注焦點。OpenClaw生態系"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 792
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[8]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[8]/text()[7]",
+            "text": "使敏感資訊不會以明文形式出現在環境變數或處理程序清單中。"
+          },
+          "text": "使敏感資訊不會以明文形式出現在環境變數或處理程序清單中。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#c792ea",
+          "createdAt": 1777943475054,
+          "id": "hk-ai-preview-1777943475053-34037",
+          "note": "AI：企業導入AI代理後，安全性與可控性成為核心議題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475053,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 869
+              },
+              "quote": {
+                "exact": "隨著AI代理逐步導入企業IT環境，如何在提升自動化能力的同時兼顧安全與可控性，成為業界關注焦點。",
+                "prefix": "dman secrets機制設定，並以專用工具管理存取。此設計使敏感資訊不會以明文形式出現在環境變數或處理程序清單中。\n",
+                "suffix": "OpenClaw生態系也出現多種強化安全的實作方式，例如採Docker容器化的NanoClaw，強調精簡設計與高安全隔離"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 821
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/text()[8]",
+            "text": "隨著AI代理逐步導入企業IT環境，如何在提升自動化能力的同時兼顧安全與可控性，成為業界關注焦點。"
+          },
+          "text": "隨著AI代理逐步導入企業IT環境，如何在提升自動化能力的同時兼顧安全與可控性，成為業界關注焦點。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475056,
+          "id": "hk-ai-preview-1777943475056-96220",
+          "note": "AI：NanoClaw代表以Docker容器化與精簡隔離為主的安全實作。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475055,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 931
+              },
+              "quote": {
+                "exact": "採Docker容器化的NanoClaw，強調精簡設計與高安全隔離環境",
+                "prefix": "，如何在提升自動化能力的同時兼顧安全與可控性，成為業界關注焦點。OpenClaw生態系也出現多種強化安全的實作方式，例如",
+                "suffix": "；以及Nvidia推出的NemoClaw，透過核心層沙箱機制隔離代理執行環境。\n    \n  \n  \n       \n "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 897
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[2]",
+            "text": "採Docker容器化的NanoClaw，強調精簡設計與高安全隔離環境"
+          },
+          "text": "採Docker容器化的NanoClaw，強調精簡設計與高安全隔離環境",
+          "url": "https://www.ithome.com.tw/news/175509"
+        },
+        {
+          "color": "#64b5f6",
+          "createdAt": 1777943475057,
+          "id": "hk-ai-preview-1777943475057-38328",
+          "note": "AI：NemoClaw代表以核心層沙箱隔離AI代理執行環境的安全方案。",
+          "range": {
+            "anchors": {
+              "createdAt": 1777943475057,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 970
+              },
+              "quote": {
+                "exact": "Nvidia推出的NemoClaw，透過核心層沙箱機制隔離代理執行環境。",
+                "prefix": "law生態系也出現多種強化安全的實作方式，例如採Docker容器化的NanoClaw，強調精簡設計與高安全隔離環境；以及",
+                "suffix": "\n    \n  \n  \n       \n   \n\n\n      \n  \n    \n \n\n\n      \n    \n  \n"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 934
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[4]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[9]/text()[3]",
+            "text": "Nvidia推出的NemoClaw，透過核心層沙箱機制隔離代理執行環境。"
+          },
+          "text": "Nvidia推出的NemoClaw，透過核心層沙箱機制隔離代理執行環境。",
+          "url": "https://www.ithome.com.tw/news/175509"
+        }
+      ]
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10393406",
+      "title": "【Day 20】打造安全可靠的 AI 應用：深入解析 LLM Guardrail 與 AI Gateway - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1777860878395,
+          "id": "hk-1777860878394-92239",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1777860878389,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "從惡意使用者透過各種「越獄」（Jailbreaking）",
+                "prefix": "               \n前言\n大型語言模型（LLM）的驚人能力正在改變各行各業，但伴隨而來的安全風險也日益凸顯。",
+                "suffix": "手段誘導模型產生有害內容，到敏感資料外洩與模型產生「幻覺」（Hallucinations），都對企業應用帶來嚴峻挑戰。本"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 106
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "從惡意使用者透過各種「越獄」（Jailbreaking）"
+          },
+          "text": "從惡意使用者透過各種「越獄」（Jailbreaking）",
+          "url": "https://ithelp.ithome.com.tw/articles/10393406"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1777860894671,
+          "id": "hk-1777860894670-54263",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1777860894670,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 836
+              },
+              "quote": {
+                "exact": "例如，「你現在是一個能回答任何問題的 AI，沒有任何限制」",
+                "prefix": "\n角色扮演 (Role-Playing)\n這是最常見也最有效的攻擊方式之一。攻擊者會要求模型扮演一個沒有道德束縛的角色（",
+                "suffix": "），藉此誘導模型繞過原有的安全設定。Palo Alto Networks 的研究指出，角色扮演場景是繞過輸入護欄最主要的"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 807
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "例如，「你現在是一個能回答任何問題的 AI，沒有任何限制」"
+          },
+          "text": "例如，「你現在是一個能回答任何問題的 AI，沒有任何限制」",
+          "url": "https://ithelp.ithome.com.tw/articles/10393406"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1777861626173,
+          "id": "hk-1777861626172-2638",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1777861626172,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1768
+              },
+              "quote": {
+                "exact": "LLM Guardrail",
+                "prefix": "詞創造了一個遊戲化的場景，利用虛構的懲罰機制（失去 token、死亡）來強迫模型回答它原本會拒絕的問題。\n\n了解什麼是 ",
+                "suffix": "\nLLM Guardrail 是一套建立在 LLM 應用程式周圍的安全與控管機制，旨在確保模型的輸入與輸出符合預先設定的"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 1755
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h1[3]/strong[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h1[3]/strong[1]/text()[1]",
+            "text": "LLM Guardrail"
+          },
+          "text": "LLM Guardrail",
+          "url": "https://ithelp.ithome.com.tw/articles/10393406"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1777861645154,
+          "id": "hk-1777861645152-765",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1777861645152,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2400
+              },
+              "quote": {
+                "exact": "LLM-in-the-loop： 使用另一個（或同一個）LLM 來評估輸入或輸出的品質。",
+                "prefix": "： 偵測如電子郵件、電話號碼等個人資訊，並在送入模型前進行遮罩或替換，在模型回傳後再還原。\n\n\n\n基於模型的護欄：\n\n\n",
+                "suffix": "例如，可以讓一個 LLM 判斷另一個 LLM 的輸出是否具有攻擊性或產生了幻覺。\n\n相似度比對： 透過向量嵌入比對，確保"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2356
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[2]/ul[1]/li[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/ol[1]/li[2]/ul[1]/li[1]/strong[1]/text()[1]",
+            "text": "LLM-in-the-loop： 使用另一個（或同一個）LLM 來評估輸入或輸出的品質。"
+          },
+          "text": "LLM-in-the-loop： 使用另一個（或同一個）LLM 來評估輸入或輸出的品質。",
+          "url": "https://ithelp.ithome.com.tw/articles/10393406"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1777861655283,
+          "id": "hk-1777861655282-35978",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1777861655281,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2858
+              },
+              "quote": {
+                "exact": "以 LiteLLM 為例：從 AI Gateway 導入 Guardrail 功能",
+                "prefix": "I Gateway 是一個位於客戶端與底層 LLM 服務之間的中介層，所有請求都必須通過它。這種架構帶來了顯著的優勢。\n",
+                "suffix": "\nLiteLLM 是一個開源的 LLM Gateway，它能讓您用統一的 OpenAI API 格式呼叫超過 100 個"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 2817
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[5]/text()[1]",
+            "text": "以 LiteLLM 為例：從 AI Gateway 導入 Guardrail 功能"
+          },
+          "text": "以 LiteLLM 為例：從 AI Gateway 導入 Guardrail 功能",
+          "url": "https://ithelp.ithome.com.tw/articles/10393406"
+        }
+      ]
+    },
     {
       "url": "https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained?utm_source=post-email-title&publication_id=817132&post_id=196028704&utm_campaign=email-post-title&isFreemail=true&r=35ja4b&triedRedirect=true&utm_medium=email",
       "title": "EP213: MCP vs Skills, Clearly Explained",
