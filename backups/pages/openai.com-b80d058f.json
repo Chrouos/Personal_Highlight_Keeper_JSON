@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1782908038289,
+  "exportedAt": 1782919623709,
   "shared": true,
   "pages": [
     {
@@ -375,7 +375,7 @@
           "note": "AI：研究聚焦於藥物化學中重要但困難的 Chan–Lam 偶聯反應",
           "range": {
             "anchors": {
-              "createdAt": 1782448967502,
+              "createdAt": 1782908780194,
               "end": {
                 "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
                 "textOffset": 60
@@ -393,8 +393,8 @@
             },
             "endOffset": 60,
             "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "startOffset": 148,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[8]/text()[1]",
+            "startOffset": 178,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
             "text": "最有前景的提案 OAI-M1-03 聚焦於一種困難但有用的 Chan–Lam 偶聯版本；化學家利用這種反應形成碳－氮鍵。"
           },
           "text": "最有前景的提案 OAI-M1-03 聚焦於一種困難但有用的 Chan–Lam 偶聯版本；化學家利用這種反應形成碳－氮鍵。",

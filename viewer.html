@@ -160,6 +160,32 @@
         color: var(--accent);
         text-decoration: none;
       }
+      .actions {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 16px;
+      }
+      .dl-btn {
+        font-family: inherit;
+        font-size: 13px;
+        font-weight: 600;
+        color: #fff;
+        background: var(--accent);
+        border: none;
+        border-radius: 8px;
+        padding: 9px 18px;
+        cursor: pointer;
+        transition: opacity 0.15s ease;
+      }
+      .dl-btn:hover {
+        opacity: 0.88;
+      }
+      .dl-hint {
+        font-size: 12px;
+        color: var(--muted);
+      }
       .hidden {
         display: none;
       }
@@ -175,6 +201,10 @@
           <a id="pUrl" class="page-url" target="_blank" rel="noopener"></a>
           <div id="pMeta" class="page-meta"></div>
           <div id="pTags" class="tags"></div>
+          <div class="actions">
+            <button type="button" id="dlBtn" class="dl-btn"></button>
+            <span id="dlHint" class="dl-hint"></span>
+          </div>
         </header>
 
         <section id="secEntries" class="section">
@@ -218,6 +248,13 @@
           mindmap: isZh ? "心智圖大綱" : "Mind map outline",
           noEntries: isZh ? "這頁沒有標註。" : "No highlights on this page.",
           foot: isZh ? "由 Highlight Keeper 分享" : "Shared via Highlight Keeper",
+          download: isZh ? "下載筆記（JSON）" : "Download notes (JSON)",
+          downloadHint: isZh
+            ? "可用 Highlight Keeper →「管理所有筆記」→「匯入多個 JSON」匯入"
+            : "Import via Highlight Keeper → \"Manage all notes\" → \"Import JSON\"",
+          downloadedHint: isZh
+            ? "已自動下載。若被瀏覽器擋住，請按上方按鈕。可用 Highlight Keeper →「匯入多個 JSON」匯入。"
+            : "Downloaded automatically. If blocked, click the button above. Import via Highlight Keeper → \"Import JSON\".",
         };
 
         var $ = function (id) {
@@ -391,9 +428,58 @@
             $("secMindmap").classList.remove("hidden");
           }
 
+          // 下載：存成可直接匯回 Highlight Keeper 的單頁 JSON。
+          var dlBtn = $("dlBtn");
+          dlBtn.textContent = T.download;
+          $("dlHint").textContent = T.downloadHint;
+          dlBtn.addEventListener("click", function () {
+            downloadPage(page, title);
+          });
+
           document.title = title + " — Highlight Keeper";
           $("loading").classList.add("hidden");
           $("content").classList.remove("hidden");
+
+          // 打開連結即自動下載一次（瀏覽器擋住就退回讓使用者按按鈕）。
+          if (!/[?#&]nodl=1/.test(location.href)) {
+            setTimeout(function () {
+              try {
+                downloadPage(page, title);
+                $("dlHint").textContent = T.downloadedHint;
+              } catch (_e) {}
+            }, 300);
+          }
+        }
+
+        function downloadPage(page, title) {
+          var payload = {
+            type: "highlight-keeper-bulk",
+            version: 2,
+            exportedAt: Date.now(),
+            shared: true,
+            pages: [page],
+          };
+          var blob = new Blob([JSON.stringify(payload, null, 2)], {
+            type: "application/json",
+          });
+          var href = URL.createObjectURL(blob);
+          var a = document.createElement("a");
+          a.href = href;
+          a.download = fileSlug(title || hostOf(page.url) || "notes") + ".json";
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          URL.revokeObjectURL(href);
+        }
+
+        function fileSlug(name) {
+          return (
+            String(name)
+              .replace(/[\/\\:*?"<>|]+/g, "-")
+              .replace(/\s+/g, "-")
+              .replace(/^-+|-+$/g, "")
+              .slice(0, 60) || "notes"
+          );
         }
 
         function hostOf(url) {
