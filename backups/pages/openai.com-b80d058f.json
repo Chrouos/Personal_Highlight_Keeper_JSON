@@ -1,0 +1,414 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1782908038289,
+  "shared": true,
+  "pages": [
+    {
+      "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/",
+      "title": "近乎自主的 AI 化學家改善藥物化學中的高難度反應 | OpenAI",
+      "tags": [
+        "AI",
+        "Chan-Lam偶聯",
+        "GPT-5.4",
+        "科學研究",
+        "自動化實驗室",
+        "藥物化學"
+      ],
+      "entries": [
+        {
+          "color": "#fbf6cb",
+          "createdAt": 1782448967499,
+          "id": "hk-ai-1782448967499-38586",
+          "note": "AI：下一步將持續驗證機制、適用範圍與可重現性",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967499,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(38) > p.mb-6.last\\:mb-0",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "接下來的直接步驟屬於科學層面：測試更廣泛的起始材料、研究添加劑為何能改善反應、繪製效果在哪些情況下有效或失效，並支持獨立重現。",
+                "prefix": "統。隨著相關能力持續提升，我們也會持續評估新興風險、強化防護措施，並清楚說明研究結果能證明什麼，以及不能證明什麼。下一步",
+                "suffix": "這些研究合在一起，將判定該方法可應用的廣度，以及它在實際藥物化學工作流程中的有用程度。我們的長期目標，是讓 AI 系統成"
+              },
+              "start": {
+                "css": "div#xia-yi-bu > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[38]/p[1]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[37]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "接下來的直接步驟屬於科學層面：測試更廣泛的起始材料、研究添加劑為何能改善反應、繪製效果在哪些情況下有效或失效，並支持獨立重現。"
+          },
+          "text": "接下來的直接步驟屬於科學層面：測試更廣泛的起始材料、研究添加劑為何能改善反應、繪製效果在哪些情況下有效或失效，並支持獨立重現。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#fbf6cb",
+          "createdAt": 1782448967500,
+          "id": "hk-ai-1782448967499-13272",
+          "note": "AI：AI 與高通量實驗共同推動新的科學研究模式",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967499,
+              "end": {
+                "css": "div.border-primary-12.bg-secondary-100 > div.px-6.pb-8 > div.no-scrollbar.relative > div.sticky.inset-s-0 > figure.col-start-1.row-start-1 > blockquote.text-h5.text-primary-100",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "高通量實驗結合現代 AI 工具，開啟了科學發現的新方向。",
+                "prefix": "且值得與科學社群分享。接下來會有更強的檢驗：獨立實驗室能否重現該結果，以及化學家是否會發現它在更廣泛的分子範圍中有用。“",
+                "suffix": "這項成果充分展現，極其溫和的反應條件搭配實用的氧化劑，能讓藥物合成中常用的這類反應展現廣泛的基質適用範圍。”—Tim C"
+              },
+              "start": {
+                "css": "div.px-6.pb-8 > div.no-scrollbar.relative > div.sticky.inset-s-0 > figure.col-start-1.row-start-1 > blockquote.text-h5.text-primary-100 > span.absolute.inset-s-\\[-0\\.5em\\]",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/figure[1]/blockquote[1]/span[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[27]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/figure[1]/blockquote[1]/span[1]/text()[1]",
+            "text": "高通量實驗結合現代 AI 工具，開啟了科學發現的新方向。"
+          },
+          "text": "高通量實驗結合現代 AI 工具，開啟了科學發現的新方向。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#fbf6cb",
+          "createdAt": 1782448967500,
+          "id": "hk-ai-1782448967500-15986",
+          "note": "AI：研究成果經過外部化學專家審閱",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967500,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(26) > p.mb-6.last\\:mb-0",
+                "textOffset": 29
+              },
+              "quote": {
+                "exact": "四位外部化學專家審閱了描述 OAI-M1-03 的預印本。",
+                "prefix": "。在研究發表於科學期刊前，進行實驗台規模驗證也是慣例。手動實驗台規模驗證的反應小瓶。TEMPO 在實驗台規模提升產物形成",
+                "suffix": "他們的評估支持我們的看法：該結果具有新穎性，且值得與科學社群分享。接下來會有更強的檢驗：獨立實驗室能否重現該結果，以及化"
+              },
+              "start": {
+                "css": "div.group\\/component-group.\\@container > div.\\@container.w-full > div.col-span-full.grid > div.max-w-container.\\@container:nth-of-type(2) > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h6.text-h6.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[26]/p[1]/span[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[25]/div[1]/div[1]/div[1]/div[2]/div[1]/h6[1]/text()[1]",
+            "text": "四位外部化學專家審閱了描述 OAI-M1-03 的預印本。"
+          },
+          "text": "四位外部化學專家審閱了描述 OAI-M1-03 的預印本。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#c4eec6",
+          "createdAt": 1782448967500,
+          "id": "hk-ai-1782448967500-99633",
+          "note": "AI：AI 能根據實驗結果持續規劃下一輪研究",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967500,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(22) > p.mb-6.last\\:mb-0",
+                "textOffset": 34
+              },
+              "quote": {
+                "exact": "在分析第一輪資料後，系統提出了更聚焦的第二輪實驗，用以測試後續假設。",
+                "prefix": "子集合中卻會失敗。數千個反應讓我們能在十種受測氧化劑中辨識出 TEMPO，觀察其效果在多樣組合中重複出現，並找出其限制。",
+                "suffix": "一項有用的後續發現是，TEMPO 可由便宜許多的類似物 4-hydroxy-TEMPO 取代，且性能幾乎沒有損失。該結果"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 180
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[22]/p[1]/span[1]/text()[1]",
+            "startOffset": 180,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": "在分析第一輪資料後，系統提出了更聚焦的第二輪實驗，用以測試後續假設。"
+          },
+          "text": "在分析第一輪資料後，系統提出了更聚焦的第二輪實驗，用以測試後續假設。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#c4eec6",
+          "createdAt": 1782448967500,
+          "id": "hk-ai-1782448967500-13814",
+          "note": "AI：最佳化條件同時提升平均產率與實際可用性",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967500,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(18) > p.mb-6.last\\:mb-0",
+                "textOffset": 92
+              },
+              "quote": {
+                "exact": "在最佳化條件下，反應以兩種方式改善：平均產率提高，且更多基質組合達到實際有用的產率。",
+                "prefix": "關鍵實驗。我們的發現OAI-M1-03 將 TEMPO 辨識為此處研究的一級磺醯胺 Chan-Lam 偶聯的有用添加劑。",
+                "suffix": "在兩個週期中，Maria 總共執行了 10,080 個反應，比一位化學家每天執行三個反應、連續十年所能完成的還多。這樣的"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(18) > p.mb-6.last\\:mb-0",
+                "textOffset": 50
+              },
+              "version": 1
+            },
+            "endOffset": 92,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[18]/p[1]/span[1]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[18]/p[1]/span[1]/text()[1]",
+            "text": "在最佳化條件下，反應以兩種方式改善：平均產率提高，且更多基質組合達到實際有用的產率。"
+          },
+          "text": "在最佳化條件下，反應以兩種方式改善：平均產率提高，且更多基質組合達到實際有用的產率。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#fbf6cb",
+          "createdAt": 1782448967501,
+          "id": "hk-ai-1782448967501-79258",
+          "note": "AI：TEMPO 被驗證為提升反應效果的重要添加劑",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967500,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(18) > p.mb-6.last\\:mb-0",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "OAI-M1-03 將 TEMPO 辨識為此處研究的一級磺醯胺 Chan-Lam 偶聯的有用添加劑。",
+                "prefix": "提出關鍵研究想法，而人類化學家提供高階引導與判斷、修正實驗細節、協助準備實驗室耗材與試劑，並手動重複關鍵實驗。我們的發現",
+                "suffix": "在最佳化條件下，反應以兩種方式改善：平均產率提高，且更多基質組合達到實際有用的產率。在兩個週期中，Maria 總共執行了"
+              },
+              "start": {
+                "css": "div#wo-men-de-fa-xian > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[18]/p[1]/span[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[17]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "OAI-M1-03 將 TEMPO 辨識為此處研究的一級磺醯胺 Chan-Lam 偶聯的有用添加劑。"
+          },
+          "text": "OAI-M1-03 將 TEMPO 辨識為此處研究的一級磺醯胺 Chan-Lam 偶聯的有用添加劑。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#fbf6cb",
+          "createdAt": 1782448967501,
+          "id": "hk-ai-1782448967501-97919",
+          "note": "AI：AI 提出的研究假設具有新穎性並引起專家重視",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967501,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(13) > p.mb-6.last\\:mb-0",
+                "textOffset": 84
+              },
+              "quote": {
+                "exact": "化學家認為這項建議既出人意料又饒富趣味。",
+                "prefix": "M1-03 為四個入選提案之一，建議使用 TEMPO 等溫和氧化劑，來改善 Chan-Lam 反應在磺醯胺合成中的表現。",
+                "suffix": "我們在本部落格文章與這篇論文⁠(在新視窗中開啟)中分享 OAI-M1-03 的詳細發現。最終研究提案隨後由 Maria "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(13) > p.mb-6.last\\:mb-0",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[13]/p[1]/span[1]/text()[1]",
+            "startOffset": 64,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[13]/p[1]/span[1]/text()[1]",
+            "text": "化學家認為這項建議既出人意料又饒富趣味。"
+          },
+          "text": "化學家認為這項建議既出人意料又饒富趣味。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#fbf6cb",
+          "createdAt": 1782448967501,
+          "id": "hk-ai-1782448967501-85250",
+          "note": "AI：TEMPO 被提出作為改善 Chan–Lam 反應的重要添加劑",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967501,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(13) > p.mb-6.last\\:mb-0",
+                "textOffset": 64
+              },
+              "quote": {
+                "exact": "OAI-M1-03 為四個入選提案之一，建議使用 TEMPO 等溫和氧化劑，來改善 Chan-Lam 反應在磺醯胺合成中的表現。",
+                "prefix": " AI 將選定的高階計畫轉換為詳細實驗室指令，執行數千個高通量實驗，分析原始資料，並將結構化結果回傳給 GPT‑5.4。",
+                "suffix": "化學家認為這項建議既出人意料又饒富趣味。我們在本部落格文章與這篇論文⁠(在新視窗中開啟)中分享 OAI-M1-03 的詳"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(12) > p.mb-6.last\\:mb-0",
+                "textOffset": 180
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[13]/p[1]/span[1]/text()[1]",
+            "startOffset": 180,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[12]/p[1]/span[1]/text()[1]",
+            "text": "OAI-M1-03 為四個入選提案之一，建議使用 TEMPO 等溫和氧化劑，來改善 Chan-Lam 反應在磺醯胺合成中的表現。"
+          },
+          "text": "OAI-M1-03 為四個入選提案之一，建議使用 TEMPO 等溫和氧化劑，來改善 Chan-Lam 反應在磺醯胺合成中的表現。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#c4eec6",
+          "createdAt": 1782448967501,
+          "id": "hk-ai-1782448967501-59345",
+          "note": "AI：AI 模型與自動化實驗平台形成互補合作架構",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967501,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(12) > p.mb-6.last\\:mb-0",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "這個整合系統結合了互補能力。",
+                "prefix": "供更廣泛且更實用的方法，來製備並探索可能有用的分子。將 GPT‑5.4 連接到 Maria AI 與 Maria Lab",
+                "suffix": "與 Maria AI 合作的科學家撰寫提示詞，並在一個控制框架內搭配 GPT‑5.4 使用，以生成並排序數千個可能的研究"
+              },
+              "start": {
+                "css": "div#jiang-gpt-54-lian-jie-dao-maria-ai-yu-maria-lab > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[12]/p[1]/span[1]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[11]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "這個整合系統結合了互補能力。"
+          },
+          "text": "這個整合系統結合了互補能力。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#e2c7f5",
+          "createdAt": 1782448967501,
+          "id": "hk-ai-1782448967501-97460",
+          "note": "AI：研究針對長期存在的低產率問題進行改善",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967501,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 81
+              },
+              "quote": {
+                "exact": "特別是，一級磺醯胺與硼酸的偶聯歷來產率偏低。",
+                "prefix": "。Chan–Lam 偶聯在藥物化學中很有用，因為它能形成藥物中常見的碳－氮鍵。然而，這個反應並非對每一類分子都同樣有效。",
+                "suffix": "磺醯胺是在腫瘤學與感染性疾病用藥中可見的重要分子家族。讓這個反應更可靠，可能為藥物化學家提供更廣泛且更實用的方法，來製備"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 59
+              },
+              "version": 1
+            },
+            "endOffset": 81,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 59,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "text": "特別是，一級磺醯胺與硼酸的偶聯歷來產率偏低。"
+          },
+          "text": "特別是，一級磺醯胺與硼酸的偶聯歷來產率偏低。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#e2c7f5",
+          "createdAt": 1782448967502,
+          "id": "hk-ai-1782448967501-9857",
+          "note": "AI：Chan–Lam 偶聯是藥物合成的重要反應之一",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967501,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 38
+              },
+              "quote": {
+                "exact": "Chan–Lam 偶聯在藥物化學中很有用，因為它能形成藥物中常見的碳－氮鍵。",
+                "prefix": "分子，或花費大量時間開發不同路徑。這使合成成為藥物發現中的主要瓶頸：科學家通常只能測試他們能製造或以其他方式取得的分子。",
+                "suffix": "然而，這個反應並非對每一類分子都同樣有效。特別是，一級磺醯胺與硼酸的偶聯歷來產率偏低。磺醯胺是在腫瘤學與感染性疾病用藥中"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(9) > p.mb-6.last\\:mb-0",
+                "textOffset": 164
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 164,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[9]/p[1]/span[1]/text()[1]",
+            "text": "Chan–Lam 偶聯在藥物化學中很有用，因為它能形成藥物中常見的碳－氮鍵。"
+          },
+          "text": "Chan–Lam 偶聯在藥物化學中很有用，因為它能形成藥物中常見的碳－氮鍵。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        },
+        {
+          "color": "#e2c7f5",
+          "createdAt": 1782448967502,
+          "id": "hk-ai-1782448967502-98677",
+          "note": "AI：研究聚焦於藥物化學中重要但困難的 Chan–Lam 偶聯反應",
+          "range": {
+            "anchors": {
+              "createdAt": 1782448967502,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "最有前景的提案 OAI-M1-03 聚焦於一種困難但有用的 Chan–Lam 偶聯版本；化學家利用這種反應形成碳－氮鍵。",
+                "prefix": "導與評分提示詞，以及選擇要測試的提案，持續參與其中。他們也對實驗計畫進行有限修正、協助基本實驗操作，並獨立驗證最終結果。",
+                "suffix": "從改進製程化學中的 Chan–Lam 偶聯這一開放式目標出發，GPT‑5.4 獨立辨識出一級磺醯胺是一類具挑戰性且高價值"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 273
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 148,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[8]/text()[1]",
+            "text": "最有前景的提案 OAI-M1-03 聚焦於一種困難但有用的 Chan–Lam 偶聯版本；化學家利用這種反應形成碳－氮鍵。"
+          },
+          "text": "最有前景的提案 OAI-M1-03 聚焦於一種困難但有用的 Chan–Lam 偶聯版本；化學家利用這種反應形成碳－氮鍵。",
+          "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782448967540,
+        "model": "chatgpt-web",
+        "note": "OpenAI 與 Molecule.one 合作，將 GPT-5.4 結合 Maria AI 與高通量實驗室，建立近乎自主的化學研究流程。研究聚焦於藥物化學中產率偏低的 Chan–Lam 偶聯反應，GPT-5.4 不僅提出研究方向，更主動找出一級磺醯胺是高價值目標，並建議使用 TEMPO 作為添加劑改善反應。\n\n整個流程由 AI 產生研究提案、人類挑選方案、Maria 執行數千次高通量實驗，再將結果回饋給 GPT-5.4 持續設計下一輪實驗，形成研究閉環。最終證實 TEMPO 能有效提升反應產率，且人工放大量級實驗也成功驗證成果，並找到成本更低的替代品 4-hydroxy-TEMPO。\n\n研究顯示，AI 已能從文獻分析進一步發展到提出假說、規劃實驗、分析資料與優化研究方向，但仍需人類專家決策、監督與實驗驗證。OpenAI 認為，AI 的角色不是取代科學家，而是成為可靠的研究夥伴，加速科學發現，同時持續重視安全性、可重現性與負責任的研究方式。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/ai-chemist-improves-reaction/"
+      },
+      "mindmap": null
+    }
+  ]
+}
