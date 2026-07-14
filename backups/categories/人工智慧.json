@@ -1,0 +1,1289 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979548,
+  "category": "人工智慧",
+  "pages": [
+    {
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
+      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
+      "tags": [
+        "人工智慧",
+        "成本控制",
+        "提示詞工程",
+        "機器學習",
+        "OpenAI API"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119046-30444",
+          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000642421,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 234
+              },
+              "quote": {
+                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
+                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 184
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
+          },
+          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119047-74884",
+          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022174,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
+                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
+          },
+          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119047-39561",
+          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347163,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 275
+              },
+              "quote": {
+                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
+                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 228
+              },
+              "version": 1
+            },
+            "endOffset": 275,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "startOffset": 228,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
+          },
+          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119048-35651",
+          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022302,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
+                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
+          },
+          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-92669",
+          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000564166,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 209
+              },
+              "quote": {
+                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
+                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 176
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
+          },
+          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-68125",
+          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022361,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
+                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
+          },
+          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119050,
+          "id": "hk-ai-1783916119049-48527",
+          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347440,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
+                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
+              },
+              "start": {
+                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
+          },
+          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119051-15100",
+          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022492,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
+                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
+          },
+          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-99327",
+          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347576,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
+                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 138
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
+          },
+          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-94048",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022603,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
+                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 56
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
+          },
+          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119053,
+          "id": "hk-ai-1783916119052-62688",
+          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022638,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 81
+              },
+              "quote": {
+                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
+                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
+            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
+          },
+          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783916119321,
+        "model": "chatgpt-web",
+        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "title": "The twilight of the chatbots - by Ethan Mollick",
+      "tags": [
+        "人工智慧",
+        "工作轉型",
+        "指數型成長",
+        "開源模型",
+        "職涯發展",
+        "AI 代理人"
+      ],
+      "entries": [
+        {
+          "color": "#dee3de",
+          "createdAt": 1782873514303,
+          "id": "hk-1782873514301-49365",
+          "note": "有人在偷臭",
+          "range": {
+            "anchors": {
+              "createdAt": 1782873514300,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2203
+              },
+              "quote": {
+                "exact": "though it has been a while since Google has released a new model",
+                "prefix": "y three American companies — Anthropic, OpenAI, and Google (",
+                "suffix": "). But there is a second set of AI models that typically lag"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2139
+              },
+              "version": 1
+            },
+            "endOffset": 225,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "startOffset": 161,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "though it has been a while since Google has released a new model"
+          },
+          "text": "though it has been a while since Google has released a new model",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782876691410,
+          "id": "hk-1782876691405-47363",
+          "note": "以前我們用 AI 是這樣：\n我問一句 → AI 回一句 → 我檢查 → 再問下一步",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876691403,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4375
+              },
+              "quote": {
+                "exact": "co-intelligence",
+                "prefix": "anging. Until recently, the dominant way to use AI was as a ",
+                "suffix": ". You would ask the AI to do something, check the results, a"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4360
+              },
+              "version": 1
+            },
+            "endOffset": 147,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 132,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "co-intelligence"
+          },
+          "text": "co-intelligence",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782876770887,
+          "id": "hk-1782876770883-19557",
+          "note": "現在開始變成：\n\n我交代任務 → Agent 自己查資料、改檔案、跑工具、修錯 → 我負責驗收\n\n這叫 delegation / 任務委派型使用\n\n[翻譯] 因此，工作越來越多是將工作分配給代理",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876770882,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5670
+              },
+              "quote": {
+                "exact": "So work is increasingly about assigning work to agents",
+                "prefix": "e Code 或 OpenAI 的 Codex。因此，AI 模型本已提升的能力，可以透過良好的工具或應用程式進一步提升。",
+                "suffix": ", rather than working together with chatbots. A joint study "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5616
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[9]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[9]/span[1]/text()[1]",
+            "text": "So work is increasingly about assigning work to agents"
+          },
+          "text": "So work is increasingly about assigning work to agents",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895701,
+          "id": "hk-ai-1782876895699-93537",
+          "note": "AI：當體制試圖追趕非人性的 AI 指數級成長曲線時，必然會產生動盪與不穩定",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895698,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6905
+              },
+              "quote": {
+                "exact": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature.",
+                "prefix": "g stable. I don’t think it is going to settle anytime soon. ",
+                "suffix": " And as long as we are on some sort of exponential, and for "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6729
+              },
+              "version": 1
+            },
+            "endOffset": 721,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 545,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature."
+          },
+          "text": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895702,
+          "id": "hk-ai-1782876895701-79826",
+          "note": "AI：AI 的單次提示執行任務時間在短時間內從數小時躍升至十六小時以上",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895701,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5925
+              },
+              "quote": {
+                "exact": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt.",
+                "prefix": "hange over a fixed window is larger than the one before it. ",
+                "suffix": "  This is why AI keeps feeling like it is making leaps, even"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5675
+              },
+              "version": 1
+            },
+            "endOffset": 346,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 96,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt."
+          },
+          "text": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895703,
+          "id": "hk-ai-1782876895703-84434",
+          "note": "AI：人們正從依賴聊天機器人補足能力的階段，走向由專家管理 AI 代理人來完成工作的時代",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895702,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5563
+              },
+              "quote": {
+                "exact": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager.",
+                "prefix": "he more useful output they got from Claude from each prompt.",
+                "suffix": "A moment in timeBeing on an exponential means each change ov"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5368
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/a[1]/text()[1]",
+            "startOffset": 278,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager."
+          },
+          "text": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895705,
+          "id": "hk-ai-1782876895704-65229",
+          "note": "AI：使用 AI 工具的成功關鍵取決於使用者的專業領域經驗而非其職稱",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895703,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5276
+              },
+              "quote": {
+                "exact": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain.",
+                "prefix": "professions when actually using Claude code on coding tasks.",
+                "suffix": " And, even more interestingly, the more useful output they g"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5090
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[10]/span[2]/text()[1]",
+            "text": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain."
+          },
+          "text": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895706,
+          "id": "hk-ai-1782876895705-9448",
+          "note": "AI：透過良好的外掛工具或應用程式能進一步大幅提升 AI 模型的能力",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895705,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4209
+              },
+              "quote": {
+                "exact": "the already increasing ability of AI models can be improved still further by a good harness or app.",
+                "prefix": "for agents like Claude Code or OpenAI's Codex. As a result, ",
+                "suffix": "So work is increasingly about assigning work to agents, rath"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4110
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[2]/text()[1]",
+            "startOffset": 214,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[2]/text()[1]",
+            "text": "the already increasing ability of AI models can be improved still further by a good harness or app."
+          },
+          "text": "the already increasing ability of AI models can be improved still further by a good harness or app.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895707,
+          "id": "hk-ai-1782876895706-71606",
+          "note": "AI：具備自我修正能力的智慧 AI 系統不再需要人類頻繁干預，改變了既有的工作模式",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895706,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3796
+              },
+              "quote": {
+                "exact": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working",
+                "prefix": "ngly, it is not the way AI is being used for valuable work. ",
+                "suffix": " (this is also the subject of my upcoming book, Co-Existence"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3660
+              },
+              "version": 1
+            },
+            "endOffset": 263,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[1]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[1]/text()[1]",
+            "text": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working"
+          },
+          "text": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895708,
+          "id": "hk-ai-1782876895707-34004",
+          "note": "AI：開源模型雖然令人印象深刻，但實際表現往往不如基準測試所顯示的那麼好",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895707,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2608
+              },
+              "quote": {
+                "exact": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate",
+                "prefix": "can hide how jagged the frontier is (and also the fact that ",
+                "suffix": "). To get real insight, you need to try using AI for differe"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2496
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[7]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[4]",
+            "text": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate"
+          },
+          "text": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895709,
+          "id": "hk-ai-1782876895708-99207",
+          "note": "AI：開源權重模型允許任何人自由修改且操作成本相當低廉",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895708,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2025
+              },
+              "quote": {
+                "exact": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate.",
+                "prefix": "12 months behind the frontier, all of which are from China. ",
+                "suffix": " They, too, are climbing up an exponential improvement curve"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1835
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[2]",
+            "startOffset": 123,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[2]",
+            "text": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate."
+          },
+          "text": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895710,
+          "id": "hk-ai-1782876895709-30619",
+          "note": "AI：AI 雖然無法通過所有測試且運行成本高昂，但其進步速度極快",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895709,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1310
+              },
+              "quote": {
+                "exact": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate.",
+                "prefix": " of human engineering work (it cost $251 in tokens). Again, ",
+                "suffix": " In my own experiments, I found Fable was able to work auton"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1186
+              },
+              "version": 1
+            },
+            "endOffset": 307,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[3]/span[2]/text()[1]",
+            "startOffset": 183,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[3]/span[2]/text()[1]",
+            "text": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate."
+          },
+          "text": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895710,
+          "id": "hk-ai-1782876895710-83237",
+          "note": "AI：AI 取代人類工作時數的能力正以超越指數的速度增長",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895710,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 950
+              },
+              "quote": {
+                "exact": "They are all increasing at a better than exponential rate.",
+                "prefix": "in many fields to AI performance using professional judges. ",
+                "suffix": "Another organization doing similar experiments, Epoch, recen"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 892
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "startOffset": 191,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "text": "They are all increasing at a better than exponential rate."
+          },
+          "text": "They are all increasing at a better than exponential rate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895711,
+          "id": "hk-ai-1782876895711-88909",
+          "note": "AI：政府干預導致目前無法使用兩個最強大的 AI 模型",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895710,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 279
+              },
+              "quote": {
+                "exact": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6",
+                "prefix": " AI labs have been releasing more quickly than ever (though ",
+                "suffix": "). But it isn't just release timing. The evidence points to "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 174
+              },
+              "version": 1
+            },
+            "endOffset": 239,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 134,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6"
+          },
+          "text": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782876895868,
+        "model": "chatgpt-web",
+        "note": "AI 技術正以超越想像的指數級速度瘋狂加速，這不僅僅體現在模型的更新頻率，更反映在其實際執行工作的能力上。過去我們習慣將 AI 當作「協同智慧」，用一句一答的聊天機器人模式來補足自身能力的空缺。然而，隨著能夠自主運行、自我修正的 AI 代理人（Agents）問世，工作型態發生了根本性的劇變。現在的工作核心不再是與 AI 共同協作，而是直接向 AI 代理人指派任務。在這種全新模式下，使用者的專業背景不再是限制，決定成敗的關鍵在於使用者本身的「領域專業知識」。擁有深厚經驗的專家能引導 AI 發揮更強大的效能，就像一位稱職的管理者在領導團隊一樣。儘管開源模型與前沿模型之間仍有差距，且政府干預或高昂成本等挑戰依舊存在，但 AI 的爆發力已讓所有在 2025 年底前擬定的舊計畫形同廢紙。人類社會與既有體制在面對這條非人性的加速曲線時，正經歷前所未有的劇烈震盪，而我們已經身處這場變革的暴風眼之中。",
+        "provider": "chatgpt",
+        "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+      "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
+      "tags": [
+        "人工智慧",
+        "系統設計",
+        "測試金字塔",
+        "API 安全",
+        "RAG",
+        "Redis"
+      ],
+      "entries": [
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750738,
+          "id": "hk-ai-1782805750737-47243",
+          "note": "AI：代理型 RAG 引入工具選擇後改變了模型的操作能力，帶來與傳統檢索完全不同的安全風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750736,
+              "end": {
+                "css": "div.comment-list.post-page-root-comment-list:nth-of-type(3) > div.comment-list-items > div.comment:nth-of-type(2) > div.pencraft.pc-display-flex:nth-of-type(3) > div.pencraft.pc-display-flex:nth-of-type(2) > div.comment-body.expanded:nth-of-type(2)",
+                "textOffset": 313
+              },
+              "quote": {
+                "exact": "Agentic RAG, the moment it has tool selection and MCP servers in the loop, changes what the model can do, not just what it retrieves. That is a different risk surface.",
+                "prefix": "nd Graph RAG change what the model knows before it answers. ",
+                "suffix": " A bad retrieval gives you a wrong answer you can read and r"
+              },
+              "start": {
+                "css": "div.comment-list.post-page-root-comment-list:nth-of-type(3) > div.comment-list-items > div.comment:nth-of-type(2) > div.pencraft.pc-display-flex:nth-of-type(3) > div.pencraft.pc-display-flex:nth-of-type(2) > div.comment-body.expanded:nth-of-type(2)",
+                "textOffset": 146
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 146,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "text": "Agentic RAG, the moment it has tool selection and MCP servers in the loop, changes what the model can do, not just what it retrieves. That is a different risk surface."
+          },
+          "text": "Agentic RAG, the moment it has tool selection and MCP servers in the loop, changes what the model can do, not just what it retrieves. That is a different risk surface.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750740,
+          "id": "hk-ai-1782805750739-21926",
+          "note": "AI：隨著測試層級往測試金字塔頂端移動，測試的開發、執行與維護成本將隨之增加。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750738,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6837
+              },
+              "quote": {
+                "exact": "As you go up the pyramid, the cost of test development, execution, and maintenance increases.",
+                "prefix": "ensive to write and maintain and tend to be slow to execute.",
+                "suffix": " Over to you: Which layer do you find most valuable in your "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6744
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[21]/span[1]/text()[1]",
+            "startOffset": 159,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[3]/p[1]/span[1]/text()[1]",
+            "text": "As you go up the pyramid, the cost of test development, execution, and maintenance increases."
+          },
+          "text": "As you go up the pyramid, the cost of test development, execution, and maintenance increases.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782805750742,
+          "id": "hk-ai-1782805750740-1190",
+          "note": "AI：單元測試是測試金字塔的基石，具備執行快速、環境隔離且撰寫與維護成本低的優點。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750740,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6353
+              },
+              "quote": {
+                "exact": "Unit Tests: These are the foundation of the pyramid. Unit tests are fast, isolated, and low-cost to write and maintain.",
+                "prefix": "cepted strategy for structuring tests into three key layers:",
+                "suffix": " They test individual functions, methods, or components.Inte"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6234
+              },
+              "version": 1
+            },
+            "endOffset": 119,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 140,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[20]/span[1]/text()[1]",
+            "text": "Unit Tests: These are the foundation of the pyramid. Unit tests are fast, isolated, and low-cost to write and maintain."
+          },
+          "text": "Unit Tests: These are the foundation of the pyramid. Unit tests are fast, isolated, and low-cost to write and maintain.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750743,
+          "id": "hk-ai-1782805750742-47990",
+          "note": "AI：缺乏用戶配額、傳輸量限制及執行超時設定，可能導致單一異常客戶端癱瘓整個系統。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750742,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5135
+              },
+              "quote": {
+                "exact": "Rate Limit and Cap Resources: Quotas per user, payload size caps, and execution timeouts. Without these, one misbehaving client takes down your entire system.",
+                "prefix": " the gateway. Don't let bad input reach your business logic.",
+                "suffix": "Defend Sensitive Business Flows: Protect login, checkout, an"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4977
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[7]/p[1]/span[1]/text()[1]",
+            "startOffset": 157,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[6]/p[1]/span[1]/text()[1]",
+            "text": "Rate Limit and Cap Resources: Quotas per user, payload size caps, and execution timeouts. Without these, one misbehaving client takes down your entire system."
+          },
+          "text": "Rate Limit and Cap Resources: Quotas per user, payload size caps, and execution timeouts. Without these, one misbehaving client takes down your entire system.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750744,
+          "id": "hk-ai-1782805750743-78799",
+          "note": "AI：必須對每次請求實施細粒度權限檢查，因為 broken object level authorization (BOLA) 仍是首要的 API 漏洞。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750743,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4479
+              },
+              "quote": {
+                "exact": "Enforce Fine-Grained Authorization: Check object, function, and field-level permissions on every request. BOLA is still the top API vulnerability.",
+                "prefix": "nsitive. Implicit and password grants should be dead by now.",
+                "suffix": "Minimize Scopes and Data: Give each client the smallest toke"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4333
+              },
+              "version": 1
+            },
+            "endOffset": 146,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 165,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "Enforce Fine-Grained Authorization: Check object, function, and field-level permissions on every request. BOLA is still the top API vulnerability."
+          },
+          "text": "Enforce Fine-Grained Authorization: Check object, function, and field-level permissions on every request. BOLA is still the top API vulnerability.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750745,
+          "id": "hk-ai-1782805750744-27581",
+          "note": "AI：大多數 API 資安外洩事件是由權限控管失效、憑證外洩或缺乏速率限制所導致。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750744,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4134
+              },
+              "quote": {
+                "exact": "Most API breaches happen because of broken authorization, leaked secrets, or missing rate limits.",
+                "prefix": " you use most outside of caching?API Security Best Practices",
+                "suffix": " Let's look at some of the basics.Use Modern OAuth/OIDC + MF"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(4)",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[16]/span[1]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[4]/span[1]/text()[1]",
+            "text": "Most API breaches happen because of broken authorization, leaked secrets, or missing rate limits."
+          },
+          "text": "Most API breaches happen because of broken authorization, leaked secrets, or missing rate limits.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782805750746,
+          "id": "hk-ai-1782805750745-65617",
+          "note": "AI：Redis 的雜湊結構允許在單一鍵下更新物件的特定欄位，而無需重寫整個物件。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750745,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2919
+              },
+              "quote": {
+                "exact": "Hashes store an object's fields under one key. You can update one field without rewriting the rest.",
+                "prefix": "They work for counters, session tokens, and cached payloads.",
+                "suffix": "Lists are ordered sequences with fast push and pop at both e"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2820
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 93,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "Hashes store an object's fields under one key. You can update one field without rewriting the rest."
+          },
+          "text": "Hashes store an object's fields under one key. You can update one field without rewriting the rest.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782805750747,
+          "id": "hk-ai-1782805750746-75169",
+          "note": "AI：Redis 的字串結構適合用於計數器、會話權杖以及快取資料負載。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750746,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2820
+              },
+              "quote": {
+                "exact": "Strings store one value per key. They work for counters, session tokens, and cached payloads.",
+                "prefix": " production?Redis Data Structures Every Engineer Should Know",
+                "suffix": "Hashes store an object's fields under one key. You can updat"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "text": "Strings store one value per key. They work for counters, session tokens, and cached payloads."
+          },
+          "text": "Strings store one value per key. They work for counters, session tokens, and cached payloads.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750748,
+          "id": "hk-ai-1782805750747-1220",
+          "note": "AI：代理型 RAG 具備更強的能力與靈活性，但速度慢、成本高且難以偵錯。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750747,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2620
+              },
+              "quote": {
+                "exact": "Agentic RAG is more capable and flexible but slower, expensive, and harder to debug. Use it when the question needs multi-step reasoning and self-correction.",
+                "prefix": "tured knowledge like legal, compliance, or biomedical data. ",
+                "suffix": " Over to you: Which of these are you running in production?R"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2463
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/span[1]/text()[1]",
+            "startOffset": 128,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/span[1]/text()[1]",
+            "text": "Agentic RAG is more capable and flexible but slower, expensive, and harder to debug. Use it when the question needs multi-step reasoning and self-correction."
+          },
+          "text": "Agentic RAG is more capable and flexible but slower, expensive, and harder to debug. Use it when the question needs multi-step reasoning and self-correction.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750749,
+          "id": "hk-ai-1782805750748-70881",
+          "note": "AI：圖學 RAG 建置成本高且更新緩慢，適用於法律、合規或生醫等結構化知識領域。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750748,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2462
+              },
+              "quote": {
+                "exact": "Graph RAG is expensive to build and slow to update. Use it for structured knowledge like legal, compliance, or biomedical data.",
+                "prefix": " when the answer lives in your documents and speed matters. ",
+                "suffix": " Agentic RAG is more capable and flexible but slower, expens"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2335
+              },
+              "version": 1
+            },
+            "endOffset": 127,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/span[1]/text()[1]",
+            "startOffset": 177,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/span[1]/text()[1]",
+            "text": "Graph RAG is expensive to build and slow to update. Use it for structured knowledge like legal, compliance, or biomedical data."
+          },
+          "text": "Graph RAG is expensive to build and slow to update. Use it for structured knowledge like legal, compliance, or biomedical data.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782805750749,
+          "id": "hk-ai-1782805750749-34407",
+          "note": "AI：標準 RAG 速度快且成本低，適用於答案明確存在於文件中且注重速度的場景。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750749,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2334
+              },
+              "quote": {
+                "exact": "Standard RAG is fast and cheap but if the wrong chunk is retrieved, the answer is wrong and nothing catches it.Use it when the answer lives in your documents and speed matters.",
+                "prefix": " the final answer is synthesized by LLM based on the prompt.",
+                "suffix": " Graph RAG is expensive to build and slow to update. Use it "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2158
+              },
+              "version": 1
+            },
+            "endOffset": 176,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/span[1]/text()[1]",
+            "startOffset": 75,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[4]/p[1]/span[1]/text()[1]",
+            "text": "Standard RAG is fast and cheap but if the wrong chunk is retrieved, the answer is wrong and nothing catches it.Use it when the answer lives in your documents and speed matters."
+          },
+          "text": "Standard RAG is fast and cheap but if the wrong chunk is retrieved, the answer is wrong and nothing catches it.Use it when the answer lives in your documents and speed matters.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782805750751,
+          "id": "hk-ai-1782805750750-94847",
+          "note": "AI：QA Wolf 透過 AI 原生服務提供高自動化測試覆蓋率，顯著縮短品質保證週期並提升產品交付速度。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750749,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 378
+              },
+              "quote": {
+                "exact": "QA Wolf’s AI-native service supports web and mobile apps, delivering 80% automated test coverage in weeks and helping teams ship 5x faster by reducing QA cycles to minutes.",
+                "prefix": "easing slower because of it — you need to check out QA Wolf.",
+                "suffix": "QA Wolf takes testing off your plate. They can get you:Unlim"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 206
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "startOffset": 144,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "text": "QA Wolf’s AI-native service supports web and mobile apps, delivering 80% automated test coverage in weeks and helping teams ship 5x faster by reducing QA cycles to minutes."
+          },
+          "text": "QA Wolf’s AI-native service supports web and mobile apps, delivering 80% automated test coverage in weeks and helping teams ship 5x faster by reducing QA cycles to minutes.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1782806454119,
+          "id": "hk-1782806454114-87069",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1782806454113,
+              "end": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 6
+              },
+              "quote": {
+                "exact": "Redis ",
+                "prefix": "更強，但速度較慢、成本高昂且除錯困難。當題目需要多步驟推理和自我修正時，才會用它。輪到你了：你現在在生產階段運行哪一款？",
+                "suffix": "Data Structures Every Engineer Should Know每位工程師都應該知道的 Redis "
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "text": "Redis "
+          },
+          "text": "Redis ",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782805750855,
+        "model": "chatgpt-web",
+        "note": "本篇文章涵蓋了現代軟體系統設計的多個核心面向。在資料檢索與大型語言模型整合方面，探討了三種 RAG 架構：標準 RAG 快速且經濟，但缺乏錯誤糾正機制；圖學 RAG 擅長處理如法律或生醫等高度結構化的知識，但建置成本高昂；代理型 RAG 則透過多個代理進行推理與自我糾正，適合處理需要多步驟思考的複雜問題，但也帶來了全新的安全風險。\n\n在後端基礎設施與資安部分，文章整理了 Redis 的十種核心資料結構及其最佳應用場景，例如字串適用於快取、雜湊適用於局部更新物件。同時強調 API 安全防護的重要性，指出大多數漏洞源於權限控管與缺乏速率限制，開發者應實施細粒度授權並加密所有傳輸節點。最後，以測試金字塔模型為基礎，說明了從底層高效率、低成本的單元測試，到頂層高成本、全流程的端到端測試的軟體品質保證策略。",
+        "provider": "chatgpt",
+        "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+      },
+      "mindmap": null
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "type": "highlight-keeper-index",
+  "version": 1,
+  "exportedAt": 1784019979578,
+  "totalPages": 553,
+  "fullBackup": "highlight-keeper.json",
+  "categories": [
+    {
+      "tag": null,
+      "untagged": true,
+      "file": "categories/_untagged.json",
+      "pageCount": 541
+    },
+    {
+      "tag": "人工智慧",
+      "file": "categories/人工智慧.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "機器學習",
+      "file": "categories/機器學習.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "OpenAI API",
+      "file": "categories/OpenAI API.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "即時語音",
+      "file": "categories/即時語音.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "多模態模型",
+      "file": "categories/多模態模型.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "自然語言處理",
+      "file": "categories/自然語言處理.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "延遲優化",
+      "file": "categories/延遲優化.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "系統設計",
+      "file": "categories/系統設計.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "成本控制",
+      "file": "categories/成本控制.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "提示詞工程",
+      "file": "categories/提示詞工程.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "開源模型",
+      "file": "categories/開源模型.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "多媒體模型",
+      "file": "categories/多媒體模型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "圖像生成",
+      "file": "categories/圖像生成.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "隱形浮水印",
+      "file": "categories/隱形浮水印.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "AI代理人",
+      "file": "categories/AI代理人.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Meta",
+      "file": "categories/Meta.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Muse Image",
+      "file": "categories/Muse Image.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "開發者指南",
+      "file": "categories/開發者指南.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "語音轉文字",
+      "file": "categories/語音轉文字.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "API 遷移",
+      "file": "categories/API 遷移.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "WebRTC",
+      "file": "categories/WebRTC.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "思考模式",
+      "file": "categories/思考模式.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Gemma 4",
+      "file": "categories/Gemma 4.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Google DeepMind",
+      "file": "categories/Google DeepMind.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "索尼互動娛樂",
+      "file": "categories/索尼互動娛樂.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "電玩產業趨勢",
+      "file": "categories/電玩產業趨勢.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "實體光碟停產",
+      "file": "categories/實體光碟停產.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "數位化轉型",
+      "file": "categories/數位化轉型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "PlayStation",
+      "file": "categories/PlayStation.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "指代消解",
+      "file": "categories/指代消解.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "計算語言學",
+      "file": "categories/計算語言學.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "資訊檢索",
+      "file": "categories/資訊檢索.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "CKIP Lab",
+      "file": "categories/CKIP Lab.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "記憶體快取",
+      "file": "categories/記憶體快取.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Prompt Caching",
+      "file": "categories/Prompt Caching.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "長文本檢索",
+      "file": "categories/長文本檢索.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "動態嵌入",
+      "file": "categories/動態嵌入.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "智慧體記憶",
+      "file": "categories/智慧體記憶.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "EvoEmbedding",
+      "file": "categories/EvoEmbedding.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "RAG優化",
+      "file": "categories/RAG優化.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "工作轉型",
+      "file": "categories/工作轉型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "指數型成長",
+      "file": "categories/指數型成長.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "職涯發展",
+      "file": "categories/職涯發展.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "AI 代理人",
+      "file": "categories/AI 代理人.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "測試金字塔",
+      "file": "categories/測試金字塔.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "API 安全",
+      "file": "categories/API 安全.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "RAG",
+      "file": "categories/RAG.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Redis",
+      "file": "categories/Redis.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "人工智慧對齊",
+      "file": "categories/人工智慧對齊.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "思維鏈監控",
+      "file": "categories/思維鏈監控.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "網路安全",
+      "file": "categories/網路安全.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "模型安全",
+      "file": "categories/模型安全.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "GPT-5.6",
+      "file": "categories/GPT-5.6.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "OpenAI",
+      "file": "categories/OpenAI.json",
+      "pageCount": 1
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979546,
+  "category": "自然語言處理",
+  "pages": [
+    {
+      "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/",
+      "title": "介紹 GPT-Live | OpenAI",
+      "tags": [
+        "即時語音",
+        "多模態模型",
+        "自然語言處理",
+        "延遲優化",
+        "系統設計"
+      ],
+      "entries": [
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783928516416,
+          "id": "hk-1783928516403-28953",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783928516397,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2 > p.mb-6.last\\:mb-0",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "GPT‑Live",
+                "prefix": "一代語音模型，讓人類與 AI 的互動更自然，現已應用於 ChatGPT 語音。00:00聆聽文章12:20分享我們推出 ",
+                "suffix": "，這是新一代語音模型，讓與 AI 對話更接近真人交流。GPT‑Live 採用全雙工架構，因此能同時聆聽與說話。在對話中，"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2 > p.mb-6.last\\:mb-0",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑Live"
+          },
+          "text": "GPT‑Live",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783936553068,
+          "id": "hk-1783936553061-50824",
+          "note": "「全雙工」（Full-Duplex） 是一種通訊模式，指的是雙方可以「同時」進行傳送與接收訊息\n\n雙方可以同時聆聽與說話，就像兩個真人面對面聊天一樣。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936553057,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 16
+              },
+              "quote": {
+                "exact": "GPT‑Live 採用全雙工架構",
+                "prefix": "0:0003:34聆聽文章12:20分享我們推出 GPT‑Live，這是新一代語音模型，讓與 AI 對話更接近真人交流。",
+                "suffix": "，因此能同時聆聽與說話。在對話中，GPT‑Live 可以用「嗯哼」或「對」等語句表示它正在聆聽，也能快速自然地來回對話，"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑Live 採用全雙工架構"
+          },
+          "text": "GPT‑Live 採用全雙工架構",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783936580973,
+          "id": "hk-ai-1783936580972-45070",
+          "note": "AI：初期版本暫不支援與影片或螢幕分享同步搭配的語音功能",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580971,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(64) > p.mb-6.last\\:mb-0",
+                "textOffset": 57
+              },
+              "quote": {
+                "exact": "發布時，GPT‑Live 尚不支援 ChatGPT 中搭配影片或螢幕分享的語音功能，但我們正努力盡快推出這些能力。",
+                "prefix": "言最佳化 GPT‑Live。對於某些語言，模型可能帶有非母語口音，或在流暢度上有所不足。我們正積極改善各語言的使用體驗。",
+                "suffix": "你仍可使用現行的 ChatGPT 語音，包括標準和進階語音模式；這些版本可使用上述功能。2026 年ChatGPT作者O"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(63) > p.mb-6.last\\:mb-0",
+                "textOffset": 82
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[64]/p[1]/span[1]/text()[1]",
+            "startOffset": 82,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[63]/p[1]/span[1]/text()[1]",
+            "text": "發布時，GPT‑Live 尚不支援 ChatGPT 中搭配影片或螢幕分享的語音功能，但我們正努力盡快推出這些能力。"
+          },
+          "text": "發布時，GPT‑Live 尚不支援 ChatGPT 中搭配影片或螢幕分享的語音功能，但我們正努力盡快推出這些能力。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783936580973,
+          "id": "hk-ai-1783936580973-64243",
+          "note": "AI：新模型在部分非核心優化語言中可能存在口音與流暢度限制",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580973,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(63) > p.mb-6.last\\:mb-0",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "對於某些語言，模型可能帶有非母語口音，或在流暢度上有所不足。",
+                "prefix": "況詳情可參閱我們的說明中心⁠(在新視窗中開啟)。我們已針對 ChatGPT 中部分最常用的語言最佳化 GPT‑Live。",
+                "suffix": "我們正積極改善各語言的使用體驗。發布時，GPT‑Live 尚不支援 ChatGPT 中搭配影片或螢幕分享的語音功能，但我"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(63) > p.mb-6.last\\:mb-0",
+                "textOffset": 36
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[63]/p[1]/span[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[63]/p[1]/span[1]/text()[1]",
+            "text": "對於某些語言，模型可能帶有非母語口音，或在流暢度上有所不足。"
+          },
+          "text": "對於某些語言，模型可能帶有非母語口音，或在流暢度上有所不足。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783936580974,
+          "id": "hk-ai-1783936580974-59808",
+          "note": "AI：模型設有嚴格防護措施以防止模仿或偽造真人聲音",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580973,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "GPT‑Live 的設計重點是自然對話，而非模仿特定人物的聲音。GPT‑Live 使用 ChatGPT 內建的一組預設語音，並設有防護措施，防止模型模仿真人的聲音。",
+                "prefix": "護措施。承接我們先前對情感性使用與情緒福祉的研究，這將協助我們識別新興模式，並改善系統在情緒敏感互動中的回應方式。最後，",
+                "suffix": "我們致力於支持安全與福祉，並會隨著從真實世界使用中學習到的經驗，持續強化這些保護。供應情況與限制GPT‑Live 現正於"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑Live 的設計重點是自然對話，而非模仿特定人物的聲音。GPT‑Live 使用 ChatGPT 內建的一組預設語音，並設有防護措施，防止模型模仿真人的聲音。"
+          },
+          "text": "GPT‑Live 的設計重點是自然對話，而非模仿特定人物的聲音。GPT‑Live 使用 ChatGPT 內建的一組預設語音，並設有防護措施，防止模型模仿真人的聲音。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783936580974,
+          "id": "hk-ai-1783936580974-15602",
+          "note": "AI：系統內建即時語音防護機制可在偵測不安全輸出時介入引導或中斷\n\n集中檢視並防範以下關鍵安全領域的風險：\n1. 自我傷害\n2. 精神病與躁症\n3. 對 AI 的情感依賴\n4. 暴力和性內容",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580974,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(55) > p.mb-6.last\\:mb-0",
+                "textOffset": 97
+              },
+              "quote": {
+                "exact": "當系統偵測到可能不安全的輸出時，可以引導模型給出更安全的回應、顯示額外的安全訊息或資源，或在較高風險的情況下結束語音對話。",
+                "prefix": "讀更多關於我們測試與防護措施的資訊。內建防護措施由於語音對話是即時進行的，我們也建立了可在模型說話時發揮作用的防護措施。",
+                "suffix": "針對涉及自我傷害的對話，我們將 ChatGPT 的支援流程調整為適用於語音，包括提供經專家審核的危機求助專線支援。我們設"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(55) > p.mb-6.last\\:mb-0",
+                "textOffset": 36
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[55]/p[1]/span[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[55]/p[1]/span[1]/text()[1]",
+            "text": "當系統偵測到可能不安全的輸出時，可以引導模型給出更安全的回應、顯示額外的安全訊息或資源，或在較高風險的情況下結束語音對話。"
+          },
+          "text": "當系統偵測到可能不安全的輸出時，可以引導模型給出更安全的回應、顯示額外的安全訊息或資源，或在較高風險的情況下結束語音對話。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783936580975,
+          "id": "hk-ai-1783936580974-1537",
+          "note": "AI：新版語音體驗提供不同層級的推理強度供使用者依需求選擇",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580974,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(40) > p.mb-6.last\\:mb-0",
+                "textOffset": 97
+              },
+              "quote": {
+                "exact": "你也可以依需求選擇推理程度：「即時」可快速回覆；當你希望 ChatGPT 花更多時間思考時，則可選擇「中」或「高」。",
+                "prefix": "GPT 中九種各具特色的聲音。更聰明的回答ChatGPT 語音現在可運用我們最新的前沿模型，在你需要時提供更聰明的回答。",
+                "suffix": "00:00更好的聆聽能力如果你需要一點時間思考，ChatGPT 語音現在會等待，而不是搶先插話。如果你要求保持安靜聆聽，"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(40) > p.mb-6.last\\:mb-0",
+                "textOffset": 39
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[40]/p[1]/span[1]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[40]/p[1]/span[1]/text()[1]",
+            "text": "你也可以依需求選擇推理程度：「即時」可快速回覆；當你希望 ChatGPT 花更多時間思考時，則可選擇「中」或「高」。"
+          },
+          "text": "你也可以依需求選擇推理程度：「即時」可快速回覆；當你希望 ChatGPT 花更多時間思考時，則可選擇「中」或「高」。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783936580975,
+          "id": "hk-ai-1783936580975-63251",
+          "note": "AI：新升級的語音體驗支持使用者隨時插話與自主調整對話節奏",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580975,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(38) > p.mb-6.last\\:mb-0",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": "現在，與 ChatGPT 交談應該會更像一場真正的對話。你可以插話提問、暫停一下整理思緒，或請 ChatGPT 放慢速度。",
+                "prefix": "‑Live 提供支援的升級體驗，對話更自然、回答更聰明、聆聽更準確，還能提供視覺化回應。00:0000:08更自然的對話",
+                "suffix": "ChatGPT 會自然地用「嗯嗯」或「了解」等語句回應你說的話，讓你知道有跟上話題。我們也為 GPT‑Live 重新製作"
+              },
+              "start": {
+                "css": "div#geng-zi-ran-de-dui-hua > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h3.text-h4.scroll-mt-header-h",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[38]/p[1]/span[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[37]/div[1]/div[1]/h3[1]/span[1]/text()[1]",
+            "text": "現在，與 ChatGPT 交談應該會更像一場真正的對話。你可以插話提問、暫停一下整理思緒，或請 ChatGPT 放慢速度。"
+          },
+          "text": "現在，與 ChatGPT 交談應該會更像一場真正的對話。你可以插話提問、暫停一下整理思緒，或請 ChatGPT 放慢速度。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783936580975,
+          "id": "hk-ai-1783936580975-13662",
+          "note": "AI：人類評估顯示新模型在對話流暢度與自然度上明顯優於舊有模式",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580975,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(28) > p.mb-6.last\\:mb-0",
+                "textOffset": 147
+              },
+              "quote": {
+                "exact": "在這些一對一比較中，於條件一致的 5–10 分鐘對話裡，GPT‑Live‑1 和 GPT‑Live‑1 mini 相較進階語音模式明顯更受偏好；評估面向包括整體偏好、輪流發言、插話、對話流暢度，以及互動的自然程度。",
+                "prefix": " could get brunch?評估我們建立了新的人類評估，用來衡量對話是否自然流暢，以及整體互動體驗是否令人愉快。",
+                "suffix": "與 AVM 兩兩比較的對話體驗偏好0%50%100%偏好回覆率75.7%69.2%50% 持平gpt-live-1gpt"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(28) > p.mb-6.last\\:mb-0",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 147,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[28]/p[1]/span[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[28]/p[1]/span[1]/text()[1]",
+            "text": "在這些一對一比較中，於條件一致的 5–10 分鐘對話裡，GPT‑Live‑1 和 GPT‑Live‑1 mini 相較進階語音模式明顯更受偏好；評估面向包括整體偏好、輪流發言、插話、對話流暢度，以及互動的自然程度。"
+          },
+          "text": "在這些一對一比較中，於條件一致的 5–10 分鐘對話裡，GPT‑Live‑1 和 GPT‑Live‑1 mini 相較進階語音模式明顯更受偏好；評估面向包括整體偏好、輪流發言、插話、對話流暢度，以及互動的自然程度。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783936580976,
+          "id": "hk-ai-1783936580976-16852",
+          "note": "AI：GPT-Live 透過連續互動架構每秒多次動態決定對話行為",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580976,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 108
+              },
+              "quote": {
+                "exact": "首先，我們以全雙工架構打造 GPT‑Live，使其能進行連續互動。GPT‑Live 不再逐則處理彼此獨立的訊息，而是在生成輸出的同時持續處理輸入。因此，模型每秒可多次決定是否要說話、繼續聆聽、暫停、插話，或呼叫工具。",
+                "prefix": "ut the weekend, you know?我們的新方法GPT‑Live 透過兩項架構改變來解決這些限制。連續互動",
+                "suffix": "這讓模型能進行更自然的來回對話，更準確掌握對話節奏，甚至提供即時翻譯。連續互動回應快速、自然而且富表現力，同時聆聽更主動"
+              },
+              "start": {
+                "css": "div#lian-xu-hu-dong > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h3.text-h4.scroll-mt-header-h",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[2]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[19]/div[1]/div[1]/h3[1]/span[1]/text()[1]",
+            "text": "首先，我們以全雙工架構打造 GPT‑Live，使其能進行連續互動。GPT‑Live 不再逐則處理彼此獨立的訊息，而是在生成輸出的同時持續處理輸入。因此，模型每秒可多次決定是否要說話、繼續聆聽、暫停、插話，或呼叫工具。"
+          },
+          "text": "首先，我們以全雙工架構打造 GPT‑Live，使其能進行連續互動。GPT‑Live 不再逐則處理彼此獨立的訊息，而是在生成輸出的同時持續處理輸入。因此，模型每秒可多次決定是否要說話、繼續聆聽、暫停、插話，或呼叫工具。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783936580977,
+          "id": "hk-ai-1783936580977-89874",
+          "note": "AI：回合式語音模型容易受背景噪音或短暫停頓干擾而產生不自然插話",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580976,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
+                "textOffset": 155
+              },
+              "quote": {
+                "exact": "像 ChatGPT 進階語音模式這樣的回合式語音模型，能在單一模型內處理並生成音訊，降低延遲並讓對話更順暢，但仍採用以回合為單位的互動方式。模型必須等使用者停止說話後才能回應，導致來回互動顯得僵硬。此外，由於回合偵測是以靜音為依據，即使是短暫停頓或背景噪音，也可能被誤認為回合結束，造成模型在不自然的時機插話。",
+                "prefix": "慢且生硬，停頓時間長STTGPT-5.5TTSSTTGPT-5.5TTS逐字稿Speech to text回合式語音模型",
+                "suffix": "回合式語音模型回應稍快且更順暢，但與模型的來回互動仍顯僵硬逐字稿User：I'm good. It's one of t"
+              },
+              "start": {
+                "css": "div#hui-he-shi-yu-yin-mo-xing > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h3.text-h4.scroll-mt-header-h",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[2]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h3[1]/span[1]/text()[1]",
+            "text": "像 ChatGPT 進階語音模式這樣的回合式語音模型，能在單一模型內處理並生成音訊，降低延遲並讓對話更順暢，但仍採用以回合為單位的互動方式。模型必須等使用者停止說話後才能回應，導致來回互動顯得僵硬。此外，由於回合偵測是以靜音為依據，即使是短暫停頓或背景噪音，也可能被誤認為回合結束，造成模型在不自然的時機插話。"
+          },
+          "text": "像 ChatGPT 進階語音模式這樣的回合式語音模型，能在單一模型內處理並生成音訊，降低延遲並讓對話更順暢，但仍採用以回合為單位的互動方式。模型必須等使用者停止說話後才能回應，導致來回互動顯得僵硬。此外，由於回合偵測是以靜音為依據，即使是短暫停頓或背景噪音，也可能被誤認為回合結束，造成模型在不自然的時機插話。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783936580978,
+          "id": "hk-ai-1783936580978-47490",
+          "note": "AI：傳統串接式語音系統因多模型依序處理而導致資訊流失且回應緩慢",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580977,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(12) > p.mb-6.last\\:mb-0",
+                "textOffset": 146
+              },
+              "quote": {
+                "exact": "串接式語音系統仰賴多個模型依序處理每一輪對話。最初的 ChatGPT 語音將三個模型串接在一起：語音轉文字模型用來轉錄你的語音，大型語言模型用來產生回應，文字轉語音模型則將回應轉回語音。這種方法讓我們首次能與前沿 AI 模型交談，但複雜性也帶來代價：資訊可能在模型之間流失，回應也緩慢而生硬。",
+                "prefix": "行則在背景中無縫完成。過去的語音系統較早世代的語音 AI 系統讓我們更接近這個願景，但也必須做出重要取捨。串接式語音系統",
+                "suffix": "串接式語音系統回應緩慢且生硬，停頓時間長STTGPT-5.5TTSSTTGPT-5.5TTS逐字稿Speech to t"
+              },
+              "start": {
+                "css": "div#chuan-jie-shi-yu-yin-xi-tong > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h3.text-h4.scroll-mt-header-h",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[12]/p[1]/span[2]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[11]/div[1]/div[1]/h3[1]/span[1]/text()[1]",
+            "text": "串接式語音系統仰賴多個模型依序處理每一輪對話。最初的 ChatGPT 語音將三個模型串接在一起：語音轉文字模型用來轉錄你的語音，大型語言模型用來產生回應，文字轉語音模型則將回應轉回語音。這種方法讓我們首次能與前沿 AI 模型交談，但複雜性也帶來代價：資訊可能在模型之間流失，回應也緩慢而生硬。"
+          },
+          "text": "串接式語音系統仰賴多個模型依序處理每一輪對話。最初的 ChatGPT 語音將三個模型串接在一起：語音轉文字模型用來轉錄你的語音，大型語言模型用來產生回應，文字轉語音模型則將回應轉回語音。這種方法讓我們首次能與前沿 AI 模型交談，但複雜性也帶來代價：資訊可能在模型之間流失，回應也緩慢而生硬。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783936580979,
+          "id": "hk-ai-1783936580979-17089",
+          "note": "AI：複雜任務委派機制能讓 AI 在背景處理深度推理時仍保持語音對話流暢",
+          "range": {
+            "anchors": {
+              "createdAt": 1783936580978,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 114
+              },
+              "quote": {
+                "exact": "對於需要網路搜尋、更深入推理或更複雜工作的問題，它會在幕後委派給我們最新的前沿模型，等結果準備好後再帶回對話中。在處理工作的同時，GPT‑Live 仍能繼續與你交談，維持對話流暢。",
+                "prefix": "話，或在你需要思考時安靜等待。這讓語音對話體驗更加自然，聊起來格外輕鬆。GPT‑Live 也是我們迄今最聰明的語音模型。",
+                "suffix": "推出初期，GPT‑Live 會在背景使用 GPT‑5.5。隨著我們推出新的前沿模型，我們也會持續更新 GPT‑Live "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 114,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "對於需要網路搜尋、更深入推理或更複雜工作的問題，它會在幕後委派給我們最新的前沿模型，等結果準備好後再帶回對話中。在處理工作的同時，GPT‑Live 仍能繼續與你交談，維持對話流暢。"
+          },
+          "text": "對於需要網路搜尋、更深入推理或更複雜工作的問題，它會在幕後委派給我們最新的前沿模型，等結果準備好後再帶回對話中。在處理工作的同時，GPT‑Live 仍能繼續與你交談，維持對話流暢。",
+          "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783936581051,
+        "model": "chatgpt-web",
+        "note": "OpenAI 推出全新一代語音模型 GPT-Live，徹底顛覆了過去人類與 AI 互動的生硬感。過去的語音系統不論是多模型串接或是回合式互動，都容易因為靜音偵測落差、背景噪音干擾，而導致回應緩慢或在不自然的時機插話。為了突破這些限制，GPT-Live 採用了創新的「全雙工架構」與「任務委派機制」，讓 AI 能夠在生成回應的同時持續聆聽輸入，並能隨時在幕後將繁複的搜尋或推理工作交給 GPT-5.5 等前沿模型處理。這意味著使用者現在可以隨時插話、暫停思考，甚至要求調整語速，而 AI 則能一邊流暢對話、一邊在背景默默運算。在安全性上，團隊也針對語音特有的情緒依賴與即時性風險，建立音訊原生評估與內建即時防護措施，並嚴格禁止模仿真人聲音。這項技術已全面導入 ChatGPT 語音，為全球用戶帶來更聰明、更具備視覺化輔助且宛如真人交流的全新體驗。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://ckip.iis.sinica.edu.tw/project/coref",
+      "title": "CKIP Lab 中文詞知識庫小組 | 指代消解",
+      "tags": [
+        "自然語言處理",
+        "指代消解",
+        "計算語言學",
+        "資訊檢索",
+        "CKIP Lab"
+      ],
+      "entries": [
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783306082273,
+          "id": "hk-ai-1783306082272-4302",
+          "note": "AI：字詞因指代而代換會導致出現次數稀少並造成檢索系統誤判",
+          "range": {
+            "anchors": {
+              "createdAt": 1783306082271,
+              "end": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 250
+              },
+              "quote": {
+                "exact": "如此的表示方式，在權重計算上會產生因為北極熊此字詞出現次數過於稀少，而導致資訊檢索系統誤判為不是描述北極熊文件",
+                "prefix": "百科中的北極熊條目為例，如下所示，由於指代的因素，其文中原為北極熊之意的字詞會被代換成白熊、熊、牠和肉食動物等等的字眼，",
+                "suffix": "，因此，透過指代消解的處理，可以將被替換過的字詞還原成原有的意思，以提高權重計算的次數，增加檢索的正確性。\n      "
+              },
+              "start": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 195
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 194,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "text": "如此的表示方式，在權重計算上會產生因為北極熊此字詞出現次數過於稀少，而導致資訊檢索系統誤判為不是描述北極熊文件"
+          },
+          "text": "如此的表示方式，在權重計算上會產生因為北極熊此字詞出現次數過於稀少，而導致資訊檢索系統誤判為不是描述北極熊文件",
+          "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783306082274,
+          "id": "hk-ai-1783306082273-48061",
+          "note": "AI：指代消解的核心功能是還原被替換的字詞以避免權重計算降低",
+          "range": {
+            "anchors": {
+              "createdAt": 1783306082273,
+              "end": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 126
+              },
+              "quote": {
+                "exact": "主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題",
+                "prefix": "oreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份，",
+                "suffix": "，例如：以中文維基百科中的北極熊條目為例，如下所示，由於指代的因素，其文中原為北極熊之意的字詞會被代換成白熊、熊、牠和肉"
+              },
+              "start": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 84
+              },
+              "version": 1
+            },
+            "endOffset": 125,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "text": "主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題"
+          },
+          "text": "主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題",
+          "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783306082275,
+          "id": "hk-ai-1783306082274-56888",
+          "note": "AI：指代消解是計算語言學中處理資訊檢索前處理的重要議題",
+          "range": {
+            "anchors": {
+              "createdAt": 1783306082274,
+              "end": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 83
+              },
+              "quote": {
+                "exact": "在計算語言學中，指代消解（Coreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份",
+                "prefix": "b 中文詞知識庫小組 | 指代消解\n  \n  \n    CKIP Lab 中文En  指代消解    \n        ",
+                "suffix": "，主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題，例如：以中文維基百科中的北極熊條"
+              },
+              "start": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 82,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "text": "在計算語言學中，指代消解（Coreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份"
+          },
+          "text": "在計算語言學中，指代消解（Coreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份",
+          "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783306082346,
+        "model": "chatgpt-web",
+        "note": "在計算語言學的領域中，「指代消解」扮演著不可或缺的角色。當我們在閱讀文章時，常會看到同一個主體被代換成不同的詞彙，例如「北極熊」在文中可能會變成「白熊」、「牠」或「肉食動物」。這種豐富的寫法對人類來說易於理解，但在資訊檢索系統中，卻會因為「北極熊」這個核心詞彙出現次數太少，導致系統誤判這篇文章與北極熊無關。為了打破這個數位盲點，指代消解技術應運而生，它就像是一個字詞還原大師，專門在資訊檢索的前處理階段，把這些被代換掉的字詞一一找回並還原成原本的意思。透過這樣的處理，不僅能正確提升核心詞彙的權重計算次數，更能大幅增加檢索的正確性。目前，中央研究院的 CKIP Lab 團隊正積極投入這項研究，並將指代消解與斷詞、剖析、實體辨識等技術整合為「CKIP CoreNLP」線上服務，甚至推出了 Python 套件，讓這項進步的語言處理技術能被廣泛應用。",
+        "provider": "chatgpt",
+        "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+      },
+      "mindmap": null
+    }
+  ]
+}

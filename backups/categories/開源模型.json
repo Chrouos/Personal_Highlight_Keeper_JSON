@@ -1,0 +1,980 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979553,
+  "category": "開源模型",
+  "pages": [
+    {
+      "url": "https://arxiv.org/html/2607.02770v1",
+      "title": "Gemma 4 Technical Report",
+      "tags": [
+        "多模態模型",
+        "思考模式",
+        "開源模型",
+        "機器學習",
+        "Gemma 4",
+        "Google DeepMind"
+      ],
+      "entries": [
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783560009018,
+          "id": "hk-1783560009013-66377",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560009012,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "Gemma 4",
+                "prefix": " DeepMind\\authfootnotemark1\n\n\n\n\n\n\nAbstract  摘要\nWe introduce ",
+                "suffix": ", a new generation of open-weight, natively multimodal langu"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "Gemma 4"
+          },
+          "text": "Gemma 4",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783560020226,
+          "id": "hk-1783560020224-25023",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560020223,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 285
+              },
+              "quote": {
+                "exact": "Mixture-of-Experts architectures, ranging from 2.3B to 31B parameters.",
+                "prefix": "y and reasoning, the Gemma 4 model suite features dense and ",
+                "suffix": " Alongside improved vision and audio encoders for all model "
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 215
+              },
+              "version": 1
+            },
+            "endOffset": 265,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[3]",
+            "startOffset": 195,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[3]",
+            "text": "Mixture-of-Experts architectures, ranging from 2.3B to 31B parameters."
+          },
+          "text": "Mixture-of-Experts architectures, ranging from 2.3B to 31B parameters.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783560040555,
+          "id": "hk-1783560040553-70466",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560040552,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 417
+              },
+              "quote": {
+                "exact": "encoder-free architecture for our 12B model",
+                "prefix": "d audio encoders for all model sizes, we propose a unified, ",
+                "suffix": ", which ingests raw audio and image patches. Furthermore, we"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 374
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "startOffset": 79,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "text": "encoder-free architecture for our 12B model"
+          },
+          "text": "encoder-free architecture for our 12B model",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783560306841,
+          "id": "hk-ai-1783560306840-31843",
+          "note": "AI：在大型數據上訓練的大型語言模型可能會反映並帶有潛在的社會文化偏見。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306839,
+              "end": {
+                "css": "p#S5\\.I2\\.i1\\.p1\\.1",
+                "textOffset": 110
+              },
+              "quote": {
+                "exact": "LLMs trained on large-scale text and image data can reflect embedded socio-cultural biases.",
+                "prefix": "ng Gemma 4, we focused heavily on:\n\n\n• \n\nBias and Fairness: ",
+                "suffix": " We encourage developers to perform continuous monitoring (u"
+              },
+              "start": {
+                "css": "p#S5\\.I2\\.i1\\.p1\\.1",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[4]/div[1]/ul[1]/li[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[4]/div[1]/ul[1]/li[1]/div[1]/p[1]/text()[1]",
+            "text": "LLMs trained on large-scale text and image data can reflect embedded socio-cultural biases."
+          },
+          "text": "LLMs trained on large-scale text and image data can reflect embedded socio-cultural biases.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306842,
+          "id": "hk-ai-1783560306841-16007",
+          "note": "AI：Gemma 4 在顯著提升安全性的同時也能保持較低的誤拒絕率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306841,
+              "end": {
+                "css": "p#S5\\.SS3\\.p1\\.1",
+                "textOffset": 371
+              },
+              "quote": {
+                "exact": "Gemma 4 models significantly outperform Gemma 3 and 3n models in improving safety, while keeping unjustified refusals low.",
+                "prefix": " content safety relative to previous Gemma models. Overall, ",
+                "suffix": "\n\n\nImportantly, all testing was conducted without safety fil"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.p1\\.1",
+                "textOffset": 249
+              },
+              "version": 1
+            },
+            "endOffset": 371,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 249,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[1]/p[1]/text()[1]",
+            "text": "Gemma 4 models significantly outperform Gemma 3 and 3n models in improving safety, while keeping unjustified refusals low."
+          },
+          "text": "Gemma 4 models significantly outperform Gemma 3 and 3n models in improving safety, while keeping unjustified refusals low.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783560306842,
+          "id": "hk-ai-1783560306842-6590",
+          "note": "AI：訓練數據必須經過嚴格過濾以移除個人與敏感資訊來防止隱私侵權。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306842,
+              "end": {
+                "css": "p#S5\\.SS2\\.p3\\.1",
+                "textOffset": 251
+              },
+              "quote": {
+                "exact": "The training data was specifically filtered for the removal of certain personal information and other sensitive data to guard against privacy violations.",
+                "prefix": "s underwent careful input data pre-processing and scrutiny. ",
+                "suffix": " Post-training evaluations and train-time mitigations were a"
+              },
+              "start": {
+                "css": "p#S5\\.SS2\\.p3\\.1",
+                "textOffset": 98
+              },
+              "version": 1
+            },
+            "endOffset": 251,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/div[3]/p[1]/text()[1]",
+            "startOffset": 98,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/div[3]/p[1]/text()[1]",
+            "text": "The training data was specifically filtered for the removal of certain personal information and other sensitive data to guard against privacy violations."
+          },
+          "text": "The training data was specifically filtered for the removal of certain personal information and other sensitive data to guard against privacy violations.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306843,
+          "id": "hk-ai-1783560306843-99025",
+          "note": "AI：輕量化的 E2B 模型僅用十分之一的參數數量便能媲美前代 27B 模型的性能。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306842,
+              "end": {
+                "css": "p#S4\\.SS2\\.p1\\.1",
+                "textOffset": 261
+              },
+              "quote": {
+                "exact": "E2B roughly matches Gemma 3 27B performance with 10x less parameters.",
+                "prefix": "st in size and significantly better across the board, while ",
+                "suffix": "\nTable 6 shows the performance of Gemma 4 models on vision b"
+              },
+              "start": {
+                "css": "p#S4\\.SS2\\.p1\\.1",
+                "textOffset": 192
+              },
+              "version": 1
+            },
+            "endOffset": 251,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 182,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[1]/p[1]/text()[2]",
+            "text": "E2B roughly matches Gemma 3 27B performance with 10x less parameters."
+          },
+          "text": "E2B roughly matches Gemma 3 27B performance with 10x less parameters.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306844,
+          "id": "hk-ai-1783560306843-68727",
+          "note": "AI：新一代音訊編碼器在保持相似架構下成功減少了 55% 的參數數量。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306843,
+              "end": {
+                "css": "p#S2\\.SS2\\.p1\\.1",
+                "textOffset": 436
+              },
+              "quote": {
+                "exact": "While the architecture remains similar to that of Gemma 3n, we reduce the number of parameters by 55% (from 680M to 305M).",
+                "prefix": " followed by twelve Conformer layers [Gulati et al., 2020]. ",
+                "suffix": " We do not use vector quantization; the LLM ingests the cont"
+              },
+              "start": {
+                "css": "p#S2\\.SS2\\.p1\\.1",
+                "textOffset": 314
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[2]/div[1]/p[1]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[2]/div[1]/p[1]/text()[3]",
+            "text": "While the architecture remains similar to that of Gemma 3n, we reduce the number of parameters by 55% (from 680M to 305M)."
+          },
+          "text": "While the architecture remains similar to that of Gemma 3n, we reduce the number of parameters by 55% (from 680M to 305M).",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306845,
+          "id": "hk-ai-1783560306844-39796",
+          "note": "AI：Gemma 4 以 Apache 2.0 開源授權釋出以讓全球開發者與研究人員自由客製化與擴充。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306844,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 551
+              },
+              "quote": {
+                "exact": "We release the Gemma 4 models under an Apache 2.0 license, empowering developers and researchers everywhere to build upon, customize, and extend these capabilities.",
+                "prefix": "pen-source models across text, image, and audio modalities. ",
+                "suffix": "在這份技術報告中，我們概述了不同模型規模的模型架構，以及 Gemma 4 的訓練前後配方。透過全面的基準測試與人類評估，"
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 387
+              },
+              "version": 1
+            },
+            "endOffset": 306,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 142,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "text": "We release the Gemma 4 models under an Apache 2.0 license, empowering developers and researchers everywhere to build upon, customize, and extend these capabilities."
+          },
+          "text": "We release the Gemma 4 models under an Apache 2.0 license, empowering developers and researchers everywhere to build upon, customize, and extend these capabilities.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306846,
+          "id": "hk-ai-1783560306845-20358",
+          "note": "AI：12B 模型的無編碼器架構能直接將音訊與影像投射至嵌入空間並減少記憶體碎片化。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306845,
+              "end": {
+                "css": "p#S1\\.I1\\.i5\\.p1\\.1",
+                "textOffset": 311
+              },
+              "quote": {
+                "exact": "projects raw 40ms audio chunks and image patches into the LLM embedding space, alleviating the need for separate encoders and reducing memory fragmentation.",
+                "prefix": " unified encoder-free architecture for the 12B model, which ",
+                "suffix": "無編碼器架構：Gemma 4 型號採用凍結視覺與音訊編碼器。我們為 12B 模型引入了統一的無編碼器架構，將原始 40m"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i5\\.p1\\.1",
+                "textOffset": 155
+              },
+              "version": 1
+            },
+            "endOffset": 286,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[5]/div[1]/p[1]/text()[1]",
+            "startOffset": 130,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[5]/div[1]/p[1]/text()[1]",
+            "text": "projects raw 40ms audio chunks and image patches into the LLM embedding space, alleviating the need for separate encoders and reducing memory fragmentation."
+          },
+          "text": "projects raw 40ms audio chunks and image patches into the LLM embedding space, alleviating the need for separate encoders and reducing memory fragmentation.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306846,
+          "id": "hk-ai-1783560306846-20504",
+          "note": "AI：量化感知訓練版本能在幾乎不影響品質的情況下減少參數記憶體佔用與延遲。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306846,
+              "end": {
+                "css": "p#S1\\.I1\\.i4\\.p1\\.1",
+                "textOffset": 216
+              },
+              "quote": {
+                "exact": "We provide quantized versions of our models trained with quantization-aware training [Jacob et al., 2018, QAT] to reduce their parameter memory footprint and latency with minimal impact on quality.",
+                "prefix": "設計 [Leviathan 等，2023]，以提升模型的解碼速度。\n\n\n\n• \n\nMemory efficiency: ",
+                "suffix": "記憶體效率：我們提供以量化感知訓練訓練的模型量化版本 [Jacob 等， 2018， QAT]，以減少參數記憶體佔用與延"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i4\\.p1\\.1",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[4]/div[1]/p[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[4]/div[1]/p[1]/text()[1]",
+            "text": "We provide quantized versions of our models trained with quantization-aware training [Jacob et al., 2018, QAT] to reduce their parameter memory footprint and latency with minimal impact on quality."
+          },
+          "text": "We provide quantized versions of our models trained with quantization-aware training [Jacob et al., 2018, QAT] to reduce their parameter memory footprint and latency with minimal impact on quality.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306847,
+          "id": "hk-ai-1783560306846-49641",
+          "note": "AI：透過 p-RoPE 與 KV 快取共享等優化能將全球 KV 快取佔用率降低高達 37.5%。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306846,
+              "end": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 508
+              },
+              "quote": {
+                "exact": "these optimizations reduce the global KV cache footprint by up to 37.5%.",
+                "prefix": "e of keys as values in global layers [Kayyam et al., 2026], ",
+                "suffix": "- RoPE [Barbero 等， 2025] 作為位置編碼。結合 KV 快取共享 [Shazeer， 2019] 以"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 436
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[5]",
+            "text": "these optimizations reduce the global KV cache footprint by up to 37.5%."
+          },
+          "text": "these optimizations reduce the global KV cache footprint by up to 37.5%.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783560306847,
+          "id": "hk-ai-1783560306847-82451",
+          "note": "AI：長上下文會導致 KV 快取的記憶體爆炸而耗費大量記憶體。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306847,
+              "end": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 86
+              },
+              "quote": {
+                "exact": "Extended contexts lead to a memory explosion in the KV cache.",
+                "prefix": "模型展現了在數學與程式設計等推理重度領域中更強的能力。\n\n\n\n• \n\nLong-context efficiency: ",
+                "suffix": " We conserve a 5:1 ratio of local sliding window to global s"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 62,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[1]",
+            "text": "Extended contexts lead to a memory explosion in the KV cache."
+          },
+          "text": "Extended contexts lead to a memory explosion in the KV cache.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306848,
+          "id": "hk-ai-1783560306847-7009",
+          "note": "AI：Gemma 4 在各項基準測試實現性能飛躍並在人類評定中可與更大型的前沿模型競爭。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306847,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 861
+              },
+              "quote": {
+                "exact": "Gemma 4 establishes a leap in performance across STEM, multimodal, and long-context benchmarks, and rivals larger, frontier open models in human-rated tasks.",
+                "prefix": " as long-context abilities through critical design choices. ",
+                "suffix": "我們介紹 Gemma 4，這是新一代的開權重、原生多模態語言模型，屬於 Gemma 模型家族。Gemma 4 模型套件旨"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 704
+              },
+              "version": 1
+            },
+            "endOffset": 444,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "startOffset": 287,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "text": "Gemma 4 establishes a leap in performance across STEM, multimodal, and long-context benchmarks, and rivals larger, frontier open models in human-rated tasks."
+          },
+          "text": "Gemma 4 establishes a leap in performance across STEM, multimodal, and long-context benchmarks, and rivals larger, frontier open models in human-rated tasks.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306848,
+          "id": "hk-ai-1783560306848-93100",
+          "note": "AI：整合思考模式使模型能在回應前產生推理痕跡以提升複雜推理能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306848,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 576
+              },
+              "quote": {
+                "exact": "we integrate a thinking mode, enabling Gemma models to generate reasoning traces prior to responding.",
+                "prefix": "el, which ingests raw audio and image patches. Furthermore, ",
+                "suffix": " We improve inference speed, memory, and compute efficiency,"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 475
+              },
+              "version": 1
+            },
+            "endOffset": 159,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "startOffset": 58,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "text": "we integrate a thinking mode, enabling Gemma models to generate reasoning traces prior to responding."
+          },
+          "text": "we integrate a thinking mode, enabling Gemma models to generate reasoning traces prior to responding.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783560306943,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出新一代開源多模態模型 Gemma 4，涵蓋 2.3B 至 31B 等多種參數規模，並包含稠密與專家混合（MoE）架構。本世代的核心亮點在於技術架構的突破，不僅導入了「思考模式」讓模型在回答前輸出推理痕跡，大幅提升數學與程式能力，更針對 12B 模型首創「無編碼器架構」，直接將原始音訊與影像切片投射至 LLM 空間，有效減少記憶體碎片化。此外，透過縮減音訊編碼器參數、引入 p-RoPE 與 KV 快取共享技術，成功讓全球 KV 快取佔用率降低高達 37.5%，並藉由量化感知訓練（QAT）優化行動裝置的記憶體佔用。不過，開發團隊也提醒，長上下文帶來的記憶體爆炸以及大規模數據所潛藏的社會偏見，仍是需要密切注意與積極防範的挑戰。最終，Gemma 4 在安全合規的嚴格過濾下，不僅在 STEM、多模態等靜態基準測試中實現效能飛躍，31B 模型更在 Chatbot Arena 人類評定中成為領先的稠密開源模型，以更低的運算成本展現了媲美前沿巨型模型的超群實力。",
+        "provider": "chatgpt",
+        "url": "https://arxiv.org/html/2607.02770v1"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "title": "The twilight of the chatbots - by Ethan Mollick",
+      "tags": [
+        "人工智慧",
+        "工作轉型",
+        "指數型成長",
+        "開源模型",
+        "職涯發展",
+        "AI 代理人"
+      ],
+      "entries": [
+        {
+          "color": "#dee3de",
+          "createdAt": 1782873514303,
+          "id": "hk-1782873514301-49365",
+          "note": "有人在偷臭",
+          "range": {
+            "anchors": {
+              "createdAt": 1782873514300,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2203
+              },
+              "quote": {
+                "exact": "though it has been a while since Google has released a new model",
+                "prefix": "y three American companies — Anthropic, OpenAI, and Google (",
+                "suffix": "). But there is a second set of AI models that typically lag"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2139
+              },
+              "version": 1
+            },
+            "endOffset": 225,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "startOffset": 161,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "though it has been a while since Google has released a new model"
+          },
+          "text": "though it has been a while since Google has released a new model",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782876691410,
+          "id": "hk-1782876691405-47363",
+          "note": "以前我們用 AI 是這樣：\n我問一句 → AI 回一句 → 我檢查 → 再問下一步",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876691403,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4375
+              },
+              "quote": {
+                "exact": "co-intelligence",
+                "prefix": "anging. Until recently, the dominant way to use AI was as a ",
+                "suffix": ". You would ask the AI to do something, check the results, a"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4360
+              },
+              "version": 1
+            },
+            "endOffset": 147,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 132,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "co-intelligence"
+          },
+          "text": "co-intelligence",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782876770887,
+          "id": "hk-1782876770883-19557",
+          "note": "現在開始變成：\n\n我交代任務 → Agent 自己查資料、改檔案、跑工具、修錯 → 我負責驗收\n\n這叫 delegation / 任務委派型使用\n\n[翻譯] 因此，工作越來越多是將工作分配給代理",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876770882,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5670
+              },
+              "quote": {
+                "exact": "So work is increasingly about assigning work to agents",
+                "prefix": "e Code 或 OpenAI 的 Codex。因此，AI 模型本已提升的能力，可以透過良好的工具或應用程式進一步提升。",
+                "suffix": ", rather than working together with chatbots. A joint study "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5616
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[9]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[9]/span[1]/text()[1]",
+            "text": "So work is increasingly about assigning work to agents"
+          },
+          "text": "So work is increasingly about assigning work to agents",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895701,
+          "id": "hk-ai-1782876895699-93537",
+          "note": "AI：當體制試圖追趕非人性的 AI 指數級成長曲線時，必然會產生動盪與不穩定",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895698,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6905
+              },
+              "quote": {
+                "exact": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature.",
+                "prefix": "g stable. I don’t think it is going to settle anytime soon. ",
+                "suffix": " And as long as we are on some sort of exponential, and for "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6729
+              },
+              "version": 1
+            },
+            "endOffset": 721,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 545,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature."
+          },
+          "text": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895702,
+          "id": "hk-ai-1782876895701-79826",
+          "note": "AI：AI 的單次提示執行任務時間在短時間內從數小時躍升至十六小時以上",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895701,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5925
+              },
+              "quote": {
+                "exact": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt.",
+                "prefix": "hange over a fixed window is larger than the one before it. ",
+                "suffix": "  This is why AI keeps feeling like it is making leaps, even"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5675
+              },
+              "version": 1
+            },
+            "endOffset": 346,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 96,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt."
+          },
+          "text": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895703,
+          "id": "hk-ai-1782876895703-84434",
+          "note": "AI：人們正從依賴聊天機器人補足能力的階段，走向由專家管理 AI 代理人來完成工作的時代",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895702,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5563
+              },
+              "quote": {
+                "exact": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager.",
+                "prefix": "he more useful output they got from Claude from each prompt.",
+                "suffix": "A moment in timeBeing on an exponential means each change ov"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5368
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/a[1]/text()[1]",
+            "startOffset": 278,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager."
+          },
+          "text": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895705,
+          "id": "hk-ai-1782876895704-65229",
+          "note": "AI：使用 AI 工具的成功關鍵取決於使用者的專業領域經驗而非其職稱",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895703,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5276
+              },
+              "quote": {
+                "exact": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain.",
+                "prefix": "professions when actually using Claude code on coding tasks.",
+                "suffix": " And, even more interestingly, the more useful output they g"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5090
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[10]/span[2]/text()[1]",
+            "text": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain."
+          },
+          "text": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895706,
+          "id": "hk-ai-1782876895705-9448",
+          "note": "AI：透過良好的外掛工具或應用程式能進一步大幅提升 AI 模型的能力",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895705,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4209
+              },
+              "quote": {
+                "exact": "the already increasing ability of AI models can be improved still further by a good harness or app.",
+                "prefix": "for agents like Claude Code or OpenAI's Codex. As a result, ",
+                "suffix": "So work is increasingly about assigning work to agents, rath"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4110
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[2]/text()[1]",
+            "startOffset": 214,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[2]/text()[1]",
+            "text": "the already increasing ability of AI models can be improved still further by a good harness or app."
+          },
+          "text": "the already increasing ability of AI models can be improved still further by a good harness or app.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895707,
+          "id": "hk-ai-1782876895706-71606",
+          "note": "AI：具備自我修正能力的智慧 AI 系統不再需要人類頻繁干預，改變了既有的工作模式",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895706,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3796
+              },
+              "quote": {
+                "exact": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working",
+                "prefix": "ngly, it is not the way AI is being used for valuable work. ",
+                "suffix": " (this is also the subject of my upcoming book, Co-Existence"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3660
+              },
+              "version": 1
+            },
+            "endOffset": 263,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[1]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[1]/text()[1]",
+            "text": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working"
+          },
+          "text": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895708,
+          "id": "hk-ai-1782876895707-34004",
+          "note": "AI：開源模型雖然令人印象深刻，但實際表現往往不如基準測試所顯示的那麼好",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895707,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2608
+              },
+              "quote": {
+                "exact": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate",
+                "prefix": "can hide how jagged the frontier is (and also the fact that ",
+                "suffix": "). To get real insight, you need to try using AI for differe"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2496
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[7]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[4]",
+            "text": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate"
+          },
+          "text": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895709,
+          "id": "hk-ai-1782876895708-99207",
+          "note": "AI：開源權重模型允許任何人自由修改且操作成本相當低廉",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895708,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2025
+              },
+              "quote": {
+                "exact": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate.",
+                "prefix": "12 months behind the frontier, all of which are from China. ",
+                "suffix": " They, too, are climbing up an exponential improvement curve"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1835
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[2]",
+            "startOffset": 123,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[2]",
+            "text": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate."
+          },
+          "text": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895710,
+          "id": "hk-ai-1782876895709-30619",
+          "note": "AI：AI 雖然無法通過所有測試且運行成本高昂，但其進步速度極快",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895709,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1310
+              },
+              "quote": {
+                "exact": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate.",
+                "prefix": " of human engineering work (it cost $251 in tokens). Again, ",
+                "suffix": " In my own experiments, I found Fable was able to work auton"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1186
+              },
+              "version": 1
+            },
+            "endOffset": 307,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[3]/span[2]/text()[1]",
+            "startOffset": 183,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[3]/span[2]/text()[1]",
+            "text": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate."
+          },
+          "text": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895710,
+          "id": "hk-ai-1782876895710-83237",
+          "note": "AI：AI 取代人類工作時數的能力正以超越指數的速度增長",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895710,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 950
+              },
+              "quote": {
+                "exact": "They are all increasing at a better than exponential rate.",
+                "prefix": "in many fields to AI performance using professional judges. ",
+                "suffix": "Another organization doing similar experiments, Epoch, recen"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 892
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "startOffset": 191,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "text": "They are all increasing at a better than exponential rate."
+          },
+          "text": "They are all increasing at a better than exponential rate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895711,
+          "id": "hk-ai-1782876895711-88909",
+          "note": "AI：政府干預導致目前無法使用兩個最強大的 AI 模型",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895710,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 279
+              },
+              "quote": {
+                "exact": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6",
+                "prefix": " AI labs have been releasing more quickly than ever (though ",
+                "suffix": "). But it isn't just release timing. The evidence points to "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 174
+              },
+              "version": 1
+            },
+            "endOffset": 239,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 134,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6"
+          },
+          "text": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782876895868,
+        "model": "chatgpt-web",
+        "note": "AI 技術正以超越想像的指數級速度瘋狂加速，這不僅僅體現在模型的更新頻率，更反映在其實際執行工作的能力上。過去我們習慣將 AI 當作「協同智慧」，用一句一答的聊天機器人模式來補足自身能力的空缺。然而，隨著能夠自主運行、自我修正的 AI 代理人（Agents）問世，工作型態發生了根本性的劇變。現在的工作核心不再是與 AI 共同協作，而是直接向 AI 代理人指派任務。在這種全新模式下，使用者的專業背景不再是限制，決定成敗的關鍵在於使用者本身的「領域專業知識」。擁有深厚經驗的專家能引導 AI 發揮更強大的效能，就像一位稱職的管理者在領導團隊一樣。儘管開源模型與前沿模型之間仍有差距，且政府干預或高昂成本等挑戰依舊存在，但 AI 的爆發力已讓所有在 2025 年底前擬定的舊計畫形同廢紙。人類社會與既有體制在面對這條非人性的加速曲線時，正經歷前所未有的劇烈震盪，而我們已經身處這場變革的暴風眼之中。",
+        "provider": "chatgpt",
+        "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+      },
+      "mindmap": null
+    }
+  ]
+}

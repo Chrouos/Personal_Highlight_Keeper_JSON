@@ -1,0 +1,125 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979554,
+  "category": "資訊檢索",
+  "pages": [
+    {
+      "url": "https://ckip.iis.sinica.edu.tw/project/coref",
+      "title": "CKIP Lab 中文詞知識庫小組 | 指代消解",
+      "tags": [
+        "自然語言處理",
+        "指代消解",
+        "計算語言學",
+        "資訊檢索",
+        "CKIP Lab"
+      ],
+      "entries": [
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783306082273,
+          "id": "hk-ai-1783306082272-4302",
+          "note": "AI：字詞因指代而代換會導致出現次數稀少並造成檢索系統誤判",
+          "range": {
+            "anchors": {
+              "createdAt": 1783306082271,
+              "end": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 250
+              },
+              "quote": {
+                "exact": "如此的表示方式，在權重計算上會產生因為北極熊此字詞出現次數過於稀少，而導致資訊檢索系統誤判為不是描述北極熊文件",
+                "prefix": "百科中的北極熊條目為例，如下所示，由於指代的因素，其文中原為北極熊之意的字詞會被代換成白熊、熊、牠和肉食動物等等的字眼，",
+                "suffix": "，因此，透過指代消解的處理，可以將被替換過的字詞還原成原有的意思，以提高權重計算的次數，增加檢索的正確性。\n      "
+              },
+              "start": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 195
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 194,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "text": "如此的表示方式，在權重計算上會產生因為北極熊此字詞出現次數過於稀少，而導致資訊檢索系統誤判為不是描述北極熊文件"
+          },
+          "text": "如此的表示方式，在權重計算上會產生因為北極熊此字詞出現次數過於稀少，而導致資訊檢索系統誤判為不是描述北極熊文件",
+          "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783306082274,
+          "id": "hk-ai-1783306082273-48061",
+          "note": "AI：指代消解的核心功能是還原被替換的字詞以避免權重計算降低",
+          "range": {
+            "anchors": {
+              "createdAt": 1783306082273,
+              "end": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 126
+              },
+              "quote": {
+                "exact": "主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題",
+                "prefix": "oreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份，",
+                "suffix": "，例如：以中文維基百科中的北極熊條目為例，如下所示，由於指代的因素，其文中原為北極熊之意的字詞會被代換成白熊、熊、牠和肉"
+              },
+              "start": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 84
+              },
+              "version": 1
+            },
+            "endOffset": 125,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "text": "主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題"
+          },
+          "text": "主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題",
+          "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783306082275,
+          "id": "hk-ai-1783306082274-56888",
+          "note": "AI：指代消解是計算語言學中處理資訊檢索前處理的重要議題",
+          "range": {
+            "anchors": {
+              "createdAt": 1783306082274,
+              "end": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 83
+              },
+              "quote": {
+                "exact": "在計算語言學中，指代消解（Coreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份",
+                "prefix": "b 中文詞知識庫小組 | 指代消解\n  \n  \n    CKIP Lab 中文En  指代消解    \n        ",
+                "suffix": "，主要是找回原先被替換過的字詞，為了避免重要的字詞因指代的因素而造成權重計算降低的問題，例如：以中文維基百科中的北極熊條"
+              },
+              "start": {
+                "css": "article#main > div.clearfix > section.Chapter.mb-5",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 82,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/section[1]/p[1]/text()[1]",
+            "text": "在計算語言學中，指代消解（Coreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份"
+          },
+          "text": "在計算語言學中，指代消解（Coreference\n        Resolution）是一個很重要的議題，一般被應用於處理資訊檢索中的前處理部份",
+          "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783306082346,
+        "model": "chatgpt-web",
+        "note": "在計算語言學的領域中，「指代消解」扮演著不可或缺的角色。當我們在閱讀文章時，常會看到同一個主體被代換成不同的詞彙，例如「北極熊」在文中可能會變成「白熊」、「牠」或「肉食動物」。這種豐富的寫法對人類來說易於理解，但在資訊檢索系統中，卻會因為「北極熊」這個核心詞彙出現次數太少，導致系統誤判這篇文章與北極熊無關。為了打破這個數位盲點，指代消解技術應運而生，它就像是一個字詞還原大師，專門在資訊檢索的前處理階段，把這些被代換掉的字詞一一找回並還原成原本的意思。透過這樣的處理，不僅能正確提升核心詞彙的權重計算次數，更能大幅增加檢索的正確性。目前，中央研究院的 CKIP Lab 團隊正積極投入這項研究，並將指代消解與斷詞、剖析、實體辨識等技術整合為「CKIP CoreNLP」線上服務，甚至推出了 Python 套件，讓這項進步的語言處理技術能被廣泛應用。",
+        "provider": "chatgpt",
+        "url": "https://ckip.iis.sinica.edu.tw/project/coref"
+      },
+      "mindmap": null
+    }
+  ]
+}

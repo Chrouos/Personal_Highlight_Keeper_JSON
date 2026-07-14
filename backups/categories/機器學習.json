@@ -1,0 +1,2025 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979549,
+  "category": "機器學習",
+  "pages": [
+    {
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
+      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
+      "tags": [
+        "人工智慧",
+        "成本控制",
+        "提示詞工程",
+        "機器學習",
+        "OpenAI API"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119046-30444",
+          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000642421,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 234
+              },
+              "quote": {
+                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
+                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 184
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
+          },
+          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119047-74884",
+          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022174,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
+                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
+          },
+          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119047-39561",
+          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347163,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 275
+              },
+              "quote": {
+                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
+                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 228
+              },
+              "version": 1
+            },
+            "endOffset": 275,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "startOffset": 228,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
+          },
+          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119048-35651",
+          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022302,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
+                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
+          },
+          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-92669",
+          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000564166,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 209
+              },
+              "quote": {
+                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
+                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 176
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
+          },
+          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-68125",
+          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022361,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
+                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
+          },
+          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119050,
+          "id": "hk-ai-1783916119049-48527",
+          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347440,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
+                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
+              },
+              "start": {
+                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
+          },
+          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119051-15100",
+          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022492,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
+                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
+          },
+          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-99327",
+          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347576,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
+                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 138
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
+          },
+          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-94048",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022603,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
+                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 56
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
+          },
+          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119053,
+          "id": "hk-ai-1783916119052-62688",
+          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022638,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 81
+              },
+              "quote": {
+                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
+                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
+            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
+          },
+          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783916119321,
+        "model": "chatgpt-web",
+        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://arxiv.org/html/2607.02770v1",
+      "title": "Gemma 4 Technical Report",
+      "tags": [
+        "多模態模型",
+        "思考模式",
+        "開源模型",
+        "機器學習",
+        "Gemma 4",
+        "Google DeepMind"
+      ],
+      "entries": [
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783560009018,
+          "id": "hk-1783560009013-66377",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560009012,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "Gemma 4",
+                "prefix": " DeepMind\\authfootnotemark1\n\n\n\n\n\n\nAbstract  摘要\nWe introduce ",
+                "suffix": ", a new generation of open-weight, natively multimodal langu"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "Gemma 4"
+          },
+          "text": "Gemma 4",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783560020226,
+          "id": "hk-1783560020224-25023",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560020223,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 285
+              },
+              "quote": {
+                "exact": "Mixture-of-Experts architectures, ranging from 2.3B to 31B parameters.",
+                "prefix": "y and reasoning, the Gemma 4 model suite features dense and ",
+                "suffix": " Alongside improved vision and audio encoders for all model "
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 215
+              },
+              "version": 1
+            },
+            "endOffset": 265,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[3]",
+            "startOffset": 195,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[3]",
+            "text": "Mixture-of-Experts architectures, ranging from 2.3B to 31B parameters."
+          },
+          "text": "Mixture-of-Experts architectures, ranging from 2.3B to 31B parameters.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783560040555,
+          "id": "hk-1783560040553-70466",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560040552,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 417
+              },
+              "quote": {
+                "exact": "encoder-free architecture for our 12B model",
+                "prefix": "d audio encoders for all model sizes, we propose a unified, ",
+                "suffix": ", which ingests raw audio and image patches. Furthermore, we"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 374
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "startOffset": 79,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "text": "encoder-free architecture for our 12B model"
+          },
+          "text": "encoder-free architecture for our 12B model",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783560306841,
+          "id": "hk-ai-1783560306840-31843",
+          "note": "AI：在大型數據上訓練的大型語言模型可能會反映並帶有潛在的社會文化偏見。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306839,
+              "end": {
+                "css": "p#S5\\.I2\\.i1\\.p1\\.1",
+                "textOffset": 110
+              },
+              "quote": {
+                "exact": "LLMs trained on large-scale text and image data can reflect embedded socio-cultural biases.",
+                "prefix": "ng Gemma 4, we focused heavily on:\n\n\n• \n\nBias and Fairness: ",
+                "suffix": " We encourage developers to perform continuous monitoring (u"
+              },
+              "start": {
+                "css": "p#S5\\.I2\\.i1\\.p1\\.1",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[4]/div[1]/ul[1]/li[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[4]/div[1]/ul[1]/li[1]/div[1]/p[1]/text()[1]",
+            "text": "LLMs trained on large-scale text and image data can reflect embedded socio-cultural biases."
+          },
+          "text": "LLMs trained on large-scale text and image data can reflect embedded socio-cultural biases.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306842,
+          "id": "hk-ai-1783560306841-16007",
+          "note": "AI：Gemma 4 在顯著提升安全性的同時也能保持較低的誤拒絕率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306841,
+              "end": {
+                "css": "p#S5\\.SS3\\.p1\\.1",
+                "textOffset": 371
+              },
+              "quote": {
+                "exact": "Gemma 4 models significantly outperform Gemma 3 and 3n models in improving safety, while keeping unjustified refusals low.",
+                "prefix": " content safety relative to previous Gemma models. Overall, ",
+                "suffix": "\n\n\nImportantly, all testing was conducted without safety fil"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.p1\\.1",
+                "textOffset": 249
+              },
+              "version": 1
+            },
+            "endOffset": 371,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 249,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[1]/p[1]/text()[1]",
+            "text": "Gemma 4 models significantly outperform Gemma 3 and 3n models in improving safety, while keeping unjustified refusals low."
+          },
+          "text": "Gemma 4 models significantly outperform Gemma 3 and 3n models in improving safety, while keeping unjustified refusals low.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783560306842,
+          "id": "hk-ai-1783560306842-6590",
+          "note": "AI：訓練數據必須經過嚴格過濾以移除個人與敏感資訊來防止隱私侵權。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306842,
+              "end": {
+                "css": "p#S5\\.SS2\\.p3\\.1",
+                "textOffset": 251
+              },
+              "quote": {
+                "exact": "The training data was specifically filtered for the removal of certain personal information and other sensitive data to guard against privacy violations.",
+                "prefix": "s underwent careful input data pre-processing and scrutiny. ",
+                "suffix": " Post-training evaluations and train-time mitigations were a"
+              },
+              "start": {
+                "css": "p#S5\\.SS2\\.p3\\.1",
+                "textOffset": 98
+              },
+              "version": 1
+            },
+            "endOffset": 251,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/div[3]/p[1]/text()[1]",
+            "startOffset": 98,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/div[3]/p[1]/text()[1]",
+            "text": "The training data was specifically filtered for the removal of certain personal information and other sensitive data to guard against privacy violations."
+          },
+          "text": "The training data was specifically filtered for the removal of certain personal information and other sensitive data to guard against privacy violations.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306843,
+          "id": "hk-ai-1783560306843-99025",
+          "note": "AI：輕量化的 E2B 模型僅用十分之一的參數數量便能媲美前代 27B 模型的性能。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306842,
+              "end": {
+                "css": "p#S4\\.SS2\\.p1\\.1",
+                "textOffset": 261
+              },
+              "quote": {
+                "exact": "E2B roughly matches Gemma 3 27B performance with 10x less parameters.",
+                "prefix": "st in size and significantly better across the board, while ",
+                "suffix": "\nTable 6 shows the performance of Gemma 4 models on vision b"
+              },
+              "start": {
+                "css": "p#S4\\.SS2\\.p1\\.1",
+                "textOffset": 192
+              },
+              "version": 1
+            },
+            "endOffset": 251,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 182,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[1]/p[1]/text()[2]",
+            "text": "E2B roughly matches Gemma 3 27B performance with 10x less parameters."
+          },
+          "text": "E2B roughly matches Gemma 3 27B performance with 10x less parameters.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306844,
+          "id": "hk-ai-1783560306843-68727",
+          "note": "AI：新一代音訊編碼器在保持相似架構下成功減少了 55% 的參數數量。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306843,
+              "end": {
+                "css": "p#S2\\.SS2\\.p1\\.1",
+                "textOffset": 436
+              },
+              "quote": {
+                "exact": "While the architecture remains similar to that of Gemma 3n, we reduce the number of parameters by 55% (from 680M to 305M).",
+                "prefix": " followed by twelve Conformer layers [Gulati et al., 2020]. ",
+                "suffix": " We do not use vector quantization; the LLM ingests the cont"
+              },
+              "start": {
+                "css": "p#S2\\.SS2\\.p1\\.1",
+                "textOffset": 314
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[2]/div[1]/p[1]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[2]/div[1]/p[1]/text()[3]",
+            "text": "While the architecture remains similar to that of Gemma 3n, we reduce the number of parameters by 55% (from 680M to 305M)."
+          },
+          "text": "While the architecture remains similar to that of Gemma 3n, we reduce the number of parameters by 55% (from 680M to 305M).",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306845,
+          "id": "hk-ai-1783560306844-39796",
+          "note": "AI：Gemma 4 以 Apache 2.0 開源授權釋出以讓全球開發者與研究人員自由客製化與擴充。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306844,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 551
+              },
+              "quote": {
+                "exact": "We release the Gemma 4 models under an Apache 2.0 license, empowering developers and researchers everywhere to build upon, customize, and extend these capabilities.",
+                "prefix": "pen-source models across text, image, and audio modalities. ",
+                "suffix": "在這份技術報告中，我們概述了不同模型規模的模型架構，以及 Gemma 4 的訓練前後配方。透過全面的基準測試與人類評估，"
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 387
+              },
+              "version": 1
+            },
+            "endOffset": 306,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 142,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "text": "We release the Gemma 4 models under an Apache 2.0 license, empowering developers and researchers everywhere to build upon, customize, and extend these capabilities."
+          },
+          "text": "We release the Gemma 4 models under an Apache 2.0 license, empowering developers and researchers everywhere to build upon, customize, and extend these capabilities.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306846,
+          "id": "hk-ai-1783560306845-20358",
+          "note": "AI：12B 模型的無編碼器架構能直接將音訊與影像投射至嵌入空間並減少記憶體碎片化。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306845,
+              "end": {
+                "css": "p#S1\\.I1\\.i5\\.p1\\.1",
+                "textOffset": 311
+              },
+              "quote": {
+                "exact": "projects raw 40ms audio chunks and image patches into the LLM embedding space, alleviating the need for separate encoders and reducing memory fragmentation.",
+                "prefix": " unified encoder-free architecture for the 12B model, which ",
+                "suffix": "無編碼器架構：Gemma 4 型號採用凍結視覺與音訊編碼器。我們為 12B 模型引入了統一的無編碼器架構，將原始 40m"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i5\\.p1\\.1",
+                "textOffset": 155
+              },
+              "version": 1
+            },
+            "endOffset": 286,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[5]/div[1]/p[1]/text()[1]",
+            "startOffset": 130,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[5]/div[1]/p[1]/text()[1]",
+            "text": "projects raw 40ms audio chunks and image patches into the LLM embedding space, alleviating the need for separate encoders and reducing memory fragmentation."
+          },
+          "text": "projects raw 40ms audio chunks and image patches into the LLM embedding space, alleviating the need for separate encoders and reducing memory fragmentation.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306846,
+          "id": "hk-ai-1783560306846-20504",
+          "note": "AI：量化感知訓練版本能在幾乎不影響品質的情況下減少參數記憶體佔用與延遲。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306846,
+              "end": {
+                "css": "p#S1\\.I1\\.i4\\.p1\\.1",
+                "textOffset": 216
+              },
+              "quote": {
+                "exact": "We provide quantized versions of our models trained with quantization-aware training [Jacob et al., 2018, QAT] to reduce their parameter memory footprint and latency with minimal impact on quality.",
+                "prefix": "設計 [Leviathan 等，2023]，以提升模型的解碼速度。\n\n\n\n• \n\nMemory efficiency: ",
+                "suffix": "記憶體效率：我們提供以量化感知訓練訓練的模型量化版本 [Jacob 等， 2018， QAT]，以減少參數記憶體佔用與延"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i4\\.p1\\.1",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[4]/div[1]/p[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[4]/div[1]/p[1]/text()[1]",
+            "text": "We provide quantized versions of our models trained with quantization-aware training [Jacob et al., 2018, QAT] to reduce their parameter memory footprint and latency with minimal impact on quality."
+          },
+          "text": "We provide quantized versions of our models trained with quantization-aware training [Jacob et al., 2018, QAT] to reduce their parameter memory footprint and latency with minimal impact on quality.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306847,
+          "id": "hk-ai-1783560306846-49641",
+          "note": "AI：透過 p-RoPE 與 KV 快取共享等優化能將全球 KV 快取佔用率降低高達 37.5%。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306846,
+              "end": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 508
+              },
+              "quote": {
+                "exact": "these optimizations reduce the global KV cache footprint by up to 37.5%.",
+                "prefix": "e of keys as values in global layers [Kayyam et al., 2026], ",
+                "suffix": "- RoPE [Barbero 等， 2025] 作為位置編碼。結合 KV 快取共享 [Shazeer， 2019] 以"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 436
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[5]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[5]",
+            "text": "these optimizations reduce the global KV cache footprint by up to 37.5%."
+          },
+          "text": "these optimizations reduce the global KV cache footprint by up to 37.5%.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783560306847,
+          "id": "hk-ai-1783560306847-82451",
+          "note": "AI：長上下文會導致 KV 快取的記憶體爆炸而耗費大量記憶體。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306847,
+              "end": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 86
+              },
+              "quote": {
+                "exact": "Extended contexts lead to a memory explosion in the KV cache.",
+                "prefix": "模型展現了在數學與程式設計等推理重度領域中更強的能力。\n\n\n\n• \n\nLong-context efficiency: ",
+                "suffix": " We conserve a 5:1 ratio of local sliding window to global s"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 62,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/ul[1]/li[2]/div[1]/p[1]/text()[1]",
+            "text": "Extended contexts lead to a memory explosion in the KV cache."
+          },
+          "text": "Extended contexts lead to a memory explosion in the KV cache.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783560306848,
+          "id": "hk-ai-1783560306847-7009",
+          "note": "AI：Gemma 4 在各項基準測試實現性能飛躍並在人類評定中可與更大型的前沿模型競爭。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306847,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 861
+              },
+              "quote": {
+                "exact": "Gemma 4 establishes a leap in performance across STEM, multimodal, and long-context benchmarks, and rivals larger, frontier open models in human-rated tasks.",
+                "prefix": " as long-context abilities through critical design choices. ",
+                "suffix": "我們介紹 Gemma 4，這是新一代的開權重、原生多模態語言模型，屬於 Gemma 模型家族。Gemma 4 模型套件旨"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 704
+              },
+              "version": 1
+            },
+            "endOffset": 444,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "startOffset": 287,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "text": "Gemma 4 establishes a leap in performance across STEM, multimodal, and long-context benchmarks, and rivals larger, frontier open models in human-rated tasks."
+          },
+          "text": "Gemma 4 establishes a leap in performance across STEM, multimodal, and long-context benchmarks, and rivals larger, frontier open models in human-rated tasks.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783560306848,
+          "id": "hk-ai-1783560306848-93100",
+          "note": "AI：整合思考模式使模型能在回應前產生推理痕跡以提升複雜推理能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783560306848,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 576
+              },
+              "quote": {
+                "exact": "we integrate a thinking mode, enabling Gemma models to generate reasoning traces prior to responding.",
+                "prefix": "el, which ingests raw audio and image patches. Furthermore, ",
+                "suffix": " We improve inference speed, memory, and compute efficiency,"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 475
+              },
+              "version": 1
+            },
+            "endOffset": 159,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "startOffset": 58,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[6]",
+            "text": "we integrate a thinking mode, enabling Gemma models to generate reasoning traces prior to responding."
+          },
+          "text": "we integrate a thinking mode, enabling Gemma models to generate reasoning traces prior to responding.",
+          "url": "https://arxiv.org/html/2607.02770v1"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783560306943,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出新一代開源多模態模型 Gemma 4，涵蓋 2.3B 至 31B 等多種參數規模，並包含稠密與專家混合（MoE）架構。本世代的核心亮點在於技術架構的突破，不僅導入了「思考模式」讓模型在回答前輸出推理痕跡，大幅提升數學與程式能力，更針對 12B 模型首創「無編碼器架構」，直接將原始音訊與影像切片投射至 LLM 空間，有效減少記憶體碎片化。此外，透過縮減音訊編碼器參數、引入 p-RoPE 與 KV 快取共享技術，成功讓全球 KV 快取佔用率降低高達 37.5%，並藉由量化感知訓練（QAT）優化行動裝置的記憶體佔用。不過，開發團隊也提醒，長上下文帶來的記憶體爆炸以及大規模數據所潛藏的社會偏見，仍是需要密切注意與積極防範的挑戰。最終，Gemma 4 在安全合規的嚴格過濾下，不僅在 STEM、多模態等靜態基準測試中實現效能飛躍，31B 模型更在 Chatbot Arena 人類評定中成為領先的稠密開源模型，以更低的運算成本展現了媲美前沿巨型模型的超群實力。",
+        "provider": "chatgpt",
+        "url": "https://arxiv.org/html/2607.02770v1"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://arxiv.org/html/2606.21649",
+      "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",
+      "tags": [
+        "長文本檢索",
+        "動態嵌入",
+        "智慧體記憶",
+        "機器學習",
+        "EvoEmbedding",
+        "RAG優化"
+      ],
+      "entries": [
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782886723245,
+          "id": "hk-1782886723241-56417",
+          "note": "傳統 embedding 通常是：\n\nchunk → embedding → 存進向量庫\n\n問題是每個 chunk 都被「單獨編碼」\n模型不知道它前後發生了什麼\n\n尤其是對話的搜尋:\n早上：會議在 3 點\n下午：會議改到 5 點\n使用者問：會議幾點？",
+          "range": {
+            "anchors": {
+              "createdAt": 1782886723241,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 142
+              },
+              "quote": {
+                "exact": "encode text segments in isolation, ignoring their surrounding context and temporal order",
+                "prefix": "t  摘要\nExisting embedding models are inherently static: they ",
+                "suffix": ".\nThis paper introduces EvoEmbedding, a novel embedding mode"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[5]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[3]",
+            "text": "encode text segments in isolation, ignoring their surrounding context and temporal order"
+          },
+          "text": "encode text segments in isolation, ignoring their surrounding context and temporal order",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782886989714,
+          "id": "hk-1782886989712-20167",
+          "note": "作者做了一個專門訓練這種能力的資料集\n叫 EvoTrain-180K\n\n它包含：\n\nweb text\n多輪 dialogue\nmemory 類資料\ncoreference resolution\ntemporal understanding\nreasoning-based query\n\n最後產出 184,137 筆高品質樣本",
+          "range": {
+            "anchors": {
+              "createdAt": 1782886989712,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p > span.ltx_text.ltx_font_bold:nth-of-type(3)",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "EvoTrain-180K",
+                "prefix": "arch.\nTo equip the model with this capability, we construct ",
+                "suffix": ", a diverse dataset for the joint optimization of latent mem"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p > span.ltx_text.ltx_font_bold:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/span[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/span[3]/text()[1]",
+            "text": "EvoTrain-180K"
+          },
+          "text": "EvoTrain-180K",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782887049752,
+          "id": "hk-1782887049749-4393",
+          "note": "EvoEmbedding-2B / 4B 在多個 long-context retrieval benchmark 上，Overall Recall@10 達到 80.5\n高於 KaLM-Embedding-Gemma3-12B 的 72.7，也高於 Qwen3-Embedding-8B 的 69.0",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887049749,
+              "end": {
+                "css": "span#S0\\.F1\\.5\\.2",
+                "textOffset": 73
+              },
+              "quote": {
+                "exact": "Performance comparison across long-context retrieval and generation tasks",
+                "prefix": "Github https://clare-nie.github.io/EvoEmbedding\n\n\nFigure 1: ",
+                "suffix": ". Our EvoEmbedding family (0.8B, 2B, and 4B) achieves superi"
+              },
+              "start": {
+                "css": "span#S0\\.F1\\.5\\.2",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/figure[1]/figcaption[1]/span[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/figure[1]/figcaption[1]/span[2]/text()[1]",
+            "text": "Performance comparison across long-context retrieval and generation tasks"
+          },
+          "text": "Performance comparison across long-context retrieval and generation tasks",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782887847585,
+          "id": "hk-ai-1782887847585-30819",
+          "note": "AI：EvoEmbedding 從 static semantic search 推進到 context-aware matching",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847584,
+              "end": {
+                "css": "p#S6\\.p1\\.1",
+                "textOffset": 381
+              },
+              "quote": {
+                "exact": "EvoEmbedding moves beyond static semantic search to achieve precise, context-aware matching.",
+                "prefix": "uously updated latent memory with sequential text encoding, ",
+                "suffix": " To resolve training inefficiency and representation collaps"
+              },
+              "start": {
+                "css": "p#S6\\.p1\\.1",
+                "textOffset": 289
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[6]/div[1]/p[1]/text()[4]",
+            "startOffset": 118,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[6]/div[1]/p[1]/text()[3]",
+            "text": "EvoEmbedding moves beyond static semantic search to achieve precise, context-aware matching."
+          },
+          "text": "EvoEmbedding moves beyond static semantic search to achieve precise, context-aware matching.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847586,
+          "id": "hk-ai-1782887847585-90746",
+          "note": "AI：目前 EvoEmbedding 尚未原生支援 multimodal retrieval",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847585,
+              "end": {
+                "css": "p#S5\\.p4\\.1",
+                "textOffset": 323
+              },
+              "quote": {
+                "exact": "the current implementation of EvoEmbedding lacks native support for multimodal retrieval.",
+                "prefix": "erformance when applied to out-of-domain scenarios.\nSecond, ",
+                "suffix": "\nWhile the architecture could be extended to incorporate vis"
+              },
+              "start": {
+                "css": "p#S5\\.p4\\.1",
+                "textOffset": 234
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[4]/p[1]/text()[2]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[4]/p[1]/text()[2]",
+            "text": "the current implementation of EvoEmbedding lacks native support for multimodal retrieval."
+          },
+          "text": "the current implementation of EvoEmbedding lacks native support for multimodal retrieval.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847587,
+          "id": "hk-ai-1782887847586-40899",
+          "note": "AI：受限於訓練資料與計算資源，EvoEmbedding 在 out-of-domain 場景可能退化",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847586,
+              "end": {
+                "css": "p#S5\\.p4\\.1",
+                "textOffset": 225
+              },
+              "quote": {
+                "exact": "EvoEmbedding may exhibit degraded performance when applied to out-of-domain scenarios.",
+                "prefix": "by limited computational resources and training data scale, ",
+                "suffix": "\nSecond, the current implementation of EvoEmbedding lacks na"
+              },
+              "start": {
+                "css": "p#S5\\.p4\\.1",
+                "textOffset": 139
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[4]/p[1]/text()[2]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[4]/p[1]/text()[1]",
+            "text": "EvoEmbedding may exhibit degraded performance when applied to out-of-domain scenarios."
+          },
+          "text": "EvoEmbedding may exhibit degraded performance when applied to out-of-domain scenarios.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847587,
+          "id": "hk-ai-1782887847587-79828",
+          "note": "AI：商用閉源模型通常無法修改內部狀態，限制 latent memory for generation 的可部署性",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847587,
+              "end": {
+                "css": "p#S5\\.p2\\.1",
+                "textOffset": 737
+              },
+              "quote": {
+                "exact": "State-of-the-art commercial models are typically accessible only via black-box APIs, precluding any internal state modifications.",
+                "prefix": "historical facts (Huang et al., 2025).\n(iii) Deployability: ",
+                "suffix": "\nConsequently, leveraging latent memory to construct retriev"
+              },
+              "start": {
+                "css": "p#S5\\.p2\\.1",
+                "textOffset": 608
+              },
+              "version": 1
+            },
+            "endOffset": 130,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[2]/p[1]/text()[6]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[2]/p[1]/text()[6]",
+            "text": "State-of-the-art commercial models are typically accessible only via black-box APIs, precluding any internal state modifications."
+          },
+          "text": "State-of-the-art commercial models are typically accessible only via black-box APIs, precluding any internal state modifications.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847588,
+          "id": "hk-ai-1782887847587-47228",
+          "note": "AI：retrieval 相比生成式記憶更能提供可驗證的歷史事實依據",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847587,
+              "end": {
+                "css": "p#S5\\.p2\\.1",
+                "textOffset": 564
+              },
+              "quote": {
+                "exact": "retrieval provides a concrete, verifiable record of historical facts",
+                "prefix": "o reliably verify whether specific events occurred, whereas ",
+                "suffix": " (Huang et al., 2025).\n(iii) Deployability: State-of-the-art"
+              },
+              "start": {
+                "css": "p#S5\\.p2\\.1",
+                "textOffset": 496
+              },
+              "version": 1
+            },
+            "endOffset": 189,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[2]/p[1]/text()[4]",
+            "startOffset": 121,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[2]/p[1]/text()[4]",
+            "text": "retrieval provides a concrete, verifiable record of historical facts"
+          },
+          "text": "retrieval provides a concrete, verifiable record of historical facts",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847588,
+          "id": "hk-ai-1782887847588-14249",
+          "note": "AI：直接改動 LLM 內部狀態可能引發 catastrophic forgetting 與 hallucination",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847588,
+              "end": {
+                "css": "p#S5\\.p2\\.1",
+                "textOffset": 339
+              },
+              "quote": {
+                "exact": "directly modifying their parameters, activations, or prompts often triggers unpredictable behaviors like catastrophic forgetting and hallucinations",
+                "prefix": "ping LLMs with native or test-time memory is appealing, yet ",
+                "suffix": " (Yu et al., 2026).\n(ii) Factuality: Under limited memory ca"
+              },
+              "start": {
+                "css": "p#S5\\.p2\\.1",
+                "textOffset": 192
+              },
+              "version": 1
+            },
+            "endOffset": 213,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[2]/p[1]/text()[2]",
+            "startOffset": 66,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[2]/p[1]/text()[2]",
+            "text": "directly modifying their parameters, activations, or prompts often triggers unpredictable behaviors like catastrophic forgetting and hallucinations"
+          },
+          "text": "directly modifying their parameters, activations, or prompts often triggers unpredictable behaviors like catastrophic forgetting and hallucinations",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782887847589,
+          "id": "hk-ai-1782887847588-13414",
+          "note": "AI：latent memory 的目的不是記住所有內容，而是學會如何查詢過去事件",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847588,
+              "end": {
+                "css": "p#S5\\.p1\\.1",
+                "textOffset": 471
+              },
+              "quote": {
+                "exact": "This does not require the model to memorize everything, but rather to know how to query past events.",
+                "prefix": "emory queue to maintain a finite, rolling contextual state.\n",
+                "suffix": " This basic intuition directly inspired the design of EvoEmb"
+              },
+              "start": {
+                "css": "p#S5\\.p1\\.1",
+                "textOffset": 371
+              },
+              "version": 1
+            },
+            "endOffset": 341,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[1]/p[1]/text()[3]",
+            "startOffset": 241,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[1]/p[1]/text()[3]",
+            "text": "This does not require the model to memorize everything, but rather to know how to query past events."
+          },
+          "text": "This does not require the model to memorize everything, but rather to know how to query past events.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782887847589,
+          "id": "hk-ai-1782887847589-71198",
+          "note": "AI：缺乏全局上下文的 retrieval 本質上不夠理想",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847589,
+              "end": {
+                "css": "p#S5\\.p1\\.1",
+                "textOffset": 65
+              },
+              "quote": {
+                "exact": "Retrieval without global context is suboptimal.",
+                "prefix": "ance.\n\n\n\n\n\n5 Discussion and Limitations\n\n\nWhy EvoEmbedding?\n",
+                "suffix": "\nIt is trivial to construct adversarial cases that deceive s"
+              },
+              "start": {
+                "css": "p#S5\\.p1\\.1",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[1]/p[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/div[1]/p[1]/text()[2]",
+            "text": "Retrieval without global context is suboptimal."
+          },
+          "text": "Retrieval without global context is suboptimal.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847590,
+          "id": "hk-ai-1782887847589-2460",
+          "note": "AI：EvoEmbedding 犧牲 context encoding speed 來換取更低記憶體消耗",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847589,
+              "end": {
+                "css": "p#S4\\.SS4\\.p1\\.1",
+                "textOffset": 894
+              },
+              "quote": {
+                "exact": "Although it requires more time to encode the context, its compact latent memory state substantially lowers memory consumption",
+                "prefix": "ed for improved accuracy and reduced peak GPU memory usage. ",
+                "suffix": " and leads to the best retrieval performance.\n\n\n\n\n\n5 Discuss"
+              },
+              "start": {
+                "css": "p#S4\\.SS4\\.p1\\.1",
+                "textOffset": 769
+              },
+              "version": 1
+            },
+            "endOffset": 231,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[4]/div[1]/p[1]/text()[4]",
+            "startOffset": 106,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[4]/div[1]/p[1]/text()[4]",
+            "text": "Although it requires more time to encode the context, its compact latent memory state substantially lowers memory consumption"
+          },
+          "text": "Although it requires more time to encode the context, its compact latent memory state substantially lowers memory consumption",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847590,
+          "id": "hk-ai-1782887847590-95491",
+          "note": "AI：EvoEmbedding 在 LongMemEval 表現最好，且 peak GPU memory 較低",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847590,
+              "end": {
+                "css": "span#S4\\.T6\\.11\\.2",
+                "textOffset": 195
+              },
+              "quote": {
+                "exact": "EvoEmbedding obtains the best LongMemEval performance while requiring substantially lower peak GPU memory",
+                "prefix": "omparison between EvoEmbedding and static embedding models. ",
+                "suffix": ", though it incurs additional encoding time due to memory co"
+              },
+              "start": {
+                "css": "span#S4\\.T6\\.11\\.2",
+                "textOffset": 90
+              },
+              "version": 1
+            },
+            "endOffset": 195,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[3]/figure[1]/figcaption[1]/span[2]/text()[1]",
+            "startOffset": 90,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[3]/figure[1]/figcaption[1]/span[2]/text()[1]",
+            "text": "EvoEmbedding obtains the best LongMemEval performance while requiring substantially lower peak GPU memory"
+          },
+          "text": "EvoEmbedding obtains the best LongMemEval performance while requiring substantially lower peak GPU memory",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847591,
+          "id": "hk-ai-1782887847590-66913",
+          "note": "AI：即使訓練資料量較少，EvoEmbedding 仍展現良好擴展性與泛化能力",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847590,
+              "end": {
+                "css": "p#S3\\.SS3\\.p2\\.1",
+                "textOffset": 576
+              },
+              "quote": {
+                "exact": "EvoEmbedding demonstrates exceptional scalability and robust generalization.",
+                "prefix": "os (Wu et al., 2026; Zhao et al., 2026b; Nie et al., 2026), ",
+                "suffix": "\nFurther details are provided in Appendix A.\n\n\nTable 1: Retr"
+              },
+              "start": {
+                "css": "p#S3\\.SS3\\.p2\\.1",
+                "textOffset": 500
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[3]/div[2]/p[1]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[3]/div[2]/p[1]/text()[4]",
+            "text": "EvoEmbedding demonstrates exceptional scalability and robust generalization."
+          },
+          "text": "EvoEmbedding demonstrates exceptional scalability and robust generalization.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847591,
+          "id": "hk-ai-1782887847591-32503",
+          "note": "AI：資料驗證會排除 hallucination，確保答案依賴提供的歷史內容",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847591,
+              "end": {
+                "css": "p#S3\\.I1\\.i3\\.p1\\.2",
+                "textOffset": 452
+              },
+              "quote": {
+                "exact": "The verification process ensures valid QA pairs by ruling out hallucinations and enforcing reliance on provided history over general knowledge.",
+                "prefix": "-relevant segments to serve as the positive target v+v^{+}.\n",
+                "suffix": "\n\n\n\nThrough this rigorous pipeline, we construct 184,137 hig"
+              },
+              "start": {
+                "css": "p#S3\\.I1\\.i3\\.p1\\.2",
+                "textOffset": 309
+              },
+              "version": 1
+            },
+            "endOffset": 145,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[3]/div[2]/ul[1]/li[3]/div[1]/p[1]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[3]/div[2]/ul[1]/li[3]/div[1]/p[1]/text()[3]",
+            "text": "The verification process ensures valid QA pairs by ruling out hallucinations and enforcing reliance on provided history over general knowledge."
+          },
+          "text": "The verification process ensures valid QA pairs by ruling out hallucinations and enforcing reliance on provided history over general knowledge.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847591,
+          "id": "hk-ai-1782887847591-29278",
+          "note": "AI：訓練 memory loss 時會凍結 backbone 並停用 LoRA adapter",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847591,
+              "end": {
+                "css": "p#S3\\.SS2\\.p1\\.14",
+                "textOffset": 116
+              },
+              "quote": {
+                "exact": "we keep the backbone LLM parameters frozen and deactivate all LoRA adapters.",
+                "prefix": "hbf{M}_{t}).\n\n(4)\n\n\nCrucially, during this prediction step, ",
+                "suffix": "\nThis design ensures that the loss backpropagates through th"
+              },
+              "start": {
+                "css": "p#S3\\.SS2\\.p1\\.14",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 116,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/div[1]/p[3]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/div[1]/p[3]/text()[1]",
+            "text": "we keep the backbone LLM parameters frozen and deactivate all LoRA adapters."
+          },
+          "text": "we keep the backbone LLM parameters frozen and deactivate all LoRA adapters.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847592,
+          "id": "hk-ai-1782887847592-23303",
+          "note": "AI：固定 memory 容量可控制計算複雜度",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847591,
+              "end": {
+                "css": "p#S3\\.SS1\\.p2\\.9",
+                "textOffset": 818
+              },
+              "quote": {
+                "exact": "By strictly limiting the memory size, it bounds the computational complexity",
+                "prefix": "r curriculum learning (see Table 5).\n(ii) Bounded Capacity: ",
+                "suffix": " and explicitly forces the model to learn to fuse new knowle"
+              },
+              "start": {
+                "css": "p#S3\\.SS1\\.p2\\.9",
+                "textOffset": 742
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[1]/div[2]/p[2]/text()[11]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[1]/div[2]/p[2]/text()[11]",
+            "text": "By strictly limiting the memory size, it bounds the computational complexity"
+          },
+          "text": "By strictly limiting the memory size, it bounds the computational complexity",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847592,
+          "id": "hk-ai-1782887847592-26633",
+          "note": "AI：模型能根據 firstly、lastly 等時間詞準確對應到歷史階段",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847592,
+              "end": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 1564
+              },
+              "quote": {
+                "exact": "When confronted with temporal keywords such as ‘firstly’ or ‘lastly’, the query-context similarities peak distinctly at the targeted historical stages",
+                "prefix": "s.\nWe show our model is inherently suited for temporal RAG. ",
+                "suffix": ", successfully decoupling temporal intents from coarse textu"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 1414
+              },
+              "version": 1
+            },
+            "endOffset": 83,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[20]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[17]",
+            "text": "When confronted with temporal keywords such as ‘firstly’ or ‘lastly’, the query-context similarities peak distinctly at the targeted historical stages"
+          },
+          "text": "When confronted with temporal keywords such as ‘firstly’ or ‘lastly’, the query-context similarities peak distinctly at the targeted historical stages",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847593,
+          "id": "hk-ai-1782887847592-34655",
+          "note": "AI：EvoEmbedding 可以作為 plug-and-play 模組提升既有 agentic memory 系統",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847592,
+              "end": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 1148
+              },
+              "quote": {
+                "exact": "EvoEmbedding seamlessly integrates into existing agentic memory systems and delivers substantial gains",
+                "prefix": "t al., 2026a).\n(iii) Enhancement of agentic memory systems.\n",
+                "suffix": " (e.g., +19.2% for A-MEM and +13.5% for LightMem), consisten"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 1046
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[14]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[13]",
+            "text": "EvoEmbedding seamlessly integrates into existing agentic memory systems and delivers substantial gains"
+          },
+          "text": "EvoEmbedding seamlessly integrates into existing agentic memory systems and delivers substantial gains",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847593,
+          "id": "hk-ai-1782887847593-2469",
+          "note": "AI：EvoEmbedding-4B 讓簡單 RAG 在 LongMemEval-s 上以較低 token 消耗取得最高準確率",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847593,
+              "end": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 846
+              },
+              "quote": {
+                "exact": "naive RAG with EvoEmbedding-4B achieves the highest accuracy with minimal token consumption on LongMemEval-s",
+                "prefix": "ength of 1.2K).\nFurthermore, as depicted in Fig. 2 (Right), ",
+                "suffix": " (Wu et al., 2026), substantially outperforming memory-based"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 738
+              },
+              "version": 1
+            },
+            "endOffset": 118,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[10]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[10]",
+            "text": "naive RAG with EvoEmbedding-4B achieves the highest accuracy with minimal token consumption on LongMemEval-s"
+          },
+          "text": "naive RAG with EvoEmbedding-4B achieves the highest accuracy with minimal token consumption on LongMemEval-s",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847593,
+          "id": "hk-ai-1782887847593-81539",
+          "note": "AI：EvoEmbedding 能泛化到 128K context 的理解與個人化任務",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847593,
+              "end": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 601
+              },
+              "quote": {
+                "exact": "EvoEmbedding generalizes to downstream long-context understanding and personalization tasks, effectively handling 128K contexts",
+                "prefix": "025) by +11.1%.\n(ii) Strong scalability and generalization.\n",
+                "suffix": " (10×\\times its maximum training window, and >100×\\times its"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 474
+              },
+              "version": 1
+            },
+            "endOffset": 129,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[7]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[7]",
+            "text": "EvoEmbedding generalizes to downstream long-context understanding and personalization tasks, effectively handling 128K contexts"
+          },
+          "text": "EvoEmbedding generalizes to downstream long-context understanding and personalization tasks, effectively handling 128K contexts",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847594,
+          "id": "hk-ai-1782887847593-48058",
+          "note": "AI：EvoEmbedding 在八個 long-context retrieval benchmark 上取得最高整體準確率",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847593,
+              "end": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 295
+              },
+              "quote": {
+                "exact": "EvoEmbedding yields the highest overall accuracy across eight long-context benchmarks.",
+                "prefix": "of-the-art retrieval performance.\nAs illustrated in Fig. 1, ",
+                "suffix": "\nIt surpasses generalist KaLM-Embedding-Gemma3-12B (Zhao et "
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.2",
+                "textOffset": 209
+              },
+              "version": 1
+            },
+            "endOffset": 88,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[4]",
+            "text": "EvoEmbedding yields the highest overall accuracy across eight long-context benchmarks."
+          },
+          "text": "EvoEmbedding yields the highest overall accuracy across eight long-context benchmarks.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847594,
+          "id": "hk-ai-1782887847594-44199",
+          "note": "AI：模型能把時間動態與跨段關聯壓縮進 embedding 表示中",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847594,
+              "end": {
+                "css": "p#S1\\.p4\\.1",
+                "textOffset": 574
+              },
+              "quote": {
+                "exact": "This design allows EvoEmbedding to recurrently compress ongoing contexts, injecting rich temporal dynamics and cross-segment associations into the representations.",
+                "prefix": " memory and generates context-aware embeddings in parallel.\n",
+                "suffix": "\nTo facilitate training, we construct EvoTrain-180K, a diver"
+              },
+              "start": {
+                "css": "p#S1\\.p4\\.1",
+                "textOffset": 411
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[4]/p[1]/text()[6]",
+            "startOffset": 268,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[4]/p[1]/text()[4]",
+            "text": "This design allows EvoEmbedding to recurrently compress ongoing contexts, injecting rich temporal dynamics and cross-segment associations into the representations."
+          },
+          "text": "This design allows EvoEmbedding to recurrently compress ongoing contexts, injecting rich temporal dynamics and cross-segment associations into the representations.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847594,
+          "id": "hk-ai-1782887847594-91137",
+          "note": "AI：現有 RAG 優化方法雖能改善問題，但會增加計算成本與推論延遲",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847594,
+              "end": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 1222
+              },
+              "quote": {
+                "exact": "Although these approaches alleviate certain issues, they incur substantial computational overhead, increase inference latency, and remain suboptimal.",
+                "prefix": "orkflow orchestration (Nie et al., 2026; Liu et al., 2026).\n",
+                "suffix": "\n\n\nThis paper introduces EvoEmbedding, which overcomes the f"
+              },
+              "start": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 1073
+              },
+              "version": 1
+            },
+            "endOffset": 151,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[9]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[9]",
+            "text": "Although these approaches alleviate certain issues, they incur substantial computational overhead, increase inference latency, and remain suboptimal."
+          },
+          "text": "Although these approaches alleviate certain issues, they incur substantial computational overhead, increase inference latency, and remain suboptimal.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847594,
+          "id": "hk-ai-1782887847594-41643",
+          "note": "AI：static embedding 對指代消解與時間推理等任務能力不足",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847594,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 688
+              },
+              "quote": {
+                "exact": "rendering them ill-equipped for complex contextual understanding, such as coreference resolution and temporal reasoning",
+                "prefix": "apability to the mere discrimination of semantic relevance, ",
+                "suffix": " (Guo et al., 2024; Weller et al., 2025).\nAs illustrated in "
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 569
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[10]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[9]",
+            "text": "rendering them ill-equipped for complex contextual understanding, such as coreference resolution and temporal reasoning"
+          },
+          "text": "rendering them ill-equipped for complex contextual understanding, such as coreference resolution and temporal reasoning",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847595,
+          "id": "hk-ai-1782887847595-9152",
+          "note": "AI：傳統 embedding 訓練偏向語意相似度判斷，難處理深層上下文理解",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847594,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 567
+              },
+              "quote": {
+                "exact": "This restricts their capability to the mere discrimination of semantic relevance",
+                "prefix": "(Chen et al., 2024; Zhang et al., 2025; Zhao et al., 2025). ",
+                "suffix": ", rendering them ill-equipped for complex contextual underst"
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 487
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[9]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[8]",
+            "text": "This restricts their capability to the mere discrimination of semantic relevance"
+          },
+          "text": "This restricts their capability to the mere discrimination of semantic relevance",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847595,
+          "id": "hk-ai-1782887847595-73485",
+          "note": "AI：現有方法常把文字切段後各自編碼，導致跨段脈絡被切斷",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847595,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 167
+              },
+              "quote": {
+                "exact": "existing methods typically extract and encode text segments in isolation",
+                "prefix": "ies in two key flaws of current retrieval pipelines. First, ",
+                "suffix": " (Gao et al., 2023; Sarthi et al., 2024), a process that inh"
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 95
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/xt-mark[1]/text()[1]",
+            "startOffset": 95,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[1]",
+            "text": "existing methods typically extract and encode text segments in isolation"
+          },
+          "text": "existing methods typically extract and encode text segments in isolation",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847595,
+          "id": "hk-ai-1782887847595-41247",
+          "note": "AI：錯誤或不精準的 retrieval 會把雜訊帶入生成流程",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847595,
+              "end": {
+                "css": "p#S1\\.p1\\.1",
+                "textOffset": 795
+              },
+              "quote": {
+                "exact": "often introduce noise into the generation process",
+                "prefix": "formation (Maharana et al., 2024; Weller et al., 2025), and ",
+                "suffix": " (Liu et al., 2024).\n\n\nThe root cause of this limitation lie"
+              },
+              "start": {
+                "css": "p#S1\\.p1\\.1",
+                "textOffset": 746
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/p[1]/text()[13]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/p[1]/text()[13]",
+            "text": "often introduce noise into the generation process"
+          },
+          "text": "often introduce noise into the generation process",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782887847596,
+          "id": "hk-ai-1782887847595-75081",
+          "note": "AI：依賴 static representation 的 retrieval 系統在 long-context 中容易找不到真正目標資訊",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847595,
+              "end": {
+                "css": "p#S1\\.p1\\.1",
+                "textOffset": 695
+              },
+              "quote": {
+                "exact": "existing retrieval systems, which predominantly rely on static representations, frequently fail to retrieve the desired target information",
+                "prefix": "ynamic, sequential, and requires continuous state tracking, ",
+                "suffix": " (Maharana et al., 2024; Weller et al., 2025), and often int"
+              },
+              "start": {
+                "css": "p#S1\\.p1\\.1",
+                "textOffset": 557
+              },
+              "version": 1
+            },
+            "endOffset": 76,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/p[1]/text()[12]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/p[1]/text()[11]",
+            "text": "existing retrieval systems, which predominantly rely on static representations, frequently fail to retrieve the desired target information"
+          },
+          "text": "existing retrieval systems, which predominantly rely on static representations, frequently fail to retrieve the desired target information",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847596,
+          "id": "hk-ai-1782887847596-41891",
+          "note": "AI：segment-batching 能處理長度差異並把訓練加速 3.8 倍",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847596,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p > math.ltx_Math",
+                "textOffset": 1
+              },
+              "quote": {
+                "exact": "segment-batching techniques that tackle significant length variance and accelerate training by 3.8×",
+                "prefix": "epresentation collapse during recurrent encoding, alongside ",
+                "suffix": "\\times.\nExtensive experiments show that our model not only o"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 1010
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/math[1]/semantics[1]/mo[1]/text()[1]",
+            "startOffset": 192,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[12]",
+            "text": "segment-batching techniques that tackle significant length variance and accelerate training by 3.8×"
+          },
+          "text": "segment-batching techniques that tackle significant length variance and accelerate training by 3.8×",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847596,
+          "id": "hk-ai-1782887847596-67965",
+          "note": "AI：memory queue 可避免 recurrent encoding 造成 representation collapse",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847596,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 998
+              },
+              "quote": {
+                "exact": "we introduce a memory queue to prevent representation collapse during recurrent encoding",
+                "prefix": "t optimization of latent memory and retrieval.\nFurthermore, ",
+                "suffix": ", alongside segment-batching techniques that tackle signific"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 910
+              },
+              "version": 1
+            },
+            "endOffset": 180,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[12]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[12]",
+            "text": "we introduce a memory queue to prevent representation collapse during recurrent encoding"
+          },
+          "text": "we introduce a memory queue to prevent representation collapse during recurrent encoding",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782887847596,
+          "id": "hk-ai-1782887847596-34417",
+          "note": "AI：同一個 query 可以根據不同上下文演化出不同 retrieval 目標",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847596,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 712
+              },
+              "quote": {
+                "exact": "for the same query, our model adapts its representation to retrieve distinct targets based on the evolving context",
+                "prefix": "ent to jointly generate evolvable embeddings.\nConsequently, ",
+                "suffix": ", going beyond static semantic search.\nTo equip the model wi"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 598
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[10]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[9]",
+            "text": "for the same query, our model adapts its representation to retrieve distinct targets based on the evolving context"
+          },
+          "text": "for the same query, our model adapts its representation to retrieve distinct targets based on the evolving context",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782887847597,
+          "id": "hk-ai-1782887847597-4453",
+          "note": "AI：模型透過持續更新的 latent memory 來保存上下文狀態",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847596,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 502
+              },
+              "quote": {
+                "exact": "EvoEmbedding maintains a continuously updated latent memory as it sequentially processes inputs",
+                "prefix": "d requires continuous state tracking.\nOur design is simple: ",
+                "suffix": ", and uses it alongside the raw content to jointly generate "
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 407
+              },
+              "version": 1
+            },
+            "endOffset": 201,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[8]",
+            "startOffset": 106,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[8]",
+            "text": "EvoEmbedding maintains a continuously updated latent memory as it sequentially processes inputs"
+          },
+          "text": "EvoEmbedding maintains a continuously updated latent memory as it sequentially processes inputs",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782887847597,
+          "id": "hk-ai-1782887847597-91836",
+          "note": "AI：EvoEmbedding 專門處理資訊會變動、具順序性、需要追蹤狀態的 long-context 場景",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847597,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 384
+              },
+              "quote": {
+                "exact": "It is tailored for long-context scenarios, where information is dynamic, sequential, and requires continuous state tracking.",
+                "prefix": "del that generates evolvable representations for retrieval.\n",
+                "suffix": "\nOur design is simple: EvoEmbedding maintains a continuously"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 260
+              },
+              "version": 1
+            },
+            "endOffset": 83,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[8]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[6]",
+            "text": "It is tailored for long-context scenarios, where information is dynamic, sequential, and requires continuous state tracking."
+          },
+          "text": "It is tailored for long-context scenarios, where information is dynamic, sequential, and requires continuous state tracking.",
+          "url": "https://arxiv.org/html/2606.21649"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782887847598,
+          "id": "hk-ai-1782887847597-96080",
+          "note": "AI：EvoEmbedding 的核心目標是產生可隨脈絡演化的 retrieval representation",
+          "range": {
+            "anchors": {
+              "createdAt": 1782887847597,
+              "end": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 259
+              },
+              "quote": {
+                "exact": "This paper introduces EvoEmbedding, a novel embedding model that generates evolvable representations for retrieval.",
+                "prefix": "ion, ignoring their surrounding context and temporal order.\n",
+                "suffix": "\nIt is tailored for long-context scenarios, where informatio"
+              },
+              "start": {
+                "css": "div#abstract1 > p.ltx_p",
+                "textOffset": 144
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[6]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[4]",
+            "text": "This paper introduces EvoEmbedding, a novel embedding model that generates evolvable representations for retrieval."
+          },
+          "text": "This paper introduces EvoEmbedding, a novel embedding model that generates evolvable representations for retrieval.",
+          "url": "https://arxiv.org/html/2606.21649"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782812275516,
+        "model": "chatgpt-web",
+        "note": "在處理長文本和智慧體記憶時，現有的文本嵌入模型大多是靜態的。它們將文本段落孤立編碼，完全忽略了上下文的順序與動態變化，導致遇到時間軸推進或資訊更新的場景時，經常檢索到過時的錯誤資料。為了解決這個痛點，研究團隊開發了「EvoEmbedding」模型。它的核心概念非常精妙：在依序處理文本時，模型內部會維持一個能持續更新的「潛在記憶」，並將這個歷史記憶與當前的輸入融合，共同生成會隨著脈絡「進化」的動態嵌入向量。\n\n為了克服長文本訓練時常見的記憶循環編碼崩塌與效率問題，團隊設計了「記憶佇列」與「動態分段批次處理」技術，不僅讓訓練速度大幅提升 3.8 倍，更讓模型展現極佳的參數效率與泛化能力。實驗結果顯示，這套架構即使只用少量的合成數據訓練，其檢索與 downstream 生成任務的表現，依然超越了規模大上數倍的 Qwen3 或 KaLM 等專家模型。最厲害的是，它能以「零額外 Token 成本」的方式無縫升級現有的 RAG 與智慧體系統，在長文本檢索中精準識別出「最先」或「最後」提及的時間順序，為下一代長文本語境檢索開闢了全新的高效路徑。",
+        "provider": "chatgpt",
+        "url": "https://arxiv.org/html/2606.21649"
+      },
+      "mindmap": null
+    }
+  ]
+}

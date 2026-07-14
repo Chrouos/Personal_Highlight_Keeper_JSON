@@ -1,0 +1,189 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979553,
+  "category": "索尼互動娛樂",
+  "pages": [
+    {
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "title": "Physical disc production ending in January 2028 for new games releasing on PlayStation consoles  – PlayStation.Blog",
+      "tags": [
+        "索尼互動娛樂",
+        "電玩產業趨勢",
+        "實體光碟停產",
+        "數位化轉型",
+        "PlayStation"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783494772498,
+          "id": "hk-ai-1783494772497-43334",
+          "note": "AI：索尼將集中資源推動玩家取得遊戲的技術創新，並持續讓玩家自由選擇在零售商或線上商店購買數位版遊戲。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783494772496,
+              "end": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 1242
+              },
+              "quote": {
+                "exact": "We’ll continue to prioritize our resources to drive innovation in how players can access games and provide choices as to where players prefer to purchase new games, whether that’s at retailers or PlayStation Store.",
+                "prefix": "然方向，因為數位媒體的普遍偏好遠遠超過實體光碟。這次轉型將使我們更貼近社群現今大多數人偏好的遊戲存取與遊玩方式。\n\n\n\n",
+                "suffix": " We remain committed to delivering a world-class gaming expe"
+              },
+              "start": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 1028
+              },
+              "version": 1
+            },
+            "endOffset": 214,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[3]/text()[2]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/text()[3]",
+            "text": "We’ll continue to prioritize our resources to drive innovation in how players can access games and provide choices as to where players prefer to purchase new games, whether that’s at retailers or PlayStation Store."
+          },
+          "text": "We’ll continue to prioritize our resources to drive innovation in how players can access games and provide choices as to where players prefer to purchase new games, whether that’s at retailers or PlayStation Store.",
+          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783494772500,
+          "id": "hk-ai-1783494772499-83887",
+          "note": "AI：轉型數位化有助於索尼更緊密地貼近現今多數玩家社群喜愛的遊戲存取與遊玩方式。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783494772499,
+              "end": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 950
+              },
+              "quote": {
+                "exact": "This transition will enable us to align more closely with how most of our community prefers to access and play games today.",
+                "prefix": "ce for digital media significantly outpaces physical discs. ",
+                "suffix": "  這是索尼互動娛樂適應消費趨勢的自然方向，因為數位媒體的普遍偏好遠遠超過實體光碟。這次轉型將使我們更貼近社群現今大多數"
+              },
+              "start": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 827
+              },
+              "version": 1
+            },
+            "endOffset": 235,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[2]/text()[5]",
+            "startOffset": 112,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[2]/text()[5]",
+            "text": "This transition will enable us to align more closely with how most of our community prefers to access and play games today."
+          },
+          "text": "This transition will enable us to align more closely with how most of our community prefers to access and play games today.",
+          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783494772502,
+          "id": "hk-ai-1783494772500-12793",
+          "note": "AI：全面數位化能讓索尼互動娛樂順應大眾對數位媒體偏好遠超實體光碟的消費趨勢。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783494772500,
+              "end": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 826
+              },
+              "quote": {
+                "exact": "This is a natural direction for Sony Interactive Entertainment to adapt to consumer trends as the general preference for digital media significantly outpaces physical discs.",
+                "prefix": "tation 商店及零售商販售。此轉換不影響已於2028年1月前發行或將於2028年1月前以光碟形式發行的遊戲。\n\n\n\n",
+                "suffix": " This transition will enable us to align more closely with h"
+              },
+              "start": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 653
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[2]/text()[5]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/text()[2]",
+            "text": "This is a natural direction for Sony Interactive Entertainment to adapt to consumer trends as the general preference for digital media significantly outpaces physical discs."
+          },
+          "text": "This is a natural direction for Sony Interactive Entertainment to adapt to consumer trends as the general preference for digital media significantly outpaces physical discs.",
+          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783494772503,
+          "id": "hk-ai-1783494772502-93601",
+          "note": "AI：實體光碟停產政策不影響 2028 年 1 月前已發行或計畫發行的光碟版遊戲。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783494772502,
+              "end": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 489
+              },
+              "quote": {
+                "exact": "This transition has no impact on games that already released, or will be releasing, prior to January 2028 in disc format.",
+                "prefix": "PlayStation Store and at retailers in digital formats only. ",
+                "suffix": "  隨著消費者偏好及更廣泛的娛樂產業持續從實體光碟轉向數位化，所有新遊戲在 PlayStation 主機上發行的實體遊戲"
+              },
+              "start": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 368
+              },
+              "version": 1
+            },
+            "endOffset": 425,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[1]/text()[3]",
+            "startOffset": 304,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[1]/text()[3]",
+            "text": "This transition has no impact on games that already released, or will be releasing, prior to January 2028 in disc format."
+          },
+          "text": "This transition has no impact on games that already released, or will be releasing, prior to January 2028 in disc format.",
+          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783494772505,
+          "id": "hk-ai-1783494772504-40593",
+          "note": "AI：PlayStation 將於 2028 年 1 月起停止生產所有新遊戲的實體光碟，之後新遊戲將全面轉為數位格式販售。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783494772504,
+              "end": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 367
+              },
+              "quote": {
+                "exact": "physical game disc production for all new games releasing on PlayStation consoles will be discontinued starting January 2028.  Following this date, new games will be available on PlayStation Store and at retailers in digital formats only.",
+                "prefix": "stry continue to shift away from physical discs to digital, ",
+                "suffix": " This transition has no impact on games that already release"
+              },
+              "start": {
+                "css": "article#post-420294 > div.container.split-width-container:nth-of-type(2) > div.article-main-section > div.post-single__content.single__content:nth-of-type(4)",
+                "textOffset": 129
+              },
+              "version": 1
+            },
+            "endOffset": 303,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[1]/text()[3]",
+            "startOffset": 65,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/div[2]/div[1]/div[4]/p[1]/text()[3]",
+            "text": "physical game disc production for all new games releasing on PlayStation consoles will be discontinued starting January 2028.  Following this date, new games will be available on PlayStation Store and at retailers in digital formats only."
+          },
+          "text": "physical game disc production for all new games releasing on PlayStation consoles will be discontinued starting January 2028.  Following this date, new games will be available on PlayStation Store and at retailers in digital formats only.",
+          "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783494772629,
+        "model": "chatgpt-web",
+        "note": "隨著全球娛樂產業與消費者偏好產生深刻的轉變，數位媒體的受歡迎程度早已大幅超越傳統實體光碟。為了順應這股不可逆的科技洪流，索尼互動娛樂（SIE）正式宣布一項重大轉型政策：自 2028 年 1 月起，所有在 PlayStation 主機上推出的全新遊戲，都將停止生產實體光碟。這意味著未來的 PlayStation 新遊戲將全面走向數位化，玩家此後只能透過 PlayStation Store 或零售通路購買數位格式的遊戲。\n\n這項轉型雖然象徵著一個世代的結束，但官方也特別提醒玩家不必過度恐慌，因為此政策並不會溯及既往，所有在 2028 年 1 月以前就已經推出、或計畫好要發行光碟版的遊戲，都不會受到任何影響。\n\n對索尼而言，全面停產光碟是一次重新調配核心資源的自然抉擇。索尼強調，未來將把資源優先投入於推動遊戲存取方式的創新，並確保玩家不論是在實體零售店還是線上商店，都能享受到世界級的數位遊戲體驗，讓服務更貼近當代玩家的科技生活習慣。",
+        "provider": "chatgpt",
+        "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/"
+      },
+      "mindmap": null
+    }
+  ]
+}

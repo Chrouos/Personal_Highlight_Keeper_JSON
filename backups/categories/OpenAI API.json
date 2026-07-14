@@ -1,0 +1,1229 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979551,
+  "category": "OpenAI API",
+  "pages": [
+    {
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
+      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
+      "tags": [
+        "人工智慧",
+        "成本控制",
+        "提示詞工程",
+        "機器學習",
+        "OpenAI API"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119046-30444",
+          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000642421,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 234
+              },
+              "quote": {
+                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
+                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 184
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
+          },
+          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119047-74884",
+          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022174,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
+                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
+          },
+          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119047-39561",
+          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347163,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 275
+              },
+              "quote": {
+                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
+                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 228
+              },
+              "version": 1
+            },
+            "endOffset": 275,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "startOffset": 228,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
+          },
+          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119048-35651",
+          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022302,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
+                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
+          },
+          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-92669",
+          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000564166,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 209
+              },
+              "quote": {
+                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
+                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 176
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
+          },
+          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-68125",
+          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022361,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
+                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
+          },
+          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119050,
+          "id": "hk-ai-1783916119049-48527",
+          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347440,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
+                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
+              },
+              "start": {
+                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
+          },
+          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119051-15100",
+          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022492,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
+                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
+          },
+          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-99327",
+          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347576,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
+                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 138
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
+          },
+          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-94048",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022603,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
+                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 56
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
+          },
+          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119053,
+          "id": "hk-ai-1783916119052-62688",
+          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022638,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 81
+              },
+              "quote": {
+                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
+                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
+            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
+          },
+          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783916119321,
+        "model": "chatgpt-web",
+        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/realtime",
+      "title": "Realtime and audio | OpenAI API",
+      "tags": [
+        "即時語音",
+        "開發者指南",
+        "語音轉文字",
+        "API 遷移",
+        "OpenAI API",
+        "WebRTC"
+      ],
+      "entries": [
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783562118009,
+          "id": "hk-ai-1783562118007-6164",
+          "note": "AI：瀏覽器或行動端應使用特定的 API 路徑來建立臨時憑證",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118006,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 5814
+              },
+              "quote": {
+                "exact": "Use POST /v1/realtime/client_secrets to create ephemeral credentials for browser or mobile clients.",
+                "prefix": "nAI-Beta: realtime=v1 header when calling the GA interface.\n",
+                "suffix": "\nUse /v1/realtime/calls when establishing WebRTC sessions.\nU"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 5715
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ul[1]/text()[2]",
+            "text": "Use POST /v1/realtime/client_secrets to create ephemeral credentials for browser or mobile clients."
+          },
+          "text": "Use POST /v1/realtime/client_secrets to create ephemeral credentials for browser or mobile clients.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783562118010,
+          "id": "hk-ai-1783562118009-1614",
+          "note": "AI：呼叫正式發行版介面時必須移除測試版的標頭設定",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118009,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 5714
+              },
+              "quote": {
+                "exact": "Remove the OpenAI-Beta: realtime=v1 header when calling the GA interface.",
+                "prefix": "ing forward with new work. The most important changes are:\n\n",
+                "suffix": "\nUse POST /v1/realtime/client_secrets to create ephemeral cr"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 5641
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ul[1]/li[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ul[1]/text()[1]",
+            "text": "Remove the OpenAI-Beta: realtime=v1 header when calling the GA interface."
+          },
+          "text": "Remove the OpenAI-Beta: realtime=v1 header when calling the GA interface.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783562118012,
+          "id": "hk-ai-1783562118011-5533",
+          "note": "AI：現有的測試版即時整合必須在開展新工作前遷移至正式發行版介面",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118011,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 5607
+              },
+              "quote": {
+                "exact": "If you still have a beta Realtime integration, migrate it to the GA interface before moving forward with new work.",
+                "prefix": "eate or connect each Realtime session.\nBeta to GA migration\n",
+                "suffix": " The most important changes are:\n\nRemove the OpenAI-Beta: re"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 5493
+              },
+              "version": 1
+            },
+            "endOffset": 114,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[16]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[32]",
+            "text": "If you still have a beta Realtime integration, migrate it to the GA interface before moving forward with new work."
+          },
+          "text": "If you still have a beta Realtime integration, migrate it to the GA interface before moving forward with new work.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783562118013,
+          "id": "hk-ai-1783562118012-36800",
+          "note": "AI：安全識別碼不會從其他請求或不同的工作階段中繼承保留",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118012,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 5295
+              },
+              "quote": {
+                "exact": "Safety identifiers do not carry over from Responses API requests or from other sessions.",
+                "prefix": "WebRTC interface, set the header on the connection request.\n",
+                "suffix": " If you use the Responses API safety_identifier parameter el"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 5207
+              },
+              "version": 1
+            },
+            "endOffset": 88,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[15]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[30]",
+            "text": "Safety identifiers do not carry over from Responses API requests or from other sessions."
+          },
+          "text": "Safety identifiers do not carry over from Responses API requests or from other sessions.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783562118015,
+          "id": "hk-ai-1783562118014-24031",
+          "note": "AI：加入安全識別碼有助於偵測濫用並讓限制措施精準針對特定用戶而非整個組織",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118013,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 4770
+              },
+              "quote": {
+                "exact": "Safety identifiers are recommended but not required. They help OpenAI monitor and detect abuse while allowing enforcement to target an individual user rather than your entire organization.",
+                "prefix": "rs, include a safety identifier with Realtime API requests. ",
+                "suffix": " Use a stable, privacy-preserving value, such as a hashed in"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 4582
+              },
+              "version": 1
+            },
+            "endOffset": 217,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[13]/text()[2]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[13]/text()[2]",
+            "text": "Safety identifiers are recommended but not required. They help OpenAI monitor and detect abuse while allowing enforcement to target an individual user rather than your entire organization."
+          },
+          "text": "Safety identifiers are recommended but not required. They help OpenAI monitor and detect abuse while allowing enforcement to target an individual user rather than your entire organization.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783562118016,
+          "id": "hk-ai-1783562118015-74525",
+          "note": "AI：在使用 SIP 進行翻譯或語音轉文字之前必須先確認模型是否支援",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118015,
+              "end": {
+                "css": "article#mainContent > a._TextLink_ssta1_1:nth-of-type(3) > div.icon-item.mt-2 > div.icon-item-right:nth-of-type(2) > div.icon-item-desc.body-small:nth-of-type(2)",
+                "textOffset": 105
+              },
+              "quote": {
+                "exact": "Confirm model support before using SIP for\ntranslation or transcription.",
+                "prefix": " worker.   \n      SIP       Use for telephony voice agents. ",
+                "suffix": "   \nSafety identifiers\nIf your application identifies indivi"
+              },
+              "start": {
+                "css": "article#mainContent > a._TextLink_ssta1_1:nth-of-type(3) > div.icon-item.mt-2 > div.icon-item-right:nth-of-type(2) > div.icon-item-desc.body-small:nth-of-type(2)",
+                "textOffset": 33
+              },
+              "version": 1
+            },
+            "endOffset": 104,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/a[3]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/a[3]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "text": "Confirm model support before using SIP for\ntranslation or transcription."
+          },
+          "text": "Confirm model support before using SIP for\ntranslation or transcription.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783562118018,
+          "id": "hk-ai-1783562118017-84667",
+          "note": "AI：使用 gpt-realtime-whisper 進行即時逐字稿能控制延遲，調低延遲可提早取得部分文字，調高則能提升品質",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118016,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 3811
+              },
+              "quote": {
+                "exact": "For realtime transcription, gpt-realtime-whisper gives you controllable latency. Lower delay settings produce earlier partial text, while higher delay settings can improve transcript quality.",
+                "prefix": "uest-based transcription, or diarization-focused workflows.\n",
+                "suffix": " Test with your real audio conditions, target languages, acc"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 3620
+              },
+              "version": 1
+            },
+            "endOffset": 143,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[10]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[20]",
+            "text": "For realtime transcription, gpt-realtime-whisper gives you controllable latency. Lower delay settings produce earlier partial text, while higher delay settings can improve transcript quality."
+          },
+          "text": "For realtime transcription, gpt-realtime-whisper gives you controllable latency. Lower delay settings produce earlier partial text, while higher delay settings can improve transcript quality.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783562118019,
+          "id": "hk-ai-1783562118018-75923",
+          "note": "AI：瀏覽器媒體應使用 WebRTC 進行傳輸，而伺服器媒體管線則應使用 WebSockets",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118018,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 3226
+              },
+              "quote": {
+                "exact": "For browser media, use WebRTC. For server media pipelines such as phone calls or broadcast ingest, use WebSockets.",
+                "prefix": "the client to commit a user turn before translation begins. ",
+                "suffix": "\nSee Realtime translation for the dedicated endpoint, sessio"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 3112
+              },
+              "version": 1
+            },
+            "endOffset": 195,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "startOffset": 81,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "text": "For browser media, use WebRTC. For server media pipelines such as phone calls or broadcast ingest, use WebSockets."
+          },
+          "text": "For browser media, use WebRTC. For server media pipelines such as phone calls or broadcast ingest, use WebSockets.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783562118020,
+          "id": "hk-ai-1783562118019-55289",
+          "note": "AI：翻譯工作階段不使用一般的助理輪替生命週期，不需呼叫建立回應也不需等待用戶端提交回應",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118019,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 3111
+              },
+              "quote": {
+                "exact": "Translation sessions don’t use the normal assistant turn lifecycle. Don’t call response.create, and don’t wait for the client to commit a user turn before translation begins.",
+                "prefix": "service streams translated audio and transcript deltas out.\n",
+                "suffix": " For browser media, use WebRTC. For server media pipelines s"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 2937
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[16]",
+            "text": "Translation sessions don’t use the normal assistant turn lifecycle. Don’t call response.create, and don’t wait for the client to commit a user turn before translation begins."
+          },
+          "text": "Translation sessions don’t use the normal assistant turn lifecycle. Don’t call response.create, and don’t wait for the client to commit a user turn before translation begins.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783562118022,
+          "id": "hk-ai-1783562118021-77379",
+          "note": "AI：Realtime 2 為語音對語音工作流加入了推理功能，建議生產環境中先將推理程度設為低再依需求調整",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118020,
+              "end": {
+                "css": "article#mainContent > div._Notice_wyxfv_1:nth-of-type(2) > div._Alert_1bpiz_1 > div._Content_1bpiz_147:nth-of-type(2) > div._Message_1bpiz_166 > div._Description_1bpiz_176",
+                "textOffset": 189
+              },
+              "quote": {
+                "exact": "Realtime 2 adds reasoning to speech-to-speech workflows. Start with\nreasoning.effort set to low for most production voice agents, then adjust\nbased on latency tolerance and task complexity.",
+                "prefix": "RTC for browser audio and can connect to server-side tools.\n",
+                "suffix": " Use the Realtime prompting\nguide to tune reasoning,\npreambl"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 2359
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[5]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[13]",
+            "text": "Realtime 2 adds reasoning to speech-to-speech workflows. Start with\nreasoning.effort set to low for most production voice agents, then adjust\nbased on latency tolerance and task complexity."
+          },
+          "text": "Realtime 2 adds reasoning to speech-to-speech workflows. Start with\nreasoning.effort set to low for most production voice agents, then adjust\nbased on latency tolerance and task complexity.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783562118023,
+          "id": "hk-ai-1783562118022-27473",
+          "note": "AI：基於請求的音訊 API 最適合處理檔案、有界請求或不需要即時連線的語音生成",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118022,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 225
+              },
+              "quote": {
+                "exact": "Request-based audio APIs are best for files, bounded requests, or generated speech that doesn’t need a live session.",
+                "prefix": "me sessions are best for live audio that needs low latency. ",
+                "suffix": "\nCommon use cases\nVoice agentsBuild speech-to-speech agents "
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 109
+              },
+              "version": 1
+            },
+            "endOffset": 224,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "Request-based audio APIs are best for files, bounded requests, or generated speech that doesn’t need a live session."
+          },
+          "text": "Request-based audio APIs are best for files, bounded requests, or generated speech that doesn’t need a live session.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783562118024,
+          "id": "hk-ai-1783562118023-58945",
+          "note": "AI：即時工作階段非常適合用於需要低延遲的即時音訊情境",
+          "range": {
+            "anchors": {
+              "createdAt": 1783562118023,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 108
+              },
+              "quote": {
+                "exact": "Realtime sessions are best for live audio that needs low latency.",
+                "prefix": "Copy Page         Start with the outcome you want to build. ",
+                "suffix": " Request-based audio APIs are best for files, bounded reques"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 43
+              },
+              "version": 1
+            },
+            "endOffset": 107,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 42,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "Realtime sessions are best for live audio that needs low latency."
+          },
+          "text": "Realtime sessions are best for live audio that needs low latency.",
+          "url": "https://developers.openai.com/api/docs/guides/realtime"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783562118130,
+        "model": "chatgpt-web",
+        "note": "本篇開發者指南主要引導如何建立即時與音訊應用。在選擇技術架構時，如果需要極低延遲的互動，即時工作階段（Realtime sessions）是最佳選擇；若是處理檔案或不需要即時連線的語音，則應採用基於請求的 API。針對即時需求，系統提供了語音助理、即時翻譯與語音轉文字三種主要模式。新推出的 Realtime 2 更為語音流程注入了推理能力。在連接方式上，瀏覽器端建議使用 WebRTC，而伺服器端或電話系統則推薦使用 WebSockets 或 SIP，但使用 SIP 前需注意模型相容性。此外，為了防範濫用並保護組織不被全面停權，開發者應在請求中加入安全識別碼。最後，針對目前仍在使用 Beta 版本的用戶，官方強烈建議盡速遷移至正式發行（GA）版介面，並注意調整標頭、憑證建立路徑及事件格式，以確保系統的穩定與延續。",
+        "provider": "chatgpt",
+        "url": "https://developers.openai.com/api/docs/guides/realtime"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
+      "title": "Prompt caching | OpenAI API",
+      "tags": [
+        "成本控制",
+        "延遲優化",
+        "記憶體快取",
+        "提示詞工程",
+        "OpenAI API",
+        "Prompt Caching"
+      ],
+      "entries": [
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783060039792,
+          "id": "hk-ai-1783060039788-44715",
+          "note": "AI：使用快取的提示詞依然會計入每分鐘 Token 數（TPM）的速率限制中。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039787,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 7611
+              },
+              "quote": {
+                "exact": "Do cached prompts contribute to TPM rate limits?\nYes, as caching does not affect rate limits.",
+                "prefix": "ion needed or extra cost paid to use the caching feature.\n\n\n",
+                "suffix": "\n\n\nDoes Prompt Caching work on Zero Data Retention requests?"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 7518
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[5]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[5]/text()[1]",
+            "text": "Do cached prompts contribute to TPM rate limits?\nYes, as caching does not affect rate limits."
+          },
+          "text": "Do cached prompts contribute to TPM rate limits?\nYes, as caching does not affect rate limits.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783060039794,
+          "id": "hk-ai-1783060039793-95498",
+          "note": "AI：目前 API 尚未提供手動清除提示詞快取的功能。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039792,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 7105
+              },
+              "quote": {
+                "exact": "Manual cache clearing is not currently available.",
+                "prefix": "ached prompt.\n\n\nIs there a way to manually clear the cache?\n",
+                "suffix": " Prompts that have not been encountered recently are automat"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 7056
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[3]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[3]/text()[2]",
+            "text": "Manual cache clearing is not currently available."
+          },
+          "text": "Manual cache clearing is not currently available.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783060039796,
+          "id": "hk-ai-1783060039795-63364",
+          "note": "AI：提示詞快取不會影響 API 最終輸出的內容與生成的結果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039794,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 6878
+              },
+              "quote": {
+                "exact": "Prompt Caching does not influence the generation of output tokens or the final response provided by the API. Regardless of whether caching is used, the output generated will be identical.",
+                "prefix": "t output token generation or the final response of the API?\n",
+                "suffix": " This is because only the prompt itself is cached, while the"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 6691
+              },
+              "version": 1
+            },
+            "endOffset": 187,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[2]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[2]/text()[2]",
+            "text": "Prompt Caching does not influence the generation of output tokens or the final response provided by the API. Regardless of whether caching is used, the output generated will be identical."
+          },
+          "text": "Prompt Caching does not influence the generation of output tokens or the final response provided by the API. Regardless of whether caching is used, the output generated will be identical.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783060039798,
+          "id": "hk-ai-1783060039797-89370",
+          "note": "AI：快取資料具備組織隔離性，僅同組織的成員能共享相同提示詞的快取。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039796,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 6504
+              },
+              "quote": {
+                "exact": "Prompt caches are not shared between organizations. Only members of the same organization can access caches of identical prompts.",
+                "prefix": "sked questions\n\n\nHow is data privacy maintained for caches?\n",
+                "suffix": " When using Extended Prompt Caching, key/value tensors have "
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 6375
+              },
+              "version": 1
+            },
+            "endOffset": 129,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[1]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ol[3]/li[1]/text()[2]",
+            "text": "Prompt caches are not shared between organizations. Only members of the same organization can access caches of identical prompts."
+          },
+          "text": "Prompt caches are not shared between organizations. Only members of the same organization can access caches of identical prompts.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783060039800,
+          "id": "hk-ai-1783060039799-7257",
+          "note": "AI：gpt-5.5、gpt-5.5-pro 及未來模型僅支援 24 小時的延長保留策略。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039798,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 3937
+              },
+              "quote": {
+                "exact": "For gpt-5.5, gpt-5.5-pro, and future models, only 24h is supported.",
+                "prefix": "mpt text, is only retained in memory.\nConfigure per request\n",
+                "suffix": "\nFor older models that support both in_memory and 24h, the d"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 3870
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[14]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[24]",
+            "text": "For gpt-5.5, gpt-5.5-pro, and future models, only 24h is supported."
+          },
+          "text": "For gpt-5.5, gpt-5.5-pro, and future models, only 24h is supported.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783060039805,
+          "id": "hk-ai-1783060039801-80102",
+          "note": "AI：延長快取保留機制能讓快取字首的有效時間最長延伸至 24 小時。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039801,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 3415
+              },
+              "quote": {
+                "exact": "Extended prompt cache retention keeps cached prefixes active for longer, up to a maximum of 24 hours.",
+                "prefix": "1-codex-mini\ngpt-5.1-chat-latest\ngpt-5\ngpt-5-codex\ngpt-4.1\n\n",
+                "suffix": " Extended Prompt Caching works by offloading the key/value t"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 3314
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[12]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[21]",
+            "text": "Extended prompt cache retention keeps cached prefixes active for longer, up to a maximum of 24 hours."
+          },
+          "text": "Extended prompt cache retention keeps cached prefixes active for longer, up to a maximum of 24 hours.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783060039808,
+          "id": "hk-ai-1783060039805-63951",
+          "note": "AI：記憶體內快取在無活動時通常僅能維持 5 至 10 分鐘，且上限為一小時。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039805,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 3067
+              },
+              "quote": {
+                "exact": "When using the in-memory policy, cached prefixes generally remain active for 5 to 10 minutes of inactivity, up to a maximum of one hour. In-memory cached prefixes are only held within volatile GPU memory.",
+                "prefix": "ng, except for gpt-5.5, gpt-5.5-pro, and all future models.\n",
+                "suffix": "\nExtended prompt cache retention\nExtended prompt cache reten"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 2863
+              },
+              "version": 1
+            },
+            "endOffset": 204,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[10]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[17]",
+            "text": "When using the in-memory policy, cached prefixes generally remain active for 5 to 10 minutes of inactivity, up to a maximum of one hour. In-memory cached prefixes are only held within volatile GPU memory."
+          },
+          "text": "When using the in-memory policy, cached prefixes generally remain active for 5 to 10 minutes of inactivity, up to a maximum of one hour. In-memory cached prefixes are only held within volatile GPU memory.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783060039810,
+          "id": "hk-ai-1783060039808-73711",
+          "note": "AI：同字首與快取鍵組合每分鐘若超過約 15 次請求，可能因流量溢流至其他機器而降低快取效果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039808,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 1798
+              },
+              "quote": {
+                "exact": "If requests for the same prefix and prompt_cache_key combination exceed a certain rate (approximately 15 requests per minute), some may overflow and get routed to additional machines, reducing cache effectiveness.",
+                "prefix": " beneficial when many requests share long, common prefixes.\n",
+                "suffix": "\n\n\nCache Lookup: The system checks if the initial portion (p"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 1585
+              },
+              "version": 1
+            },
+            "endOffset": 161,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ul[1]/li[3]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/ul[1]/text()[3]",
+            "text": "If requests for the same prefix and prompt_cache_key combination exceed a certain rate (approximately 15 requests per minute), some may overflow and get routed to additional machines, reducing cache effectiveness."
+          },
+          "text": "If requests for the same prefix and prompt_cache_key combination exceed a certain rate (approximately 15 requests per minute), some may overflow and get routed to additional machines, reducing cache effectiveness.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783060039811,
+          "id": "hk-ai-1783060039810-7292",
+          "note": "AI：提示詞快取僅針對長度達 1024 個 Token 以上的提示詞自動啟用。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039810,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 1097
+              },
+              "quote": {
+                "exact": "Caching is enabled automatically for prompts that are 1024 tokens or longer.",
+                "prefix": "ls, which must be identical between requests.\n\nHow it works\n",
+                "suffix": " When you make an API request, the following steps occur:\n\nC"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 1021
+              },
+              "version": 1
+            },
+            "endOffset": 76,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[7]",
+            "text": "Caching is enabled automatically for prompts that are 1024 tokens or longer."
+          },
+          "text": "Caching is enabled automatically for prompts that are 1024 tokens or longer.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783060039813,
+          "id": "hk-ai-1783060039812-78008",
+          "note": "AI：快取命中僅適用於完全相同的字首匹配，應將靜態指令置於開頭、動態內容置於結尾。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783067667715,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 925
+              },
+              "quote": {
+                "exact": "Cache hits are only possible for exact prefix matches within a prompt. To realize caching benefits, place static content like instructions and examples at the beginning of your prompt, and put variable content, such as user-specific information, at the end.",
+                "prefix": "our prompts for lower latency and cost.\nStructuring prompts\n",
+                "suffix": " This also applies to images and tools, which must be identi"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 668
+              },
+              "version": 1
+            },
+            "endOffset": 257,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/text()[4]",
+            "text": "Cache hits are only possible for exact prefix matches within a prompt. To realize caching benefits, place static content like instructions and examples at the beginning of your prompt, and put variable content, such as user-specific information, at the end."
+          },
+          "text": "Cache hits are only possible for exact prefix matches within a prompt. To realize caching benefits, place static content like instructions and examples at the beginning of your prompt, and put variable content, such as user-specific information, at the end.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783060039814,
+          "id": "hk-ai-1783060039813-1893",
+          "note": "AI：提示詞快取會自動套用於所有 API 請求，無需修改程式碼且不額外收費。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039813,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 457
+              },
+              "quote": {
+                "exact": "Prompt Caching works automatically on all your API requests (no code changes required) and has no additional fees associated with it.",
+                "prefix": "ce latency by up to 80% and input token costs by up to 90%. ",
+                "suffix": " Prompt Caching is enabled for all recent models, gpt-4o and"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 324
+              },
+              "version": 1
+            },
+            "endOffset": 456,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 323,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "Prompt Caching works automatically on all your API requests (no code changes required) and has no additional fees associated with it."
+          },
+          "text": "Prompt Caching works automatically on all your API requests (no code changes required) and has no additional fees associated with it.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783060039814,
+          "id": "hk-ai-1783060039814-70558",
+          "note": "AI：提示詞快取能大幅降低高達 80% 的延遲與 90% 的輸入 Token 成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060039814,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 323
+              },
+              "quote": {
+                "exact": "Prompt Caching can reduce latency by up to 80% and input token costs by up to 90%.",
+                "prefix": "t cheaper and faster than processing a prompt from scratch. ",
+                "suffix": " Prompt Caching works automatically on all your API requests"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 241
+              },
+              "version": 1
+            },
+            "endOffset": 322,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 240,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "Prompt Caching can reduce latency by up to 80% and input token costs by up to 90%."
+          },
+          "text": "Prompt Caching can reduce latency by up to 80% and input token costs by up to 90%.",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1783060051473,
+          "id": "hk-1783060051466-95583",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783060051466,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 92
+              },
+              "quote": {
+                "exact": "Model prompts often contain repetitive content, like system prompts and common instructions",
+                "prefix": "h prompt caching.透過即時快取降低延遲與成本。           Copy Page         ",
+                "suffix": ". OpenAI routes API requests to servers that recently proces"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "Model prompts often contain repetitive content, like system prompts and common instructions"
+          },
+          "text": "Model prompts often contain repetitive content, like system prompts and common instructions",
+          "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783060039926,
+        "model": "chatgpt-web",
+        "note": "在大型語言模型的應用中，重複的系統提示詞和指令往往會消耗大量資源。為了優化效能，OpenAI 推出了自動化的提示詞快取功能，將請求引導至近期處理過相同內容的伺服器。這項技術威力強大，不僅能為開發者省下高達 90% 的輸入成本，還能將回應延遲縮短 80%，最棒的是完全不需要修改任何程式碼，也沒有額外費用。\n\n不過，想要享受快取的好處，提示詞必須達到 1024 個 Token 的門檻，且架構設計需要特別講究。由於快取是採用「精確字首匹配」，開發者必須把靜態的說明和範例放在最前面，並將變動的用戶資料移到最後。在快取保留上，舊車型默認將資料暫存在 GPU 記憶體中，5 到 10 分鐘沒有活動就會失效；而最新一代的 gpt-5.5 等模型則全面支援延長保留技術，透過將 K/V 張量轉存至局部儲存空間，讓快取壽命延長至 24 小時。此外，這項機制完全兼顧隱私與準確性，快取絕不跨組織共享，也不會改變任何模型輸出的最終答案。",
+        "provider": "chatgpt",
+        "url": "https://developers.openai.com/api/docs/guides/prompt-caching"
+      },
+      "mindmap": {
+        "generatedAt": 1783060712685,
+        "outline": "# Prompt Caching 提示快取\n\n* 背景／動機\n\n  * Prompt 常重複\n\n    * system prompt\n    * common instructions\n  * 降低成本延遲\n\n    * 延遲最多降 80%\n    * input 成本降 90%\n  * 自動啟用\n\n    * 無需改程式\n    * 無額外費用\n    * GPT-4o 以上支援\n* Prompt 結構\n\n  * 精確前綴匹配\n\n    * prefix 必須相同\n    * 才可能 cache hit\n  * 靜態放前面\n\n    * instructions\n    * examples\n  * 動態放後面\n\n    * user-specific info\n  * 圖片工具一致\n\n    * images 要相同\n    * tools 要相同\n* 運作條件\n\n  * 至少 1024 tokens\n\n    * 才自動啟用\n    * 低於門檻 cached_tokens 為 0\n  * usage 可觀察\n\n    * cached_tokens\n    * prompt_tokens_details\n* 運作流程\n\n  * Cache Routing\n\n    * 依 prefix hash\n\n      * 通常前 256 tokens\n      * 依模型而異\n    * 可用 prompt_cache_key\n\n      * 影響路由\n      * 提高命中率\n    * 避免流量溢出\n\n      * 約 15 req/min\n      * 超過會分流\n      * 降低快取效果\n  * Cache Lookup\n\n    * 查 selected machine\n    * 看 prefix 是否存在\n  * Cache Hit\n\n    * 使用快取結果\n    * 降低延遲\n    * 降低成本\n  * Cache Miss\n\n    * 處理完整 prompt\n    * 之後快取 prefix\n* 快取保留策略\n\n  * 兩種策略\n\n    * in-memory\n    * extended retention\n  * 定價相同\n\n    * 兩者無差異\n  * 可逐請求設定\n\n    * prompt_cache_retention\n    * Responses.create\n    * chat.completions.create\n* In-memory retention\n\n  * 支援多數模型\n\n    * 不含 gpt-5.5\n    * 不含 gpt-5.5-pro\n    * 不含未來模型\n  * 保留時間短\n\n    * 無活動 5-10 分鐘\n    * 最長 1 小時\n  * 儲存在 GPU 記憶體\n\n    * volatile memory\n    * 不寫入磁碟\n* Extended retention\n\n  * 支援指定模型\n\n    * gpt-5.5\n    * gpt-5.5-pro\n    * gpt-5 系列\n    * gpt-4.1\n  * 保留更久\n\n    * 最長 24 小時\n  * gpt-5.5 限制\n\n    * 只支援 24h\n    * 未來模型同樣如此\n  * 使用 KV tensors\n\n    * 來自 attention prefill\n    * 可轉存 GPU-local storage\n    * 原始 prompt 僅在記憶體\n* 可被快取內容\n\n  * Messages\n\n    * system\n    * user\n    * assistant\n  * Images\n\n    * links\n    * base64\n    * detail 要一致\n  * Tool use\n\n    * messages array\n    * available tools\n  * Structured outputs\n\n    * schema 作為 prefix\n    * 可被快取\n* 最佳實務\n\n  * 固定內容前置\n\n    * 靜態 instructions\n    * 重複 examples\n  * 動態內容後置\n\n    * 使用者資料\n    * 變動資訊\n  * 穩定使用 cache key\n\n    * 共用 prefix\n    * 控制粒度\n    * 低於 15 req/min\n  * 監控快取表現\n\n    * cache hit rate\n    * latency\n    * cached tokens 比例\n  * 維持穩定請求\n\n    * 相同 prefix\n    * 減少 eviction\n* 隱私與安全\n\n  * 組織隔離\n\n    * 不跨組織共享\n    * 同組織可用相同快取\n  * Extended 上限\n\n    * KV tensors 最長 24 小時\n  * ZDR 相容\n\n    * in-memory 不寫磁碟\n    * extended 暫存 KV tensors\n    * 過期後不保留\n  * Data Residency\n\n    * in-memory 不影響\n    * regional inference 才區域保留\n* 行為限制\n\n  * 不影響輸出\n\n    * 不改 output tokens\n    * 不改 final response\n    * 回答仍重新計算\n  * 無法手動清除\n\n    * 目前不支援\n    * 未使用會自動清除\n  * 仍計入 TPM\n\n    * 快取不影響 rate limits\n  * 不額外收費\n\n    * 自動發生\n    * 無需手動寫入\n* 結論／影響\n\n  * 適合長 prompt\n\n    * 重複 prefix 越多越有效\n  * 核心價值\n\n    * 降低延遲\n    * 降低 input 成本\n  * 設計重點\n\n    * 固定前綴\n    * 穩定 routing\n    * 選對 retention",
+        "title": "Prompt Caching 提示快取"
+      }
+    }
+  ]
+}

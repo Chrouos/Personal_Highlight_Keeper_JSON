@@ -1,0 +1,478 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979557,
+  "category": "AI 代理人",
+  "pages": [
+    {
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "title": "The twilight of the chatbots - by Ethan Mollick",
+      "tags": [
+        "人工智慧",
+        "工作轉型",
+        "指數型成長",
+        "開源模型",
+        "職涯發展",
+        "AI 代理人"
+      ],
+      "entries": [
+        {
+          "color": "#dee3de",
+          "createdAt": 1782873514303,
+          "id": "hk-1782873514301-49365",
+          "note": "有人在偷臭",
+          "range": {
+            "anchors": {
+              "createdAt": 1782873514300,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2203
+              },
+              "quote": {
+                "exact": "though it has been a while since Google has released a new model",
+                "prefix": "y three American companies — Anthropic, OpenAI, and Google (",
+                "suffix": "). But there is a second set of AI models that typically lag"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2139
+              },
+              "version": 1
+            },
+            "endOffset": 225,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "startOffset": 161,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "though it has been a while since Google has released a new model"
+          },
+          "text": "though it has been a while since Google has released a new model",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782876691410,
+          "id": "hk-1782876691405-47363",
+          "note": "以前我們用 AI 是這樣：\n我問一句 → AI 回一句 → 我檢查 → 再問下一步",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876691403,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4375
+              },
+              "quote": {
+                "exact": "co-intelligence",
+                "prefix": "anging. Until recently, the dominant way to use AI was as a ",
+                "suffix": ". You would ask the AI to do something, check the results, a"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4360
+              },
+              "version": 1
+            },
+            "endOffset": 147,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 132,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "co-intelligence"
+          },
+          "text": "co-intelligence",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#a6bef7",
+          "createdAt": 1782876770887,
+          "id": "hk-1782876770883-19557",
+          "note": "現在開始變成：\n\n我交代任務 → Agent 自己查資料、改檔案、跑工具、修錯 → 我負責驗收\n\n這叫 delegation / 任務委派型使用\n\n[翻譯] 因此，工作越來越多是將工作分配給代理",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876770882,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5670
+              },
+              "quote": {
+                "exact": "So work is increasingly about assigning work to agents",
+                "prefix": "e Code 或 OpenAI 的 Codex。因此，AI 模型本已提升的能力，可以透過良好的工具或應用程式進一步提升。",
+                "suffix": ", rather than working together with chatbots. A joint study "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5616
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[9]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[9]/span[1]/text()[1]",
+            "text": "So work is increasingly about assigning work to agents"
+          },
+          "text": "So work is increasingly about assigning work to agents",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895701,
+          "id": "hk-ai-1782876895699-93537",
+          "note": "AI：當體制試圖追趕非人性的 AI 指數級成長曲線時，必然會產生動盪與不穩定",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895698,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6905
+              },
+              "quote": {
+                "exact": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature.",
+                "prefix": "g stable. I don’t think it is going to settle anytime soon. ",
+                "suffix": " And as long as we are on some sort of exponential, and for "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6729
+              },
+              "version": 1
+            },
+            "endOffset": 721,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 545,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature."
+          },
+          "text": "The instability is what happens when institutions that move at the speed of people (or worse, committees) try to track a capability curve that is very much not human in nature.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895702,
+          "id": "hk-ai-1782876895701-79826",
+          "note": "AI：AI 的單次提示執行任務時間在短時間內從數小時躍升至十六小時以上",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895701,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5925
+              },
+              "quote": {
+                "exact": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt.",
+                "prefix": "hange over a fixed window is larger than the one before it. ",
+                "suffix": "  This is why AI keeps feeling like it is making leaps, even"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5675
+              },
+              "version": 1
+            },
+            "endOffset": 346,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 96,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt."
+          },
+          "text": "If your organization wrote an AI plan any time before the winter of 2025, it described a system that could do a couple of hours of work with a fairly high error rate. A few months later, you can get sixteen hours or more of work from a single prompt.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895703,
+          "id": "hk-ai-1782876895703-84434",
+          "note": "AI：人們正從依賴聊天機器人補足能力的階段，走向由專家管理 AI 代理人來完成工作的時代",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895702,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5563
+              },
+              "quote": {
+                "exact": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager.",
+                "prefix": "he more useful output they got from Claude from each prompt.",
+                "suffix": "A moment in timeBeing on an exponential means each change ov"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5368
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/a[1]/text()[1]",
+            "startOffset": 278,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager."
+          },
+          "text": "We are moving from a world where non-experts use chatbots to fill in gaps to one in which experts use agents to get work done. And the best way to use agents is to think of yourself as a manager.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895705,
+          "id": "hk-ai-1782876895704-65229",
+          "note": "AI：使用 AI 工具的成功關鍵取決於使用者的專業領域經驗而非其職稱",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895703,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5276
+              },
+              "quote": {
+                "exact": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain.",
+                "prefix": "professions when actually using Claude code on coding tasks.",
+                "suffix": " And, even more interestingly, the more useful output they g"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5090
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[10]/span[2]/text()[1]",
+            "text": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain."
+          },
+          "text": "What actually mattered was not the profession of the user, but their expertise. The more domain experience someone had, the more successful they were in using Claude Code in that domain.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895706,
+          "id": "hk-ai-1782876895705-9448",
+          "note": "AI：透過良好的外掛工具或應用程式能進一步大幅提升 AI 模型的能力",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895705,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4209
+              },
+              "quote": {
+                "exact": "the already increasing ability of AI models can be improved still further by a good harness or app.",
+                "prefix": "for agents like Claude Code or OpenAI's Codex. As a result, ",
+                "suffix": "So work is increasingly about assigning work to agents, rath"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4110
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[2]/text()[1]",
+            "startOffset": 214,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[2]/text()[1]",
+            "text": "the already increasing ability of AI models can be improved still further by a good harness or app."
+          },
+          "text": "the already increasing ability of AI models can be improved still further by a good harness or app.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782876895707,
+          "id": "hk-ai-1782876895706-71606",
+          "note": "AI：具備自我修正能力的智慧 AI 系統不再需要人類頻繁干預，改變了既有的工作模式",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895706,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3796
+              },
+              "quote": {
+                "exact": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working",
+                "prefix": "ngly, it is not the way AI is being used for valuable work. ",
+                "suffix": " (this is also the subject of my upcoming book, Co-Existence"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 3660
+              },
+              "version": 1
+            },
+            "endOffset": 263,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[1]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[8]/span[1]/text()[1]",
+            "text": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working"
+          },
+          "text": "Long-running, smart, and self-correcting AI systems do not need constant human intervention, and they require a different way of working",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895708,
+          "id": "hk-ai-1782876895707-34004",
+          "note": "AI：開源模型雖然令人印象深刻，但實際表現往往不如基準測試所顯示的那麼好",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895707,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2608
+              },
+              "quote": {
+                "exact": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate",
+                "prefix": "can hide how jagged the frontier is (and also the fact that ",
+                "suffix": "). To get real insight, you need to try using AI for differe"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2496
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[7]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[4]",
+            "text": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate"
+          },
+          "text": "the open weights models, while very impressive, do not always perform as well as their benchmarks would indicate",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895709,
+          "id": "hk-ai-1782876895708-99207",
+          "note": "AI：開源權重模型允許任何人自由修改且操作成本相當低廉",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895708,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2025
+              },
+              "quote": {
+                "exact": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate.",
+                "prefix": "12 months behind the frontier, all of which are from China. ",
+                "suffix": " They, too, are climbing up an exponential improvement curve"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1835
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[2]",
+            "startOffset": 123,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[2]",
+            "text": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate."
+          },
+          "text": "These are open weights models, which means that anyone can use or modify them after release (as opposed to the frontier models which are proprietary). That makes them quite cheap to operate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895710,
+          "id": "hk-ai-1782876895709-30619",
+          "note": "AI：AI 雖然無法通過所有測試且運行成本高昂，但其進步速度極快",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895709,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1310
+              },
+              "quote": {
+                "exact": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate.",
+                "prefix": " of human engineering work (it cost $251 in tokens). Again, ",
+                "suffix": " In my own experiments, I found Fable was able to work auton"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1186
+              },
+              "version": 1
+            },
+            "endOffset": 307,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[3]/span[2]/text()[1]",
+            "startOffset": 183,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[3]/span[2]/text()[1]",
+            "text": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate."
+          },
+          "text": "AI systems cannot pass every test, nor are they always cheap to run, but they are definitely improving at a very rapid rate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782876895710,
+          "id": "hk-ai-1782876895710-83237",
+          "note": "AI：AI 取代人類工作時數的能力正以超越指數的速度增長",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895710,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 950
+              },
+              "quote": {
+                "exact": "They are all increasing at a better than exponential rate.",
+                "prefix": "in many fields to AI performance using professional judges. ",
+                "suffix": "Another organization doing similar experiments, Epoch, recen"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 892
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "startOffset": 191,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "text": "They are all increasing at a better than exponential rate."
+          },
+          "text": "They are all increasing at a better than exponential rate.",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782876895711,
+          "id": "hk-ai-1782876895711-88909",
+          "note": "AI：政府干預導致目前無法使用兩個最強大的 AI 模型",
+          "range": {
+            "anchors": {
+              "createdAt": 1782876895710,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 279
+              },
+              "quote": {
+                "exact": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6",
+                "prefix": " AI labs have been releasing more quickly than ever (though ",
+                "suffix": "). But it isn't just release timing. The evidence points to "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 174
+              },
+              "version": 1
+            },
+            "endOffset": 239,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 134,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[3]",
+            "text": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6"
+          },
+          "text": "government interventions have stopped access to two of the most powerful models, Claude Fable and GPT-5.6",
+          "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782876895868,
+        "model": "chatgpt-web",
+        "note": "AI 技術正以超越想像的指數級速度瘋狂加速，這不僅僅體現在模型的更新頻率，更反映在其實際執行工作的能力上。過去我們習慣將 AI 當作「協同智慧」，用一句一答的聊天機器人模式來補足自身能力的空缺。然而，隨著能夠自主運行、自我修正的 AI 代理人（Agents）問世，工作型態發生了根本性的劇變。現在的工作核心不再是與 AI 共同協作，而是直接向 AI 代理人指派任務。在這種全新模式下，使用者的專業背景不再是限制，決定成敗的關鍵在於使用者本身的「領域專業知識」。擁有深厚經驗的專家能引導 AI 發揮更強大的效能，就像一位稱職的管理者在領導團隊一樣。儘管開源模型與前沿模型之間仍有差距，且政府干預或高昂成本等挑戰依舊存在，但 AI 的爆發力已讓所有在 2025 年底前擬定的舊計畫形同廢紙。人類社會與既有體制在面對這條非人性的加速曲線時，正經歷前所未有的劇烈震盪，而我們已經身處這場變革的暴風眼之中。",
+        "provider": "chatgpt",
+        "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+      },
+      "mindmap": null
+    }
+  ]
+}

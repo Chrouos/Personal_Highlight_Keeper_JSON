@@ -1,0 +1,446 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979578,
+  "category": "Redis",
+  "pages": [
+    {
+      "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+      "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
+      "tags": [
+        "人工智慧",
+        "系統設計",
+        "測試金字塔",
+        "API 安全",
+        "RAG",
+        "Redis"
+      ],
+      "entries": [
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750738,
+          "id": "hk-ai-1782805750737-47243",
+          "note": "AI：代理型 RAG 引入工具選擇後改變了模型的操作能力，帶來與傳統檢索完全不同的安全風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750736,
+              "end": {
+                "css": "div.comment-list.post-page-root-comment-list:nth-of-type(3) > div.comment-list-items > div.comment:nth-of-type(2) > div.pencraft.pc-display-flex:nth-of-type(3) > div.pencraft.pc-display-flex:nth-of-type(2) > div.comment-body.expanded:nth-of-type(2)",
+                "textOffset": 313
+              },
+              "quote": {
+                "exact": "Agentic RAG, the moment it has tool selection and MCP servers in the loop, changes what the model can do, not just what it retrieves. That is a different risk surface.",
+                "prefix": "nd Graph RAG change what the model knows before it answers. ",
+                "suffix": " A bad retrieval gives you a wrong answer you can read and r"
+              },
+              "start": {
+                "css": "div.comment-list.post-page-root-comment-list:nth-of-type(3) > div.comment-list-items > div.comment:nth-of-type(2) > div.pencraft.pc-display-flex:nth-of-type(3) > div.pencraft.pc-display-flex:nth-of-type(2) > div.comment-body.expanded:nth-of-type(2)",
+                "textOffset": 146
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 146,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[2]/div[3]/div[2]/div[2]/p[1]/span[1]/text()[1]",
+            "text": "Agentic RAG, the moment it has tool selection and MCP servers in the loop, changes what the model can do, not just what it retrieves. That is a different risk surface."
+          },
+          "text": "Agentic RAG, the moment it has tool selection and MCP servers in the loop, changes what the model can do, not just what it retrieves. That is a different risk surface.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750740,
+          "id": "hk-ai-1782805750739-21926",
+          "note": "AI：隨著測試層級往測試金字塔頂端移動，測試的開發、執行與維護成本將隨之增加。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750738,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6837
+              },
+              "quote": {
+                "exact": "As you go up the pyramid, the cost of test development, execution, and maintenance increases.",
+                "prefix": "ensive to write and maintain and tend to be slow to execute.",
+                "suffix": " Over to you: Which layer do you find most valuable in your "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6744
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[21]/span[1]/text()[1]",
+            "startOffset": 159,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[3]/p[1]/span[1]/text()[1]",
+            "text": "As you go up the pyramid, the cost of test development, execution, and maintenance increases."
+          },
+          "text": "As you go up the pyramid, the cost of test development, execution, and maintenance increases.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782805750742,
+          "id": "hk-ai-1782805750740-1190",
+          "note": "AI：單元測試是測試金字塔的基石，具備執行快速、環境隔離且撰寫與維護成本低的優點。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750740,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6353
+              },
+              "quote": {
+                "exact": "Unit Tests: These are the foundation of the pyramid. Unit tests are fast, isolated, and low-cost to write and maintain.",
+                "prefix": "cepted strategy for structuring tests into three key layers:",
+                "suffix": " They test individual functions, methods, or components.Inte"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 6234
+              },
+              "version": 1
+            },
+            "endOffset": 119,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 140,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[20]/span[1]/text()[1]",
+            "text": "Unit Tests: These are the foundation of the pyramid. Unit tests are fast, isolated, and low-cost to write and maintain."
+          },
+          "text": "Unit Tests: These are the foundation of the pyramid. Unit tests are fast, isolated, and low-cost to write and maintain.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750743,
+          "id": "hk-ai-1782805750742-47990",
+          "note": "AI：缺乏用戶配額、傳輸量限制及執行超時設定，可能導致單一異常客戶端癱瘓整個系統。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750742,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 5135
+              },
+              "quote": {
+                "exact": "Rate Limit and Cap Resources: Quotas per user, payload size caps, and execution timeouts. Without these, one misbehaving client takes down your entire system.",
+                "prefix": " the gateway. Don't let bad input reach your business logic.",
+                "suffix": "Defend Sensitive Business Flows: Protect login, checkout, an"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4977
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[7]/p[1]/span[1]/text()[1]",
+            "startOffset": 157,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[6]/p[1]/span[1]/text()[1]",
+            "text": "Rate Limit and Cap Resources: Quotas per user, payload size caps, and execution timeouts. Without these, one misbehaving client takes down your entire system."
+          },
+          "text": "Rate Limit and Cap Resources: Quotas per user, payload size caps, and execution timeouts. Without these, one misbehaving client takes down your entire system.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750744,
+          "id": "hk-ai-1782805750743-78799",
+          "note": "AI：必須對每次請求實施細粒度權限檢查，因為 broken object level authorization (BOLA) 仍是首要的 API 漏洞。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750743,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4479
+              },
+              "quote": {
+                "exact": "Enforce Fine-Grained Authorization: Check object, function, and field-level permissions on every request. BOLA is still the top API vulnerability.",
+                "prefix": "nsitive. Implicit and password grants should be dead by now.",
+                "suffix": "Minimize Scopes and Data: Give each client the smallest toke"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4333
+              },
+              "version": 1
+            },
+            "endOffset": 146,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 165,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[7]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "Enforce Fine-Grained Authorization: Check object, function, and field-level permissions on every request. BOLA is still the top API vulnerability."
+          },
+          "text": "Enforce Fine-Grained Authorization: Check object, function, and field-level permissions on every request. BOLA is still the top API vulnerability.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750745,
+          "id": "hk-ai-1782805750744-27581",
+          "note": "AI：大多數 API 資安外洩事件是由權限控管失效、憑證外洩或缺乏速率限制所導致。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750744,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 4134
+              },
+              "quote": {
+                "exact": "Most API breaches happen because of broken authorization, leaked secrets, or missing rate limits.",
+                "prefix": " you use most outside of caching?API Security Best Practices",
+                "suffix": " Let's look at some of the basics.Use Modern OAuth/OIDC + MF"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(4)",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[16]/span[1]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[4]/span[1]/text()[1]",
+            "text": "Most API breaches happen because of broken authorization, leaked secrets, or missing rate limits."
+          },
+          "text": "Most API breaches happen because of broken authorization, leaked secrets, or missing rate limits.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782805750746,
+          "id": "hk-ai-1782805750745-65617",
+          "note": "AI：Redis 的雜湊結構允許在單一鍵下更新物件的特定欄位，而無需重寫整個物件。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750745,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2919
+              },
+              "quote": {
+                "exact": "Hashes store an object's fields under one key. You can update one field without rewriting the rest.",
+                "prefix": "They work for counters, session tokens, and cached payloads.",
+                "suffix": "Lists are ordered sequences with fast push and pop at both e"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2820
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 93,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "Hashes store an object's fields under one key. You can update one field without rewriting the rest."
+          },
+          "text": "Hashes store an object's fields under one key. You can update one field without rewriting the rest.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782805750747,
+          "id": "hk-ai-1782805750746-75169",
+          "note": "AI：Redis 的字串結構適合用於計數器、會話權杖以及快取資料負載。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750746,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2820
+              },
+              "quote": {
+                "exact": "Strings store one value per key. They work for counters, session tokens, and cached payloads.",
+                "prefix": " production?Redis Data Structures Every Engineer Should Know",
+                "suffix": "Hashes store an object's fields under one key. You can updat"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "text": "Strings store one value per key. They work for counters, session tokens, and cached payloads."
+          },
+          "text": "Strings store one value per key. They work for counters, session tokens, and cached payloads.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750748,
+          "id": "hk-ai-1782805750747-1220",
+          "note": "AI：代理型 RAG 具備更強的能力與靈活性，但速度慢、成本高且難以偵錯。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750747,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2620
+              },
+              "quote": {
+                "exact": "Agentic RAG is more capable and flexible but slower, expensive, and harder to debug. Use it when the question needs multi-step reasoning and self-correction.",
+                "prefix": "tured knowledge like legal, compliance, or biomedical data. ",
+                "suffix": " Over to you: Which of these are you running in production?R"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2463
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/span[1]/text()[1]",
+            "startOffset": 128,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/span[1]/text()[1]",
+            "text": "Agentic RAG is more capable and flexible but slower, expensive, and harder to debug. Use it when the question needs multi-step reasoning and self-correction."
+          },
+          "text": "Agentic RAG is more capable and flexible but slower, expensive, and harder to debug. Use it when the question needs multi-step reasoning and self-correction.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1782805750749,
+          "id": "hk-ai-1782805750748-70881",
+          "note": "AI：圖學 RAG 建置成本高且更新緩慢，適用於法律、合規或生醫等結構化知識領域。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750748,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2462
+              },
+              "quote": {
+                "exact": "Graph RAG is expensive to build and slow to update. Use it for structured knowledge like legal, compliance, or biomedical data.",
+                "prefix": " when the answer lives in your documents and speed matters. ",
+                "suffix": " Agentic RAG is more capable and flexible but slower, expens"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2335
+              },
+              "version": 1
+            },
+            "endOffset": 127,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/span[1]/text()[1]",
+            "startOffset": 177,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/span[1]/text()[1]",
+            "text": "Graph RAG is expensive to build and slow to update. Use it for structured knowledge like legal, compliance, or biomedical data."
+          },
+          "text": "Graph RAG is expensive to build and slow to update. Use it for structured knowledge like legal, compliance, or biomedical data.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1782805750749,
+          "id": "hk-ai-1782805750749-34407",
+          "note": "AI：標準 RAG 速度快且成本低，適用於答案明確存在於文件中且注重速度的場景。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750749,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2334
+              },
+              "quote": {
+                "exact": "Standard RAG is fast and cheap but if the wrong chunk is retrieved, the answer is wrong and nothing catches it.Use it when the answer lives in your documents and speed matters.",
+                "prefix": " the final answer is synthesized by LLM based on the prompt.",
+                "suffix": " Graph RAG is expensive to build and slow to update. Use it "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 2158
+              },
+              "version": 1
+            },
+            "endOffset": 176,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/span[1]/text()[1]",
+            "startOffset": 75,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[4]/p[1]/span[1]/text()[1]",
+            "text": "Standard RAG is fast and cheap but if the wrong chunk is retrieved, the answer is wrong and nothing catches it.Use it when the answer lives in your documents and speed matters."
+          },
+          "text": "Standard RAG is fast and cheap but if the wrong chunk is retrieved, the answer is wrong and nothing catches it.Use it when the answer lives in your documents and speed matters.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1782805750751,
+          "id": "hk-ai-1782805750750-94847",
+          "note": "AI：QA Wolf 透過 AI 原生服務提供高自動化測試覆蓋率，顯著縮短品質保證週期並提升產品交付速度。",
+          "range": {
+            "anchors": {
+              "createdAt": 1782805750749,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 378
+              },
+              "quote": {
+                "exact": "QA Wolf’s AI-native service supports web and mobile apps, delivering 80% automated test coverage in weeks and helping teams ship 5x faster by reducing QA cycles to minutes.",
+                "prefix": "easing slower because of it — you need to check out QA Wolf.",
+                "suffix": "QA Wolf takes testing off your plate. They can get you:Unlim"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 206
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "startOffset": 144,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "text": "QA Wolf’s AI-native service supports web and mobile apps, delivering 80% automated test coverage in weeks and helping teams ship 5x faster by reducing QA cycles to minutes."
+          },
+          "text": "QA Wolf’s AI-native service supports web and mobile apps, delivering 80% automated test coverage in weeks and helping teams ship 5x faster by reducing QA cycles to minutes.",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1782806454119,
+          "id": "hk-1782806454114-87069",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1782806454113,
+              "end": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 6
+              },
+              "quote": {
+                "exact": "Redis ",
+                "prefix": "更強，但速度較慢、成本高昂且除錯困難。當題目需要多步驟推理和自我修正時，才會用它。輪到你了：你現在在生產階段運行哪一款？",
+                "suffix": "Data Structures Every Engineer Should Know每位工程師都應該知道的 Redis "
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "text": "Redis "
+          },
+          "text": "Redis ",
+          "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+        }
+      ],
+      "note": {
+        "generatedAt": 1782805750855,
+        "model": "chatgpt-web",
+        "note": "本篇文章涵蓋了現代軟體系統設計的多個核心面向。在資料檢索與大型語言模型整合方面，探討了三種 RAG 架構：標準 RAG 快速且經濟，但缺乏錯誤糾正機制；圖學 RAG 擅長處理如法律或生醫等高度結構化的知識，但建置成本高昂；代理型 RAG 則透過多個代理進行推理與自我糾正，適合處理需要多步驟思考的複雜問題，但也帶來了全新的安全風險。\n\n在後端基礎設施與資安部分，文章整理了 Redis 的十種核心資料結構及其最佳應用場景，例如字串適用於快取、雜湊適用於局部更新物件。同時強調 API 安全防護的重要性，指出大多數漏洞源於權限控管與缺乏速率限制，開發者應實施細粒度授權並加密所有傳輸節點。最後，以測試金字塔模型為基礎，說明了從底層高效率、低成本的單元測試，到頂層高成本、全流程的端到端測試的軟體品質保證策略。",
+        "provider": "chatgpt",
+        "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic"
+      },
+      "mindmap": null
+    }
+  ]
+}

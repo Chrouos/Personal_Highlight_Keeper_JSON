@@ -1,0 +1,414 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1784019979552,
+  "category": "隱形浮水印",
+  "pages": [
+    {
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "title": "Introducing Muse Image and Muse Video",
+      "tags": [
+        "多媒體模型",
+        "圖像生成",
+        "隱形浮水印",
+        "AI代理人",
+        "Meta",
+        "Muse Image"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396076,
+          "id": "hk-ai-1783566396074-75567",
+          "note": "AI：Content Seal 的隱形來源訊號在圖像遭受裁剪、壓縮、變更尺寸或截圖時仍能保持完整",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396072,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(28) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 298
+              },
+              "quote": {
+                "exact": "Images created by Muse Image in the Meta AI app and on meta.ai carry a hidden provenance signal that stays intact — even when cropped, compressed, resized, or screenshotted.",
+                "prefix": "e includes Content Seal, our invisible watermarking system. ",
+                "suffix": " We plan to extend Content Seal to video soon. We’re preview"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(28) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 125
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[28]/p[2]/text()[2]",
+            "startOffset": 125,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[28]/p[2]/text()[1]",
+            "text": "Images created by Muse Image in the Meta AI app and on meta.ai carry a hidden provenance signal that stays intact — even when cropped, compressed, resized, or screenshotted."
+          },
+          "text": "Images created by Muse Image in the Meta AI app and on meta.ai carry a hidden provenance signal that stays intact — even when cropped, compressed, resized, or screenshotted.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396078,
+          "id": "hk-ai-1783566396077-81728",
+          "note": "AI：Muse Image 內建隱形浮水印系統 Content Seal 以協助使用者辨識 AI 生成的圖像",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396076,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(28) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 124
+              },
+              "quote": {
+                "exact": "To help people verify whether an image is AI-generated, Muse Image includes Content Seal, our invisible watermarking system.",
+                "prefix": "of writing.Arena Elo rankings as of July 5, 2026Content Seal",
+                "suffix": " Images created by Muse Image in the Meta AI app and on meta"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(28) > p._a92o._a5e5",
+                "textOffset": 12
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[28]/p[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[28]/p[1]/text()[1]",
+            "text": "To help people verify whether an image is AI-generated, Muse Image includes Content Seal, our invisible watermarking system."
+          },
+          "text": "To help people verify whether an image is AI-generated, Muse Image includes Content Seal, our invisible watermarking system.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#ffd1d1",
+          "createdAt": 1783566396079,
+          "id": "hk-ai-1783566396078-88016",
+          "note": "AI：Meta 正針對影音同步與符合物理原則的快速運動等現存性能限制進行優化",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396078,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(23) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 309
+              },
+              "quote": {
+                "exact": "We’re investing in areas with current performance gaps, such as audio-video synchronization and physically accurate fast motion.",
+                "prefix": "rompt adherence, visual fidelity, and temporal consistency. ",
+                "suffix": " Muse Video is coming soon to creators and in Meta AI.A baby"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(23) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 181
+              },
+              "version": 1
+            },
+            "endOffset": 309,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[23]/p[2]/text()[1]",
+            "startOffset": 181,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[23]/p[2]/text()[1]",
+            "text": "We’re investing in areas with current performance gaps, such as audio-video synchronization and physically accurate fast motion."
+          },
+          "text": "We’re investing in areas with current performance gaps, such as audio-video synchronization and physically accurate fast motion.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396080,
+          "id": "hk-ai-1783566396079-21072",
+          "note": "AI：Muse Image 能夠在多次編輯對話中保持內容連貫性，支援反覆修改與開放式腦力激盪",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396079,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(16) > p._a92o._a5c-",
+                "textOffset": 137
+              },
+              "quote": {
+                "exact": "Muse Image maintains coherence across editing turns, supporting iterative refinement and open-ended brainstorming toward a target result.",
+                "prefix": "dog has seen, giving context to its sheepish lookView thread",
+                "suffix": "Here is my living room  Can you imagine it in Japandi style?"
+              },
+              "start": {
+                "css": "a#u_0_5c_FW",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 137,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[16]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[15]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[5]/div[1]/div[2]/span[1]/div[1]/div[2]/a[1]/text()[1]",
+            "text": "Muse Image maintains coherence across editing turns, supporting iterative refinement and open-ended brainstorming toward a target result."
+          },
+          "text": "Muse Image maintains coherence across editing turns, supporting iterative refinement and open-ended brainstorming toward a target result.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396082,
+          "id": "hk-ai-1783566396081-44143",
+          "note": "AI：將推理算力投入在刻意推理上能帶來更好的擴展效果，且推理與工具調用的結合能產生加乘效應",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396081,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(12) > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 903
+              },
+              "quote": {
+                "exact": "Spending that same compute on deliberate reasoning scales considerably better. Reasoning and tool use compound when combined.",
+                "prefix": "eps the best, improves quality early but saturates quickly. ",
+                "suffix": " Tools let the model reach beyond what it already knows, whe"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(12) > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 778
+              },
+              "version": 1
+            },
+            "endOffset": 351,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[12]/div[2]/p[2]/text()[1]",
+            "startOffset": 226,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[12]/div[2]/p[2]/text()[1]",
+            "text": "Spending that same compute on deliberate reasoning scales considerably better. Reasoning and tool use compound when combined."
+          },
+          "text": "Spending that same compute on deliberate reasoning scales considerably better. Reasoning and tool use compound when combined.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783566396083,
+          "id": "hk-ai-1783566396082-16225",
+          "note": "AI：自主修正行為並非人工設計，而是在強化學習訓練中為了獲得更高獎勵而自然湧現的能力",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396082,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(8) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 499
+              },
+              "quote": {
+                "exact": "We didn’t design this behavior. Instead, it emerged during RL training simply because self-refinement produced better images and therefore higher reward.",
+                "prefix": "actic like tool use for more factually accurate generation. ",
+                "suffix": "Muse Image improves with emergent self-refinement. Win rate "
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(8) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 346
+              },
+              "version": 1
+            },
+            "endOffset": 499,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[8]/p[2]/text()[1]",
+            "startOffset": 346,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[8]/p[2]/text()[1]",
+            "text": "We didn’t design this behavior. Instead, it emerged during RL training simply because self-refinement produced better images and therefore higher reward."
+          },
+          "text": "We didn’t design this behavior. Instead, it emerged during RL training simply because self-refinement produced better images and therefore higher reward.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783566396085,
+          "id": "hk-ai-1783566396083-70578",
+          "note": "AI：自主修正行為包含局部微調、大範圍重新生成或切換工具，以實現更符合事實的圖像創作",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396083,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(8) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 345
+              },
+              "quote": {
+                "exact": "This self-refining behavior can take different forms: a local edit to the current image draft when a small detail is off, a new image generation from scratch when larger parts are wrong, or a different tactic like tool use for more factually accurate generation.",
+                "prefix": "and improves upon its own work within its chain of thought. ",
+                "suffix": " We didn’t design this behavior. Instead, it emerged during "
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(8) > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 83
+              },
+              "version": 1
+            },
+            "endOffset": 345,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[8]/p[2]/text()[1]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[8]/p[2]/text()[1]",
+            "text": "This self-refining behavior can take different forms: a local edit to the current image draft when a small detail is off, a new image generation from scratch when larger parts are wrong, or a different tactic like tool use for more factually accurate generation."
+          },
+          "text": "This self-refining behavior can take different forms: a local edit to the current image draft when a small detail is off, a new image generation from scratch when larger parts are wrong, or a different tactic like tool use for more factually accurate generation.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396085,
+          "id": "hk-ai-1783566396085-86863",
+          "note": "AI：啟用網頁搜尋工具能顯著提升高知識密度、時事及真實世界事實提示詞的準確度",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396085,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(4) > p._a92o._a5c-",
+                "textOffset": 270
+              },
+              "quote": {
+                "exact": "Enabling search improves factual accuracy on knowledge-intensive prompts, particularly those involving current events and real-world facts.",
+                "prefix": "in factual and real-time information and visual references. ",
+                "suffix": "Muse Image improves with search tool use. Win rate from inte"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(4) > p._a92o._a5c-",
+                "textOffset": 131
+              },
+              "version": 1
+            },
+            "endOffset": 263,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[4]/p[1]/text()[1]",
+            "startOffset": 124,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[4]/p[1]/text()[1]",
+            "text": "Enabling search improves factual accuracy on knowledge-intensive prompts, particularly those involving current events and real-world facts."
+          },
+          "text": "Enabling search improves factual accuracy on knowledge-intensive prompts, particularly those involving current events and real-world facts.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396086,
+          "id": "hk-ai-1783566396086-51935",
+          "note": "AI：模型在強化學習中學會編寫與執行程式碼，藉此產生精確的圖表與 QR code 並提高影像精準度",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396085,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(2) > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 283
+              },
+              "quote": {
+                "exact": "During reinforcement learning, Muse Image learns to write and execute code that produces accurate plots and QR codes, and condition on rendered figures to improve the accuracy of generated images.",
+                "prefix": "access to tools to enhance its agentic capabilities.Coding. ",
+                "suffix": " Muse Spark and Muse Image also integrate to use the combina"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq:nth-of-type(2) > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 87
+              },
+              "version": 1
+            },
+            "endOffset": 197,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/p[2]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[2]/div[2]/p[2]/text()[2]",
+            "text": "During reinforcement learning, Muse Image learns to write and execute code that produces accurate plots and QR codes, and condition on rendered figures to improve the accuracy of generated images."
+          },
+          "text": "During reinforcement learning, Muse Image learns to write and execute code that produces accurate plots and QR codes, and condition on rendered figures to improve the accuracy of generated images.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783566396087,
+          "id": "hk-ai-1783566396086-51582",
+          "note": "AI：Muse Image 具備 AI 代理人特性，能調用搜尋與程式碼工具、自我修正生成內容並透過推理算力提升品質",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396086,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq > p._a92o._a5c-:nth-of-type(2)",
+                "textOffset": 217
+              },
+              "quote": {
+                "exact": "Instead of directly mapping prompts to images, Muse Image operates as an agent: it invokes search and coding tools to improve accuracy, self-refines its own generations, and improves through scaling test-time compute.",
+                "prefix": "to creators and Meta AI.Muse Image: Agentic Image Generation",
+                "suffix": " Muse Image also integrates with Muse Spark, allowing the tw"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq > p._a92o._a5e5",
+                "textOffset": 36
+              },
+              "version": 1
+            },
+            "endOffset": 217,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/p[1]/text()[1]",
+            "text": "Instead of directly mapping prompts to images, Muse Image operates as an agent: it invokes search and coding tools to improve accuracy, self-refines its own generations, and improves through scaling test-time compute."
+          },
+          "text": "Instead of directly mapping prompts to images, Muse Image operates as an agent: it invokes search and coding tools to improve accuracy, self-refines its own generations, and improves through scaling test-time compute.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783566396088,
+          "id": "hk-ai-1783566396087-17744",
+          "note": "AI：Muse Image 具備忠實遵循指令、精準編輯、多圖合成及整合 Instagram 社群脈絡等先進功能",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396087,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "Muse Image is our most advanced image generation model yet: it follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.",
+                "prefix": " generation models developed by Meta Superintelligence Labs.",
+                "suffix": " It also brings agentic tool use capabilities and integrates"
+              },
+              "start": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 134
+              },
+              "version": 1
+            },
+            "endOffset": 195,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/p[2]/text()[2]",
+            "startOffset": 134,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/p[1]/text()[1]",
+            "text": "Muse Image is our most advanced image generation model yet: it follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context."
+          },
+          "text": "Muse Image is our most advanced image generation model yet: it follows instructions faithfully, edits with precision, composes from multiple references, and draws on Instagram for social context.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        },
+        {
+          "color": "#fbf08e",
+          "createdAt": 1783566396091,
+          "id": "hk-ai-1783566396090-57740",
+          "note": "AI：Meta Superintelligence Labs 推出首款多媒體生成模型 Muse Image 與 Muse Video",
+          "range": {
+            "anchors": {
+              "createdAt": 1783566396090,
+              "end": {
+                "css": "div._8xs5 > div:nth-of-type(2) > div._7h8s > div._amgj:nth-of-type(3) > div._9bhp._9bhq > div._a5ci._a5cs:nth-of-type(2)",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "We’re excited to launch Muse Image and preview Muse Video, the first media generation models developed by Meta Superintelligence Labs.",
+                "prefix": "oducing Muse Image and Muse VideoJuly 7, 2026•15 minute read",
+                "suffix": "Muse Image is our most advanced image generation model yet: "
+              },
+              "start": {
+                "css": "div._amg5._amg6:nth-of-type(2) > div._amuh > div._amui > div._amge:nth-of-type(3) > div._amuj > span._metaAIBlogHero__readTime",
+                "textOffset": 14
+              },
+              "version": 1
+            },
+            "endOffset": 134,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/span[1]/text()[1]",
+            "text": "We’re excited to launch Muse Image and preview Muse Video, the first media generation models developed by Meta Superintelligence Labs."
+          },
+          "text": "We’re excited to launch Muse Image and preview Muse Video, the first media generation models developed by Meta Superintelligence Labs.",
+          "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783566396252,
+        "model": "chatgpt-web",
+        "note": "Meta Superintelligence Labs 正式推出新一代多媒體生成模型 Muse Image 並開放 Muse Video 的技術預覽。這款全新的 Muse Image 顛覆了傳統「提示詞直接對應圖像」的邏輯，而是以 AI 代理人的形式運作。在強化學習的驅動下，它發展出了令人驚艷的「自主修正」能力，能一邊思考一邊修正細節，甚至在發現大範圍錯誤時從頭來過。不僅如此，Muse Image 還能化身工程師和研究員，自主調用程式碼工具來繪製精準的圖表、產出可掃描的 QR code，或透過網頁搜尋來確保時事與真實事實的準確性。在算力擴展上，研究發現將算力花在「刻意推理」上比單純盲測多張圖片更具效益。在實際應用中，它支援多圖連貫合成與跨回合的精準影像編輯，並在 Arena 評測中取得領先名次。雖然 Muse Video 仍在針對影音同步與高速運動進行優化，但已展現極高的畫面細緻度。最後，為了應對 AI 內容的可信度挑戰，Meta 推出了強大的 Content Seal 隱形浮水印技術，即使圖像歷經截圖、裁剪或壓縮，防偽訊號依然完好無損，兼顧了創新科技與社會責任。",
+        "provider": "chatgpt",
+        "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/"
+      },
+      "mindmap": null
+    }
+  ]
+}
