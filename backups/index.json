@@ -1,15 +1,20 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1784019979578,
-  "totalPages": 553,
+  "exportedAt": 1785375668027,
+  "totalPages": 552,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 541
+      "pageCount": 539
+    },
+    {
+      "tag": "多模態模型",
+      "file": "categories/多模態模型.json",
+      "pageCount": 3
     },
     {
       "tag": "人工智慧",
@@ -29,11 +34,6 @@
     {
       "tag": "即時語音",
       "file": "categories/即時語音.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "多模態模型",
-      "file": "categories/多模態模型.json",
       "pageCount": 2
     },
     {
@@ -65,6 +65,31 @@
       "tag": "開源模型",
       "file": "categories/開源模型.json",
       "pageCount": 2
+    },
+    {
+      "tag": "具身智能",
+      "file": "categories/具身智能.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "影片生成",
+      "file": "categories/影片生成.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "AI 機器人",
+      "file": "categories/AI 機器人.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Black Forest Labs",
+      "file": "categories/Black Forest Labs.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "FLUX 3",
+      "file": "categories/FLUX 3.json",
+      "pageCount": 1
     },
     {
       "tag": "多媒體模型",

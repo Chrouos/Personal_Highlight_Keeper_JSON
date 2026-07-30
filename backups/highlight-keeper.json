@@ -1,8 +1,697 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1784019979341,
+  "exportedAt": 1785375667931,
   "pages": [
+    {
+      "url": "https://bfl.ai/blog/flux-3",
+      "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence. | Black Forest Labs",
+      "tags": [
+        "多模態模型",
+        "具身智能",
+        "影片生成",
+        "AI 機器人",
+        "Black Forest Labs",
+        "FLUX 3"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785298270432,
+          "id": "hk-ai-preview-1785298270432-91325",
+          "note": "AI：官方將透過 API 與私有權重存取方式，陸續提供 FLUX 3 Video 的影音生成與編輯功能。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270431,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\]:nth-of-type(2) > li.pl-1\\.5 > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 95
+              },
+              "quote": {
+                "exact": "Video and audio generation and editing through APIs and private weight access. (“FLUX 3 Video”)",
+                "prefix": " flow matching model. These capabilities and models include:",
+                "suffix": "Action prediction through selected research and commercial p"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(20)",
+                "textOffset": 320
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[2]/li[1]/span[1]/text()[3]",
+            "startOffset": 320,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[20]/text()[1]",
+            "text": "Video and audio generation and editing through APIs and private weight access. (“FLUX 3 Video”)"
+          },
+          "text": "Video and audio generation and editing through APIs and private weight access. (“FLUX 3 Video”)",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270432,
+          "id": "hk-ai-preview-1785298270432-34684",
+          "note": "AI：相較於舊版 FLUX，FLUX 3 在處理複雜 Prompt 指令與渲染高精準度多語言文字上有顯著提升。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270432,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(16)",
+                "textOffset": 319
+              },
+              "quote": {
+                "exact": "In preliminary evaluations conducted during midtraining, FLUX 3 already shows a significant improvement over earlier versions of FLUX: its ability to handle complex prompts and text generation has improved significantly.",
+                "prefix": "n a wide variety of styles, aspect ratios, and resolutions. ",
+                "suffix": " The model produces a wide range of output styles (see the f"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(16)",
+                "textOffset": 99
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[16]/text()[4]",
+            "startOffset": 95,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[16]/text()[2]",
+            "text": "In preliminary evaluations conducted during midtraining, FLUX 3 already shows a significant improvement over earlier versions of FLUX: its ability to handle complex prompts and text generation has improved significantly."
+          },
+          "text": "In preliminary evaluations conducted during midtraining, FLUX 3 already shows a significant improvement over earlier versions of FLUX: its ability to handle complex prompts and text generation has improved significantly.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785298270432,
+          "id": "hk-ai-preview-1785298270432-59586",
+          "note": "AI：早期測試評估僅採用 720p 解析度與 10 秒長度的影音片段進行分析。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270432,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(11)",
+                "textOffset": 98
+              },
+              "quote": {
+                "exact": "For the preliminary analysis below, we generated 10-second text-to-video clips in 720p with audio.",
+                "prefix": "inematics.Strong typography generation and animated designs.",
+                "suffix": "Evaluations are early and we expect further improvementsAs t"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(10) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 50
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[11]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[10]/span[1]/text()[1]",
+            "text": "For the preliminary analysis below, we generated 10-second text-to-video clips in 720p with audio."
+          },
+          "text": "For the preliminary analysis below, we generated 10-second text-to-video clips in 720p with audio.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-96237",
+          "note": "AI：模型在文字字形生成與動態視覺設計上展現出優異的精準度與表現力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270432,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(10) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "Strong typography generation and animated designs.",
+                "prefix": "s from candid camcorder footage to animation and cinematics.",
+                "suffix": "For the preliminary analysis below, we generated 10-second t"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(9) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 127
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[10]/span[1]/text()[1]",
+            "startOffset": 99,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[9]/span[1]/text()[3]",
+            "text": "Strong typography generation and animated designs."
+          },
+          "text": "Strong typography generation and animated designs.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-59509",
+          "note": "AI：具有極高風格多樣性，能輕鬆涵蓋手持攝影機紀錄片、動畫到電影質感等不同風格。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(9) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 127
+              },
+              "quote": {
+                "exact": "High style diversity -- FLUX 3 Video easily handles ranges of styles from candid camcorder footage to animation and cinematics.",
+                "prefix": "ining of individual clips into longer, multi-shot sequences.",
+                "suffix": "Strong typography generation and animated designs.For the pr"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(8) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 71
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[9]/span[1]/text()[3]",
+            "startOffset": 71,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[8]/span[1]/text()[1]",
+            "text": "High style diversity -- FLUX 3 Video easily handles ranges of styles from candid camcorder footage to animation and cinematics."
+          },
+          "text": "High style diversity -- FLUX 3 Video easily handles ranges of styles from candid camcorder footage to animation and cinematics.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-22601",
+          "note": "AI：支援極廣泛的視覺風格與畫面比例選擇，打破傳統電影輸出的限制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(7) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "A broad range of visual styles and aspect ratios, extending far beyond conventional cinematic output.",
+                "prefix": "d transitions between defined moments.Multilingual dialogue.",
+                "suffix": "Agentic chaining of individual clips into longer, multi-shot"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(6) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 22
+              },
+              "version": 1
+            },
+            "endOffset": 94,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[7]/span[1]/text()[3]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[6]/span[1]/text()[1]",
+            "text": "A broad range of visual styles and aspect ratios, extending far beyond conventional cinematic output."
+          },
+          "text": "A broad range of visual styles and aspect ratios, extending far beyond conventional cinematic output.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-80337",
+          "note": "AI：可透過關鍵影格控制不同時間點之間的過渡畫面生成。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(5) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "Keyframe-to-video generation for controlled transitions between defined moments.",
+                "prefix": "erative video-audio continuation from input video and audio.",
+                "suffix": "Multilingual dialogue.A broad range of visual styles and asp"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(4) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 63
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[5]/span[1]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[4]/span[1]/text()[1]",
+            "text": "Keyframe-to-video generation for controlled transitions between defined moments."
+          },
+          "text": "Keyframe-to-video generation for controlled transitions between defined moments.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-16616",
+          "note": "AI：具備根據輸入的影音片段進行生成式影音接續延伸的能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(4) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "Generative video-audio continuation from input video and audio.",
+                "prefix": "r instance the same character - into a new scene or context.",
+                "suffix": "Keyframe-to-video generation for controlled transitions betw"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(3) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 157
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[4]/span[1]/text()[1]",
+            "startOffset": 157,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/span[1]/text()[1]",
+            "text": "Generative video-audio continuation from input video and audio."
+          },
+          "text": "Generative video-audio continuation from input video and audio.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270433-47468",
+          "note": "AI：支援片轉影片生成，能將參考影片中的關鍵角色或元素遷移至新場景。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(3) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "Video-to-video generation from a reference clip, carrying central elements of a source video - for instance the same character - into a new scene or context.",
+                "prefix": "ng frame (“animation”) or using images as visual references.",
+                "suffix": "Generative video-audio continuation from input video and aud"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(2) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 118
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/span[1]/text()[1]",
+            "startOffset": 118,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "text": "Video-to-video generation from a reference clip, carrying central elements of a source video - for instance the same character - into a new scene or context."
+          },
+          "text": "Video-to-video generation from a reference clip, carrying central elements of a source video - for instance the same character - into a new scene or context.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-3709",
+          "note": "AI：提供圖轉影片生成功能，支援從起始單張影格延伸動畫或將圖像作為視覺參考。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(2) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 118
+              },
+              "quote": {
+                "exact": "Image-to-video generation, either continuing from a starting frame (“animation”) or using images as visual references.",
+                "prefix": "come with native audio generation):Text-to-video generation.",
+                "suffix": "Video-to-video generation from a reference clip, carrying ce"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5 > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 118,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "Image-to-video generation, either continuing from a starting frame (“animation”) or using images as visual references."
+          },
+          "text": "Image-to-video generation, either continuing from a starting frame (“animation”) or using images as visual references.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-84133",
+          "note": "AI：FLUX 3 的最終開發目標是實現能跨越物理與數位環境進行感知、預測與行動的真實世界視覺智能。\n延伸：開發能理解物理規律並執行行動的模型，通常被視為邁向通用人工智慧（AGI）與具身智能關鍵的一步。\n來源：Embodied AI",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(5)",
+                "textOffset": 215
+              },
+              "quote": {
+                "exact": "FLUX 3 is our first model built entirely on that principle, and a checkpoint on our mission to develop real-world visual intelligence: models that perceive, predict, and act across physical and digital environments.",
+                "prefix": "arate and start being evidence about one underlying reality.",
+                "suffix": " Early results in content creation and physical AI suggest i"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(4)",
+                "textOffset": 332
+              },
+              "version": 1
+            },
+            "endOffset": 211,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[5]/text()[2]",
+            "startOffset": 332,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[4]/text()[1]",
+            "text": "FLUX 3 is our first model built entirely on that principle, and a checkpoint on our mission to develop real-world visual intelligence: models that perceive, predict, and act across physical and digital environments."
+          },
+          "text": "FLUX 3 is our first model built entirely on that principle, and a checkpoint on our mission to develop real-world visual intelligence: models that perceive, predict, and act across physical and digital environments.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-34587",
+          "note": "AI：單一模態無法完整描述現實，多模態聯合學習才能補足視覺或聽覺各自遺失的資訊。\n延伸：多模態對齊與融合理論常用於解決感測器訊息缺失問題，是物理 AI 的重要核心基礎。\n來源：Multimodal Machine Learning: A Survey and Taxonomy",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(3)",
+                "textOffset": 188
+              },
+              "quote": {
+                "exact": "No single modality provides a complete description. Each is a projection of the same underlying reality, captured by different sensors, each of which loses some information in the process.",
+                "prefix": "bjects hold together, how things move, and how events sound.",
+                "suffix": " Images capture spatial structures and relationships at a sp"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(2)",
+                "textOffset": 329
+              },
+              "version": 1
+            },
+            "endOffset": 188,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[3]/text()[2]",
+            "startOffset": 126,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[2]/text()[3]",
+            "text": "No single modality provides a complete description. Each is a projection of the same underlying reality, captured by different sensors, each of which loses some information in the process."
+          },
+          "text": "No single modality provides a complete description. Each is a projection of the same underlying reality, captured by different sensors, each of which loses some information in the process.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-20975",
+          "note": "AI：FLUX 3 是 Black Forest Labs 推出的全新多模態基底模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(2)",
+                "textOffset": 46
+              },
+              "quote": {
+                "exact": "FLUX 3 is our new multimodal foundation model.",
+                "prefix": "y 23, 20265 min readFLUX 3 is now available in Early Access.",
+                "suffix": " It jointly learns from images, videos, and audio within a u"
+              },
+              "start": {
+                "css": "main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\] > em.text-green.font-medium",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[2]/text()[2]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[1]/em[1]/text()[2]",
+            "text": "FLUX 3 is our new multimodal foundation model."
+          },
+          "text": "FLUX 3 is our new multimodal foundation model.",
+          "url": "https://bfl.ai/blog/flux-3"
+        }
+      ],
+      "note": {
+        "generatedAt": 1785298270438,
+        "model": "chatgpt-web",
+        "note": "Black Forest Labs 推出全新多模態基底模型 FLUX 3，旨在作為真實世界視覺智能的核心。傳統模型多半將圖像、影片與音訊分開處理，而 FLUX 3 基於 Self-Flow 架構，將多種模態整合於統一架構中同步訓練，透過跨模態的物理與因果約束（如聲音符合撞擊、運動符合質量），建立對真實世界的通用認知。\n\n在功能上，FLUX 3 Video 單次可生成最長 20 秒且具原生配音的高品質影片，並支援文字／圖像／影片轉影片、關鍵影格控制、Agent 化多鏡頭串聯及多語言對話等；此外，模型在複雜 Prompt 解析與文字渲染上也較前代 FLUX 大幅進步。\n\n除了內容創作，FLUX 3 的世界理解能力更延伸至動作預測領域。官方與 mimic robotics 合作開發 FLUX-mimic 影片動作模型，成功將基底模型應用於機器人精細操作，並已在 Audi 生產線進行實測。未來，Black Forest Labs 將透過 API、私有權重與開放權重（FLUX 3 Dev）陸續釋出相關能力，朝向結合感知、動作與語言預測的下一代全方位模型邁進。",
+        "provider": "chatgpt",
+        "url": "https://bfl.ai/blog/flux-3"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5 \\ Anthropic",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290578055,
+          "id": "hk-1785290578052-70769",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290578052,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 153
+              },
+              "quote": {
+                "exact": "frontier intelligence of Claude Fable 5 at half the price",
+                "prefix": "’s a thoughtful and proactive model that comes close to the ",
+                "suffix": ".克勞德作品 5 現已上市。這是一個深思熟慮且積極主動的模型，以一半的價格接近《克勞德寓言 5》的前沿智慧。On cod"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 96
+              },
+              "version": 1
+            },
+            "endOffset": 153,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 96,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "frontier intelligence of Claude Fable 5 at half the price"
+          },
+          "text": "frontier intelligence of Claude Fable 5 at half the price",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290580333,
+          "id": "hk-1785290580330-49863",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290580330,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "Claude Opus 5",
+                "prefix": "ctAnnouncementsIntroducing Claude Opus 5克勞德作品 5 簡介2026年7月24日",
+                "suffix": " is available today. It’s a thoughtful and proactive model t"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Claude Opus 5"
+          },
+          "text": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290593740,
+          "id": "hk-1785290593735-93776",
+          "note": "但日常工作上 Opus 5 應該還是比專業資安的 Mythos 5 還要萬用",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290593735,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2:nth-of-type(2)",
+                "textOffset": 169
+              },
+              "quote": {
+                "exact": "remains behind Mythos 5 on cybersecurity tasks.",
+                "prefix": "nd GDPval-AA, Opus 5 is the new state-of-the-art, though it ",
+                "suffix": "在 Frontier-Bench 和 GDPval-AA 等編碼和知識工作評估中，Opus 5 是最先進的，儘管它在網路"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2:nth-of-type(2)",
+                "textOffset": 122
+              },
+              "version": 1
+            },
+            "endOffset": 95,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "remains behind Mythos 5 on cybersecurity tasks."
+          },
+          "text": "remains behind Mythos 5 on cybersecurity tasks.",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/177643",
+      "title": "Anthropic推出Claude Opus 5，效能接近Fable 5、使用成本減半 | iThome",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290472780,
+          "id": "hk-1785290472777-45897",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290472775,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 205
+              },
+              "quote": {
+                "exact": "將Claude模型分為Mythos、Fable、Opus、Sonnet及Haiku系列",
+                "prefix": "aude Max方案的預設模型，也是Claude Pro方案提供的最強模型。\nAnthropic目前依效能、成本及用途，",
+                "suffix": "。Mythos具備最強的前沿能力，僅向經核准的機構提供；Fable是一般用戶可取得的前沿模型；Opus定位為適合日常使用"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 162
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "將Claude模型分為Mythos、Fable、Opus、Sonnet及Haiku系列"
+          },
+          "text": "將Claude模型分為Mythos、Fable、Opus、Sonnet及Haiku系列",
+          "url": "https://www.ithome.com.tw/news/177643"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290480253,
+          "id": "hk-1785290480251-36995",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290480251,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 270
+              },
+              "quote": {
+                "exact": "Opus定位為適合日常使用的高階模型",
+                "prefix": "onnet及Haiku系列。Mythos具備最強的前沿能力，僅向經核准的機構提供；Fable是一般用戶可取得的前沿模型；",
+                "suffix": "；Sonnet兼顧效能與成本；Haiku則強調速度快、價格低。此次推出的Opus 5，便是希望以低於Fable 5的成本"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 252
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "Opus定位為適合日常使用的高階模型"
+          },
+          "text": "Opus定位為適合日常使用的高階模型",
+          "url": "https://www.ithome.com.tw/news/177643"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/",
+      "title": "企業 AI 成本救星來了！Anthropic 以 Fable 一半價格推出 Opus 5 | TechNews 科技新報",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290448013,
+          "id": "hk-1785290448007-94696",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290448003,
+              "end": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "全新 AI 模型 Claude Opus 5",
+                "prefix": "     \n\n            \t\t\t\n\t\t\t\n                Anthropic 上週五正式釋出",
+                "suffix": "，主打以一半的價格，提供接近頂級模型 Claude Fable 5 的前沿智慧，這在企業面臨 AI 代幣（Token）成"
+              },
+              "start": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1",
+                "textOffset": 17
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "text": "全新 AI 模型 Claude Opus 5"
+          },
+          "text": "全新 AI 模型 Claude Opus 5",
+          "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290461914,
+          "id": "hk-1785290461911-10624",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290461910,
+              "end": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1:nth-of-type(7)",
+                "textOffset": 148
+              },
+              "quote": {
+                "exact": "刪除高達 80% 的 Claude Code 系統提示詞（System Prompts），並建議開發者使用 claude doctor 指令來自動優化現有的提示詞",
+                "prefix": "進化，Anthropic 調整 Opus 5 的底層邏輯，工程師 Thariq Shihipar 指出，官方在最新版本中",
+                "suffix": "。\n然而，企業用戶需要特別注意成本陷阱，Opus 5 預設的回應較前代更加冗長，由於輸出代幣的價格（25 美元）遠高於輸"
+              },
+              "start": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1:nth-of-type(7)",
+                "textOffset": 67
+              },
+              "version": 1
+            },
+            "endOffset": 148,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[7]/text()[1]",
+            "startOffset": 67,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[7]/text()[1]",
+            "text": "刪除高達 80% 的 Claude Code 系統提示詞（System Prompts），並建議開發者使用 claude doctor 指令來自動優化現有的提示詞"
+          },
+          "text": "刪除高達 80% 的 Claude Code 系統提示詞（System Prompts），並建議開發者使用 claude doctor 指令來自動優化現有的提示詞",
+          "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.inside.com.tw/article/41814-gemini-3-5-pro-rumors-roundup",
       "title": "傳 Gemini 3.5 Pro 本週登場：重新預訓練、2M token 上下文，Google 年度旗艦模型看點一次整理 - INSIDE",
@@ -122038,46 +122727,6 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://chrouos-notes.vercel.app/others/widm/masters-thesis/rag-with-auto-peer-review/",
-      "title": "創建日誌－RAG with AutoPeerReview",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems?utm_source=codenewsletter.ai&utm_medium=newsletter&utm_campaign=anthropic-ships-a-security-guidance-plugin-datacurve-reveals-deepswe-benchmark&_bhlid=c0bde68085744f8d3e72ce2b75e5aa289d1b45a9",
-      "title": "Macro Evals for Agentic Systems",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://odyssey.ml/introducing-starchild-1?utm_source=www.therundown.ai&utm_medium=newsletter&utm_campaign=musk-s-openai-case-runs-out-of-time&_bhlid=cb04568ae270453a0629b25c13d14d4d1fac2512",
-      "title": "Starchild-1: The First Real-Time Multimodal World Model",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://www.newmobilelife.com/2026/06/25/openai-jalapeno-ai-processor-broadcom/",
-      "title": "OpenAI 推出首款 AI 處理器 Jalapeño　媲美 Nvidia 與 Google 晶片 - 流動日報",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://www.zyphra.com/post/zaya1-8b?utm_source=codenewsletter.ai&utm_medium=newsletter&utm_campaign=zyphra-drops-zaya1-8b-anthropic-secures-a-major-compute-boost&_bhlid=ee88a03b232e4b87d2170e9ba77b06f87c5f5e6f",
-      "title": "Zyphra",
-      "tags": [],
-      "entries": [],
       "note": null,
       "mindmap": null
     }

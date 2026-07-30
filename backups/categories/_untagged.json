@@ -1,9 +1,260 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1784019979503,
+  "exportedAt": 1785375668002,
   "category": null,
   "pages": [
+    {
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Introducing Claude Opus 5 \\ Anthropic",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290578055,
+          "id": "hk-1785290578052-70769",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290578052,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 153
+              },
+              "quote": {
+                "exact": "frontier intelligence of Claude Fable 5 at half the price",
+                "prefix": "’s a thoughtful and proactive model that comes close to the ",
+                "suffix": ".克勞德作品 5 現已上市。這是一個深思熟慮且積極主動的模型，以一半的價格接近《克勞德寓言 5》的前沿智慧。On cod"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 96
+              },
+              "version": 1
+            },
+            "endOffset": 153,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 96,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "frontier intelligence of Claude Fable 5 at half the price"
+          },
+          "text": "frontier intelligence of Claude Fable 5 at half the price",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290580333,
+          "id": "hk-1785290580330-49863",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290580330,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "Claude Opus 5",
+                "prefix": "ctAnnouncementsIntroducing Claude Opus 5克勞德作品 5 簡介2026年7月24日",
+                "suffix": " is available today. It’s a thoughtful and proactive model t"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Claude Opus 5"
+          },
+          "text": "Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290593740,
+          "id": "hk-1785290593735-93776",
+          "note": "但日常工作上 Opus 5 應該還是比專業資安的 Mythos 5 還要萬用",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290593735,
+              "end": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2:nth-of-type(2)",
+                "textOffset": 169
+              },
+              "quote": {
+                "exact": "remains behind Mythos 5 on cybersecurity tasks.",
+                "prefix": "nd GDPval-AA, Opus 5 is the new state-of-the-art, though it ",
+                "suffix": "在 Frontier-Bench 和 GDPval-AA 等編碼和知識工作評估中，Opus 5 是最先進的，儘管它在網路"
+              },
+              "start": {
+                "css": "article > div.page-wrapper:nth-of-type(2) > article > div > div.Body-module-scss-module__z40yvW__body > p.Body-module-scss-module__z40yvW__reading-column.body-2:nth-of-type(2)",
+                "textOffset": 122
+              },
+              "version": 1
+            },
+            "endOffset": 95,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/article[1]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "remains behind Mythos 5 on cybersecurity tasks."
+          },
+          "text": "remains behind Mythos 5 on cybersecurity tasks.",
+          "url": "https://www.anthropic.com/news/claude-opus-5"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/177643",
+      "title": "Anthropic推出Claude Opus 5，效能接近Fable 5、使用成本減半 | iThome",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290472780,
+          "id": "hk-1785290472777-45897",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290472775,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 205
+              },
+              "quote": {
+                "exact": "將Claude模型分為Mythos、Fable、Opus、Sonnet及Haiku系列",
+                "prefix": "aude Max方案的預設模型，也是Claude Pro方案提供的最強模型。\nAnthropic目前依效能、成本及用途，",
+                "suffix": "。Mythos具備最強的前沿能力，僅向經核准的機構提供；Fable是一般用戶可取得的前沿模型；Opus定位為適合日常使用"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 162
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "將Claude模型分為Mythos、Fable、Opus、Sonnet及Haiku系列"
+          },
+          "text": "將Claude模型分為Mythos、Fable、Opus、Sonnet及Haiku系列",
+          "url": "https://www.ithome.com.tw/news/177643"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290480253,
+          "id": "hk-1785290480251-36995",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290480251,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 270
+              },
+              "quote": {
+                "exact": "Opus定位為適合日常使用的高階模型",
+                "prefix": "onnet及Haiku系列。Mythos具備最強的前沿能力，僅向經核准的機構提供；Fable是一般用戶可取得的前沿模型；",
+                "suffix": "；Sonnet兼顧效能與成本；Haiku則強調速度快、價格低。此次推出的Opus 5，便是希望以低於Fable 5的成本"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 252
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "Opus定位為適合日常使用的高階模型"
+          },
+          "text": "Opus定位為適合日常使用的高階模型",
+          "url": "https://www.ithome.com.tw/news/177643"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/",
+      "title": "企業 AI 成本救星來了！Anthropic 以 Fable 一半價格推出 Opus 5 | TechNews 科技新報",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290448013,
+          "id": "hk-1785290448007-94696",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290448003,
+              "end": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "全新 AI 模型 Claude Opus 5",
+                "prefix": "     \n\n            \t\t\t\n\t\t\t\n                Anthropic 上週五正式釋出",
+                "suffix": "，主打以一半的價格，提供接近頂級模型 Claude Fable 5 的前沿智慧，這在企業面臨 AI 代幣（Token）成"
+              },
+              "start": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1",
+                "textOffset": 17
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[1]/text()[1]",
+            "text": "全新 AI 模型 Claude Opus 5"
+          },
+          "text": "全新 AI 模型 Claude Opus 5",
+          "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785290461914,
+          "id": "hk-1785290461911-10624",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785290461910,
+              "end": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1:nth-of-type(7)",
+                "textOffset": 148
+              },
+              "quote": {
+                "exact": "刪除高達 80% 的 Claude Code 系統提示詞（System Prompts），並建議開發者使用 claude doctor 指令來自動優化現有的提示詞",
+                "prefix": "進化，Anthropic 調整 Opus 5 的底層邏輯，工程師 Thariq Shihipar 指出，官方在最新版本中",
+                "suffix": "。\n然而，企業用戶需要特別注意成本陷阱，Opus 5 預設的回應較前代更加冗長，由於輸出代幣的價格（25 美元）遠高於輸"
+              },
+              "start": {
+                "css": "article#post-1593016 > div.content > div.entry-content:nth-of-type(2) > div.indent:nth-of-type(2) > p.p1:nth-of-type(7)",
+                "textOffset": 67
+              },
+              "version": 1
+            },
+            "endOffset": 148,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[7]/text()[1]",
+            "startOffset": 67,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[1]/div[2]/div[2]/p[7]/text()[1]",
+            "text": "刪除高達 80% 的 Claude Code 系統提示詞（System Prompts），並建議開發者使用 claude doctor 指令來自動優化現有的提示詞"
+          },
+          "text": "刪除高達 80% 的 Claude Code 系統提示詞（System Prompts），並建議開發者使用 claude doctor 指令來自動優化現有的提示詞",
+          "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.inside.com.tw/article/41814-gemini-3-5-pro-rumors-roundup",
       "title": "傳 Gemini 3.5 Pro 本週登場：重新預訓練、2M token 上下文，Google 年度旗艦模型看點一次整理 - INSIDE",
@@ -116687,46 +116938,6 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://chrouos-notes.vercel.app/others/widm/masters-thesis/rag-with-auto-peer-review/",
-      "title": "創建日誌－RAG with AutoPeerReview",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems?utm_source=codenewsletter.ai&utm_medium=newsletter&utm_campaign=anthropic-ships-a-security-guidance-plugin-datacurve-reveals-deepswe-benchmark&_bhlid=c0bde68085744f8d3e72ce2b75e5aa289d1b45a9",
-      "title": "Macro Evals for Agentic Systems",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://odyssey.ml/introducing-starchild-1?utm_source=www.therundown.ai&utm_medium=newsletter&utm_campaign=musk-s-openai-case-runs-out-of-time&_bhlid=cb04568ae270453a0629b25c13d14d4d1fac2512",
-      "title": "Starchild-1: The First Real-Time Multimodal World Model",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://www.newmobilelife.com/2026/06/25/openai-jalapeno-ai-processor-broadcom/",
-      "title": "OpenAI 推出首款 AI 處理器 Jalapeño　媲美 Nvidia 與 Google 晶片 - 流動日報",
-      "tags": [],
-      "entries": [],
-      "note": null,
-      "mindmap": null
-    },
-    {
-      "url": "https://www.zyphra.com/post/zaya1-8b?utm_source=codenewsletter.ai&utm_medium=newsletter&utm_campaign=zyphra-drops-zaya1-8b-anthropic-secures-a-major-compute-boost&_bhlid=ee88a03b232e4b87d2170e9ba77b06f87c5f5e6f",
-      "title": "Zyphra",
-      "tags": [],
-      "entries": [],
       "note": null,
       "mindmap": null
     }

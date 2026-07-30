@@ -1,0 +1,446 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1785375668002,
+  "category": "FLUX 3",
+  "pages": [
+    {
+      "url": "https://bfl.ai/blog/flux-3",
+      "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence. | Black Forest Labs",
+      "tags": [
+        "多模態模型",
+        "具身智能",
+        "影片生成",
+        "AI 機器人",
+        "Black Forest Labs",
+        "FLUX 3"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785298270432,
+          "id": "hk-ai-preview-1785298270432-91325",
+          "note": "AI：官方將透過 API 與私有權重存取方式，陸續提供 FLUX 3 Video 的影音生成與編輯功能。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270431,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\]:nth-of-type(2) > li.pl-1\\.5 > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 95
+              },
+              "quote": {
+                "exact": "Video and audio generation and editing through APIs and private weight access. (“FLUX 3 Video”)",
+                "prefix": " flow matching model. These capabilities and models include:",
+                "suffix": "Action prediction through selected research and commercial p"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(20)",
+                "textOffset": 320
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[2]/li[1]/span[1]/text()[3]",
+            "startOffset": 320,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[20]/text()[1]",
+            "text": "Video and audio generation and editing through APIs and private weight access. (“FLUX 3 Video”)"
+          },
+          "text": "Video and audio generation and editing through APIs and private weight access. (“FLUX 3 Video”)",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270432,
+          "id": "hk-ai-preview-1785298270432-34684",
+          "note": "AI：相較於舊版 FLUX，FLUX 3 在處理複雜 Prompt 指令與渲染高精準度多語言文字上有顯著提升。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270432,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(16)",
+                "textOffset": 319
+              },
+              "quote": {
+                "exact": "In preliminary evaluations conducted during midtraining, FLUX 3 already shows a significant improvement over earlier versions of FLUX: its ability to handle complex prompts and text generation has improved significantly.",
+                "prefix": "n a wide variety of styles, aspect ratios, and resolutions. ",
+                "suffix": " The model produces a wide range of output styles (see the f"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(16)",
+                "textOffset": 99
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[16]/text()[4]",
+            "startOffset": 95,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[16]/text()[2]",
+            "text": "In preliminary evaluations conducted during midtraining, FLUX 3 already shows a significant improvement over earlier versions of FLUX: its ability to handle complex prompts and text generation has improved significantly."
+          },
+          "text": "In preliminary evaluations conducted during midtraining, FLUX 3 already shows a significant improvement over earlier versions of FLUX: its ability to handle complex prompts and text generation has improved significantly.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785298270432,
+          "id": "hk-ai-preview-1785298270432-59586",
+          "note": "AI：早期測試評估僅採用 720p 解析度與 10 秒長度的影音片段進行分析。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270432,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(11)",
+                "textOffset": 98
+              },
+              "quote": {
+                "exact": "For the preliminary analysis below, we generated 10-second text-to-video clips in 720p with audio.",
+                "prefix": "inematics.Strong typography generation and animated designs.",
+                "suffix": "Evaluations are early and we expect further improvementsAs t"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(10) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 50
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[11]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[10]/span[1]/text()[1]",
+            "text": "For the preliminary analysis below, we generated 10-second text-to-video clips in 720p with audio."
+          },
+          "text": "For the preliminary analysis below, we generated 10-second text-to-video clips in 720p with audio.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-96237",
+          "note": "AI：模型在文字字形生成與動態視覺設計上展現出優異的精準度與表現力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270432,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(10) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 50
+              },
+              "quote": {
+                "exact": "Strong typography generation and animated designs.",
+                "prefix": "s from candid camcorder footage to animation and cinematics.",
+                "suffix": "For the preliminary analysis below, we generated 10-second t"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(9) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 127
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[10]/span[1]/text()[1]",
+            "startOffset": 99,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[9]/span[1]/text()[3]",
+            "text": "Strong typography generation and animated designs."
+          },
+          "text": "Strong typography generation and animated designs.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-59509",
+          "note": "AI：具有極高風格多樣性，能輕鬆涵蓋手持攝影機紀錄片、動畫到電影質感等不同風格。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(9) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 127
+              },
+              "quote": {
+                "exact": "High style diversity -- FLUX 3 Video easily handles ranges of styles from candid camcorder footage to animation and cinematics.",
+                "prefix": "ining of individual clips into longer, multi-shot sequences.",
+                "suffix": "Strong typography generation and animated designs.For the pr"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(8) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 71
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[9]/span[1]/text()[3]",
+            "startOffset": 71,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[8]/span[1]/text()[1]",
+            "text": "High style diversity -- FLUX 3 Video easily handles ranges of styles from candid camcorder footage to animation and cinematics."
+          },
+          "text": "High style diversity -- FLUX 3 Video easily handles ranges of styles from candid camcorder footage to animation and cinematics.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-22601",
+          "note": "AI：支援極廣泛的視覺風格與畫面比例選擇，打破傳統電影輸出的限制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(7) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "A broad range of visual styles and aspect ratios, extending far beyond conventional cinematic output.",
+                "prefix": "d transitions between defined moments.Multilingual dialogue.",
+                "suffix": "Agentic chaining of individual clips into longer, multi-shot"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(6) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 22
+              },
+              "version": 1
+            },
+            "endOffset": 94,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[7]/span[1]/text()[3]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[6]/span[1]/text()[1]",
+            "text": "A broad range of visual styles and aspect ratios, extending far beyond conventional cinematic output."
+          },
+          "text": "A broad range of visual styles and aspect ratios, extending far beyond conventional cinematic output.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-80337",
+          "note": "AI：可透過關鍵影格控制不同時間點之間的過渡畫面生成。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(5) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 80
+              },
+              "quote": {
+                "exact": "Keyframe-to-video generation for controlled transitions between defined moments.",
+                "prefix": "erative video-audio continuation from input video and audio.",
+                "suffix": "Multilingual dialogue.A broad range of visual styles and asp"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(4) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 63
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[5]/span[1]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[4]/span[1]/text()[1]",
+            "text": "Keyframe-to-video generation for controlled transitions between defined moments."
+          },
+          "text": "Keyframe-to-video generation for controlled transitions between defined moments.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270433,
+          "id": "hk-ai-preview-1785298270433-16616",
+          "note": "AI：具備根據輸入的影音片段進行生成式影音接續延伸的能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(4) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "Generative video-audio continuation from input video and audio.",
+                "prefix": "r instance the same character - into a new scene or context.",
+                "suffix": "Keyframe-to-video generation for controlled transitions betw"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(3) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 157
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[4]/span[1]/text()[1]",
+            "startOffset": 157,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/span[1]/text()[1]",
+            "text": "Generative video-audio continuation from input video and audio."
+          },
+          "text": "Generative video-audio continuation from input video and audio.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270433-47468",
+          "note": "AI：支援片轉影片生成，能將參考影片中的關鍵角色或元素遷移至新場景。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270433,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(3) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "Video-to-video generation from a reference clip, carrying central elements of a source video - for instance the same character - into a new scene or context.",
+                "prefix": "ng frame (“animation”) or using images as visual references.",
+                "suffix": "Generative video-audio continuation from input video and aud"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(2) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 118
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[3]/span[1]/text()[1]",
+            "startOffset": 118,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "text": "Video-to-video generation from a reference clip, carrying central elements of a source video - for instance the same character - into a new scene or context."
+          },
+          "text": "Video-to-video generation from a reference clip, carrying central elements of a source video - for instance the same character - into a new scene or context.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-3709",
+          "note": "AI：提供圖轉影片生成功能，支援從起始單張影格延伸動畫或將圖像作為視覺參考。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5:nth-of-type(2) > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 118
+              },
+              "quote": {
+                "exact": "Image-to-video generation, either continuing from a starting frame (“animation”) or using images as visual references.",
+                "prefix": "come with native audio generation):Text-to-video generation.",
+                "suffix": "Video-to-video generation from a reference clip, carrying ce"
+              },
+              "start": {
+                "css": "article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > ul.mx-auto.max-w-\\[720px\\] > li.pl-1\\.5 > span.block.text-\\[1\\.125rem\\]",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 118,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[2]/span[1]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "Image-to-video generation, either continuing from a starting frame (“animation”) or using images as visual references."
+          },
+          "text": "Image-to-video generation, either continuing from a starting frame (“animation”) or using images as visual references.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-84133",
+          "note": "AI：FLUX 3 的最終開發目標是實現能跨越物理與數位環境進行感知、預測與行動的真實世界視覺智能。\n延伸：開發能理解物理規律並執行行動的模型，通常被視為邁向通用人工智慧（AGI）與具身智能關鍵的一步。\n來源：Embodied AI",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(5)",
+                "textOffset": 215
+              },
+              "quote": {
+                "exact": "FLUX 3 is our first model built entirely on that principle, and a checkpoint on our mission to develop real-world visual intelligence: models that perceive, predict, and act across physical and digital environments.",
+                "prefix": "arate and start being evidence about one underlying reality.",
+                "suffix": " Early results in content creation and physical AI suggest i"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(4)",
+                "textOffset": 332
+              },
+              "version": 1
+            },
+            "endOffset": 211,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[5]/text()[2]",
+            "startOffset": 332,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[4]/text()[1]",
+            "text": "FLUX 3 is our first model built entirely on that principle, and a checkpoint on our mission to develop real-world visual intelligence: models that perceive, predict, and act across physical and digital environments."
+          },
+          "text": "FLUX 3 is our first model built entirely on that principle, and a checkpoint on our mission to develop real-world visual intelligence: models that perceive, predict, and act across physical and digital environments.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-34587",
+          "note": "AI：單一模態無法完整描述現實，多模態聯合學習才能補足視覺或聽覺各自遺失的資訊。\n延伸：多模態對齊與融合理論常用於解決感測器訊息缺失問題，是物理 AI 的重要核心基礎。\n來源：Multimodal Machine Learning: A Survey and Taxonomy",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(3)",
+                "textOffset": 188
+              },
+              "quote": {
+                "exact": "No single modality provides a complete description. Each is a projection of the same underlying reality, captured by different sensors, each of which loses some information in the process.",
+                "prefix": "bjects hold together, how things move, and how events sound.",
+                "suffix": " Images capture spatial structures and relationships at a sp"
+              },
+              "start": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(2)",
+                "textOffset": 329
+              },
+              "version": 1
+            },
+            "endOffset": 188,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[3]/text()[2]",
+            "startOffset": 126,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[2]/text()[3]",
+            "text": "No single modality provides a complete description. Each is a projection of the same underlying reality, captured by different sensors, each of which loses some information in the process."
+          },
+          "text": "No single modality provides a complete description. Each is a projection of the same underlying reality, captured by different sensors, each of which loses some information in the process.",
+          "url": "https://bfl.ai/blog/flux-3"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785298270434,
+          "id": "hk-ai-preview-1785298270434-20975",
+          "note": "AI：FLUX 3 是 Black Forest Labs 推出的全新多模態基底模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1785298270434,
+              "end": {
+                "css": "body.__variable_3d9088.__variable_46fe82 > main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\]:nth-of-type(2)",
+                "textOffset": 46
+              },
+              "quote": {
+                "exact": "FLUX 3 is our new multimodal foundation model.",
+                "prefix": "y 23, 20265 min readFLUX 3 is now available in Early Access.",
+                "suffix": " It jointly learns from images, videos, and audio within a u"
+              },
+              "start": {
+                "css": "main > article.container-small.mt-6 > div.mt-10.md\\:mt-16:nth-of-type(2) > div.mt-8.lg\\:order-1 > p.mx-auto.max-w-\\[720px\\] > em.text-green.font-medium",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[2]/text()[2]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/p[1]/em[1]/text()[2]",
+            "text": "FLUX 3 is our new multimodal foundation model."
+          },
+          "text": "FLUX 3 is our new multimodal foundation model.",
+          "url": "https://bfl.ai/blog/flux-3"
+        }
+      ],
+      "note": {
+        "generatedAt": 1785298270438,
+        "model": "chatgpt-web",
+        "note": "Black Forest Labs 推出全新多模態基底模型 FLUX 3，旨在作為真實世界視覺智能的核心。傳統模型多半將圖像、影片與音訊分開處理，而 FLUX 3 基於 Self-Flow 架構，將多種模態整合於統一架構中同步訓練，透過跨模態的物理與因果約束（如聲音符合撞擊、運動符合質量），建立對真實世界的通用認知。\n\n在功能上，FLUX 3 Video 單次可生成最長 20 秒且具原生配音的高品質影片，並支援文字／圖像／影片轉影片、關鍵影格控制、Agent 化多鏡頭串聯及多語言對話等；此外，模型在複雜 Prompt 解析與文字渲染上也較前代 FLUX 大幅進步。\n\n除了內容創作，FLUX 3 的世界理解能力更延伸至動作預測領域。官方與 mimic robotics 合作開發 FLUX-mimic 影片動作模型，成功將基底模型應用於機器人精細操作，並已在 Audi 生產線進行實測。未來，Black Forest Labs 將透過 API、私有權重與開放權重（FLUX 3 Dev）陸續釋出相關能力，朝向結合感知、動作與語言預測的下一代全方位模型邁進。",
+        "provider": "chatgpt",
+        "url": "https://bfl.ai/blog/flux-3"
+      },
+      "mindmap": null
+    }
+  ]
+}
