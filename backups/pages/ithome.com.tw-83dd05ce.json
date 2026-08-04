@@ -1,0 +1,510 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "exportedAt": 1785807399533,
+  "shared": true,
+  "pages": [
+    {
+      "url": "https://www.ithome.com.tw/tech/56880",
+      "title": "iT自救術─x86和x64到底有什麼差異？ | iThome",
+      "tags": [
+        "記憶體快取",
+        "系統設計",
+        "x86架構",
+        "64位元運算",
+        "作業系統相容性",
+        "暫存器寬度"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807149248,
+          "id": "hk-1785807149245-80135",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807149243,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 104
+              },
+              "quote": {
+                "exact": "。大多數電腦用的處理器都是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統",
+                "prefix": " \n  \n\n以前，處理器有所謂的8位元、16位元、32位元……但是到了Windows XP時代，這些字眼逐漸為世人所遺忘",
+                "suffix": "，既然如此，也就沒有必要刻意去做描述。\n直到AMD開發了號稱「64位元」的處理器，事情漸漸變得複雜起來了。\n接著就會有各"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 104,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "。大多數電腦用的處理器都是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統"
+          },
+          "text": "。大多數電腦用的處理器都是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807153672,
+          "id": "hk-1785807153671-99674",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807153671,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 144
+              },
+              "quote": {
+                "exact": "AMD開發了號稱「64位元」的處理器",
+                "prefix": "是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統，既然如此，也就沒有必要刻意去做描述。\n直到",
+                "suffix": "，事情漸漸變得複雜起來了。\n接著就會有各種論調跑出來，「64位元要有專屬的作業系統」、「64位元的程式要特別撰寫」、「6"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 126
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "AMD開發了號稱「64位元」的處理器"
+          },
+          "text": "AMD開發了號稱「64位元」的處理器",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807170075,
+          "id": "hk-1785807170073-50131",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807170073,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 296
+              },
+              "quote": {
+                "exact": "到底64位元能帶來什麼好處？",
+                "prefix": "其來有自，是「似是而非」也罷，是「空穴來風」也好，總之，大部分人總是希望這些論調能有個「解釋」──至少多數人都想知道，「",
+                "suffix": "」\n藉著Windows 7的發表以及64位元環境的成熟，本人就我自己的認知來給各位介紹一下好了。\n什麼是64位元電腦？\n"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 282
+              },
+              "version": 1
+            },
+            "endOffset": 138,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 124,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "到底64位元能帶來什麼好處？"
+          },
+          "text": "到底64位元能帶來什麼好處？",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807234098,
+          "id": "hk-ai-preview-1785807234097-50953",
+          "note": "AI：作業系統與整體軟體生態系全面轉向64位元架構是必然趨勢\n延伸：微軟隨後在Windows 11正式終止對32位元x86處理器架構的作業系統支援，完成了全面的64位元轉化。\n來源：Windows 11 System Requirements",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234096,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 4136
+              },
+              "quote": {
+                "exact": "全面進化到64位元的OS是遲早的事情。所以……我的結論是：你遲早得用64位元的Windows，只是也許會晚點吧！",
+                "prefix": "會要人命)。所以如果問我，那採用64位元的Windows 7就像是自然演化。也許32位元的Windows不會立刻滅亡，但",
+                "suffix": "\n\nMicrosoft的官方網站，說明64位元平臺的各項優點。\n    \n  \n  \n       \n   \n\n\n   "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 4080
+              },
+              "version": 1
+            },
+            "endOffset": 173,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[41]/text()[1]",
+            "startOffset": 117,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[41]/text()[1]",
+            "text": "全面進化到64位元的OS是遲早的事情。所以……我的結論是：你遲早得用64位元的Windows，只是也許會晚點吧！"
+          },
+          "text": "全面進化到64位元的OS是遲早的事情。所以……我的結論是：你遲早得用64位元的Windows，只是也許會晚點吧！",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234099,
+          "id": "hk-ai-preview-1785807234099-69973",
+          "note": "AI：64位元應用程式無法直接載入與調用32位元的動態連結庫或輸入法元件\n延伸：輸入法（IME）是以DLL形式注入應用程式進程空間，而x86與x64的DLL在同一進程空間內無法混合載入。\n來源：Windows Input Method Editor (IME) Architecture",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234098,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3721
+              },
+              "quote": {
+                "exact": "如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版的才能正常運作。",
+                "prefix": "(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！\n再舉一例，",
+                "suffix": "如果你安裝的是32位元版的輸入法(像本人慣用的新酷音)，那很抱歉……你不能在記事本裡面打字，原因為何？我……我不清楚，我"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3659
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[39]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[39]/text()[1]",
+            "text": "如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版的才能正常運作。"
+          },
+          "text": "如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版的才能正常運作。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234100,
+          "id": "hk-ai-preview-1785807234100-73869",
+          "note": "AI：升級至64位元系統面臨核心驅動程式與底層工具不相容的轉型期問題\n延伸：64位元Windows核心要求所有驅動程式必須具備數位簽署（KMCS），且無法直接載入32位元核心模式驅動程式。\n來源：Kernel-Mode Code Signing (KMCS)",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234099,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3653
+              },
+              "quote": {
+                "exact": "如果你想用什麼「記憶體最佳化軟體」(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！",
+                "prefix": "版本的Windows(無論是Win7還是Vista)，你得有64位元版的驅動程式，你的系統程式得支援64位元。以我而言，",
+                "suffix": "\n再舉一例，如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3582
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[38]/text()[1]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[38]/text()[1]",
+            "text": "如果你想用什麼「記憶體最佳化軟體」(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！"
+          },
+          "text": "如果你想用什麼「記憶體最佳化軟體」(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785807234102,
+          "id": "hk-ai-preview-1785807234101-72905",
+          "note": "AI：64位元軟體在處理大容量檔案時能獲得極高的效能增幅\n延伸：效能大幅提升的主要原因在於大記憶體定址能免去將磁碟檔案分段載入與頻繁進行SWAP頁面交換的磁碟I/O瓶頸。\n來源：Virtual Memory Page Swapping",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234101,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3461
+              },
+              "quote": {
+                "exact": "如果跑一些「專屬的應用程式」，像是x64版的Photoshop或是x64版的AutoCAD，若是在讀取較大的圖檔，那會快不少，差距甚至達到10倍！",
+                "prefix": "我目前裝機都是裝到8GB)，我確實會建議你裝x64作業系統。但是，到底裝了x64作業系統有什麼好處？\n其實，真的不多。\n",
+                "suffix": "不過那是在讀取較大的圖檔，請不要忘記這個前提。\n換句話說， 資料量大時，x64 Windows有其優勢。\n反之，裝了x6"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3388
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[36]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/text()[35]",
+            "text": "如果跑一些「專屬的應用程式」，像是x64版的Photoshop或是x64版的AutoCAD，若是在讀取較大的圖檔，那會快不少，差距甚至達到10倍！"
+          },
+          "text": "如果跑一些「專屬的應用程式」，像是x64版的Photoshop或是x64版的AutoCAD，若是在讀取較大的圖檔，那會快不少，差距甚至達到10倍！",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785807234104,
+          "id": "hk-ai-preview-1785807234103-33672",
+          "note": "AI：32位元系統可透過PAE等技術擴展實體記憶體定址範圍至4GB以上\n延伸：微軟在32位元桌面版Windows上鎖定4GB上限主要考量是避免第三方32位元驅動程式因定址溢位導致藍屏死機（BSOD）。\n來源：Physical Address Extension (PAE)",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234103,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2952
+              },
+              "quote": {
+                "exact": "經過patch之後，32位元的Vista/Win7，也可以支援到超過4GB。事實上，Microsoft的server產品中，有些32位元的Windows Server也可以支援超過4GB以上的記憶體容量。",
+                "prefix": "不再此仔細的描述了。總之，用一些修補程式(網路上有，似乎是彼岸的高手寫的)，如果你的主機板夠新，晶片組夠新，記憶體夠多，",
+                "suffix": "\n也就是說，Microsoft的Windows設計中，本來就存在一些問題， 讓Windows只要支援到3.25GB左右，"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2850
+              },
+              "version": 1
+            },
+            "endOffset": 311,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "startOffset": 209,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "text": "經過patch之後，32位元的Vista/Win7，也可以支援到超過4GB。事實上，Microsoft的server產品中，有些32位元的Windows Server也可以支援超過4GB以上的記憶體容量。"
+          },
+          "text": "經過patch之後，32位元的Vista/Win7，也可以支援到超過4GB。事實上，Microsoft的server產品中，有些32位元的Windows Server也可以支援超過4GB以上的記憶體容量。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785807234105,
+          "id": "hk-ai-preview-1785807234104-57437",
+          "note": "AI：處理器位元數特指暫存器寬度，而非實際的實體匯流排定址能力\n延伸：8086雖然是16位元暫存器，但透過段暫存器（Segment Register）位移運算達到了20位元的實體定址（1MB）。\n來源：x86 Real Mode Memory Addressing",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234104,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2782
+              },
+              "quote": {
+                "exact": "處理器的定址能力，和處理器的「幾位元」是無關的。一般處理器業界/學界所稱「這處理器是XX位元」，是指這處理器的「通用暫存器多寬」而不是定址能力。",
+                "prefix": "6位元的傳奇作品──80286，定址能力是……16MB。等一下，這是個16位元的處理器，為何能定址到16MB？再講一遍：",
+                "suffix": "技術的細節，我就不再此仔細的描述了。總之，用一些修補程式(網路上有，似乎是彼岸的高手寫的)，如果你的主機板夠新，晶片組夠"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2710
+              },
+              "version": 1
+            },
+            "endOffset": 141,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "startOffset": 69,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "text": "處理器的定址能力，和處理器的「幾位元」是無關的。一般處理器業界/學界所稱「這處理器是XX位元」，是指這處理器的「通用暫存器多寬」而不是定址能力。"
+          },
+          "text": "處理器的定址能力，和處理器的「幾位元」是無關的。一般處理器業界/學界所稱「這處理器是XX位元」，是指這處理器的「通用暫存器多寬」而不是定址能力。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234106,
+          "id": "hk-ai-preview-1785807234105-99132",
+          "note": "AI：64位元作業系統對硬體有強制約束，無法安裝於傳統32位元處理器上\n延伸：這涉及CPU的執行模式切換，64位元OS需要處理器開啟長模式（Long Mode）才能運行。\n來源：x86 Control Registers",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234105,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2150
+              },
+              "quote": {
+                "exact": "x86版的作業系統可以裝在x86和x64的處理器(前面講過，因為相容的必要)，而x64的作業系統，就只能裝在x64的處理器",
+                "prefix": "soft，反正我來的時候就這樣了，我也不知道為何不用容易辨識的方式，所以不要問我，謝謝。\nx64作業系統的相容性如何？\n",
+                "suffix": "，這是各位應該要知道的第一點。\n而大多數的較老的應用軟體(32位元的)，大多可以裝在x86和x64的作業系統裡面跑，問題"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2089
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[24]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/text()[23]",
+            "text": "x86版的作業系統可以裝在x86和x64的處理器(前面講過，因為相容的必要)，而x64的作業系統，就只能裝在x64的處理器"
+          },
+          "text": "x86版的作業系統可以裝在x86和x64的處理器(前面講過，因為相容的必要)，而x64的作業系統，就只能裝在x64的處理器",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785807234107,
+          "id": "hk-ai-preview-1785807234106-5058",
+          "note": "AI：x86名稱源自Intel早期微處理器型號末兩位數的歷史沿革\n延伸：Intel 8086是16位元微處理器，其架構指令集經過逐代擴充，成為後續32位元（IA-32）與64位元（x86-64）的基石。\n來源：Intel 8086 Architecture Specification",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234106,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1803
+              },
+              "quote": {
+                "exact": "x86其實是指過去處理器的通稱，Intel以前的處理器大多以86為其產品編號的末兩碼",
+                "prefix": "樣，表面上都是一樣的Windows，但是骨子裡的核心其實大不相同。\n首先，說明「x86」和「x64」這兩個字眼的意義。\n",
+                "suffix": "──8086、80286、386、486……。即使到了Pentium時代，大家私底下還是用586、686這樣的說法。不過"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1761
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[20]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/text()[19]",
+            "text": "x86其實是指過去處理器的通稱，Intel以前的處理器大多以86為其產品編號的末兩碼"
+          },
+          "text": "x86其實是指過去處理器的通稱，Intel以前的處理器大多以86為其產品編號的末兩碼",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785807234107,
+          "id": "hk-ai-preview-1785807234107-26284",
+          "note": "AI：架構演進必須以向下相容現有軟體生態為首要原則\n延伸：AMD推出的x86-64技術成功關鍵在於能在硬體層級原生且高效地執行傳統32位元x86應用程式。\n來源：AMD64 Architecture",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234107,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1380
+              },
+              "quote": {
+                "exact": "先講求和現有軟體相容，再講求新作業系統/軟體的支援",
+                "prefix": "果有一天，處理器廠商要把現有的處理器改成64位元，它們就得學習某製藥公司的理念：先求不傷身體再講求效果⋯⋯當然不是！是「",
+                "suffix": "」。\n所以，當AMD公司先發表，而Intel後來跟進推出64位元處理器之後，其實已經過了好幾個年頭了。確實，Micros"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1355
+              },
+              "version": 1
+            },
+            "endOffset": 89,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[15]/text()[1]",
+            "startOffset": 64,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[15]/text()[1]",
+            "text": "先講求和現有軟體相容，再講求新作業系統/軟體的支援"
+          },
+          "text": "先講求和現有軟體相容，再講求新作業系統/軟體的支援",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234108,
+          "id": "hk-ai-preview-1785807234108-88840",
+          "note": "AI：Intel早期推行非相容架構的Itanium 64位元處理器，因缺乏舊版軟體支援而無法普及\n延伸：Itanium採用的IA-64架構與x86完全不相容，最終市場被向下相容32位元的AMD64（x86-64）架構徹底取代。\n來源：IA-64 Architecture Handbook",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234108,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1202
+              },
+              "quote": {
+                "exact": "Intel真的推了一個新的6 4 位元處理器， 叫做Itanium，這就是個全新架構的Intel處理器，得搭配全新架構的Windows",
+                "prefix": "4位元處理器⋯⋯如果這處理器是全新的，和原來的32位元處理器不相容，那這產品一推出就會面臨「沒東西可用」的窘境。事實上，",
+                "suffix": "──不過可不是Windows XP，而是Windows Server。因為這東西並不是設計給一般人用的，所以你並不能拿一"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1135
+              },
+              "version": 1
+            },
+            "endOffset": 145,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 78,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "Intel真的推了一個新的6 4 位元處理器， 叫做Itanium，這就是個全新架構的Intel處理器，得搭配全新架構的Windows"
+          },
+          "text": "Intel真的推了一個新的6 4 位元處理器， 叫做Itanium，這就是個全新架構的Intel處理器，得搭配全新架構的Windows",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785807234110,
+          "id": "hk-ai-preview-1785807234110-41910",
+          "note": "AI：64位元處理器能單次運算更大範圍的數字，大幅提升大數運算效率\n延伸：在32位元架構下處理超大整數時需要使用多字組算術（Multi-precision arithmetic），會產生額外的CPU指令開銷。\n來源：Arbitrary-precision arithmetic",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234108,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 777
+              },
+              "quote": {
+                "exact": "如果你常要計算很大的數字，那64位元處理器應該會更有效率（數字不必被拆成兩份以上計算）。",
+                "prefix": "字拆成好幾份，分別計算。\n如果你的暫存器寬度是64位元，那計算的範圍就大多了，可以計算從-2^63到2^63–1的範圍。",
+                "suffix": "問題是，你要計算的數字是不是常會那麼大？\n如果是所謂的3D運算，影像處理……那可能會，因為這類大量資料的運作處理，是常需"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 733
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "如果你常要計算很大的數字，那64位元處理器應該會更有效率（數字不必被拆成兩份以上計算）。"
+          },
+          "text": "如果你常要計算很大的數字，那64位元處理器應該會更有效率（數字不必被拆成兩份以上計算）。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785807234111,
+          "id": "hk-ai-preview-1785807234111-78992",
+          "note": "AI：處理器的位元數是由其內部通用暫存器的寬度所決定\n延伸：32位元與64位元暫存器在架構上的根本差異在於一次能處理的資料量與指令集擴充（如x86-64的AMD64指令集）。\n來源：x86-64 Architecture Programmer's Manual",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234111,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 474
+              },
+              "quote": {
+                "exact": "處理器裡面有很多的「暫存器」，而用來做運算的是一堆所謂的「通用暫存器」。這通常暫存器的「寬度」，就是我們俗稱的「幾位元處理器」。",
+                "prefix": "位元電腦？\n最早的處理器是4位元的，後來有8位元，16位元……的處理器，這些「位元(bit)」是怎麼一回事？\n簡單的說，",
+                "suffix": "通用暫存器是32位元寬，那一般就稱這處理器是32位元處理器。目前來說，32位元處理器因為「夠用」，所以各行各業所採用的各"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 410
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "處理器裡面有很多的「暫存器」，而用來做運算的是一堆所謂的「通用暫存器」。這通常暫存器的「寬度」，就是我們俗稱的「幾位元處理器」。"
+          },
+          "text": "處理器裡面有很多的「暫存器」，而用來做運算的是一堆所謂的「通用暫存器」。這通常暫存器的「寬度」，就是我們俗稱的「幾位元處理器」。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        }
+      ],
+      "note": {
+        "generatedAt": 1785807234113,
+        "model": "chatgpt-web",
+        "note": "過往個人電腦多採用32位元處理器與系統，直到AMD推動64位元架構才開啟轉型。所謂「幾位元」是指處理器內部通用暫存器的寬度，64位元能更有效率地處理大數與大量資料。在架構轉型過程中，Intel曾推出與舊軟體不相容的Itanium架構而失敗，證實向下相容傳統x86軟體的重要性。\n\nx86泛指32位元架構，x64則指支援64位元暫存器的產品。64位元系統最大的實質優勢，在於突破了32位元Windows因為系統限制導致僅能支援約3.25GB至4GB記憶體的瓶頸，讓大記憶體電腦發揮完整效能。雖然32位元系統可透過PAE等技術定址更多記憶體，但微軟為避免驅動程式相容問題而未在桌面版開放。\n\n使用x64系統在處理Photoshop等大檔案情境下效能提升顯著，但也面臨舊硬體缺少64位元驅動程式，以及64位元程式無法載入32位元輸入法或DLL元件的轉型期陣痛。儘管如此，隨着軟體與硬體生態成熟，作業系統全面邁向64位元已是不可逆的演化趨勢。",
+        "provider": "chatgpt",
+        "url": "https://www.ithome.com.tw/tech/56880"
+      },
+      "mindmap": null
+    }
+  ]
+}
