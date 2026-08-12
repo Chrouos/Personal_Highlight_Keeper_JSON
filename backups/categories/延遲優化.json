@@ -1,18 +1,18 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1785375668022,
+  "exportedAt": 1786527467672,
   "category": "延遲優化",
   "pages": [
     {
       "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/",
       "title": "介紹 GPT-Live | OpenAI",
       "tags": [
-        "即時語音",
         "多模態模型",
         "自然語言處理",
-        "延遲優化",
-        "系統設計"
+        "即時語音",
+        "系統設計",
+        "延遲優化"
       ],
       "entries": [
         {

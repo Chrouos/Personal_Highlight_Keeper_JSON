@@ -1,9 +1,510 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1785375668024,
+  "exportedAt": 1786527467669,
   "category": "開源模型",
   "pages": [
+    {
+      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Introducing Shieldstral. | Mistral AI",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "自然語言處理",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786089621674,
+          "id": "hk-ai-preview-1786089621673-72167",
+          "note": "AI：Shieldstral 推動內容審核走向情境適應，擺脫固定的單一安全分類體系\n延伸：彈性審核將成為未來 AI 應用的趨勢，讓商業平台能針對兒童、醫療或專業領域自由調整安全標準。\n來源：Open Secure AI Alliance",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621671,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(18)",
+                "textOffset": 124
+              },
+              "quote": {
+                "exact": "Shieldstral is a step toward moderation that adapts to context instead of forcing every product through one frozen taxonomy.",
+                "prefix": "ch is what determines the safety model's quality.What's next",
+                "suffix": " We're continuing to push on multilingual coverage, longer-d"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > h2.text-h3.font-mistral:nth-of-type(5)",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[18]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/h2[5]/text()[1]",
+            "text": "Shieldstral is a step toward moderation that adapts to context instead of forcing every product through one frozen taxonomy."
+          },
+          "text": "Shieldstral is a step toward moderation that adapts to context instead of forcing every product through one frozen taxonomy.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621675,
+          "id": "hk-ai-preview-1786089621674-34695",
+          "note": "AI：Shieldstral 全全程基於 Mistral 自家開發的 Forge 平台進行訓練與評估\n延伸：Forge 是 Mistral 提供給企業級客戶進行模型客製化與微調的 MLOps 基礎設施。\n來源：Mistral Forge Platform",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621674,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(16)",
+                "textOffset": 115
+              },
+              "quote": {
+                "exact": "Forge. We built Shieldstral end to end on Forge, our platform for training, aligning, and evaluating custom models.",
+                "prefix": "lowing from the base model transfers to the moderation task.",
+                "suffix": " Forge managed the infrastructure, data and model sharding, "
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(15)",
+                "textOffset": 388
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[16]/text()[2]",
+            "startOffset": 354,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[15]/text()[1]",
+            "text": "Forge. We built Shieldstral end to end on Forge, our platform for training, aligning, and evaluating custom models."
+          },
+          "text": "Forge. We built Shieldstral end to end on Forge, our platform for training, aligning, and evaluating custom models.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621675,
+          "id": "hk-ai-preview-1786089621675-74246",
+          "note": "AI：採用 LoRA 微調並透過 SLERP 球面線性插值融合不同階段訓練的模型檢查點\n延伸：SLERP 模型融合技術能在不重新訓練的情況下，保留多個專精檢查點的能力並降低效能退化。\n來源：Spherical Linear Interpolation (SLERP) Model Merging",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621675,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(15)",
+                "textOffset": 220
+              },
+              "quote": {
+                "exact": "We fine-tune with LoRA and merge — via SLERP — a checkpoint calibrated on public data, one that adds fine-grained policy discrimination from generated data, and the base instruct model.",
+                "prefix": " data and hallucinations.Combine complementary checkpoints. ",
+                "suffix": " The merge recovers common policy calibration and policy ada"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(15)",
+                "textOffset": 35
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[15]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[15]/text()[1]",
+            "text": "We fine-tune with LoRA and merge — via SLERP — a checkpoint calibrated on public data, one that adds fine-grained policy discrimination from generated data, and the base instruct model."
+          },
+          "text": "We fine-tune with LoRA and merge — via SLERP — a checkpoint calibrated on public data, one that adds fine-grained policy discrimination from generated data, and the base instruct model.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621675-5580",
+          "note": "AI：由於不安全圖像無法像文本一樣由 LLM 合成，導致視覺安全訓練資料相當稀缺\n延伸：圖像生成模型的安全限制使得合成不良圖片變得困難，通常需要依賴真實數據增強或擴散模型微調（待查證）。\n來源：AI Safety Image Datasets",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621675,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(14)",
+                "textOffset": 120
+              },
+              "quote": {
+                "exact": "Ground safety in images. Unsafe images can't be synthezised by an LLM the way text can, so visual safety data is scarce.",
+                "prefix": "ransfers to unseen, user-defined policies at inference time.",
+                "suffix": " We supplement limited moderation datasets with general-purp"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 630
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[14]/text()[1]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[2]",
+            "text": "Ground safety in images. Unsafe images can't be synthezised by an LLM the way text can, so visual safety data is scarce."
+          },
+          "text": "Ground safety in images. Unsafe images can't be synthezised by an LLM the way text can, so visual safety data is scarce.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621676-72986",
+          "note": "AI：透過大語言模型建構易混淆政策的對比範例對，訓練模型精準辨識內容違反了哪一條政策\n延伸：對比學習（Contrastive Learning）常配合 Hard Negative Mining 來提升模型對微小語意差異的敏感度。\n來源：Contrastive Learning with Hard Negative Sampling",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 467
+              },
+              "quote": {
+                "exact": "Instead, we construct sets of deliberately similar, easily confused policies and ask an LLM to rewrite safe text into contrastive pairs: each rewrite is engineered to violate one policy but not its sibling.",
+                "prefix": "ven policy. This prevents generalization to novel policies. ",
+                "suffix": " This trains the model to distinguish which specific policy "
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 261
+              },
+              "version": 1
+            },
+            "endOffset": 428,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[1]",
+            "startOffset": 222,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[1]",
+            "text": "Instead, we construct sets of deliberately similar, easily confused policies and ask an LLM to rewrite safe text into contrastive pairs: each rewrite is engineered to violate one policy but not its sibling."
+          },
+          "text": "Instead, we construct sets of deliberately similar, easily confused policies and ask an LLM to rewrite safe text into contrastive pairs: each rewrite is engineered to violate one policy but not its sibling.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621676-56961",
+          "note": "AI：過往模型若僅針對固定標籤訓練，只會背誦預設政策而無法推理未知政策的邊界\n延伸：缺乏泛化能力的模型在面對新型態網路用語或變相違規內容時容易失效。\n來源：Out-of-Distribution Generalization",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 212
+              },
+              "quote": {
+                "exact": "Teach discrimination, not memorization. If trained on a fixed set of policy labels, a model learns only to classify those predefined policies, rather than reasoning about the precise boundaries of a given policy.",
+                "prefix": "us consolidate sources that would otherwise be incompatible.",
+                "suffix": " This prevents generalization to novel policies. Instead, we"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(12)",
+                "textOffset": 677
+              },
+              "version": 1
+            },
+            "endOffset": 173,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[1]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[12]/text()[2]",
+            "text": "Teach discrimination, not memorization. If trained on a fixed set of policy labels, a model learns only to classify those predefined policies, rather than reasoning about the precise boundaries of a given policy."
+          },
+          "text": "Teach discrimination, not memorization. If trained on a fixed set of policy labels, a model learns only to classify those predefined policies, rather than reasoning about the precise boundaries of a given policy.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621676-91131",
+          "note": "AI：將公開安全資料集中格式與分類法不一致的問題，透過專用處理器統一轉換為標準格式\n延伸：資料集間標籤定義衝突是安全模型訓練的痛點，多數研究會使用 LLM 進行合成資料的重新標註與清洗。\n來源：Data Centric AI",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(12)",
+                "textOffset": 179
+              },
+              "quote": {
+                "exact": "Unify heterogeneous data. Public safety datasets disagree on taxonomies, labels, and annotation conventions — from binary safe/unsafe flags to fine-grained multi-label taxonomies.",
+                "prefix": "s right. Getting the data right meant solving four problems:",
+                "suffix": " We convert every dataset into the same instruction–query–do"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(11)",
+                "textOffset": 135
+              },
+              "version": 1
+            },
+            "endOffset": 154,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[12]/text()[1]",
+            "startOffset": 135,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[11]/text()[1]",
+            "text": "Unify heterogeneous data. Public safety datasets disagree on taxonomies, labels, and annotation conventions — from binary safe/unsafe flags to fine-grained multi-label taxonomies."
+          },
+          "text": "Unify heterogeneous data. Public safety datasets disagree on taxonomies, labels, and annotation conventions — from binary safe/unsafe flags to fine-grained multi-label taxonomies.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-9135",
+          "note": "AI：模型大小僅 3B 且可在單張 16GB GPU 上運行，縮減部署成本\n延伸：16GB VRAM 意味著一般的消費級顯卡或邊緣裝置就能以低成本硬體架設獨立的審核防護線。\n來源：NVIDIA GeForce RTX 4090 Specifications",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li:nth-of-type(3) > p.text-body-large",
+                "textOffset": 195
+              },
+              "quote": {
+                "exact": "Small, trained on heterogeneous sources — a 3B model that runs on a single 16GB GPU, trained on real and synthetic data with diverse label formats and taxonomies, consolidated into one framework.",
+                "prefix": "eries and re-targeted at inference time, without retraining.",
+                "suffix": "Continuous safety score — returns a calibrated yes/no probab"
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li:nth-of-type(2) > p.text-body-large",
+                "textOffset": 254
+              },
+              "version": 1
+            },
+            "endOffset": 156,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[3]/p[1]/text()[1]",
+            "startOffset": 233,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[2]/p[1]/text()[1]",
+            "text": "Small, trained on heterogeneous sources — a 3B model that runs on a single 16GB GPU, trained on real and synthetic data with diverse label formats and taxonomies, consolidated into one framework."
+          },
+          "text": "Small, trained on heterogeneous sources — a 3B model that runs on a single 16GB GPU, trained on real and synthetic data with diverse label formats and taxonomies, consolidated into one framework.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-44327",
+          "note": "AI：單一自然語言介面即可跨文字與圖像處理提示詞、回覆及其組合的安全審核\n延伸：統一圖文多模態架構避免了傳統方案需要分別維護 OCR、圖像安全模型與文本審核器的複雜性。\n來源：Multimodal Content Moderation",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li:nth-of-type(2) > p.text-body-large",
+                "textOffset": 156
+              },
+              "quote": {
+                "exact": "Adaptive and flexible — a single natural-language interface covers text, image, and text+image content across prompts, responses, and prompt–response pairs.",
+                "prefix": "l detection, policy adaptability, and multimodal benchmarks.",
+                "suffix": " Policies are supplied as free-form queries and re-targeted "
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li > p.text-body-large",
+                "textOffset": 166
+              },
+              "version": 1
+            },
+            "endOffset": 135,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[2]/p[1]/text()[1]",
+            "startOffset": 148,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[1]/p[1]/text()[1]",
+            "text": "Adaptive and flexible — a single natural-language interface covers text, image, and text+image content across prompts, responses, and prompt–response pairs."
+          },
+          "text": "Adaptive and flexible — a single natural-language interface covers text, image, and text+image content across prompts, responses, and prompt–response pairs.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-55461",
+          "note": "AI：Shieldstral 以 3B 體積在多項基準測試中比肩或超越大其 7 倍的開源安全模型\n延伸：常見的對照標的包含 22B 或 8B 規模的安全防護模型，小模型能大幅降低部署防護欄的運算資源。\n來源：Mistral AI Technical Report",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li > p.text-body-large",
+                "textOffset": 166
+              },
+              "quote": {
+                "exact": "Strong performance — matches or outperforms open guard models up to 7× its size across text safety, refusal detection, policy adaptability, and multimodal benchmarks.",
+                "prefix": "point adapts to novel policies at deployment time.Highlights",
+                "suffix": "Adaptive and flexible — a single natural-language interface "
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > h2.text-h3.font-mistral:nth-of-type(2)",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 148,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[1]/p[1]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/h2[2]/text()[1]",
+            "text": "Strong performance — matches or outperforms open guard models up to 7× its size across text safety, refusal detection, policy adaptability, and multimodal benchmarks."
+          },
+          "text": "Strong performance — matches or outperforms open guard models up to 7× its size across text safety, refusal detection, policy adaptability, and multimodal benchmarks.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-47104",
+          "note": "AI：推論時僅讀取 yes 與 no 的對數機率並做軟最大化，轉為連續的安全機率分數\n延伸：僅計算首個 Token 的概率能大幅降低推論延遲，這種技巧常用於快速分類器設計。\n來源：Logit Normalization",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(7)",
+                "textOffset": 119
+              },
+              "quote": {
+                "exact": "At inference the model reads out only the yes and no logits and softmax-normalizes them into a continuous safety score.",
+                "prefix": "nse, a prompt–response pair, or an image with optional text.",
+                "suffix": " This one simple formulation does a lot of work: it unifies "
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5 > li:nth-of-type(3) > p.text-body-large",
+                "textOffset": 112
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[7]/text()[3]",
+            "startOffset": 102,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[1]/li[3]/p[1]/text()[1]",
+            "text": "At inference the model reads out only the yes and no logits and softmax-normalizes them into a continuous safety score."
+          },
+          "text": "At inference the model reads out only the yes and no logits and softmax-normalizes them into a continuous safety score.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-29683",
+          "note": "AI：審核請求的第一部分為評估背景、嚴格度及不安全內容的定義說明\n延伸：透過 Prompt 控制嚴格度是常見技巧，但在高嚴格度設定下容易提高對無害內容的誤判率（待查證）。",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5 > li > p.text-body-large",
+                "textOffset": 112
+              },
+              "quote": {
+                "exact": "— the evaluation context, strictness, and (optionally) a definition of what counts as unsafe content.",
+                "prefix": "ion-answering task. Each request has three parts:<Instruct> ",
+                "suffix": "<Query> — a single yes/no question, e.g. \"Does this content "
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5 > li > p.text-body-large",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 102,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "text": "— the evaluation context, strictness, and (optionally) a definition of what counts as unsafe content."
+          },
+          "text": "— the evaluation context, strictness, and (optionally) a definition of what counts as unsafe content.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-71442",
+          "note": "AI：Shieldstral 將內容審核任務轉換為二元問答架構\n延伸：將多元分類轉為二元 QA 可簡化輸出空間，但當輸入文章過長時，單次推論的 Token 成本與時間會線性增加。",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621678,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(6)",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "Shieldstral frames content moderation as a binary question-answering task.",
+                "prefix": "e 2.0, available for download here. Moderation as a question",
+                "suffix": " Each request has three parts:<Instruct> — the evaluation co"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > h2.text-h3.font-mistral",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[6]/text()[2]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/h2[1]/text()[1]",
+            "text": "Shieldstral frames content moderation as a binary question-answering task."
+          },
+          "text": "Shieldstral frames content moderation as a binary question-answering task.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-40675",
+          "note": "AI：Shieldstral 讓使用者在推論時直接輸入自然語言問題來定義安全政策，並傳回校準後的安全分數\n延伸：這種 Prompt-based 審核機制依賴模型對複雜指令的理解力，在面對極端迂迴的提示詞攻擊時需要驗證安全性。\n來源：Prompt Injection Attacks",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621678,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(4)",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "Shieldstral takes a different approach: you write the policy as a plain-language question at inference time, and the model returns a calibrated safety score.",
+                "prefix": "gle \"correct\" set of categories to model in the first place.",
+                "suffix": " No retraining, one interface for text and images, and a ver"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(3)",
+                "textOffset": 547
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[4]/text()[1]",
+            "startOffset": 547,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[3]/text()[1]",
+            "text": "Shieldstral takes a different approach: you write the policy as a plain-language question at inference time, and the model returns a calibrated safety score."
+          },
+          "text": "Shieldstral takes a different approach: you write the policy as a plain-language question at inference time, and the model returns a calibrated safety score.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-14991",
+          "note": "AI：傳統防護欄模型將固定的危害分類寫死在權重中，換環境部署就必須重新訓練\n延伸：以 Llama Guard 為例，採用固定的有害類別分類法，若企業有自訂規範通常需要另外做微調（待查證）。\n來源：Llama Guard",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621678,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(3)",
+                "textOffset": 400
+              },
+              "quote": {
+                "exact": "Most guardrail models bake a fixed taxonomy of harm categories into their weights, so re-targeting them to a new deployment context means retraining.",
+                "prefix": "rity research tool and harmful on a mental-health platform. ",
+                "suffix": " And because safety definitions differ across applications a"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(3)",
+                "textOffset": 251
+              },
+              "version": 1
+            },
+            "endOffset": 400,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[3]/text()[1]",
+            "startOffset": 251,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[3]/text()[1]",
+            "text": "Most guardrail models bake a fixed taxonomy of harm categories into their weights, so re-targeting them to a new deployment context means retraining."
+          },
+          "text": "Most guardrail models bake a fixed taxonomy of harm categories into their weights, so re-targeting them to a new deployment context means retraining.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1786089621679,
+        "model": "chatgpt-web",
+        "note": "當前 AI 安全審核面臨一大痛點：傳統防護欄模型將固定的危害分類寫死在權重中，只要換了應用場景或產品對象，就必須重新訓練模型。Mistral AI 推出的 Shieldstral 改變了這個局面的思考方向。它將內容審核重新定義為「二元問答任務」，讓開發者在推論階段直接輸入自然語言撰寫安全政策與問題，模型便能及時算出相應的安全評分，完全不需要重新訓練。\n\nShieldstral 雖然只有 3B 參數，卻能跨越文字與圖像多模態，且效能可比肩甚至超越大其 7 倍的模型。它能在單張 16GB GPU 上流暢執行，大為降低了部署成本。為解決資料異質與安全圖像稀缺的問題，團隊利用對比範例對訓練模型的邏輯推理能力，並透過 SLERP 技術融合多個微調檢查點，成功打造出兼具指令遵循與高彈性審核能力的開放權重模型。這代表安全防護正邁向情境適應的新階段。",
+        "provider": "chatgpt",
+        "url": "https://mistral.ai/news/shieldstral/"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://arxiv.org/html/2607.02770v1",
       "title": "Gemma 4 Technical Report",

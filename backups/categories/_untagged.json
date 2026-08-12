@@ -1,9 +1,858 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1785375668002,
+  "exportedAt": 1786527467618,
   "category": null,
   "pages": [
+    {
+      "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging",
+      "title": "Claude Code推出跨Session傳訊！兩個AI終端機可「自己溝通」，工程師不用再當傳話筒|數位時代 BusinessNext",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526091668,
+          "id": "hk-1786526091656-44369",
+          "note": "Cross-session\n- 原本就獨立存在的 Claude Code Session\n- Session A ↔ Session B\n- 甚至可以跨不同機器傳遞\n- 也支援 Claude Code Web 與本機 Session 之間通訊",
+          "range": {
+            "anchors": {
+              "createdAt": 1786526091647,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 296
+              },
+              "quote": {
+                "exact": "你的 session 現在可以互相傳訊息。不必再到另一個 session 重新解釋一遍，你可以叫 Claude 去講。",
+                "prefix": "Devs 在 X 發文說明這項名為 cross-session messaging（跨 session 傳訊）的功能：「",
+                "suffix": "」\n目前該功能僅支援 macOS 與 Linux，原生 Windows 不在範圍內。\n\n\n掌握最新AI、半導體、數位趨勢"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 237
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[2]/strong[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[2]/strong[1]/text()[1]",
+            "text": "你的 session 現在可以互相傳訊息。不必再到另一個 session 重新解釋一遍，你可以叫 Claude 去講。"
+          },
+          "text": "你的 session 現在可以互相傳訊息。不必再到另一個 session 重新解釋一遍，你可以叫 Claude 去講。",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526104492,
+          "id": "hk-1786526104473-65523",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786526104467,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 914
+              },
+              "quote": {
+                "exact": "因此如果是要把「整個脈絡搬過去」，官方建議改用接續舊對話（resume session）的做法",
+                "prefix": "（可理解成上一個session的摘要）。接收端只看得到這段文字和寄件端的名字，看不到對方的對話歷史，也拿不到對方的檔案。",
+                "suffix": "，而不是用這個新功能。\n送出去的訊息長什麼樣？官方文件給的實例是這樣一句話：「Schema 遷移完成，新欄位是 tena"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 867
+              },
+              "version": 1
+            },
+            "endOffset": 156,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "text": "因此如果是要把「整個脈絡搬過去」，官方建議改用接續舊對話（resume session）的做法"
+          },
+          "text": "因此如果是要把「整個脈絡搬過去」，官方建議改用接續舊對話（resume session）的做法",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526114946,
+          "id": "hk-1786526114937-14807",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527255162,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 990
+              },
+              "quote": {
+                "exact": "問一下我另一個終端機的 session，那個 migration 跑完了沒",
+                "prefix": "de 會自己找對象、自己把話寫出來。\n官方文件列出三種場景。第一種是跟長時間跑的任務要進度，官方範例的指令直譯過來是 「",
+                "suffix": "」。\n第二種是把剛做完的決定交接出去，官方範例是 「跟那個在處理 payments API 的 session 說明我們"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 953
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[8]/strong[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[8]/strong[1]/text()[1]",
+            "text": "問一下我另一個終端機的 session，那個 migration 跑完了沒"
+          },
+          "text": "問一下我另一個終端機的 session，那個 migration 跑完了沒",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526119461,
+          "id": "hk-1786526119457-8453",
+          "note": "Orca 就是這樣的方式",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527255968,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1116
+              },
+              "quote": {
+                "exact": "worktree",
+                "prefix": "我們剛剛做了什麼」。 這句正好示範前面那個重點：指令沒有規定訊息要怎麼寫，內容全由 Claude 決定。\n第三種是多個 ",
+                "suffix": "（同一個專案的平行工作副本，讓你不必切換分支就能同時改兩條線）各自開工時互相同步。這一種官方沒有附範例指令，實際上你會說"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1108
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[10]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[10]/text()[1]",
+            "text": "worktree"
+          },
+          "text": "worktree",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526160408,
+          "id": "hk-1786526160397-11523",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527256715,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1948
+              },
+              "quote": {
+                "exact": "訊息裡若寫了 /compact 這種指令，抵達時只會被當成純文字，不會執行",
+                "prefix": "n 傳來的訊息不算你本人的同意，無法代你按下權限確認；訊息不能要求接收端修改權限設定或 CLAUDE.md 這類設定檔；",
+                "suffix": "。\n收訊端另有 accept（照收）、hold（先扣住等你批准）、refuse（直接丟掉）三段控制。沒有特別設定時，Cl"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1911
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[13]/text()[3]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[13]/text()[2]",
+            "text": "訊息裡若寫了 /compact 這種指令，抵達時只會被當成純文字，不會執行"
+          },
+          "text": "訊息裡若寫了 /compact 這種指令，抵達時只會被當成純文字，不會執行",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526179690,
+          "id": "hk-1786526179683-21804",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527257383,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2400
+              },
+              "quote": {
+                "exact": "一般的跨 session 傳訊需要 Claude Code v2.1.224 以上",
+                "prefix": "各自獨立、由你分別駕駛的 session 之間要怎麼講話，而這條線的邊界收得很緊，純文字、不傳權限、收訊端保有否決權。\n",
+                "suffix": "；要主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上。想確認自己這台機"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2359
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/text()[20]",
+            "text": "一般的跨 session 傳訊需要 Claude Code v2.1.224 以上"
+          },
+          "text": "一般的跨 session 傳訊需要 Claude Code v2.1.224 以上",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526186197,
+          "id": "hk-1786526186193-82982",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527258249,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2451
+              },
+              "quote": {
+                "exact": "主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上",
+                "prefix": "字、不傳權限、收訊端保有否決權。\n一般的跨 session 傳訊需要 Claude Code v2.1.224 以上；要",
+                "suffix": "。想確認自己這台機器拿到了沒，在 session 內輸入 /list-agents 就會知道。\n\n延伸閱讀：泰國4兆市值"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2402
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[1]",
+            "text": "主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上"
+          },
+          "text": "主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526194472,
+          "id": "hk-1786526194465-90178",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527259849,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1684
+              },
+              "quote": {
+                "exact": "跨 session 傳訊目前僅支援 macOS 與 Linux（含 WSL 2 環境）",
+                "prefix": "接要求 AI Agent 直接跨 session 作業，不用自己切來切去。\n跨session傳訊不是零限制\n要留意的是，",
+                "suffix": "，原生 Windows 沒有這項功能，透過 Amazon Bedrock、AWS 上的 Claude Platform、"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1641
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[12]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[12]/text()[1]",
+            "text": "跨 session 傳訊目前僅支援 macOS 與 Linux（含 WSL 2 環境）"
+          },
+          "text": "跨 session 傳訊目前僅支援 macOS 與 Linux（含 WSL 2 環境）",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526203576,
+          "id": "hk-1786526203572-76748",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527261121,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2148
+              },
+              "quote": {
+                "exact": "短時間內完全相同的直接丟棄，等待讀取的訊息上限是每個 session 50 則",
+                "prefix": "定裡一次關掉整個組織的收發。\n兩個 session 會不會互相喊話喊到沒完？文件寫明有節流：同一寄件端的重複訊息會限速，",
+                "suffix": "。換句話說，訊息迴圈會自己停下來。\nAnthropic 手上原本就有 subagents、agent teams、age"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2109
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[15]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[15]/text()[1]",
+            "text": "短時間內完全相同的直接丟棄，等待讀取的訊息上限是每個 session 50 則"
+          },
+          "text": "短時間內完全相同的直接丟棄，等待讀取的訊息上限是每個 session 50 則",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/177982",
+      "title": "Cloudflare公布代理人優先的AI瀏覽器Kitesurf，強調更省運算資源、記憶體 | iThome",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786428920139,
+          "id": "hk-1786428920137-74728",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786428920135,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 52
+              },
+              "quote": {
+                "exact": "Kitesurf",
+                "prefix": "片來源: Cloudflare\nCloudflare上周公布專為AI代理人執行而設計的無狀態（stateless）瀏覽器",
+                "suffix": "，將搭配隔離環境V8 Worker執行，強調比Chromium更節省CPU資源與記憶體。\n4月Cloudflare公布B"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 44
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Kitesurf"
+          },
+          "text": "Kitesurf",
+          "url": "https://www.ithome.com.tw/news/177982"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
+      "title": "Google Maps' Ask Maps gets more helpful with food ordering",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786422384394,
+          "id": "hk-1786422384384-1607",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786422384382,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "Ask Maps is Google Maps’ biggest transformation in over a decade. ",
+                "prefix": "        \n        \n\n          \n          \n\n\n  \n    \n\n\n  \n    ",
+                "suffix": "By bringing Gemini model capabilities together with the worl"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 58,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/a[1]/text()[1]",
+            "text": "Ask Maps is Google Maps’ biggest transformation in over a decade. "
+          },
+          "text": "Ask Maps is Google Maps’ biggest transformation in over a decade. ",
+          "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "title": "Muse Code 和 Muse Spark 1.2 版本介紹 | Meta AI 研究",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786332523960,
+          "id": "hk-1786332523954-2187",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786332523950,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 22
+              },
+              "quote": {
+                "exact": " Muse Code（測試版）",
+                "prefix": "a AI隆重介紹 Muse Code 和 Muse Spark 1.22026年8月5日·閱讀時間：4分鐘我們很高興發布",
+                "suffix": "，這是一款基於我們最新型號 Muse Spark 1.2 的終端編碼代理。這標誌著我們邁向技術前沿的又一步，未來也將推出"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/font[1]/font[1]/text()[1]",
+            "text": " Muse Code（測試版）"
+          },
+          "text": " Muse Code（測試版）",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786332533971,
+          "id": "hk-1786332533968-21660",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786332533968,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 42
+              },
+              "quote": {
+                "exact": "Muse Code 採用簡單的代理循環，並輔以一組非同步後台代理來增強主代理的功能。",
+                "prefix": "碼和驗證結果。它可以協調多個持久的子代理來完成每個任務，從而更快、更準確、更省力地解決難題。\n繆斯密碼\n非同步後台代理\n",
+                "suffix": "這些專門的後台代理在整個會話期間保持活躍，而不是針對單一任務單獨生成，從而避免了重複的資訊收集。它們負責執行後續步驟，並"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/font[1]/font[1]/text()[1]",
+            "text": "Muse Code 採用簡單的代理循環，並輔以一組非同步後台代理來增強主代理的功能。"
+          },
+          "text": "Muse Code 採用簡單的代理循環，並輔以一組非同步後台代理來增強主代理的功能。",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://hackmd.io/@YungHuiHsu/SkUb3aBX6",
+      "title": "[RL] Proximal Policy Optimization(PPO) - HackMD",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786325702949,
+          "id": "hk-1786325702946-4505",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786325702944,
+              "end": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(4)",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "在保證新策略與舊策略不會差異太大的前提下，尋找一個性能更好的策略",
+                "prefix": "確保你不會因為嘗試新動作而忘記了基本技巧。演算法說明PPO是一種在策略空間進行優化的演算法，用於強化學習。它的核心思想是",
+                "suffix": "。這個特性通過一個被稱為「信賴區域(Trust region)」的概念來實現，這使得每一步更新都不會讓策略偏離太遠，從而"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(4)",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/p[4]/strong[1]/span[1]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "在保證新策略與舊策略不會差異太大的前提下，尋找一個性能更好的策略"
+          },
+          "text": "在保證新策略與舊策略不會差異太大的前提下，尋找一個性能更好的策略",
+          "url": "https://hackmd.io/@YungHuiHsu/SkUb3aBX6"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://tw.stock.yahoo.com/news/%E3%80%8Cez-way%E6%98%93%E5%88%A9%E5%A7%94%E3%80%8Dapp%E6%94%B6%E5%9B%9E%E5%85%AC%E7%87%9F%EF%BC%9F-%E9%97%9C%E5%8B%99%E7%BD%B2%E5%9B%9E%E6%87%89%E4%BA%86-112509059.html",
+      "title": "「EZ WAY易利委」APP收回公營？ 關務署回應了",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785805537480,
+          "id": "hk-1785805537409-90191",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785805537404,
+              "end": {
+                "css": "article#article-69119f91-f944-411c-a00e-be2edd114beb > div.atoms > p.mb-module-gap.break-words:nth-of-type(7)",
+                "textOffset": 133
+              },
+              "quote": {
+                "exact": "並未表示將逕行把EZ Way APP收回公營，網紅及媒體相關說法應屬誤解",
+                "prefix": "是否編列預算將EZ Way APP收回公營等議題，僅表示此事涉及重大政策變更，將審慎評估研議，並在3個月內提出檢討報告，",
+                "suffix": "。馮萱榕／財經特派記者，主跑財政部、電腦通路、觀光餐飲等檢視留言(10)登入後即可張貼留言。熱門留言熱門留言最新留言最近"
+              },
+              "start": {
+                "css": "article#article-69119f91-f944-411c-a00e-be2edd114beb > div.atoms > p.mb-module-gap.break-words:nth-of-type(7)",
+                "textOffset": 97
+              },
+              "version": 1
+            },
+            "endOffset": 133,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 97,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[1]/p[7]/text()[1]",
+            "text": "並未表示將逕行把EZ Way APP收回公營，網紅及媒體相關說法應屬誤解"
+          },
+          "text": "並未表示將逕行把EZ Way APP收回公營，網紅及媒體相關說法應屬誤解",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%8Cez-way%E6%98%93%E5%88%A9%E5%A7%94%E3%80%8Dapp%E6%94%B6%E5%9B%9E%E5%85%AC%E7%87%9F%EF%BC%9F-%E9%97%9C%E5%8B%99%E7%BD%B2%E5%9B%9E%E6%87%89%E4%BA%86-112509059.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html",
+      "title": "上淘寶買20包棉花棒被拘提罰10萬！8種醫材自用進口有限量",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728462827,
+          "id": "hk-1785728462816-97550",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728462812,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 107
+              },
+              "quote": {
+                "exact": "每人每半年每樣貨品只有1次機會",
+                "prefix": "眼鏡、日拋隱形眼鏡、醫用口罩都屬於醫療器材，食品藥物管理署對於民眾攜帶或郵寄這8種醫材入境，可以免申報、採用便捷通關，但",
+                "suffix": "，而且有數量的限制、僅限自用，不能轉賣或轉讓他人，違規的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 92
+              },
+              "version": 1
+            },
+            "endOffset": 107,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[1]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[1]",
+            "text": "每人每半年每樣貨品只有1次機會"
+          },
+          "text": "每人每半年每樣貨品只有1次機會",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728467116,
+          "id": "hk-1785728467109-21201",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728467108,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 131
+              },
+              "quote": {
+                "exact": "有數量的限制、僅限自用，不能轉賣或轉讓他人",
+                "prefix": "療器材，食品藥物管理署對於民眾攜帶或郵寄這8種醫材入境，可以免申報、採用便捷通關，但每人每半年每樣貨品只有1次機會，而且",
+                "suffix": "，違規的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。OK繃：合計不超過60個（片）。液體OK繃：合計"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 110
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[2]",
+            "text": "有數量的限制、僅限自用，不能轉賣或轉讓他人"
+          },
+          "text": "有數量的限制、僅限自用，不能轉賣或轉讓他人",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728469564,
+          "id": "hk-1785728469560-86860",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728469559,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal > p.mb-module-gap.break-words",
+                "textOffset": 12
+              },
+              "quote": {
+                "exact": "60個",
+                "prefix": "、僅限自用，不能轉賣或轉讓他人，違規的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。OK繃：合計不超過",
+                "suffix": "（片）。液體OK繃：合計不超過4條（罐、瓶、支）。醫用棉棒：合計不超過200支。保險套：合計不超過60個。衛生棉條：合計"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal > p.mb-module-gap.break-words",
+                "textOffset": 9
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[1]/p[1]/text()[1]",
+            "text": "60個"
+          },
+          "text": "60個",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728470857,
+          "id": "hk-1785728470852-91926",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728470852,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(2) > p.mb-module-gap.break-words",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "4條",
+                "prefix": "的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。OK繃：合計不超過60個（片）。液體OK繃：合計不超過",
+                "suffix": "（罐、瓶、支）。醫用棉棒：合計不超過200支。保險套：合計不超過60個。衛生棉條：合計不超過120個。日拋隱形眼鏡：為考"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(2) > p.mb-module-gap.break-words",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[2]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[2]/p[1]/text()[1]",
+            "text": "4條"
+          },
+          "text": "4條",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728472231,
+          "id": "hk-1785728472225-41239",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728472225,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(3) > p.mb-module-gap.break-words",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "200支",
+                "prefix": "，處3萬～100萬元罰鍰。OK繃：合計不超過60個（片）。液體OK繃：合計不超過4條（罐、瓶、支）。醫用棉棒：合計不超過",
+                "suffix": "。保險套：合計不超過60個。衛生棉條：合計不超過120個。日拋隱形眼鏡：為考量兩眼度數可能不同，限定每人以單一品牌、二種"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(3) > p.mb-module-gap.break-words",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[3]/p[1]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[3]/p[1]/text()[1]",
+            "text": "200支"
+          },
+          "text": "200支",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark | OpenAI",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785463425141,
+          "id": "hk-1785463425103-22015",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785463425101,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 316
+              },
+              "quote": {
+                "exact": "GPT‑5.6 Sol scored just 7.8%, and GPT‑5.5 could barely play the games at all, scoring a paltry 0.4%",
+                "prefix": " FireRed. But on ARC-AGI-3, a benchmark of 2D puzzle games, ",
+                "suffix": ".GPT-5.6 Sol 解決了數學中長期存在的開放性問題，例如循環雙蓋猜想⁠（在新視窗中開啟）以及 Pokémon F"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 217
+              },
+              "version": 1
+            },
+            "endOffset": 189,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[2]/text()[1]",
+            "startOffset": 90,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[2]/text()[1]",
+            "text": "GPT‑5.6 Sol scored just 7.8%, and GPT‑5.5 could barely play the games at all, scoring a paltry 0.4%"
+          },
+          "text": "GPT‑5.6 Sol scored just 7.8%, and GPT‑5.5 could barely play the games at all, scoring a paltry 0.4%",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K",
+      "title": "淺談 LLM 大型語言模型的 Temperature、Top-P 和 Top-K 參數 | The Will Will Web",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785398493380,
+          "id": "hk-1785398493377-93807",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785398493362,
+              "end": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "，用於控制文字生成過程中的隨機性和創造性",
+                "prefix": "模型的參數可以影響生成的文字風格和品質。在大語言模型中，Temperature、Top-P 和 Top-K 是常見的參數",
+                "suffix": "。我自己在開發 LLM 應用時，主要也都只會去調整 Temperature 而已，其實 Top-P 與 Top-K 很少"
+              },
+              "start": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 119
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[1]/strong[2]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[1]/text()[4]",
+            "text": "，用於控制文字生成過程中的隨機性和創造性"
+          },
+          "text": "，用於控制文字生成過程中的隨機性和創造性",
+          "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785398506080,
+          "id": "hk-1785398506079-95649",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785398506078,
+              "end": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 339
+              },
+              "quote": {
+                "exact": "Temperature 就像一個控制語言模型創造力的旋鈕",
+                "prefix": "文章我打算好好的理一理這幾個參數的真正含意。 機器學習與人工智慧\n\nTemperature (溫度)\n在自然語言處理中，",
+                "suffix": "。它調整模型選擇低機率詞彙的傾向，進而影響生成文本的多樣性。\n設定較高的 Temperature 值意味著鼓勵模型去冒險"
+              },
+              "start": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 311
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[3]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[3]/code[1]/text()[1]",
+            "text": "Temperature 就像一個控制語言模型創造力的旋鈕"
+          },
+          "text": "Temperature 就像一個控制語言模型創造力的旋鈕",
+          "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785398514325,
+          "id": "hk-1785398514323-39385",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785398514323,
+              "end": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 409
+              },
+              "quote": {
+                "exact": "設定較高的 Temperature 值意味著鼓勵模型去冒險，選擇較不常見的詞彙",
+                "prefix": "，Temperature 就像一個控制語言模型創造力的旋鈕。它調整模型選擇低機率詞彙的傾向，進而影響生成文本的多樣性。\n",
+                "suffix": "，產生更多樣化、出乎意料，甚至天馬行空的文字，適合用於腦力激盪或探索新穎概念。\n設定較低的 Temperature 值則"
+              },
+              "start": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 370
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[4]/text()[1]",
+            "text": "設定較高的 Temperature 值意味著鼓勵模型去冒險，選擇較不常見的詞彙"
+          },
+          "text": "設定較高的 Temperature 值意味著鼓勵模型去冒險，選擇較不常見的詞彙",
+          "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "title": "Introducing Claude Opus 5 \\ Anthropic",

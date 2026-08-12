@@ -1,8 +1,1860 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1785375667931,
+  "exportedAt": 1786527467349,
   "pages": [
+    {
+      "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging",
+      "title": "Claude Code推出跨Session傳訊！兩個AI終端機可「自己溝通」，工程師不用再當傳話筒|數位時代 BusinessNext",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526091668,
+          "id": "hk-1786526091656-44369",
+          "note": "Cross-session\n- 原本就獨立存在的 Claude Code Session\n- Session A ↔ Session B\n- 甚至可以跨不同機器傳遞\n- 也支援 Claude Code Web 與本機 Session 之間通訊",
+          "range": {
+            "anchors": {
+              "createdAt": 1786526091647,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 296
+              },
+              "quote": {
+                "exact": "你的 session 現在可以互相傳訊息。不必再到另一個 session 重新解釋一遍，你可以叫 Claude 去講。",
+                "prefix": "Devs 在 X 發文說明這項名為 cross-session messaging（跨 session 傳訊）的功能：「",
+                "suffix": "」\n目前該功能僅支援 macOS 與 Linux，原生 Windows 不在範圍內。\n\n\n掌握最新AI、半導體、數位趨勢"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 237
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[2]/strong[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[2]/strong[1]/text()[1]",
+            "text": "你的 session 現在可以互相傳訊息。不必再到另一個 session 重新解釋一遍，你可以叫 Claude 去講。"
+          },
+          "text": "你的 session 現在可以互相傳訊息。不必再到另一個 session 重新解釋一遍，你可以叫 Claude 去講。",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526104492,
+          "id": "hk-1786526104473-65523",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786526104467,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 914
+              },
+              "quote": {
+                "exact": "因此如果是要把「整個脈絡搬過去」，官方建議改用接續舊對話（resume session）的做法",
+                "prefix": "（可理解成上一個session的摘要）。接收端只看得到這段文字和寄件端的名字，看不到對方的對話歷史，也拿不到對方的檔案。",
+                "suffix": "，而不是用這個新功能。\n送出去的訊息長什麼樣？官方文件給的實例是這樣一句話：「Schema 遷移完成，新欄位是 tena"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 867
+              },
+              "version": 1
+            },
+            "endOffset": 156,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[4]/text()[1]",
+            "text": "因此如果是要把「整個脈絡搬過去」，官方建議改用接續舊對話（resume session）的做法"
+          },
+          "text": "因此如果是要把「整個脈絡搬過去」，官方建議改用接續舊對話（resume session）的做法",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526114946,
+          "id": "hk-1786526114937-14807",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527255162,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 990
+              },
+              "quote": {
+                "exact": "問一下我另一個終端機的 session，那個 migration 跑完了沒",
+                "prefix": "de 會自己找對象、自己把話寫出來。\n官方文件列出三種場景。第一種是跟長時間跑的任務要進度，官方範例的指令直譯過來是 「",
+                "suffix": "」。\n第二種是把剛做完的決定交接出去，官方範例是 「跟那個在處理 payments API 的 session 說明我們"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 953
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[8]/strong[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[8]/strong[1]/text()[1]",
+            "text": "問一下我另一個終端機的 session，那個 migration 跑完了沒"
+          },
+          "text": "問一下我另一個終端機的 session，那個 migration 跑完了沒",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526119461,
+          "id": "hk-1786526119457-8453",
+          "note": "Orca 就是這樣的方式",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527255968,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1116
+              },
+              "quote": {
+                "exact": "worktree",
+                "prefix": "我們剛剛做了什麼」。 這句正好示範前面那個重點：指令沒有規定訊息要怎麼寫，內容全由 Claude 決定。\n第三種是多個 ",
+                "suffix": "（同一個專案的平行工作副本，讓你不必切換分支就能同時改兩條線）各自開工時互相同步。這一種官方沒有附範例指令，實際上你會說"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1108
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[10]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[10]/text()[1]",
+            "text": "worktree"
+          },
+          "text": "worktree",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526160408,
+          "id": "hk-1786526160397-11523",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527256715,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1948
+              },
+              "quote": {
+                "exact": "訊息裡若寫了 /compact 這種指令，抵達時只會被當成純文字，不會執行",
+                "prefix": "n 傳來的訊息不算你本人的同意，無法代你按下權限確認；訊息不能要求接收端修改權限設定或 CLAUDE.md 這類設定檔；",
+                "suffix": "。\n收訊端另有 accept（照收）、hold（先扣住等你批准）、refuse（直接丟掉）三段控制。沒有特別設定時，Cl"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1911
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[13]/text()[3]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[13]/text()[2]",
+            "text": "訊息裡若寫了 /compact 這種指令，抵達時只會被當成純文字，不會執行"
+          },
+          "text": "訊息裡若寫了 /compact 這種指令，抵達時只會被當成純文字，不會執行",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526179690,
+          "id": "hk-1786526179683-21804",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527257383,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2400
+              },
+              "quote": {
+                "exact": "一般的跨 session 傳訊需要 Claude Code v2.1.224 以上",
+                "prefix": "各自獨立、由你分別駕駛的 session 之間要怎麼講話，而這條線的邊界收得很緊，純文字、不傳權限、收訊端保有否決權。\n",
+                "suffix": "；要主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上。想確認自己這台機"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2359
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/text()[20]",
+            "text": "一般的跨 session 傳訊需要 Claude Code v2.1.224 以上"
+          },
+          "text": "一般的跨 session 傳訊需要 Claude Code v2.1.224 以上",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526186197,
+          "id": "hk-1786526186193-82982",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527258249,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2451
+              },
+              "quote": {
+                "exact": "主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上",
+                "prefix": "字、不傳權限、收訊端保有否決權。\n一般的跨 session 傳訊需要 Claude Code v2.1.224 以上；要",
+                "suffix": "。想確認自己這台機器拿到了沒，在 session 內輸入 /list-agents 就會知道。\n\n延伸閱讀：泰國4兆市值"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2402
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[17]/text()[1]",
+            "text": "主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上"
+          },
+          "text": "主動聯絡其他機器上的 Remote Control session，則需要 v2.1.225 以上",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526194472,
+          "id": "hk-1786526194465-90178",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527259849,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1684
+              },
+              "quote": {
+                "exact": "跨 session 傳訊目前僅支援 macOS 與 Linux（含 WSL 2 環境）",
+                "prefix": "接要求 AI Agent 直接跨 session 作業，不用自己切來切去。\n跨session傳訊不是零限制\n要留意的是，",
+                "suffix": "，原生 Windows 沒有這項功能，透過 Amazon Bedrock、AWS 上的 Claude Platform、"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 1641
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[12]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[12]/text()[1]",
+            "text": "跨 session 傳訊目前僅支援 macOS 與 Linux（含 WSL 2 環境）"
+          },
+          "text": "跨 session 傳訊目前僅支援 macOS 與 Linux（含 WSL 2 環境）",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786526203576,
+          "id": "hk-1786526203572-76748",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786527261121,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2148
+              },
+              "quote": {
+                "exact": "短時間內完全相同的直接丟棄，等待讀取的訊息上限是每個 session 50 則",
+                "prefix": "定裡一次關掉整個組織的收發。\n兩個 session 會不會互相喊話喊到沒完？文件寫明有節流：同一寄件端的重複訊息會限速，",
+                "suffix": "。換句話說，訊息迴圈會自己停下來。\nAnthropic 手上原本就有 subagents、agent teams、age"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 2109
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[15]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[15]/text()[1]",
+            "text": "短時間內完全相同的直接丟棄，等待讀取的訊息上限是每個 session 50 則"
+          },
+          "text": "短時間內完全相同的直接丟棄，等待讀取的訊息上限是每個 session 50 則",
+          "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/177982",
+      "title": "Cloudflare公布代理人優先的AI瀏覽器Kitesurf，強調更省運算資源、記憶體 | iThome",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786428920139,
+          "id": "hk-1786428920137-74728",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786428920135,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 52
+              },
+              "quote": {
+                "exact": "Kitesurf",
+                "prefix": "片來源: Cloudflare\nCloudflare上周公布專為AI代理人執行而設計的無狀態（stateless）瀏覽器",
+                "suffix": "，將搭配隔離環境V8 Worker執行，強調比Chromium更節省CPU資源與記憶體。\n4月Cloudflare公布B"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 44
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "Kitesurf"
+          },
+          "text": "Kitesurf",
+          "url": "https://www.ithome.com.tw/news/177982"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/",
+      "title": "Google Maps' Ask Maps gets more helpful with food ordering",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786422384394,
+          "id": "hk-1786422384384-1607",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786422384382,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "Ask Maps is Google Maps’ biggest transformation in over a decade. ",
+                "prefix": "        \n        \n\n          \n          \n\n\n  \n    \n\n\n  \n    ",
+                "suffix": "By bringing Gemini model capabilities together with the worl"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 58,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/a[1]/text()[1]",
+            "text": "Ask Maps is Google Maps’ biggest transformation in over a decade. "
+          },
+          "text": "Ask Maps is Google Maps’ biggest transformation in over a decade. ",
+          "url": "https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "title": "Muse Code 和 Muse Spark 1.2 版本介紹 | Meta AI 研究",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786332523960,
+          "id": "hk-1786332523954-2187",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786332523950,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 22
+              },
+              "quote": {
+                "exact": " Muse Code（測試版）",
+                "prefix": "a AI隆重介紹 Muse Code 和 Muse Spark 1.22026年8月5日·閱讀時間：4分鐘我們很高興發布",
+                "suffix": "，這是一款基於我們最新型號 Muse Spark 1.2 的終端編碼代理。這標誌著我們邁向技術前沿的又一步，未來也將推出"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/font[1]/font[1]/text()[1]",
+            "text": " Muse Code（測試版）"
+          },
+          "text": " Muse Code（測試版）",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786332533971,
+          "id": "hk-1786332533968-21660",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786332533968,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 42
+              },
+              "quote": {
+                "exact": "Muse Code 採用簡單的代理循環，並輔以一組非同步後台代理來增強主代理的功能。",
+                "prefix": "碼和驗證結果。它可以協調多個持久的子代理來完成每個任務，從而更快、更準確、更省力地解決難題。\n繆斯密碼\n非同步後台代理\n",
+                "suffix": "這些專門的後台代理在整個會話期間保持活躍，而不是針對單一任務單獨生成，從而避免了重複的資訊收集。它們負責執行後續步驟，並"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/font[1]/font[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/font[1]/font[1]/text()[1]",
+            "text": "Muse Code 採用簡單的代理循環，並輔以一組非同步後台代理來增強主代理的功能。"
+          },
+          "text": "Muse Code 採用簡單的代理循環，並輔以一組非同步後台代理來增強主代理的功能。",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://hackmd.io/@YungHuiHsu/SkUb3aBX6",
+      "title": "[RL] Proximal Policy Optimization(PPO) - HackMD",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786325702949,
+          "id": "hk-1786325702946-4505",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786325702944,
+              "end": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(4)",
+                "textOffset": 66
+              },
+              "quote": {
+                "exact": "在保證新策略與舊策略不會差異太大的前提下，尋找一個性能更好的策略",
+                "prefix": "確保你不會因為嘗試新動作而忘記了基本技巧。演算法說明PPO是一種在策略空間進行優化的演算法，用於強化學習。它的核心思想是",
+                "suffix": "。這個特性通過一個被稱為「信賴區域(Trust region)」的概念來實現，這使得每一步更新都不會讓策略偏離太遠，從而"
+              },
+              "start": {
+                "css": "div#doc-body > p.part.in-view:nth-of-type(4)",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/p[4]/strong[1]/span[1]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "在保證新策略與舊策略不會差異太大的前提下，尋找一個性能更好的策略"
+          },
+          "text": "在保證新策略與舊策略不會差異太大的前提下，尋找一個性能更好的策略",
+          "url": "https://hackmd.io/@YungHuiHsu/SkUb3aBX6"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Introducing Shieldstral. | Mistral AI",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "自然語言處理",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786089621674,
+          "id": "hk-ai-preview-1786089621673-72167",
+          "note": "AI：Shieldstral 推動內容審核走向情境適應，擺脫固定的單一安全分類體系\n延伸：彈性審核將成為未來 AI 應用的趨勢，讓商業平台能針對兒童、醫療或專業領域自由調整安全標準。\n來源：Open Secure AI Alliance",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621671,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(18)",
+                "textOffset": 124
+              },
+              "quote": {
+                "exact": "Shieldstral is a step toward moderation that adapts to context instead of forcing every product through one frozen taxonomy.",
+                "prefix": "ch is what determines the safety model's quality.What's next",
+                "suffix": " We're continuing to push on multilingual coverage, longer-d"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > h2.text-h3.font-mistral:nth-of-type(5)",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[18]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/h2[5]/text()[1]",
+            "text": "Shieldstral is a step toward moderation that adapts to context instead of forcing every product through one frozen taxonomy."
+          },
+          "text": "Shieldstral is a step toward moderation that adapts to context instead of forcing every product through one frozen taxonomy.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621675,
+          "id": "hk-ai-preview-1786089621674-34695",
+          "note": "AI：Shieldstral 全全程基於 Mistral 自家開發的 Forge 平台進行訓練與評估\n延伸：Forge 是 Mistral 提供給企業級客戶進行模型客製化與微調的 MLOps 基礎設施。\n來源：Mistral Forge Platform",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621674,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(16)",
+                "textOffset": 115
+              },
+              "quote": {
+                "exact": "Forge. We built Shieldstral end to end on Forge, our platform for training, aligning, and evaluating custom models.",
+                "prefix": "lowing from the base model transfers to the moderation task.",
+                "suffix": " Forge managed the infrastructure, data and model sharding, "
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(15)",
+                "textOffset": 388
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[16]/text()[2]",
+            "startOffset": 354,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[15]/text()[1]",
+            "text": "Forge. We built Shieldstral end to end on Forge, our platform for training, aligning, and evaluating custom models."
+          },
+          "text": "Forge. We built Shieldstral end to end on Forge, our platform for training, aligning, and evaluating custom models.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621675,
+          "id": "hk-ai-preview-1786089621675-74246",
+          "note": "AI：採用 LoRA 微調並透過 SLERP 球面線性插值融合不同階段訓練的模型檢查點\n延伸：SLERP 模型融合技術能在不重新訓練的情況下，保留多個專精檢查點的能力並降低效能退化。\n來源：Spherical Linear Interpolation (SLERP) Model Merging",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621675,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(15)",
+                "textOffset": 220
+              },
+              "quote": {
+                "exact": "We fine-tune with LoRA and merge — via SLERP — a checkpoint calibrated on public data, one that adds fine-grained policy discrimination from generated data, and the base instruct model.",
+                "prefix": " data and hallucinations.Combine complementary checkpoints. ",
+                "suffix": " The merge recovers common policy calibration and policy ada"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(15)",
+                "textOffset": 35
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[15]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[15]/text()[1]",
+            "text": "We fine-tune with LoRA and merge — via SLERP — a checkpoint calibrated on public data, one that adds fine-grained policy discrimination from generated data, and the base instruct model."
+          },
+          "text": "We fine-tune with LoRA and merge — via SLERP — a checkpoint calibrated on public data, one that adds fine-grained policy discrimination from generated data, and the base instruct model.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621675-5580",
+          "note": "AI：由於不安全圖像無法像文本一樣由 LLM 合成，導致視覺安全訓練資料相當稀缺\n延伸：圖像生成模型的安全限制使得合成不良圖片變得困難，通常需要依賴真實數據增強或擴散模型微調（待查證）。\n來源：AI Safety Image Datasets",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621675,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(14)",
+                "textOffset": 120
+              },
+              "quote": {
+                "exact": "Ground safety in images. Unsafe images can't be synthezised by an LLM the way text can, so visual safety data is scarce.",
+                "prefix": "ransfers to unseen, user-defined policies at inference time.",
+                "suffix": " We supplement limited moderation datasets with general-purp"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 630
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[14]/text()[1]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[2]",
+            "text": "Ground safety in images. Unsafe images can't be synthezised by an LLM the way text can, so visual safety data is scarce."
+          },
+          "text": "Ground safety in images. Unsafe images can't be synthezised by an LLM the way text can, so visual safety data is scarce.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621676-72986",
+          "note": "AI：透過大語言模型建構易混淆政策的對比範例對，訓練模型精準辨識內容違反了哪一條政策\n延伸：對比學習（Contrastive Learning）常配合 Hard Negative Mining 來提升模型對微小語意差異的敏感度。\n來源：Contrastive Learning with Hard Negative Sampling",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 467
+              },
+              "quote": {
+                "exact": "Instead, we construct sets of deliberately similar, easily confused policies and ask an LLM to rewrite safe text into contrastive pairs: each rewrite is engineered to violate one policy but not its sibling.",
+                "prefix": "ven policy. This prevents generalization to novel policies. ",
+                "suffix": " This trains the model to distinguish which specific policy "
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 261
+              },
+              "version": 1
+            },
+            "endOffset": 428,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[1]",
+            "startOffset": 222,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[1]",
+            "text": "Instead, we construct sets of deliberately similar, easily confused policies and ask an LLM to rewrite safe text into contrastive pairs: each rewrite is engineered to violate one policy but not its sibling."
+          },
+          "text": "Instead, we construct sets of deliberately similar, easily confused policies and ask an LLM to rewrite safe text into contrastive pairs: each rewrite is engineered to violate one policy but not its sibling.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621676-56961",
+          "note": "AI：過往模型若僅針對固定標籤訓練，只會背誦預設政策而無法推理未知政策的邊界\n延伸：缺乏泛化能力的模型在面對新型態網路用語或變相違規內容時容易失效。\n來源：Out-of-Distribution Generalization",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(13)",
+                "textOffset": 212
+              },
+              "quote": {
+                "exact": "Teach discrimination, not memorization. If trained on a fixed set of policy labels, a model learns only to classify those predefined policies, rather than reasoning about the precise boundaries of a given policy.",
+                "prefix": "us consolidate sources that would otherwise be incompatible.",
+                "suffix": " This prevents generalization to novel policies. Instead, we"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(12)",
+                "textOffset": 677
+              },
+              "version": 1
+            },
+            "endOffset": 173,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[13]/text()[1]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[12]/text()[2]",
+            "text": "Teach discrimination, not memorization. If trained on a fixed set of policy labels, a model learns only to classify those predefined policies, rather than reasoning about the precise boundaries of a given policy."
+          },
+          "text": "Teach discrimination, not memorization. If trained on a fixed set of policy labels, a model learns only to classify those predefined policies, rather than reasoning about the precise boundaries of a given policy.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621676,
+          "id": "hk-ai-preview-1786089621676-91131",
+          "note": "AI：將公開安全資料集中格式與分類法不一致的問題，透過專用處理器統一轉換為標準格式\n延伸：資料集間標籤定義衝突是安全模型訓練的痛點，多數研究會使用 LLM 進行合成資料的重新標註與清洗。\n來源：Data Centric AI",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(12)",
+                "textOffset": 179
+              },
+              "quote": {
+                "exact": "Unify heterogeneous data. Public safety datasets disagree on taxonomies, labels, and annotation conventions — from binary safe/unsafe flags to fine-grained multi-label taxonomies.",
+                "prefix": "s right. Getting the data right meant solving four problems:",
+                "suffix": " We convert every dataset into the same instruction–query–do"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(11)",
+                "textOffset": 135
+              },
+              "version": 1
+            },
+            "endOffset": 154,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[12]/text()[1]",
+            "startOffset": 135,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[11]/text()[1]",
+            "text": "Unify heterogeneous data. Public safety datasets disagree on taxonomies, labels, and annotation conventions — from binary safe/unsafe flags to fine-grained multi-label taxonomies."
+          },
+          "text": "Unify heterogeneous data. Public safety datasets disagree on taxonomies, labels, and annotation conventions — from binary safe/unsafe flags to fine-grained multi-label taxonomies.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-9135",
+          "note": "AI：模型大小僅 3B 且可在單張 16GB GPU 上運行，縮減部署成本\n延伸：16GB VRAM 意味著一般的消費級顯卡或邊緣裝置就能以低成本硬體架設獨立的審核防護線。\n來源：NVIDIA GeForce RTX 4090 Specifications",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621676,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li:nth-of-type(3) > p.text-body-large",
+                "textOffset": 195
+              },
+              "quote": {
+                "exact": "Small, trained on heterogeneous sources — a 3B model that runs on a single 16GB GPU, trained on real and synthetic data with diverse label formats and taxonomies, consolidated into one framework.",
+                "prefix": "eries and re-targeted at inference time, without retraining.",
+                "suffix": "Continuous safety score — returns a calibrated yes/no probab"
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li:nth-of-type(2) > p.text-body-large",
+                "textOffset": 254
+              },
+              "version": 1
+            },
+            "endOffset": 156,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[3]/p[1]/text()[1]",
+            "startOffset": 233,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[2]/p[1]/text()[1]",
+            "text": "Small, trained on heterogeneous sources — a 3B model that runs on a single 16GB GPU, trained on real and synthetic data with diverse label formats and taxonomies, consolidated into one framework."
+          },
+          "text": "Small, trained on heterogeneous sources — a 3B model that runs on a single 16GB GPU, trained on real and synthetic data with diverse label formats and taxonomies, consolidated into one framework.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-44327",
+          "note": "AI：單一自然語言介面即可跨文字與圖像處理提示詞、回覆及其組合的安全審核\n延伸：統一圖文多模態架構避免了傳統方案需要分別維護 OCR、圖像安全模型與文本審核器的複雜性。\n來源：Multimodal Content Moderation",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li:nth-of-type(2) > p.text-body-large",
+                "textOffset": 156
+              },
+              "quote": {
+                "exact": "Adaptive and flexible — a single natural-language interface covers text, image, and text+image content across prompts, responses, and prompt–response pairs.",
+                "prefix": "l detection, policy adaptability, and multimodal benchmarks.",
+                "suffix": " Policies are supplied as free-form queries and re-targeted "
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li > p.text-body-large",
+                "textOffset": 166
+              },
+              "version": 1
+            },
+            "endOffset": 135,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[2]/p[1]/text()[1]",
+            "startOffset": 148,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[1]/p[1]/text()[1]",
+            "text": "Adaptive and flexible — a single natural-language interface covers text, image, and text+image content across prompts, responses, and prompt–response pairs."
+          },
+          "text": "Adaptive and flexible — a single natural-language interface covers text, image, and text+image content across prompts, responses, and prompt–response pairs.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-55461",
+          "note": "AI：Shieldstral 以 3B 體積在多項基準測試中比肩或超越大其 7 倍的開源安全模型\n延伸：常見的對照標的包含 22B 或 8B 規模的安全防護模型，小模型能大幅降低部署防護欄的運算資源。\n來源：Mistral AI Technical Report",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5:nth-of-type(2) > li > p.text-body-large",
+                "textOffset": 166
+              },
+              "quote": {
+                "exact": "Strong performance — matches or outperforms open guard models up to 7× its size across text safety, refusal detection, policy adaptability, and multimodal benchmarks.",
+                "prefix": "point adapts to novel policies at deployment time.Highlights",
+                "suffix": "Adaptive and flexible — a single natural-language interface "
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > h2.text-h3.font-mistral:nth-of-type(2)",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 148,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[2]/li[1]/p[1]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/h2[2]/text()[1]",
+            "text": "Strong performance — matches or outperforms open guard models up to 7× its size across text safety, refusal detection, policy adaptability, and multimodal benchmarks."
+          },
+          "text": "Strong performance — matches or outperforms open guard models up to 7× its size across text safety, refusal detection, policy adaptability, and multimodal benchmarks.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621677,
+          "id": "hk-ai-preview-1786089621677-47104",
+          "note": "AI：推論時僅讀取 yes 與 no 的對數機率並做軟最大化，轉為連續的安全機率分數\n延伸：僅計算首個 Token 的概率能大幅降低推論延遲，這種技巧常用於快速分類器設計。\n來源：Logit Normalization",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(7)",
+                "textOffset": 119
+              },
+              "quote": {
+                "exact": "At inference the model reads out only the yes and no logits and softmax-normalizes them into a continuous safety score.",
+                "prefix": "nse, a prompt–response pair, or an image with optional text.",
+                "suffix": " This one simple formulation does a lot of work: it unifies "
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5 > li:nth-of-type(3) > p.text-body-large",
+                "textOffset": 112
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[7]/text()[3]",
+            "startOffset": 102,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[1]/li[3]/p[1]/text()[1]",
+            "text": "At inference the model reads out only the yes and no logits and softmax-normalizes them into a continuous safety score."
+          },
+          "text": "At inference the model reads out only the yes and no logits and softmax-normalizes them into a continuous safety score.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-29683",
+          "note": "AI：審核請求的第一部分為評估背景、嚴格度及不安全內容的定義說明\n延伸：透過 Prompt 控制嚴格度是常見技巧，但在高嚴格度設定下容易提高對無害內容的誤判率（待查證）。",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621677,
+              "end": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5 > li > p.text-body-large",
+                "textOffset": 112
+              },
+              "quote": {
+                "exact": "— the evaluation context, strictness, and (optionally) a definition of what counts as unsafe content.",
+                "prefix": "ion-answering task. Each request has three parts:<Instruct> ",
+                "suffix": "<Query> — a single yes/no question, e.g. \"Does this content "
+              },
+              "start": {
+                "css": "div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > ul.mb-10.pl-5 > li > p.text-body-large",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 102,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "text": "— the evaluation context, strictness, and (optionally) a definition of what counts as unsafe content."
+          },
+          "text": "— the evaluation context, strictness, and (optionally) a definition of what counts as unsafe content.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-71442",
+          "note": "AI：Shieldstral 將內容審核任務轉換為二元問答架構\n延伸：將多元分類轉為二元 QA 可簡化輸出空間，但當輸入文章過長時，單次推論的 Token 成本與時間會線性增加。",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621678,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(6)",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "Shieldstral frames content moderation as a binary question-answering task.",
+                "prefix": "e 2.0, available for download here. Moderation as a question",
+                "suffix": " Each request has three parts:<Instruct> — the evaluation co"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > h2.text-h3.font-mistral",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[6]/text()[2]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/h2[1]/text()[1]",
+            "text": "Shieldstral frames content moderation as a binary question-answering task."
+          },
+          "text": "Shieldstral frames content moderation as a binary question-answering task.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-40675",
+          "note": "AI：Shieldstral 讓使用者在推論時直接輸入自然語言問題來定義安全政策，並傳回校準後的安全分數\n延伸：這種 Prompt-based 審核機制依賴模型對複雜指令的理解力，在面對極端迂迴的提示詞攻擊時需要驗證安全性。\n來源：Prompt Injection Attacks",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621678,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(4)",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "Shieldstral takes a different approach: you write the policy as a plain-language question at inference time, and the model returns a calibrated safety score.",
+                "prefix": "gle \"correct\" set of categories to model in the first place.",
+                "suffix": " No retraining, one interface for text and images, and a ver"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(3)",
+                "textOffset": 547
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[4]/text()[1]",
+            "startOffset": 547,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[3]/text()[1]",
+            "text": "Shieldstral takes a different approach: you write the policy as a plain-language question at inference time, and the model returns a calibrated safety score."
+          },
+          "text": "Shieldstral takes a different approach: you write the policy as a plain-language question at inference time, and the model returns a calibrated safety score.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1786089621678,
+          "id": "hk-ai-preview-1786089621678-14991",
+          "note": "AI：傳統防護欄模型將固定的危害分類寫死在權重中，換環境部署就必須重新訓練\n延伸：以 Llama Guard 為例，採用固定的有害類別分類法，若企業有自訂規範通常需要另外做微調（待查證）。\n來源：Llama Guard",
+          "range": {
+            "anchors": {
+              "createdAt": 1786089621678,
+              "end": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(3)",
+                "textOffset": 400
+              },
+              "quote": {
+                "exact": "Most guardrail models bake a fixed taxonomy of harm categories into their weights, so re-targeting them to a new deployment context means retraining.",
+                "prefix": "rity research tool and harmful on a mental-health platform. ",
+                "suffix": " And because safety definitions differ across applications a"
+              },
+              "start": {
+                "css": "article#blogpost > div.lg\\:border-b.border-border-primary:nth-of-type(2) > div.relative.lg\\:px-6 > div.flex.flex-col > section.relative.w-full > p.text-body-large.text-text-primary:nth-of-type(3)",
+                "textOffset": 251
+              },
+              "version": 1
+            },
+            "endOffset": 400,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[3]/text()[1]",
+            "startOffset": 251,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[2]/div[1]/div[1]/section[1]/p[3]/text()[1]",
+            "text": "Most guardrail models bake a fixed taxonomy of harm categories into their weights, so re-targeting them to a new deployment context means retraining."
+          },
+          "text": "Most guardrail models bake a fixed taxonomy of harm categories into their weights, so re-targeting them to a new deployment context means retraining.",
+          "url": "https://mistral.ai/news/shieldstral/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1786089621679,
+        "model": "chatgpt-web",
+        "note": "當前 AI 安全審核面臨一大痛點：傳統防護欄模型將固定的危害分類寫死在權重中，只要換了應用場景或產品對象，就必須重新訓練模型。Mistral AI 推出的 Shieldstral 改變了這個局面的思考方向。它將內容審核重新定義為「二元問答任務」，讓開發者在推論階段直接輸入自然語言撰寫安全政策與問題，模型便能及時算出相應的安全評分，完全不需要重新訓練。\n\nShieldstral 雖然只有 3B 參數，卻能跨越文字與圖像多模態，且效能可比肩甚至超越大其 7 倍的模型。它能在單張 16GB GPU 上流暢執行，大為降低了部署成本。為解決資料異質與安全圖像稀缺的問題，團隊利用對比範例對訓練模型的邏輯推理能力，並透過 SLERP 技術融合多個微調檢查點，成功打造出兼具指令遵循與高彈性審核能力的開放權重模型。這代表安全防護正邁向情境適應的新階段。",
+        "provider": "chatgpt",
+        "url": "https://mistral.ai/news/shieldstral/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://www.ithome.com.tw/tech/56880",
+      "title": "iT自救術─x86和x64到底有什麼差異？ | iThome",
+      "tags": [
+        "64位元運算",
+        "作業系統相容性",
+        "系統設計",
+        "記憶體快取",
+        "暫存器寬度",
+        "x86架構"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807149248,
+          "id": "hk-1785807149245-80135",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807149243,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 104
+              },
+              "quote": {
+                "exact": "。大多數電腦用的處理器都是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統",
+                "prefix": " \n  \n\n以前，處理器有所謂的8位元、16位元、32位元……但是到了Windows XP時代，這些字眼逐漸為世人所遺忘",
+                "suffix": "，既然如此，也就沒有必要刻意去做描述。\n直到AMD開發了號稱「64位元」的處理器，事情漸漸變得複雜起來了。\n接著就會有各"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 104,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "。大多數電腦用的處理器都是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統"
+          },
+          "text": "。大多數電腦用的處理器都是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807153672,
+          "id": "hk-1785807153671-99674",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807153671,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 144
+              },
+              "quote": {
+                "exact": "AMD開發了號稱「64位元」的處理器",
+                "prefix": "是3 2 位元處理器， 而Windows XP也（應該）是個32位元作業系統，既然如此，也就沒有必要刻意去做描述。\n直到",
+                "suffix": "，事情漸漸變得複雜起來了。\n接著就會有各種論調跑出來，「64位元要有專屬的作業系統」、「64位元的程式要特別撰寫」、「6"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 126
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "AMD開發了號稱「64位元」的處理器"
+          },
+          "text": "AMD開發了號稱「64位元」的處理器",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807170075,
+          "id": "hk-1785807170073-50131",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807170073,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 296
+              },
+              "quote": {
+                "exact": "到底64位元能帶來什麼好處？",
+                "prefix": "其來有自，是「似是而非」也罷，是「空穴來風」也好，總之，大部分人總是希望這些論調能有個「解釋」──至少多數人都想知道，「",
+                "suffix": "」\n藉著Windows 7的發表以及64位元環境的成熟，本人就我自己的認知來給各位介紹一下好了。\n什麼是64位元電腦？\n"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 282
+              },
+              "version": 1
+            },
+            "endOffset": 138,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 124,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "到底64位元能帶來什麼好處？"
+          },
+          "text": "到底64位元能帶來什麼好處？",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785807234098,
+          "id": "hk-ai-preview-1785807234097-50953",
+          "note": "AI：作業系統與整體軟體生態系全面轉向64位元架構是必然趨勢\n延伸：微軟隨後在Windows 11正式終止對32位元x86處理器架構的作業系統支援，完成了全面的64位元轉化。\n來源：Windows 11 System Requirements",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234096,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 4136
+              },
+              "quote": {
+                "exact": "全面進化到64位元的OS是遲早的事情。所以……我的結論是：你遲早得用64位元的Windows，只是也許會晚點吧！",
+                "prefix": "會要人命)。所以如果問我，那採用64位元的Windows 7就像是自然演化。也許32位元的Windows不會立刻滅亡，但",
+                "suffix": "\n\nMicrosoft的官方網站，說明64位元平臺的各項優點。\n    \n  \n  \n       \n   \n\n\n   "
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 4080
+              },
+              "version": 1
+            },
+            "endOffset": 173,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[41]/text()[1]",
+            "startOffset": 117,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[41]/text()[1]",
+            "text": "全面進化到64位元的OS是遲早的事情。所以……我的結論是：你遲早得用64位元的Windows，只是也許會晚點吧！"
+          },
+          "text": "全面進化到64位元的OS是遲早的事情。所以……我的結論是：你遲早得用64位元的Windows，只是也許會晚點吧！",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234099,
+          "id": "hk-ai-preview-1785807234099-69973",
+          "note": "AI：64位元應用程式無法直接載入與調用32位元的動態連結庫或輸入法元件\n延伸：輸入法（IME）是以DLL形式注入應用程式進程空間，而x86與x64的DLL在同一進程空間內無法混合載入。\n來源：Windows Input Method Editor (IME) Architecture",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234098,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3721
+              },
+              "quote": {
+                "exact": "如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版的才能正常運作。",
+                "prefix": "(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！\n再舉一例，",
+                "suffix": "如果你安裝的是32位元版的輸入法(像本人慣用的新酷音)，那很抱歉……你不能在記事本裡面打字，原因為何？我……我不清楚，我"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3659
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[39]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[39]/text()[1]",
+            "text": "如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版的才能正常運作。"
+          },
+          "text": "如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版的才能正常運作。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234100,
+          "id": "hk-ai-preview-1785807234100-73869",
+          "note": "AI：升級至64位元系統面臨核心驅動程式與底層工具不相容的轉型期問題\n延伸：64位元Windows核心要求所有驅動程式必須具備數位簽署（KMCS），且無法直接載入32位元核心模式驅動程式。\n來源：Kernel-Mode Code Signing (KMCS)",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234099,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3653
+              },
+              "quote": {
+                "exact": "如果你想用什麼「記憶體最佳化軟體」(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！",
+                "prefix": "版本的Windows(無論是Win7還是Vista)，你得有64位元版的驅動程式，你的系統程式得支援64位元。以我而言，",
+                "suffix": "\n再舉一例，如果你的程式已經是64位元版的，像是x64 Windows裡面的IE或是記事本，那你的輸入法還得是64位元版"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3582
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[38]/text()[1]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[38]/text()[1]",
+            "text": "如果你想用什麼「記憶體最佳化軟體」(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！"
+          },
+          "text": "如果你想用什麼「記憶體最佳化軟體」(像是Cacheman)，那都得特別找尋64位元版的，有些冷門的硬體也可能沒有64位元的驅動程式，面臨淘汰！",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785807234102,
+          "id": "hk-ai-preview-1785807234101-72905",
+          "note": "AI：64位元軟體在處理大容量檔案時能獲得極高的效能增幅\n延伸：效能大幅提升的主要原因在於大記憶體定址能免去將磁碟檔案分段載入與頻繁進行SWAP頁面交換的磁碟I/O瓶頸。\n來源：Virtual Memory Page Swapping",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234101,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3461
+              },
+              "quote": {
+                "exact": "如果跑一些「專屬的應用程式」，像是x64版的Photoshop或是x64版的AutoCAD，若是在讀取較大的圖檔，那會快不少，差距甚至達到10倍！",
+                "prefix": "我目前裝機都是裝到8GB)，我確實會建議你裝x64作業系統。但是，到底裝了x64作業系統有什麼好處？\n其實，真的不多。\n",
+                "suffix": "不過那是在讀取較大的圖檔，請不要忘記這個前提。\n換句話說， 資料量大時，x64 Windows有其優勢。\n反之，裝了x6"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 3388
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[36]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/text()[35]",
+            "text": "如果跑一些「專屬的應用程式」，像是x64版的Photoshop或是x64版的AutoCAD，若是在讀取較大的圖檔，那會快不少，差距甚至達到10倍！"
+          },
+          "text": "如果跑一些「專屬的應用程式」，像是x64版的Photoshop或是x64版的AutoCAD，若是在讀取較大的圖檔，那會快不少，差距甚至達到10倍！",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785807234104,
+          "id": "hk-ai-preview-1785807234103-33672",
+          "note": "AI：32位元系統可透過PAE等技術擴展實體記憶體定址範圍至4GB以上\n延伸：微軟在32位元桌面版Windows上鎖定4GB上限主要考量是避免第三方32位元驅動程式因定址溢位導致藍屏死機（BSOD）。\n來源：Physical Address Extension (PAE)",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234103,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2952
+              },
+              "quote": {
+                "exact": "經過patch之後，32位元的Vista/Win7，也可以支援到超過4GB。事實上，Microsoft的server產品中，有些32位元的Windows Server也可以支援超過4GB以上的記憶體容量。",
+                "prefix": "不再此仔細的描述了。總之，用一些修補程式(網路上有，似乎是彼岸的高手寫的)，如果你的主機板夠新，晶片組夠新，記憶體夠多，",
+                "suffix": "\n也就是說，Microsoft的Windows設計中，本來就存在一些問題， 讓Windows只要支援到3.25GB左右，"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2850
+              },
+              "version": 1
+            },
+            "endOffset": 311,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "startOffset": 209,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "text": "經過patch之後，32位元的Vista/Win7，也可以支援到超過4GB。事實上，Microsoft的server產品中，有些32位元的Windows Server也可以支援超過4GB以上的記憶體容量。"
+          },
+          "text": "經過patch之後，32位元的Vista/Win7，也可以支援到超過4GB。事實上，Microsoft的server產品中，有些32位元的Windows Server也可以支援超過4GB以上的記憶體容量。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785807234105,
+          "id": "hk-ai-preview-1785807234104-57437",
+          "note": "AI：處理器位元數特指暫存器寬度，而非實際的實體匯流排定址能力\n延伸：8086雖然是16位元暫存器，但透過段暫存器（Segment Register）位移運算達到了20位元的實體定址（1MB）。\n來源：x86 Real Mode Memory Addressing",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234104,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2782
+              },
+              "quote": {
+                "exact": "處理器的定址能力，和處理器的「幾位元」是無關的。一般處理器業界/學界所稱「這處理器是XX位元」，是指這處理器的「通用暫存器多寬」而不是定址能力。",
+                "prefix": "6位元的傳奇作品──80286，定址能力是……16MB。等一下，這是個16位元的處理器，為何能定址到16MB？再講一遍：",
+                "suffix": "技術的細節，我就不再此仔細的描述了。總之，用一些修補程式(網路上有，似乎是彼岸的高手寫的)，如果你的主機板夠新，晶片組夠"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2710
+              },
+              "version": 1
+            },
+            "endOffset": 141,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "startOffset": 69,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[31]/text()[1]",
+            "text": "處理器的定址能力，和處理器的「幾位元」是無關的。一般處理器業界/學界所稱「這處理器是XX位元」，是指這處理器的「通用暫存器多寬」而不是定址能力。"
+          },
+          "text": "處理器的定址能力，和處理器的「幾位元」是無關的。一般處理器業界/學界所稱「這處理器是XX位元」，是指這處理器的「通用暫存器多寬」而不是定址能力。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234106,
+          "id": "hk-ai-preview-1785807234105-99132",
+          "note": "AI：64位元作業系統對硬體有強制約束，無法安裝於傳統32位元處理器上\n延伸：這涉及CPU的執行模式切換，64位元OS需要處理器開啟長模式（Long Mode）才能運行。\n來源：x86 Control Registers",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234105,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2150
+              },
+              "quote": {
+                "exact": "x86版的作業系統可以裝在x86和x64的處理器(前面講過，因為相容的必要)，而x64的作業系統，就只能裝在x64的處理器",
+                "prefix": "soft，反正我來的時候就這樣了，我也不知道為何不用容易辨識的方式，所以不要問我，謝謝。\nx64作業系統的相容性如何？\n",
+                "suffix": "，這是各位應該要知道的第一點。\n而大多數的較老的應用軟體(32位元的)，大多可以裝在x86和x64的作業系統裡面跑，問題"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 2089
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[24]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/text()[23]",
+            "text": "x86版的作業系統可以裝在x86和x64的處理器(前面講過，因為相容的必要)，而x64的作業系統，就只能裝在x64的處理器"
+          },
+          "text": "x86版的作業系統可以裝在x86和x64的處理器(前面講過，因為相容的必要)，而x64的作業系統，就只能裝在x64的處理器",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785807234107,
+          "id": "hk-ai-preview-1785807234106-5058",
+          "note": "AI：x86名稱源自Intel早期微處理器型號末兩位數的歷史沿革\n延伸：Intel 8086是16位元微處理器，其架構指令集經過逐代擴充，成為後續32位元（IA-32）與64位元（x86-64）的基石。\n來源：Intel 8086 Architecture Specification",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234106,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1803
+              },
+              "quote": {
+                "exact": "x86其實是指過去處理器的通稱，Intel以前的處理器大多以86為其產品編號的末兩碼",
+                "prefix": "樣，表面上都是一樣的Windows，但是骨子裡的核心其實大不相同。\n首先，說明「x86」和「x64」這兩個字眼的意義。\n",
+                "suffix": "──8086、80286、386、486……。即使到了Pentium時代，大家私底下還是用586、686這樣的說法。不過"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1761
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[20]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/text()[19]",
+            "text": "x86其實是指過去處理器的通稱，Intel以前的處理器大多以86為其產品編號的末兩碼"
+          },
+          "text": "x86其實是指過去處理器的通稱，Intel以前的處理器大多以86為其產品編號的末兩碼",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1785807234107,
+          "id": "hk-ai-preview-1785807234107-26284",
+          "note": "AI：架構演進必須以向下相容現有軟體生態為首要原則\n延伸：AMD推出的x86-64技術成功關鍵在於能在硬體層級原生且高效地執行傳統32位元x86應用程式。\n來源：AMD64 Architecture",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234107,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1380
+              },
+              "quote": {
+                "exact": "先講求和現有軟體相容，再講求新作業系統/軟體的支援",
+                "prefix": "果有一天，處理器廠商要把現有的處理器改成64位元，它們就得學習某製藥公司的理念：先求不傷身體再講求效果⋯⋯當然不是！是「",
+                "suffix": "」。\n所以，當AMD公司先發表，而Intel後來跟進推出64位元處理器之後，其實已經過了好幾個年頭了。確實，Micros"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1355
+              },
+              "version": 1
+            },
+            "endOffset": 89,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[15]/text()[1]",
+            "startOffset": 64,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[15]/text()[1]",
+            "text": "先講求和現有軟體相容，再講求新作業系統/軟體的支援"
+          },
+          "text": "先講求和現有軟體相容，再講求新作業系統/軟體的支援",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1785807234108,
+          "id": "hk-ai-preview-1785807234108-88840",
+          "note": "AI：Intel早期推行非相容架構的Itanium 64位元處理器，因缺乏舊版軟體支援而無法普及\n延伸：Itanium採用的IA-64架構與x86完全不相容，最終市場被向下相容32位元的AMD64（x86-64）架構徹底取代。\n來源：IA-64 Architecture Handbook",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234108,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1202
+              },
+              "quote": {
+                "exact": "Intel真的推了一個新的6 4 位元處理器， 叫做Itanium，這就是個全新架構的Intel處理器，得搭配全新架構的Windows",
+                "prefix": "4位元處理器⋯⋯如果這處理器是全新的，和原來的32位元處理器不相容，那這產品一推出就會面臨「沒東西可用」的窘境。事實上，",
+                "suffix": "──不過可不是Windows XP，而是Windows Server。因為這東西並不是設計給一般人用的，所以你並不能拿一"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 1135
+              },
+              "version": 1
+            },
+            "endOffset": 145,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 78,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "Intel真的推了一個新的6 4 位元處理器， 叫做Itanium，這就是個全新架構的Intel處理器，得搭配全新架構的Windows"
+          },
+          "text": "Intel真的推了一個新的6 4 位元處理器， 叫做Itanium，這就是個全新架構的Intel處理器，得搭配全新架構的Windows",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1785807234110,
+          "id": "hk-ai-preview-1785807234110-41910",
+          "note": "AI：64位元處理器能單次運算更大範圍的數字，大幅提升大數運算效率\n延伸：在32位元架構下處理超大整數時需要使用多字組算術（Multi-precision arithmetic），會產生額外的CPU指令開銷。\n來源：Arbitrary-precision arithmetic",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234108,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 777
+              },
+              "quote": {
+                "exact": "如果你常要計算很大的數字，那64位元處理器應該會更有效率（數字不必被拆成兩份以上計算）。",
+                "prefix": "字拆成好幾份，分別計算。\n如果你的暫存器寬度是64位元，那計算的範圍就大多了，可以計算從-2^63到2^63–1的範圍。",
+                "suffix": "問題是，你要計算的數字是不是常會那麼大？\n如果是所謂的3D運算，影像處理……那可能會，因為這類大量資料的運作處理，是常需"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 733
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "如果你常要計算很大的數字，那64位元處理器應該會更有效率（數字不必被拆成兩份以上計算）。"
+          },
+          "text": "如果你常要計算很大的數字，那64位元處理器應該會更有效率（數字不必被拆成兩份以上計算）。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1785807234111,
+          "id": "hk-ai-preview-1785807234111-78992",
+          "note": "AI：處理器的位元數是由其內部通用暫存器的寬度所決定\n延伸：32位元與64位元暫存器在架構上的根本差異在於一次能處理的資料量與指令集擴充（如x86-64的AMD64指令集）。\n來源：x86-64 Architecture Programmer's Manual",
+          "range": {
+            "anchors": {
+              "createdAt": 1785807234111,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 474
+              },
+              "quote": {
+                "exact": "處理器裡面有很多的「暫存器」，而用來做運算的是一堆所謂的「通用暫存器」。這通常暫存器的「寬度」，就是我們俗稱的「幾位元處理器」。",
+                "prefix": "位元電腦？\n最早的處理器是4位元的，後來有8位元，16位元……的處理器，這些「位元(bit)」是怎麼一回事？\n簡單的說，",
+                "suffix": "通用暫存器是32位元寬，那一般就稱這處理器是32位元處理器。目前來說，32位元處理器因為「夠用」，所以各行各業所採用的各"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 410
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[7]/text()[1]",
+            "text": "處理器裡面有很多的「暫存器」，而用來做運算的是一堆所謂的「通用暫存器」。這通常暫存器的「寬度」，就是我們俗稱的「幾位元處理器」。"
+          },
+          "text": "處理器裡面有很多的「暫存器」，而用來做運算的是一堆所謂的「通用暫存器」。這通常暫存器的「寬度」，就是我們俗稱的「幾位元處理器」。",
+          "url": "https://www.ithome.com.tw/tech/56880"
+        }
+      ],
+      "note": {
+        "generatedAt": 1785807234113,
+        "model": "chatgpt-web",
+        "note": "過往個人電腦多採用32位元處理器與系統，直到AMD推動64位元架構才開啟轉型。所謂「幾位元」是指處理器內部通用暫存器的寬度，64位元能更有效率地處理大數與大量資料。在架構轉型過程中，Intel曾推出與舊軟體不相容的Itanium架構而失敗，證實向下相容傳統x86軟體的重要性。\n\nx86泛指32位元架構，x64則指支援64位元暫存器的產品。64位元系統最大的實質優勢，在於突破了32位元Windows因為系統限制導致僅能支援約3.25GB至4GB記憶體的瓶頸，讓大記憶體電腦發揮完整效能。雖然32位元系統可透過PAE等技術定址更多記憶體，但微軟為避免驅動程式相容問題而未在桌面版開放。\n\n使用x64系統在處理Photoshop等大檔案情境下效能提升顯著，但也面臨舊硬體缺少64位元驅動程式，以及64位元程式無法載入32位元輸入法或DLL元件的轉型期陣痛。儘管如此，隨着軟體與硬體生態成熟，作業系統全面邁向64位元已是不可逆的演化趨勢。",
+        "provider": "chatgpt",
+        "url": "https://www.ithome.com.tw/tech/56880"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://tw.stock.yahoo.com/news/%E3%80%8Cez-way%E6%98%93%E5%88%A9%E5%A7%94%E3%80%8Dapp%E6%94%B6%E5%9B%9E%E5%85%AC%E7%87%9F%EF%BC%9F-%E9%97%9C%E5%8B%99%E7%BD%B2%E5%9B%9E%E6%87%89%E4%BA%86-112509059.html",
+      "title": "「EZ WAY易利委」APP收回公營？ 關務署回應了",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785805537480,
+          "id": "hk-1785805537409-90191",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785805537404,
+              "end": {
+                "css": "article#article-69119f91-f944-411c-a00e-be2edd114beb > div.atoms > p.mb-module-gap.break-words:nth-of-type(7)",
+                "textOffset": 133
+              },
+              "quote": {
+                "exact": "並未表示將逕行把EZ Way APP收回公營，網紅及媒體相關說法應屬誤解",
+                "prefix": "是否編列預算將EZ Way APP收回公營等議題，僅表示此事涉及重大政策變更，將審慎評估研議，並在3個月內提出檢討報告，",
+                "suffix": "。馮萱榕／財經特派記者，主跑財政部、電腦通路、觀光餐飲等檢視留言(10)登入後即可張貼留言。熱門留言熱門留言最新留言最近"
+              },
+              "start": {
+                "css": "article#article-69119f91-f944-411c-a00e-be2edd114beb > div.atoms > p.mb-module-gap.break-words:nth-of-type(7)",
+                "textOffset": 97
+              },
+              "version": 1
+            },
+            "endOffset": 133,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[1]/p[7]/text()[1]",
+            "startOffset": 97,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[1]/p[7]/text()[1]",
+            "text": "並未表示將逕行把EZ Way APP收回公營，網紅及媒體相關說法應屬誤解"
+          },
+          "text": "並未表示將逕行把EZ Way APP收回公營，網紅及媒體相關說法應屬誤解",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%8Cez-way%E6%98%93%E5%88%A9%E5%A7%94%E3%80%8Dapp%E6%94%B6%E5%9B%9E%E5%85%AC%E7%87%9F%EF%BC%9F-%E9%97%9C%E5%8B%99%E7%BD%B2%E5%9B%9E%E6%87%89%E4%BA%86-112509059.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html",
+      "title": "上淘寶買20包棉花棒被拘提罰10萬！8種醫材自用進口有限量",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728462827,
+          "id": "hk-1785728462816-97550",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728462812,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 107
+              },
+              "quote": {
+                "exact": "每人每半年每樣貨品只有1次機會",
+                "prefix": "眼鏡、日拋隱形眼鏡、醫用口罩都屬於醫療器材，食品藥物管理署對於民眾攜帶或郵寄這8種醫材入境，可以免申報、採用便捷通關，但",
+                "suffix": "，而且有數量的限制、僅限自用，不能轉賣或轉讓他人，違規的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 92
+              },
+              "version": 1
+            },
+            "endOffset": 107,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[1]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[1]",
+            "text": "每人每半年每樣貨品只有1次機會"
+          },
+          "text": "每人每半年每樣貨品只有1次機會",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728467116,
+          "id": "hk-1785728467109-21201",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728467108,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 131
+              },
+              "quote": {
+                "exact": "有數量的限制、僅限自用，不能轉賣或轉讓他人",
+                "prefix": "療器材，食品藥物管理署對於民眾攜帶或郵寄這8種醫材入境，可以免申報、採用便捷通關，但每人每半年每樣貨品只有1次機會，而且",
+                "suffix": "，違規的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。OK繃：合計不超過60個（片）。液體OK繃：合計"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > p.mb-module-gap.break-words:nth-of-type(4)",
+                "textOffset": 110
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[2]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/p[4]/text()[2]",
+            "text": "有數量的限制、僅限自用，不能轉賣或轉讓他人"
+          },
+          "text": "有數量的限制、僅限自用，不能轉賣或轉讓他人",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728469564,
+          "id": "hk-1785728469560-86860",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728469559,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal > p.mb-module-gap.break-words",
+                "textOffset": 12
+              },
+              "quote": {
+                "exact": "60個",
+                "prefix": "、僅限自用，不能轉賣或轉讓他人，違規的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。OK繃：合計不超過",
+                "suffix": "（片）。液體OK繃：合計不超過4條（罐、瓶、支）。醫用棉棒：合計不超過200支。保險套：合計不超過60個。衛生棉條：合計"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal > p.mb-module-gap.break-words",
+                "textOffset": 9
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[1]/p[1]/text()[1]",
+            "text": "60個"
+          },
+          "text": "60個",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728470857,
+          "id": "hk-1785728470852-91926",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728470852,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(2) > p.mb-module-gap.break-words",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "4條",
+                "prefix": "的話可依照《醫療器材管理法》第35條規定，處3萬～100萬元罰鍰。OK繃：合計不超過60個（片）。液體OK繃：合計不超過",
+                "suffix": "（罐、瓶、支）。醫用棉棒：合計不超過200支。保險套：合計不超過60個。衛生棉條：合計不超過120個。日拋隱形眼鏡：為考"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(2) > p.mb-module-gap.break-words",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[2]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[2]/p[1]/text()[1]",
+            "text": "4條"
+          },
+          "text": "4條",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785728472231,
+          "id": "hk-1785728472225-41239",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785728472225,
+              "end": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(3) > p.mb-module-gap.break-words",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "200支",
+                "prefix": "，處3萬～100萬元罰鍰。OK繃：合計不超過60個（片）。液體OK繃：合計不超過4條（罐、瓶、支）。醫用棉棒：合計不超過",
+                "suffix": "。保險套：合計不超過60個。衛生棉條：合計不超過120個。日拋隱形眼鏡：為考量兩眼度數可能不同，限定每人以單一品牌、二種"
+              },
+              "start": {
+                "css": "article#article-9aaeb332-d5dc-3fd6-8ae6-0c106b1c1d27 > div.atoms:nth-of-type(2) > ol.mb-module-gap > li.ml-4.list-decimal:nth-of-type(3) > p.mb-module-gap.break-words",
+                "textOffset": 10
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[3]/p[1]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[2]/ol[1]/li[3]/p[1]/text()[1]",
+            "text": "200支"
+          },
+          "text": "200支",
+          "url": "https://tw.news.yahoo.com/%E4%B8%8A%E6%B7%98%E5%AF%B6%E8%B2%B720%E5%8C%85%E6%A3%89%E8%8A%B1%E6%A3%92%E8%A2%AB%E6%8B%98%E6%8F%90%E7%BD%B010%E8%90%AC-8%E7%A8%AE%E9%86%AB%E6%9D%90%E8%87%AA%E7%94%A8%E9%80%B2%E5%8F%A3%E6%9C%89%E9%99%90%E9%87%8F-000000295.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark | OpenAI",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785463425141,
+          "id": "hk-1785463425103-22015",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785463425101,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 316
+              },
+              "quote": {
+                "exact": "GPT‑5.6 Sol scored just 7.8%, and GPT‑5.5 could barely play the games at all, scoring a paltry 0.4%",
+                "prefix": " FireRed. But on ARC-AGI-3, a benchmark of 2D puzzle games, ",
+                "suffix": ".GPT-5.6 Sol 解決了數學中長期存在的開放性問題，例如循環雙蓋猜想⁠（在新視窗中開啟）以及 Pokémon F"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 217
+              },
+              "version": 1
+            },
+            "endOffset": 189,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[2]/text()[1]",
+            "startOffset": 90,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[2]/text()[1]",
+            "text": "GPT‑5.6 Sol scored just 7.8%, and GPT‑5.5 could barely play the games at all, scoring a paltry 0.4%"
+          },
+          "text": "GPT‑5.6 Sol scored just 7.8%, and GPT‑5.5 could barely play the games at all, scoring a paltry 0.4%",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K",
+      "title": "淺談 LLM 大型語言模型的 Temperature、Top-P 和 Top-K 參數 | The Will Will Web",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1785398493380,
+          "id": "hk-1785398493377-93807",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785398493362,
+              "end": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "，用於控制文字生成過程中的隨機性和創造性",
+                "prefix": "模型的參數可以影響生成的文字風格和品質。在大語言模型中，Temperature、Top-P 和 Top-K 是常見的參數",
+                "suffix": "。我自己在開發 LLM 應用時，主要也都只會去調整 Temperature 而已，其實 Top-P 與 Top-K 很少"
+              },
+              "start": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 119
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[1]/strong[2]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[1]/text()[4]",
+            "text": "，用於控制文字生成過程中的隨機性和創造性"
+          },
+          "text": "，用於控制文字生成過程中的隨機性和創造性",
+          "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785398506080,
+          "id": "hk-1785398506079-95649",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785398506078,
+              "end": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 339
+              },
+              "quote": {
+                "exact": "Temperature 就像一個控制語言模型創造力的旋鈕",
+                "prefix": "文章我打算好好的理一理這幾個參數的真正含意。 機器學習與人工智慧\n\nTemperature (溫度)\n在自然語言處理中，",
+                "suffix": "。它調整模型選擇低機率詞彙的傾向，進而影響生成文本的多樣性。\n設定較高的 Temperature 值意味著鼓勵模型去冒險"
+              },
+              "start": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 311
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[3]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[3]/code[1]/text()[1]",
+            "text": "Temperature 就像一個控制語言模型創造力的旋鈕"
+          },
+          "text": "Temperature 就像一個控制語言模型創造力的旋鈕",
+          "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1785398514325,
+          "id": "hk-1785398514323-39385",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1785398514323,
+              "end": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 409
+              },
+              "quote": {
+                "exact": "設定較高的 Temperature 值意味著鼓勵模型去冒險，選擇較不常見的詞彙",
+                "prefix": "，Temperature 就像一個控制語言模型創造力的旋鈕。它調整模型選擇低機率詞彙的傾向，進而影響生成文本的多樣性。\n",
+                "suffix": "，產生更多樣化、出乎意料，甚至天馬行空的文字，適合用於腦力激盪或探索新穎概念。\n設定較低的 Temperature 值則"
+              },
+              "start": {
+                "css": "section#fb_44f94006-07c5-4045-aa50-416643fb4fe7",
+                "textOffset": 370
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/form[1]/section[1]/div[1]/section[1]/article[1]/section[1]/p[4]/text()[1]",
+            "text": "設定較高的 Temperature 值意味著鼓勵模型去冒險，選擇較不常見的詞彙"
+          },
+          "text": "設定較高的 Temperature 值意味著鼓勵模型去冒險，選擇較不常見的詞彙",
+          "url": "https://blog.miniasp.com/post/2024/05/21/LLM-Temperature-Top-P-Nucleus-Sampling-Top-K"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://bfl.ai/blog/flux-3",
       "title": "FLUX 3 - Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence. | Black Forest Labs",
@@ -1093,11 +2945,11 @@
       "url": "https://openai.com/zh-Hant/index/introducing-gpt-live/",
       "title": "介紹 GPT-Live | OpenAI",
       "tags": [
-        "即時語音",
         "多模態模型",
         "自然語言處理",
-        "延遲優化",
-        "系統設計"
+        "即時語音",
+        "系統設計",
+        "延遲優化"
       ],
       "entries": [
         {

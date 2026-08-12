@@ -1,29 +1,44 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1785375668027,
-  "totalPages": 552,
+  "exportedAt": 1786527467680,
+  "totalPages": 563,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 539
-    },
-    {
-      "tag": "多模態模型",
-      "file": "categories/多模態模型.json",
-      "pageCount": 3
+      "pageCount": 548
     },
     {
       "tag": "人工智慧",
       "file": "categories/人工智慧.json",
-      "pageCount": 3
+      "pageCount": 4
+    },
+    {
+      "tag": "多模態模型",
+      "file": "categories/多模態模型.json",
+      "pageCount": 4
     },
     {
       "tag": "機器學習",
       "file": "categories/機器學習.json",
+      "pageCount": 4
+    },
+    {
+      "tag": "自然語言處理",
+      "file": "categories/自然語言處理.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "開源模型",
+      "file": "categories/開源模型.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "系統設計",
+      "file": "categories/系統設計.json",
       "pageCount": 3
     },
     {
@@ -32,23 +47,18 @@
       "pageCount": 3
     },
     {
+      "tag": "記憶體快取",
+      "file": "categories/記憶體快取.json",
+      "pageCount": 2
+    },
+    {
       "tag": "即時語音",
       "file": "categories/即時語音.json",
       "pageCount": 2
     },
     {
-      "tag": "自然語言處理",
-      "file": "categories/自然語言處理.json",
-      "pageCount": 2
-    },
-    {
       "tag": "延遲優化",
       "file": "categories/延遲優化.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "系統設計",
-      "file": "categories/系統設計.json",
       "pageCount": 2
     },
     {
@@ -62,9 +72,24 @@
       "pageCount": 2
     },
     {
-      "tag": "開源模型",
-      "file": "categories/開源模型.json",
-      "pageCount": 2
+      "tag": "64位元運算",
+      "file": "categories/64位元運算.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "作業系統相容性",
+      "file": "categories/作業系統相容性.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "暫存器寬度",
+      "file": "categories/暫存器寬度.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "x86架構",
+      "file": "categories/x86架構.json",
+      "pageCount": 1
     },
     {
       "tag": "具身智能",
@@ -199,11 +224,6 @@
     {
       "tag": "CKIP Lab",
       "file": "categories/CKIP Lab.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "記憶體快取",
-      "file": "categories/記憶體快取.json",
       "pageCount": 1
     },
     {
