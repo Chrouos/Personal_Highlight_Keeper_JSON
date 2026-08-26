@@ -1,9 +1,414 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1786527467674,
+  "exportedAt": 1787706754956,
   "category": "開發者指南",
   "pages": [
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "title": "Gemini 3.7 Flash: our most intelligent workhorse model",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "智慧體記憶",
+        "開發者指南"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786940057477,
+          "id": "hk-1786940057469-97052",
+          "note": "2026 年 8 月 13 日\n成本低，長時間自動工作的 Agent",
+          "range": {
+            "anchors": {
+              "createdAt": 1786940057466,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "Gemini 3.7 Flash",
+                "prefix": "the progress of our widely used Flash series by introducing ",
+                "suffix": ", our most intelligent workhorse model yet for coding and ag"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 85
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 85,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Gemini 3.7 Flash"
+          },
+          "text": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786946996005,
+          "id": "hk-1786946995994-96943",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786946995992,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 289
+              },
+              "quote": {
+                "exact": "This release comes just three weeks after Gemini 3.6 Flash",
+                "prefix": "在廣泛使用的 Flash 系列的基礎上推出了 Gemini 3.7 Flash，這是我們迄今為止最聰明的編碼和代理模型。",
+                "suffix": ", and is a direct result of developer feedback and algorithm"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 231
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/a[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "This release comes just three weeks after Gemini 3.6 Flash"
+          },
+          "text": "This release comes just three weeks after Gemini 3.6 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786947002629,
+          "id": "hk-1786947002623-97645",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786947002622,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 617
+              },
+              "quote": {
+                "exact": "with an introductory price of half the original 3.6 Flash cost per million tokens",
+                "prefix": "ngineering, knowledge work, and web development workflows — ",
+                "suffix": ".該版本僅在 Gemini 3.6 Flash 發布三週後發布，是開發人員反饋和演算法創新的直接結果，我們期待為未來的模"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 536
+              },
+              "version": 1
+            },
+            "endOffset": 328,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 247,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "text": "with an introductory price of half the original 3.6 Flash cost per million tokens"
+          },
+          "text": "with an introductory price of half the original 3.6 Flash cost per million tokens",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787121285748,
+          "id": "hk-ai-preview-1787121285744-8827",
+          "note": "AI：開發者可透過 Google Antigravity、Google AI Studio 或 Android Studio 開始使用新模型。\n延伸：Google Antigravity 為 Google 專為 Agent 開發打造的新一代開發者平台與工作流工具。\n來源：Google AI Studio",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285738,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 592
+              },
+              "quote": {
+                "exact": "Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio.",
+                "prefix": " more information, see the 3.7 Flash model card.Try it today",
+                "suffix": " Get started with our developer guide.Enterprises: Access 3."
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 446
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[4]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/h2[2]/text()[1]",
+            "text": "Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio."
+          },
+          "text": "Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1787121285750,
+          "id": "hk-ai-preview-1787121285749-81461",
+          "note": "AI：模型內建嚴格安全防護機制，防止化生放核與網路攻擊等領域的濫用。\n延伸：前沿模型安全規範通常由各國 AI 安全署與企業聯合制定，以平衡能力與風險。\n來源：Frontier Safety safeguards",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285748,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 273
+              },
+              "quote": {
+                "exact": "Gemini 3.7 Flash is shipping with updated safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense",
+                "prefix": " the coverage and robustness of Frontier Safety safeguards. ",
+                "suffix": ", while enabling beneficial use cases, in accordance with ou"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 115
+              },
+              "version": 1
+            },
+            "endOffset": 160,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "text": "Gemini 3.7 Flash is shipping with updated safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense"
+          },
+          "text": "Gemini 3.7 Flash is shipping with updated safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787121285752,
+          "id": "hk-ai-preview-1787121285751-79964",
+          "note": "AI：個人 AI 代理服務 Gemini Spark 即日起升級搭載 3.7 Flash 模型。\n延伸：Spark 作為 24 小時運作的個人助理，背後極度依賴高品質的 Google Workspace 工具調用能力。\n來源：Gemini Spark",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285750,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 169
+              },
+              "quote": {
+                "exact": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today.",
+                "prefix": "\n\n  \n\n  \n    \n\n\n  \n    Improving Gemini Spark with 3.7 Flash",
+                "suffix": " We launched Spark at I/O as your personal AI agent that run"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 37
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today."
+          },
+          "text": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285753,
+          "id": "hk-ai-preview-1787121285753-85677",
+          "note": "AI：新模型提供百萬 Token 約 0.75 美元輸入與 3.75 美元輸出的優惠價格。\n延伸：低廉的 API 價格是推動企業大規模部署自動化 Agent 的核心關鍵。",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285752,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 563
+              },
+              "quote": {
+                "exact": "3.7 Flash is available through the end of the year at an introductory price\n\n\n\n  1\n\nof $0.75/1M input tokens and $3.75/1M output tokens.",
+                "prefix": "al oversight and fewer retries across engineering workflows.",
+                "suffix": " This price combined with the enhanced model performance ena"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 427
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 390,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "3.7 Flash is available through the end of the year at an introductory price\n\n\n\n  1\n\nof $0.75/1M input tokens and $3.75/1M output tokens."
+          },
+          "text": "3.7 Flash is available through the end of the year at an introductory price\n\n\n\n  1\n\nof $0.75/1M input tokens and $3.75/1M output tokens.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787121285756,
+          "id": "hk-ai-preview-1787121285755-19292",
+          "note": "AI：運用多 Agent 協調架構，搭配 Gemini Omni 打造互動式一頁式網站。\n延伸：主控 Agent 負責拆解任務並調度子 Agent，是當前複雜 Web 開發自動化的主流方法。",
+          "range": {
+            "anchors": {
+              "createdAt": 1787131177341,
+              "end": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 184
+              },
+              "quote": {
+                "exact": "We used Gemini 3.7 Flash to orchestrate sub-agents, using Gemini Omni to create smooth, interactive parallax components.",
+                "prefix": "ning, interactive landing pages generated in a single shot. ",
+                "suffix": "\n          \n        \n\n        \n      \n    \n  \n\n  \n    \n  \n \n"
+              },
+              "start": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 184,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[2]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 64,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[2]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "We used Gemini 3.7 Flash to orchestrate sub-agents, using Gemini Omni to create smooth, interactive parallax components."
+          },
+          "text": "We used Gemini 3.7 Flash to orchestrate sub-agents, using Gemini Omni to create smooth, interactive parallax components.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787121285756,
+          "id": "hk-ai-preview-1787121285756-85067",
+          "note": "AI：透過結合 Nano Banana 模型，可即時動態生成 3D 遊戲的角色與材質。\n延伸：結合輕量多模態模型進行即時資產生成，是生成式 AI 導入遊戲引擎的常見架構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1787131177698,
+              "end": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 175
+              },
+              "quote": {
+                "exact": "We used Gemini 3.7 Flash combined with Nano Banana to dynamically generate characters, items, and textures in real-time.",
+                "prefix": "     From a simple text prompt to a fully playable 3D game. ",
+                "suffix": "\n          \n        \n\n        \n      \n    \n  \n\n  \n    \n  \n \n"
+              },
+              "start": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 55
+              },
+              "version": 1
+            },
+            "endOffset": 175,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[1]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[1]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "We used Gemini 3.7 Flash combined with Nano Banana to dynamically generate characters, items, and textures in real-time."
+          },
+          "text": "We used Gemini 3.7 Flash combined with Nano Banana to dynamically generate characters, items, and textures in real-time.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285758,
+          "id": "hk-ai-preview-1787121285758-80068",
+          "note": "AI：新模型在處理金融與法律等複雜PDF文件理解上的準確率獲得提升。\n延伸：長文本與複雜圖表混合的長份文件處理是企業知識庫應用的主要痛點。\n來源：GDP.pdf benchmark",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285757,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 911
+              },
+              "quote": {
+                "exact": "It significantly outperforms 3.6 Flash on the GDP.pdf benchmark (34.0% vs 22.0%), an eval for testing a model’s ability to process complex documents.",
+                "prefix": "iences, 3.7 Flash delivers improved reasoning and accuracy. ",
+                "suffix": " It also surpasses 3.6 Flash in AutomationBench, demonstrati"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 762
+              },
+              "version": 1
+            },
+            "endOffset": 264,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 115,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "text": "It significantly outperforms 3.6 Flash on the GDP.pdf benchmark (34.0% vs 22.0%), an eval for testing a model’s ability to process complex documents."
+          },
+          "text": "It significantly outperforms 3.6 Flash on the GDP.pdf benchmark (34.0% vs 22.0%), an eval for testing a model’s ability to process complex documents.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285758,
+          "id": "hk-ai-preview-1787121285758-15113",
+          "note": "AI：新模型在網頁開發與 UI 設計表現上獲得了更高的 Elo 競賽評分。\n延伸：盲測評分機制（Elo）能反映真實使用者對網頁視覺呈現與功能完整度的偏好。\n來源：Arena.ai WebDev Arena",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285758,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 647
+              },
+              "quote": {
+                "exact": "It outperforms 3.6 Flash on Arena.ai’s WebDev Arena with an Elo score of 1588 vs 1538.",
+                "prefix": "ether it’s a screenshot, an image, or a full design system. ",
+                "suffix": "For knowledge-dense fields like finance, law, and bioscience"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 561
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 266,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "It outperforms 3.6 Flash on Arena.ai’s WebDev Arena with an Elo score of 1588 vs 1538."
+          },
+          "text": "It outperforms 3.6 Flash on Arena.ai’s WebDev Arena with an Elo score of 1588 vs 1538.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285760,
+          "id": "hk-ai-preview-1787121285760-48345",
+          "note": "AI：新模型在除錯與問題解決等程式開發任務上較前代有顯著進步。\n延伸：軟體工程評測常採用 Swe-bench 來驗證模型修正實際 GitHub Issue 的能力。\n來源：SWE-bench",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285759,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 96
+              },
+              "quote": {
+                "exact": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution.",
+                "prefix": "  \n\n    \n      \n         \n      \n    \n\n  \n\n  \n    \n\n\n  \n    ",
+                "suffix": " It also achieves higher first-pass code accuracy and has im"
+              },
+              "start": {
+                "css": "main#jump-content > article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/text()[1]",
+            "text": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution."
+          },
+          "text": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1787121285768,
+        "model": "chatgpt-web",
+        "note": "Google 發布了全新模型 Gemini 3.7 Flash，主打成為程式開發與自動化 Agent 的高效能主力模型。相較於前代，它在軟體工程除錯、生產級程式碼生成，以及一頁式網頁開發等任務上均有顯著突破。不僅如此，在處理金融、法律等複雜 PDF 文件的 GDP.pdf 評測，以及自動化業務流程的 AutomationBench 中，表現皆大幅超越 3.6 Flash。\n\n除了單純的代碼寫作，3.7 Flash 更展現了強大的多 Agent 協調與動態生成能力，例如結合 Nano Banana 即時生成 3D 遊戲資產，或調度子 Agent 打造互動網頁。模型在面對執行障礙時能調整策略並精準呼叫工具，大幅降低手動監督成本。\n\n在商業落地方面，3.7 Flash 以每百萬 Input Token 0.75 美元的優惠價格開放開發者使用，並全面導入至 Gemini Spark 個人助理中，強化 Workspace 應用的自動化處理。同時，模型也更新了針對 CBRN 與網路安全等前沿風險的防護機制，確保高智慧 Agent 的安全應用。",
+        "provider": "chatgpt",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://developers.openai.com/api/docs/guides/realtime",
       "title": "Realtime and audio | OpenAI API",

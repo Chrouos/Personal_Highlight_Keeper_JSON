@@ -1,9 +1,1588 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1786527467677,
+  "exportedAt": 1787706754956,
   "category": "智慧體記憶",
   "pages": [
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "title": "Gemini 3.7 Flash: our most intelligent workhorse model",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "智慧體記憶",
+        "開發者指南"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786940057477,
+          "id": "hk-1786940057469-97052",
+          "note": "2026 年 8 月 13 日\n成本低，長時間自動工作的 Agent",
+          "range": {
+            "anchors": {
+              "createdAt": 1786940057466,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "Gemini 3.7 Flash",
+                "prefix": "the progress of our widely used Flash series by introducing ",
+                "suffix": ", our most intelligent workhorse model yet for coding and ag"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 85
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 85,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Gemini 3.7 Flash"
+          },
+          "text": "Gemini 3.7 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786946996005,
+          "id": "hk-1786946995994-96943",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786946995992,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 289
+              },
+              "quote": {
+                "exact": "This release comes just three weeks after Gemini 3.6 Flash",
+                "prefix": "在廣泛使用的 Flash 系列的基礎上推出了 Gemini 3.7 Flash，這是我們迄今為止最聰明的編碼和代理模型。",
+                "suffix": ", and is a direct result of developer feedback and algorithm"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 231
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/a[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "This release comes just three weeks after Gemini 3.6 Flash"
+          },
+          "text": "This release comes just three weeks after Gemini 3.6 Flash",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786947002629,
+          "id": "hk-1786947002623-97645",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786947002622,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 617
+              },
+              "quote": {
+                "exact": "with an introductory price of half the original 3.6 Flash cost per million tokens",
+                "prefix": "ngineering, knowledge work, and web development workflows — ",
+                "suffix": ".該版本僅在 Gemini 3.6 Flash 發布三週後發布，是開發人員反饋和演算法創新的直接結果，我們期待為未來的模"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 536
+              },
+              "version": 1
+            },
+            "endOffset": 328,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 247,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "text": "with an introductory price of half the original 3.6 Flash cost per million tokens"
+          },
+          "text": "with an introductory price of half the original 3.6 Flash cost per million tokens",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787121285748,
+          "id": "hk-ai-preview-1787121285744-8827",
+          "note": "AI：開發者可透過 Google Antigravity、Google AI Studio 或 Android Studio 開始使用新模型。\n延伸：Google Antigravity 為 Google 專為 Agent 開發打造的新一代開發者平台與工作流工具。\n來源：Google AI Studio",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285738,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 592
+              },
+              "quote": {
+                "exact": "Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio.",
+                "prefix": " more information, see the 3.7 Flash model card.Try it today",
+                "suffix": " Get started with our developer guide.Enterprises: Access 3."
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 446
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[4]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/h2[2]/text()[1]",
+            "text": "Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio."
+          },
+          "text": "Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1787121285750,
+          "id": "hk-ai-preview-1787121285749-81461",
+          "note": "AI：模型內建嚴格安全防護機制，防止化生放核與網路攻擊等領域的濫用。\n延伸：前沿模型安全規範通常由各國 AI 安全署與企業聯合制定，以平衡能力與風險。\n來源：Frontier Safety safeguards",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285748,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 273
+              },
+              "quote": {
+                "exact": "Gemini 3.7 Flash is shipping with updated safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense",
+                "prefix": " the coverage and robustness of Frontier Safety safeguards. ",
+                "suffix": ", while enabling beneficial use cases, in accordance with ou"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 115
+              },
+              "version": 1
+            },
+            "endOffset": 160,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[11]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "text": "Gemini 3.7 Flash is shipping with updated safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense"
+          },
+          "text": "Gemini 3.7 Flash is shipping with updated safeguards against misuse in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787121285752,
+          "id": "hk-ai-preview-1787121285751-79964",
+          "note": "AI：個人 AI 代理服務 Gemini Spark 即日起升級搭載 3.7 Flash 模型。\n延伸：Spark 作為 24 小時運作的個人助理，背後極度依賴高品質的 Google Workspace 工具調用能力。\n來源：Gemini Spark",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285750,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 169
+              },
+              "quote": {
+                "exact": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today.",
+                "prefix": "\n\n  \n\n  \n    \n\n\n  \n    Improving Gemini Spark with 3.7 Flash",
+                "suffix": " We launched Spark at I/O as your personal AI agent that run"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 37
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today."
+          },
+          "text": "Gemini Spark, available to Google AI Pro and Ultra subscribers in over 160 countries, will be using Gemini 3.7 Flash starting today.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285753,
+          "id": "hk-ai-preview-1787121285753-85677",
+          "note": "AI：新模型提供百萬 Token 約 0.75 美元輸入與 3.75 美元輸出的優惠價格。\n延伸：低廉的 API 價格是推動企業大規模部署自動化 Agent 的核心關鍵。",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285752,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 563
+              },
+              "quote": {
+                "exact": "3.7 Flash is available through the end of the year at an introductory price\n\n\n\n  1\n\nof $0.75/1M input tokens and $3.75/1M output tokens.",
+                "prefix": "al oversight and fewer retries across engineering workflows.",
+                "suffix": " This price combined with the enhanced model performance ena"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 427
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 390,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "3.7 Flash is available through the end of the year at an introductory price\n\n\n\n  1\n\nof $0.75/1M input tokens and $3.75/1M output tokens."
+          },
+          "text": "3.7 Flash is available through the end of the year at an introductory price\n\n\n\n  1\n\nof $0.75/1M input tokens and $3.75/1M output tokens.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787121285756,
+          "id": "hk-ai-preview-1787121285755-19292",
+          "note": "AI：運用多 Agent 協調架構，搭配 Gemini Omni 打造互動式一頁式網站。\n延伸：主控 Agent 負責拆解任務並調度子 Agent，是當前複雜 Web 開發自動化的主流方法。",
+          "range": {
+            "anchors": {
+              "createdAt": 1787131177341,
+              "end": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 184
+              },
+              "quote": {
+                "exact": "We used Gemini 3.7 Flash to orchestrate sub-agents, using Gemini Omni to create smooth, interactive parallax components.",
+                "prefix": "ning, interactive landing pages generated in a single shot. ",
+                "suffix": "\n          \n        \n\n        \n      \n    \n  \n\n  \n    \n  \n \n"
+              },
+              "start": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 184,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[2]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 64,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[2]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "We used Gemini 3.7 Flash to orchestrate sub-agents, using Gemini Omni to create smooth, interactive parallax components."
+          },
+          "text": "We used Gemini 3.7 Flash to orchestrate sub-agents, using Gemini Omni to create smooth, interactive parallax components.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787121285756,
+          "id": "hk-ai-preview-1787121285756-85067",
+          "note": "AI：透過結合 Nano Banana 模型，可即時動態生成 3D 遊戲的角色與材質。\n延伸：結合輕量多模態模型進行即時資產生成，是生成式 AI 導入遊戲引擎的常見架構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1787131177698,
+              "end": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 175
+              },
+              "quote": {
+                "exact": "We used Gemini 3.7 Flash combined with Nano Banana to dynamically generate characters, items, and textures in real-time.",
+                "prefix": "     From a simple text prompt to a fully playable 3D game. ",
+                "suffix": "\n          \n        \n\n        \n      \n    \n  \n\n  \n    \n  \n \n"
+              },
+              "start": {
+                "css": "div.uni-collapsable-caption__content > div.uni-collapsable-caption__body > div.font-caption > div.uni-media-carousel__caption-within > div > div.rich-text",
+                "textOffset": 55
+              },
+              "version": 1
+            },
+            "endOffset": 175,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[1]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-media-carousel[1]/div[1]/uni-media-carousel-viewport[1]/div[1]/div[1]/div[1]/uni-media-carousel-slide[1]/div[2]/uni-collapsable-caption[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "We used Gemini 3.7 Flash combined with Nano Banana to dynamically generate characters, items, and textures in real-time."
+          },
+          "text": "We used Gemini 3.7 Flash combined with Nano Banana to dynamically generate characters, items, and textures in real-time.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285758,
+          "id": "hk-ai-preview-1787121285758-80068",
+          "note": "AI：新模型在處理金融與法律等複雜PDF文件理解上的準確率獲得提升。\n延伸：長文本與複雜圖表混合的長份文件處理是企業知識庫應用的主要痛點。\n來源：GDP.pdf benchmark",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285757,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 911
+              },
+              "quote": {
+                "exact": "It significantly outperforms 3.6 Flash on the GDP.pdf benchmark (34.0% vs 22.0%), an eval for testing a model’s ability to process complex documents.",
+                "prefix": "iences, 3.7 Flash delivers improved reasoning and accuracy. ",
+                "suffix": " It also surpasses 3.6 Flash in AutomationBench, demonstrati"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 762
+              },
+              "version": 1
+            },
+            "endOffset": 264,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 115,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "text": "It significantly outperforms 3.6 Flash on the GDP.pdf benchmark (34.0% vs 22.0%), an eval for testing a model’s ability to process complex documents."
+          },
+          "text": "It significantly outperforms 3.6 Flash on the GDP.pdf benchmark (34.0% vs 22.0%), an eval for testing a model’s ability to process complex documents.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285758,
+          "id": "hk-ai-preview-1787121285758-15113",
+          "note": "AI：新模型在網頁開發與 UI 設計表現上獲得了更高的 Elo 競賽評分。\n延伸：盲測評分機制（Elo）能反映真實使用者對網頁視覺呈現與功能完整度的偏好。\n來源：Arena.ai WebDev Arena",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285758,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 647
+              },
+              "quote": {
+                "exact": "It outperforms 3.6 Flash on Arena.ai’s WebDev Arena with an Elo score of 1588 vs 1538.",
+                "prefix": "ether it’s a screenshot, an image, or a full design system. ",
+                "suffix": "For knowledge-dense fields like finance, law, and bioscience"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 561
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 266,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "It outperforms 3.6 Flash on Arena.ai’s WebDev Arena with an Elo score of 1588 vs 1538."
+          },
+          "text": "It outperforms 3.6 Flash on Arena.ai’s WebDev Arena with an Elo score of 1588 vs 1538.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1787121285760,
+          "id": "hk-ai-preview-1787121285760-48345",
+          "note": "AI：新模型在除錯與問題解決等程式開發任務上較前代有顯著進步。\n延伸：軟體工程評測常採用 Swe-bench 來驗證模型修正實際 GitHub Issue 的能力。\n來源：SWE-bench",
+          "range": {
+            "anchors": {
+              "createdAt": 1787121285759,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 96
+              },
+              "quote": {
+                "exact": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution.",
+                "prefix": "  \n\n    \n      \n         \n      \n    \n\n  \n\n  \n    \n\n\n  \n    ",
+                "suffix": " It also achieves higher first-pass code accuracy and has im"
+              },
+              "start": {
+                "css": "main#jump-content > article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/text()[1]",
+            "text": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution."
+          },
+          "text": "3.7 Flash shows strong gains over 3.6 Flash in coding tasks like debugging and issue resolution.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1787121285768,
+        "model": "chatgpt-web",
+        "note": "Google 發布了全新模型 Gemini 3.7 Flash，主打成為程式開發與自動化 Agent 的高效能主力模型。相較於前代，它在軟體工程除錯、生產級程式碼生成，以及一頁式網頁開發等任務上均有顯著突破。不僅如此，在處理金融、法律等複雜 PDF 文件的 GDP.pdf 評測，以及自動化業務流程的 AutomationBench 中，表現皆大幅超越 3.6 Flash。\n\n除了單純的代碼寫作，3.7 Flash 更展現了強大的多 Agent 協調與動態生成能力，例如結合 Nano Banana 即時生成 3D 遊戲資產，或調度子 Agent 打造互動網頁。模型在面對執行障礙時能調整策略並精準呼叫工具，大幅降低手動監督成本。\n\n在商業落地方面，3.7 Flash 以每百萬 Input Token 0.75 美元的優惠價格開放開發者使用，並全面導入至 Gemini Spark 個人助理中，強化 Workspace 應用的自動化處理。同時，模型也更新了針對 CBRN 與網路安全等前沿風險的防護機制，確保高智慧 Agent 的安全應用。",
+        "provider": "chatgpt",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "title": "Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device | Meta AI Research",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "延遲優化",
+        "記憶體快取",
+        "智慧體記憶",
+        "開源模型"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786671673346,
+          "id": "hk-1786671673342-20016",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786671673340,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 37
+              },
+              "quote": {
+                "exact": "we're introducing Muse Glimmer",
+                "prefix": "That Runs on Your DeviceAugust 10, 2026·6 minute readToday, ",
+                "suffix": ", the next model from Meta Superintelligence Labs, and open "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "we're introducing Muse Glimmer"
+          },
+          "text": "we're introducing Muse Glimmer",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786671675621,
+          "id": "hk-1786671675620-87235",
+          "note": "Apache 2.0 是一種「很寬鬆、允許商用，而且特別處理專利授權」的開源 License\n\nhttps://www.apache.org/licenses/LICENSE-2.0",
+          "range": {
+            "anchors": {
+              "createdAt": 1786671675619,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 161
+              },
+              "quote": {
+                "exact": "Apache 2.0 license",
+                "prefix": "abs, and open sourcing the model weights under a permissive ",
+                "suffix": ".今天，我們將介紹 Meta Superintelligence Labs 的下一個模型 Muse Glimmer，並在"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base",
+                "textOffset": 143
+              },
+              "version": 1
+            },
+            "endOffset": 124,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 106,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Apache 2.0 license"
+          },
+          "text": "Apache 2.0 license",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786671788484,
+          "id": "hk-1786671788482-65153",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786671788481,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(2)",
+                "textOffset": 91
+              },
+              "quote": {
+                "exact": "Muse Glimmer is a 30-billion-parameter model optimized for always-on local agent workflows.",
+                "prefix": "gence Labs 的下一個模型 Muse Glimmer，並在寬鬆的 Apache 2.0 許可證下開源模型權重。\n",
+                "suffix": " It’s small enough to run on a Mac or PC with a single consu"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(2)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Muse Glimmer is a 30-billion-parameter model optimized for always-on local agent workflows."
+          },
+          "text": "Muse Glimmer is a 30-billion-parameter model optimized for always-on local agent workflows.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786671893675,
+          "id": "hk-1786671893674-57005",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786671893673,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(2)",
+                "textOffset": 158
+              },
+              "quote": {
+                "exact": "enough to run on a Mac or PC with a single consumer GPU",
+                "prefix": "l optimized for always-on local agent workflows. It’s small ",
+                "suffix": ", enabling use cases that range from local agents and functi"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(2)",
+                "textOffset": 103
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "enough to run on a Mac or PC with a single consumer GPU"
+          },
+          "text": "enough to run on a Mac or PC with a single consumer GPU",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267082,
+          "id": "hk-ai-preview-1786676267080-39951",
+          "note": "AI：Muse Glimmer 將 Meta 的開放模型策略進一步延伸到可在本地運行的 Agent 模型\n延伸：若這類模型成熟，本地 AI 的競爭焦點可能從單純模型能力轉向裝置整合、Agent runtime、權限控制與個人資料管理。\n來源：Local AI Agents、Agent Runtime、On-device AI",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267079,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(17)",
+                "textOffset": 154
+              },
+              "quote": {
+                "exact": "This work builds on Meta's long track record of open AI research, extending it into agentic AI and giving developers access to local agentic capabilities.",
+                "prefix": " and find resources to build on Meta's AI Developer Center.\n",
+                "suffix": " As always, we welcome feedback from the community and can’t"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 8084
+              },
+              "version": 1
+            },
+            "endOffset": 154,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[17]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[31]",
+            "text": "This work builds on Meta's long track record of open AI research, extending it into agentic AI and giving developers access to local agentic capabilities."
+          },
+          "text": "This work builds on Meta's long track record of open AI research, extending it into agentic AI and giving developers access to local agentic capabilities.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267083,
+          "id": "hk-ai-preview-1786676267082-26174",
+          "note": "AI：Meta 正與主要 CPU、GPU 與硬體廠商合作最佳化不同裝置上的推論效能\n延伸：跨硬體最佳化通常牽涉 kernel、量化指令集、記憶體配置與 runtime backend，因此相同模型在不同晶片上的速度可能差距很大。\n來源：CUDA、ROCm、ARM Compute、Inference Kernel",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267082,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(16)",
+                "textOffset": 120
+              },
+              "quote": {
+                "exact": "We're also working with our partners including AMD, Arm, Dell, Intel, and NVIDIA to optimize performance across devices.",
+                "prefix": "ch’s TorchTitan training feature to tune the model further.\n",
+                "suffix": " In addition, we’re releasing documentation so developers ha"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 7608
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[16]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[30]",
+            "text": "We're also working with our partners including AMD, Arm, Dell, Intel, and NVIDIA to optimize performance across devices."
+          },
+          "text": "We're also working with our partners including AMD, Arm, Dell, Intel, and NVIDIA to optimize performance across devices.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267083,
+          "id": "hk-ai-preview-1786676267083-96188",
+          "note": "AI：開發者可以進一步使用 TorchTitan 對 Muse Glimmer 做客製化訓練\n延伸：30B 模型完整 fine-tuning 的硬體成本仍高，實際應用更可能先評估 LoRA、QLoRA 等 Parameter-Efficient Fine-Tuning 方法。\n來源：LoRA、QLoRA、TorchTitan",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267083,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(15)",
+                "textOffset": 493
+              },
+              "quote": {
+                "exact": "You can even customize it for your use case by leveraging PyTorch’s TorchTitan training feature to tune the model further.",
+                "prefix": "gh partners like Together AI, Fireworks AI, and OpenRouter. ",
+                "suffix": "\nWe're also working with our partners including AMD, Arm, De"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(15)",
+                "textOffset": 371
+              },
+              "version": 1
+            },
+            "endOffset": 414,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[15]/text()[2]",
+            "startOffset": 292,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[15]/text()[2]",
+            "text": "You can even customize it for your use case by leveraging PyTorch’s TorchTitan training feature to tune the model further."
+          },
+          "text": "You can even customize it for your use case by leveraging PyTorch’s TorchTitan training feature to tune the model further.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267083,
+          "id": "hk-ai-preview-1786676267083-80749",
+          "note": "AI：Muse Glimmer 同時瞄準桌面本地執行、Edge 部署與伺服器規模化推論\n延伸：同一模型跨 Ollama、llama.cpp、MLX、vLLM 等 runtime 時，量化格式、支援功能與效能可能不同，部署前需要分別驗證。\n來源：Ollama、LM Studio、llama.cpp、vLLM、SGLang",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267083,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(15)",
+                "textOffset": 281
+              },
+              "quote": {
+                "exact": "In the coming days, run it locally through partners like Ollama, LM Studio, and Unsloth, deploy it with edge frameworks including llama.cpp, ExecuTorch, and MLX, serve it at scale with vLLM and SGLang",
+                "prefix": "able now, and you can download the weights on Hugging Face. ",
+                "suffix": ", or get started quickly through partners like Together AI, "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(15)",
+                "textOffset": 81
+              },
+              "version": 1
+            },
+            "endOffset": 202,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[15]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[15]/text()[2]",
+            "text": "In the coming days, run it locally through partners like Ollama, LM Studio, and Unsloth, deploy it with edge frameworks including llama.cpp, ExecuTorch, and MLX, serve it at scale with vLLM and SGLang"
+          },
+          "text": "In the coming days, run it locally through partners like Ollama, LM Studio, and Unsloth, deploy it with edge frameworks including llama.cpp, ExecuTorch, and MLX, serve it at scale with vLLM and SGLang",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267084,
+          "id": "hk-ai-preview-1786676267083-82402",
+          "note": "AI：Meta 的最終目標是讓完整 Agent 互動能以接近即時的速度完全在本地裝置執行\n延伸：Agent 的體感延遲除了 tokens per second，還包含 first-token latency、工具執行時間與多輪 planning，因此單一生成速度不能代表完整體驗。\n來源：Time to First Token、Inter-Token Latency、End-to-End Latency",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267083,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(14)",
+                "textOffset": 248
+              },
+              "quote": {
+                "exact": "The model is fast enough for fluid conversation and real-time agent interaction, all running entirely on your device.",
+                "prefix": "DFlash drafter on MacBook M4-Max, M5-Max and on a RTX-5090. ",
+                "suffix": "\n\nGet Started With Muse Glimmer Today\nMuse Glimmer is availa"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(14)",
+                "textOffset": 131
+              },
+              "version": 1
+            },
+            "endOffset": 248,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 131,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[14]/text()[1]",
+            "text": "The model is fast enough for fluid conversation and real-time agent interaction, all running entirely on your device."
+          },
+          "text": "The model is fast enough for fluid conversation and real-time agent interaction, all running entirely on your device.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267084,
+          "id": "hk-ai-preview-1786676267084-12117",
+          "note": "AI：Speculative Decoding 讓模型在維持輸出品質的同時提高生成速度\n延伸：若 drafter 與主模型差異太大，acceptance rate 下降後可能失去加速效果，因此 drafter 本身也需要針對主模型最佳化。\n來源：Speculative Decoding、Draft Model Acceptance Rate",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267084,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 539
+              },
+              "quote": {
+                "exact": "This technique lets Muse Glimmer generate text significantly faster than standard token-by-token generation while producing identical output quality.",
+                "prefix": "rallel, accepting correct tokens and correcting wrong ones. ",
+                "suffix": " We provide quantized drafter versions to incur a smaller me"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 390
+              },
+              "version": 1
+            },
+            "endOffset": 335,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[2]",
+            "startOffset": 186,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[2]",
+            "text": "This technique lets Muse Glimmer generate text significantly faster than standard token-by-token generation while producing identical output quality."
+          },
+          "text": "This technique lets Muse Glimmer generate text significantly faster than standard token-by-token generation while producing identical output quality.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267084,
+          "id": "hk-ai-preview-1786676267084-63493",
+          "note": "AI：主模型會平行驗證 Drafter 的候選 token，只接受與自身分布相符的部分\n延伸：Speculative Decoding 的重要特性是只改變生成方式而不必改變目標模型分布，因此能在符合條件的演算法下保持輸出分布一致。\n來源：Fast Inference from Transformers via Speculative Decoding",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267084,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 389
+              },
+              "quote": {
+                "exact": "The main model then verifies these proposals in parallel, accepting correct tokens and correcting wrong ones.",
+                "prefix": "nion network that proposes entire blocks of tokens at once. ",
+                "suffix": " This technique lets Muse Glimmer generate text significantl"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 280
+              },
+              "version": 1
+            },
+            "endOffset": 185,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[2]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[2]",
+            "text": "The main model then verifies these proposals in parallel, accepting correct tokens and correcting wrong ones."
+          },
+          "text": "The main model then verifies these proposals in parallel, accepting correct tokens and correcting wrong ones.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267084,
+          "id": "hk-ai-preview-1786676267084-54862",
+          "note": "AI：Muse Glimmer 使用額外的小型 Drafter 一次預測多個 token，以加速生成\n延伸：這屬於 Speculative Decoding 類型技術，加速幅度主要取決於 drafter 提案被主模型接受的比例與驗證成本。\n來源：Speculative Decoding",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267084,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 279
+              },
+              "quote": {
+                "exact": "Muse Glimmer ships with a lightweight \"drafter\" model based on DFlash — a small companion network that proposes entire blocks of tokens at once.",
+                "prefix": "slow during long reasoning chains or multi-step tool calls. ",
+                "suffix": " The main model then verifies these proposals in parallel, a"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 135
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[2]",
+            "startOffset": 135,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "Muse Glimmer ships with a lightweight \"drafter\" model based on DFlash — a small companion network that proposes entire blocks of tokens at once."
+          },
+          "text": "Muse Glimmer ships with a lightweight \"drafter\" model based on DFlash — a small companion network that proposes entire blocks of tokens at once.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1786676267085,
+          "id": "hk-ai-preview-1786676267084-36322",
+          "note": "AI：自回歸模型逐 token 生成的特性，會讓長推理與多步工具流程產生明顯延遲\n延伸：這類延遲通常受 memory bandwidth 與 decoding 階段限制，因此增加 GPU 算力不一定會線性提升單使用者 token generation 速度。\n來源：Autoregressive Decoding、Memory-bound LLM Inference",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267084,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(13)",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "Language models normally generate text one token at a time, which can feel slow during long reasoning chains or multi-step tool calls.",
+                "prefix": "tic tasks.\n\nFaster Generation Through Speculative Decoding.\n",
+                "suffix": " Muse Glimmer ships with a lightweight \"drafter\" model based"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 6186
+              },
+              "version": 1
+            },
+            "endOffset": 134,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[23]",
+            "text": "Language models normally generate text one token at a time, which can feel slow during long reasoning chains or multi-step tool calls."
+          },
+          "text": "Language models normally generate text one token at a time, which can feel slow during long reasoning chains or multi-step tool calls.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267085,
+          "id": "hk-ai-preview-1786676267085-51067",
+          "note": "AI：Meta 表示量化後在 Agent 任務上的能力幾乎沒有明顯下降\n延伸：量化損失可能在平均 benchmark 上很小，卻集中出現在罕見 token、長推理或工具參數生成等情境，因此仍需要細分任務驗證。\n來源：Quantization Evaluation、LLM Quantization Robustness",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267085,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 573
+              },
+              "quote": {
+                "exact": "We validated that this compression introduces minimal to no degradation on agentic tasks.",
+                "prefix": "ter to run simultaneously within a 24 GB or 32 GB envelope. ",
+                "suffix": "\n\nFaster Generation Through Speculative Decoding.\nLanguage m"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 484
+              },
+              "version": 1
+            },
+            "endOffset": 573,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 484,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "We validated that this compression introduces minimal to no degradation on agentic tasks."
+          },
+          "text": "We validated that this compression introduces minimal to no degradation on agentic tasks.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267085,
+          "id": "hk-ai-preview-1786676267085-92445",
+          "note": "AI：量化後騰出的記憶體可同時容納 KV cache、視覺 encoder 與 speculative decoding 模型\n延伸：KV cache 會隨 context 長度與 batch size 增長，所以文中的 24GB／32GB 可運行條件仍可能受到實際上下文設定影響。\n來源：KV Cache、PagedAttention",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267085,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 483
+              },
+              "quote": {
+                "exact": "This leaves enough headroom for the model's working memory (its \"KV cache\"), the perception encoder for image understanding, and the speculative decoding drafter to run simultaneously within a 24 GB or 32 GB envelope.",
+                "prefix": "bit precision, shrinking the language model to under 20 GB. ",
+                "suffix": " We validated that this compression introduces minimal to no"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 266
+              },
+              "version": 1
+            },
+            "endOffset": 483,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 266,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "This leaves enough headroom for the model's working memory (its \"KV cache\"), the perception encoder for image understanding, and the speculative decoding drafter to run simultaneously within a 24 GB or 32 GB envelope."
+          },
+          "text": "This leaves enough headroom for the model's working memory (its \"KV cache\"), the perception encoder for image understanding, and the speculative decoding drafter to run simultaneously within a 24 GB or 32 GB envelope.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267085,
+          "id": "hk-ai-preview-1786676267085-23440",
+          "note": "AI：Muse Glimmer 透過約 4-bit 量化，把模型權重壓縮到 20 GB 以下\n延伸：4-bit 只是位元寬度概念，實際品質與速度仍高度依賴量化演算法、group size、scale 設計與推論 kernel。\n來源：GPTQ、AWQ、K-Quant",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267085,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 265
+              },
+              "quote": {
+                "exact": "We use quantization techniques to compress the model's weights to approximately 4-bit precision, shrinking the language model to under 20 GB.",
+                "prefix": "er 55 GB of memory — far more than any consumer GPU offers. ",
+                "suffix": " This leaves enough headroom for the model's working memory "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 124
+              },
+              "version": 1
+            },
+            "endOffset": 265,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 124,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "We use quantization techniques to compress the model's weights to approximately 4-bit precision, shrinking the language model to under 20 GB."
+          },
+          "text": "We use quantization techniques to compress the model's weights to approximately 4-bit precision, shrinking the language model to under 20 GB.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1786676267085,
+          "id": "hk-ai-preview-1786676267085-10809",
+          "note": "AI：30B 模型若使用完整精度，記憶體需求遠超一般消費級 GPU 可負擔範圍\n延伸：模型權重只是記憶體的一部分，長 context 還會增加 KV cache，因此能載入模型不代表實際 Agent 工作負載一定跑得動。\n來源：KV Cache、LLM Memory Usage",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267085,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(12)",
+                "textOffset": 123
+              },
+              "quote": {
+                "exact": "At full precision, a 30-billion parameter model would require over 55 GB of memory — far more than any consumer GPU offers.",
+                "prefix": "hout sacrificing quality.\nFitting the Model on Your Device.\n",
+                "suffix": " We use quantization techniques to compress the model's weig"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 5563
+              },
+              "version": 1
+            },
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[20]",
+            "text": "At full precision, a 30-billion parameter model would require over 55 GB of memory — far more than any consumer GPU offers."
+          },
+          "text": "At full precision, a 30-billion parameter model would require over 55 GB of memory — far more than any consumer GPU offers.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267086,
+          "id": "hk-ai-preview-1786676267085-89594",
+          "note": "AI：Meta 將 Muse Glimmer 定位為同尺寸模型中具競爭力的 Agent 模型\n延伸：benchmark 結果仍會受到推理參數、量化版本、prompt、工具 scaffold 與測試 harness 影響，公平比較時必須確認設定一致。\n來源：LLM Evaluation Harness、Benchmark Reproducibility",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267085,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(9)",
+                "textOffset": 276
+              },
+              "quote": {
+                "exact": "Compared with Gemma4-31B and Qwen3.6-27B, Muse Glimmer performs strongly for its size class on several widely used LLM benchmarks.",
+                "prefix": "abilities required for effective autonomous agent behavior. ",
+                "suffix": "\n\nFor more detail about our evaluations, see our report.\nOpt"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(9)",
+                "textOffset": 146
+              },
+              "version": 1
+            },
+            "endOffset": 276,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 146,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "Compared with Gemma4-31B and Qwen3.6-27B, Muse Glimmer performs strongly for its size class on several widely used LLM benchmarks."
+          },
+          "text": "Compared with Gemma4-31B and Qwen3.6-27B, Muse Glimmer performs strongly for its size class on several widely used LLM benchmarks.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267086,
+          "id": "hk-ai-preview-1786676267086-12485",
+          "note": "AI：Muse Glimmer 的訓練資料涵蓋超過 100 種語言\n延伸：涵蓋語言數量不等於各語言品質一致，低資源語言通常仍需要另外查看 multilingual benchmark 才能判斷實際能力。\n來源：Multilingual LLM、Low-resource Languages",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267086,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 1222
+              },
+              "quote": {
+                "exact": "Muse Glimmer is trained on data from more than 100 languages.",
+                "prefix": " the right balance between quality and speed.\nMultilingual. ",
+                "suffix": "\n\n\nPerformance\nWe evaluated Muse Glimmer across a broad rang"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 1161
+              },
+              "version": 1
+            },
+            "endOffset": 62,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[8]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[8]/text()[1]",
+            "text": "Muse Glimmer is trained on data from more than 100 languages."
+          },
+          "text": "Muse Glimmer is trained on data from more than 100 languages.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267086,
+          "id": "hk-ai-preview-1786676267086-69700",
+          "note": "AI：模型可以調整推理強度，在回答品質與速度之間切換\n延伸：可控 reasoning effort 對 Agent 很重要，簡單工具選擇若也進行長推理，會增加 latency、token 消耗與整體任務成本。\n來源：Reasoning Effort、Adaptive Computation",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267086,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 1146
+              },
+              "quote": {
+                "exact": "Muse Glimmer supports different reasoning strengths to select the right balance between quality and speed.",
+                "prefix": " other agentic orchestration patterns.\nControllable Effort. ",
+                "suffix": "\nMultilingual. Muse Glimmer is trained on data from more tha"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 1040
+              },
+              "version": 1
+            },
+            "endOffset": 107,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[7]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[7]/text()[1]",
+            "text": "Muse Glimmer supports different reasoning strengths to select the right balance between quality and speed."
+          },
+          "text": "Muse Glimmer supports different reasoning strengths to select the right balance between quality and speed.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267086,
+          "id": "hk-ai-preview-1786676267086-78113",
+          "note": "AI：Muse Glimmer 使用專門的 perception encoder 支援文字與圖片交錯輸入\n延伸：這類架構通常需要把視覺特徵轉換成語言模型能處理的表示，具體採用 projector、cross-attention 或其他方式則需查看模型技術報告。\n來源：Vision-Language Model、Multimodal Encoder",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267086,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 825
+              },
+              "quote": {
+                "exact": "Through a dedicated perception encoder, the model accepts interleaved text and images.",
+                "prefix": "and retry rather than halt.\nMultimodal Input and Reasoning. ",
+                "suffix": " This enables agents to interpret screenshots, charts, and d"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 739
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[5]/text()[1]",
+            "text": "Through a dedicated perception encoder, the model accepts interleaved text and images."
+          },
+          "text": "Through a dedicated perception encoder, the model accepts interleaved text and images.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267086,
+          "id": "hk-ai-preview-1786676267086-34104",
+          "note": "AI：Muse Glimmer 被訓練成工具失敗後能判斷錯誤並重新嘗試，而不是直接終止任務\n延伸：真正可靠的 recovery 還需要區分可重試錯誤與永久錯誤，否則 Agent 可能陷入無限 retry 或重複執行有副作用的操作。\n來源：Retry Pattern、Idempotency、Agent Failure Recovery",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267086,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 706
+              },
+              "quote": {
+                "exact": "When a tool call fails or returns an unexpected result, the model is trained to diagnose the error and retry rather than halt.",
+                "prefix": "plans across complex, extended workflows.\nFailure Recovery. ",
+                "suffix": "\nMultimodal Input and Reasoning. Through a dedicated percept"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 580
+              },
+              "version": 1
+            },
+            "endOffset": 127,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[4]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[4]/text()[1]",
+            "text": "When a tool call fails or returns an unexpected result, the model is trained to diagnose the error and retry rather than halt."
+          },
+          "text": "When a tool call fails or returns an unexpected result, the model is trained to diagnose the error and retry rather than halt.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267086,
+          "id": "hk-ai-preview-1786676267086-28683",
+          "note": "AI：Muse Glimmer 的 Agent 能力以完整任務型 benchmark 而非單純問答測試為主要驗證方式\n延伸：不同 Agent benchmark 測試的 scaffold、工具環境與成功條件差異很大，因此分數通常不能直接跨 benchmark 比較。\n來源：SWE-bench、τ-bench",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267086,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 162
+              },
+              "quote": {
+                "exact": "Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench",
+                "prefix": "each of the following:\n\nEnd-to-end Agentic Task Completion. ",
+                "suffix": ", which measure its ability to work within scaffolds, write "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc:nth-of-type(2)",
+                "textOffset": 37
+              },
+              "version": 1
+            },
+            "endOffset": 126,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[2]/li[1]/text()[1]",
+            "text": "Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench"
+          },
+          "text": "Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267086-65602",
+          "note": "AI：模型在公開權重前另外經過 Meta 的風險與安全評估流程\n延伸：Open-weight 模型發布評估通常特別關注模型權重一旦下載後無法由供應商撤回控制，因此風險模型與雲端 API 不完全相同。\n來源：Meta Advanced AI Scaling Framework",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267086,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(7)",
+                "textOffset": 163
+              },
+              "quote": {
+                "exact": "Muse Glimmer was evaluated under the standards set out in Meta's Advanced AI Scaling Framework and assessed for open-weight release across all relevant categories.",
+                "prefix": "ng across general, reasoning, coding, and agentic domains.\n\n",
+                "suffix": "\nBuilt for Agents: What Muse Glimmer Can Do\nBuilding effecti"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 3271
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[7]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[8]",
+            "text": "Muse Glimmer was evaluated under the standards set out in Meta's Advanced AI Scaling Framework and assessed for open-weight release across all relevant categories."
+          },
+          "text": "Muse Glimmer was evaluated under the standards set out in Meta's Advanced AI Scaling Framework and assessed for open-weight release across all relevant categories.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-53450",
+          "note": "AI：後訓練同時使用 SFT、On-policy Distillation 與強化學習提升多領域能力\n延伸：On-policy distillation 會讓 student 用自己目前策略產生軌跡，再接受 teacher 訊號，因此比固定離線資料更貼近模型真正會遇到的狀態分布。\n來源：On-policy Distillation、Reinforcement Learning",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc",
+                "textOffset": 434
+              },
+              "quote": {
+                "exact": "We combined supervised fine-tuning with a mix of on-policy distillation and reinforcement learning across general, reasoning, coding, and agentic domains.",
+                "prefix": "er reasoning traces, alongside organic data.\nPost-Training. ",
+                "suffix": "\n\nMuse Glimmer was evaluated under the standards set out in "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc",
+                "textOffset": 280
+              },
+              "version": 1
+            },
+            "endOffset": 155,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "We combined supervised fine-tuning with a mix of on-policy distillation and reinforcement learning across general, reasoning, coding, and agentic domains."
+          },
+          "text": "We combined supervised fine-tuning with a mix of on-policy distillation and reinforcement learning across general, reasoning, coding, and agentic domains.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-33997",
+          "note": "AI：Mid-Training 特別增加長上下文、Agent 任務與更完整推理軌跡\n延伸：Mid-training 常被用來補強 base pretraining 與 post-training 之間的能力缺口，尤其適合加入長上下文、工具使用等特定能力資料。\n來源：Mid-training language model、Continued Pretraining",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc",
+                "textOffset": 264
+              },
+              "quote": {
+                "exact": "We trained the model on longer-context, more agent-heavy data with richer reasoning traces, alongside organic data.",
+                "prefix": "leveraging a similar data mix as the teacher.\nMid-Training. ",
+                "suffix": "\nPost-Training. We combined supervised fine-tuning with a mi"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc",
+                "textOffset": 149
+              },
+              "version": 1
+            },
+            "endOffset": 116,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "We trained the model on longer-context, more agent-heavy data with richer reasoning traces, alongside organic data."
+          },
+          "text": "We trained the model on longer-context, more agent-heavy data with richer reasoning traces, alongside organic data.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-73012",
+          "note": "AI：預訓練階段直接利用大型教師模型的 logits 進行蒸餾\n延伸：Logit distillation 能保留 teacher 對候選 token 的相對偏好，比只使用最終生成文字包含更多 supervision signal。\n來源：Knowledge Distillation、Logit Distillation",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "We trained Muse Glimmer on Muse Spark's outputs using logit distillation, leveraging a similar data mix as the teacher.",
+                "prefix": "s. We achieved this in the following phases:\n\nPre-Training. ",
+                "suffix": "\nMid-Training. We trained the model on longer-context, more "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > ul.text-text-paragraph.list-disc",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "We trained Muse Glimmer on Muse Spark's outputs using logit distillation, leveraging a similar data mix as the teacher."
+          },
+          "text": "We trained Muse Glimmer on Muse Spark's outputs using logit distillation, leveraging a similar data mix as the teacher.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-50832",
+          "note": "AI：Meta 結合小型架構、知識蒸餾與量化，把大型模型的 Agent 能力壓縮到本地模型\n延伸：蒸餾的核心不是單純複製答案，而是利用 teacher 的機率分布或推理資料訓練 student，因此資料設計往往比單純縮小模型更重要。\n來源：Knowledge Distillation、Hinton et al., Distilling the Knowledge in a Neural Network",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(6)",
+                "textOffset": 326
+              },
+              "quote": {
+                "exact": "This required a compact architecture, a novel distillation recipe that transfers agentic reasoning from a much larger teacher model, and inference optimizations — including quantization — to meet latency expectations.",
+                "prefix": "ainst the memory and compute constraints of local hardware. ",
+                "suffix": " We achieved this in the following phases:\n\nPre-Training. We"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(6)",
+                "textOffset": 109
+              },
+              "version": 1
+            },
+            "endOffset": 326,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[6]/text()[1]",
+            "text": "This required a compact architecture, a novel distillation recipe that transfers agentic reasoning from a much larger teacher model, and inference optimizations — including quantization — to meet latency expectations."
+          },
+          "text": "This required a compact architecture, a novel distillation recipe that transfers agentic reasoning from a much larger teacher model, and inference optimizations — including quantization — to meet latency expectations.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-24377",
+          "note": "AI：Muse Glimmer 的核心設計目標是在模型能力與本地硬體限制之間取得平衡\n延伸：本地模型常見的 Pareto trade-off 是模型尺寸、量化程度、context 長度、生成速度與準確率，很難同時把所有指標最大化。\n來源：Pareto Frontier、LLM Quantization",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(6)",
+                "textOffset": 108
+              },
+              "quote": {
+                "exact": "We designed Muse Glimmer to balance capability against the memory and compute constraints of local hardware.",
+                "prefix": "erstanding, long-context memory, and instruction following.\n",
+                "suffix": " This required a compact architecture, a novel distillation "
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 2466
+              },
+              "version": 1
+            },
+            "endOffset": 108,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[6]",
+            "text": "We designed Muse Glimmer to balance capability against the memory and compute constraints of local hardware."
+          },
+          "text": "We designed Muse Glimmer to balance capability against the memory and compute constraints of local hardware.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-96054",
+          "note": "AI：Agent 能力不是單一推理分數，而是長任務、工具、多模態、記憶與指令遵循的整體組合\n延伸：其中任何一環出錯都可能讓整條任務失敗，因此 Agent 評估常比一般問答 benchmark 更重視 end-to-end success rate。\n來源：Agent Benchmark、End-to-End Task Completion",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(5)",
+                "textOffset": 318
+              },
+              "quote": {
+                "exact": "It also needs several capabilities working in concert: long-horizon execution, precise tool calling, multimodal understanding, long-context memory, and instruction following.",
+                "prefix": " learns how you work needs deep access to personal context. ",
+                "suffix": "\nWe designed Muse Glimmer to balance capability against the "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(5)",
+                "textOffset": 144
+              },
+              "version": 1
+            },
+            "endOffset": 318,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 144,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "It also needs several capabilities working in concert: long-horizon execution, precise tool calling, multimodal understanding, long-context memory, and instruction following."
+          },
+          "text": "It also needs several capabilities working in concert: long-horizon execution, precise tool calling, multimodal understanding, long-context memory, and instruction following.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-92258",
+          "note": "AI：真正的個人 Agent 必須取得大量個人情境資料才能代替使用者完成工作\n延伸：這也會放大權限管理風險，因此本地 Agent 通常還需要 sandbox、最小權限與工具呼叫確認機制，而不能只依靠模型本身。\n來源：Principle of Least Privilege、Agent Sandbox",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(5)",
+                "textOffset": 143
+              },
+              "quote": {
+                "exact": "An agent that manages your schedule, drafts your messages, organizes your files, and learns how you work needs deep access to personal context.",
+                "prefix": "整合將在未來幾天內推出，因此您可以在幾分鐘內從下載到工作代理。\nHow We Trained Muse Glimmer\n",
+                "suffix": " It also needs several capabilities working in concert: long"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 2147
+              },
+              "version": 1
+            },
+            "endOffset": 143,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[5]",
+            "text": "An agent that manages your schedule, drafts your messages, organizes your files, and learns how you work needs deep access to personal context."
+          },
+          "text": "An agent that manages your schedule, drafts your messages, organizes your files, and learns how you work needs deep access to personal context.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1786676267087,
+          "id": "hk-ai-preview-1786676267087-38174",
+          "note": "AI：Muse Glimmer 將整合多種本地推論框架，讓模型更容易直接部署到不同裝置\n延伸：llama.cpp、MLX 與 ExecuTorch 分別偏向跨平台 CPU/GPU、Apple Silicon 與行動／邊緣裝置，實際速度會因 backend 差異很大。\n來源：llama.cpp、Apple MLX、PyTorch ExecuTorch",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(4)",
+                "textOffset": 436
+              },
+              "quote": {
+                "exact": "Optimized integrations on llama.cpp, MLX, and ExecuTorch will land in the coming days, so you can go from download to working agent in minutes.",
+                "prefix": "mer is built to work with the tools developers already use. ",
+                "suffix": "秉承我們分享基礎人工智慧研究的悠久傳統，我們今天在 Hugging Face 上發布 Muse Glimmer 開放權重"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(4)",
+                "textOffset": 293
+              },
+              "version": 1
+            },
+            "endOffset": 269,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[3]",
+            "startOffset": 126,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[3]",
+            "text": "Optimized integrations on llama.cpp, MLX, and ExecuTorch will land in the coming days, so you can go from download to working agent in minutes."
+          },
+          "text": "Optimized integrations on llama.cpp, MLX, and ExecuTorch will land in the coming days, so you can go from download to working agent in minutes.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267088,
+          "id": "hk-ai-preview-1786676267088-74813",
+          "note": "AI：Meta 同時公開模型權重與開發文件，降低開發者建立本地 Agent 的門檻\n延伸：Open Weights 不一定等同完整 Open Source，通常還要分別檢查訓練資料、訓練程式碼與授權條款是否同樣公開。\n來源：Open Source Initiative、Open Weights",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267087,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(4)",
+                "textOffset": 223
+              },
+              "quote": {
+                "exact": "we're releasing Muse Glimmer open weights today on Hugging Face, along with developer documentation to help you start building and running your own agents.",
+                "prefix": "with our long tradition of sharing fundamental AI research, ",
+                "suffix": " Muse Glimmer is built to work with the tools developers alr"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(4)",
+                "textOffset": 68
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[3]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "we're releasing Muse Glimmer open weights today on Hugging Face, along with developer documentation to help you start building and running your own agents."
+          },
+          "text": "we're releasing Muse Glimmer open weights today on Hugging Face, along with developer documentation to help you start building and running your own agents.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1786676267088,
+          "id": "hk-ai-preview-1786676267088-6708",
+          "note": "AI：小型模型若針對特定任務妥善訓練，也可能逼近大型前沿模型的表現\n延伸：這通常只成立於特定任務或 benchmark，而不是代表小模型在通用推理、知識廣度與複雜長任務上全面追上前沿模型。\n來源：Knowledge Distillation、Small Language Models",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267088,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 458
+              },
+              "quote": {
+                "exact": "the open source community has shown that smaller models, when trained effectively, can approach frontier-level performance on targeted tasks.",
+                "prefix": "ithout an internet connection. This is increasingly viable: ",
+                "suffix": " Muse Glimmer is optimized for these local use cases.基礎模型在推理"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 317
+              },
+              "version": 1
+            },
+            "endOffset": 458,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 317,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "the open source community has shown that smaller models, when trained effectively, can approach frontier-level performance on targeted tasks."
+          },
+          "text": "the open source community has shown that smaller models, when trained effectively, can approach frontier-level performance on targeted tasks.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1786676267088,
+          "id": "hk-ai-preview-1786676267088-66087",
+          "note": "AI：本地執行讓 AI 不再依賴持續的網路連線\n延伸：離線可用特別適合筆電助手、工業設備與邊緣裝置，但實際體驗仍會受到裝置記憶體、功耗與散熱能力限制。\n來源：Edge AI、On-device inference",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267088,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 287
+              },
+              "quote": {
+                "exact": "Running models locally enables you to use AI anywhere, anytime, with or without an internet connection.",
+                "prefix": "ts still depend on cloud infrastructure and network access. ",
+                "suffix": " This is increasingly viable: the open source community has "
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 184
+              },
+              "version": 1
+            },
+            "endOffset": 287,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 184,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "Running models locally enables you to use AI anywhere, anytime, with or without an internet connection."
+          },
+          "text": "Running models locally enables you to use AI anywhere, anytime, with or without an internet connection.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1786676267088,
+          "id": "hk-ai-preview-1786676267088-28682",
+          "note": "AI：現有基礎模型能力已很強，但實際部署仍高度依賴雲端與網路\n延伸：本地模型真正要解決的不只是離線問題，還包含資料隱私、API 成本、網路延遲，以及企業無法把敏感資料送往外部服務的限制。\n來源：Edge AI、On-device AI、Local LLM",
+          "range": {
+            "anchors": {
+              "createdAt": 1786676267088,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6 > p.text-text-paragraph.text-base:nth-of-type(3)",
+                "textOffset": 183
+              },
+              "quote": {
+                "exact": "Foundation models have achieved remarkable capabilities across reasoning, code generation, and tool use — yet most deployments still depend on cloud infrastructure and network access.",
+                "prefix": "為法官評估的用例。與同尺寸類別中的領先型號相比，Muse Glimmer 在關鍵代理用例和基準測試中提供了強大的效能。\n",
+                "suffix": " Running models locally enables you to use AI anywhere, anyt"
+              },
+              "start": {
+                "css": "main#main-content > div.max-w-page-shell.px-page-gutter > div.editorial-container-module__U79J7G__container > article > div.max-w-article.mx-auto > div.space-y-6",
+                "textOffset": 829
+              },
+              "version": 1
+            },
+            "endOffset": 183,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/div[1]/text()[2]",
+            "text": "Foundation models have achieved remarkable capabilities across reasoning, code generation, and tool use — yet most deployments still depend on cloud infrastructure and network access."
+          },
+          "text": "Foundation models have achieved remarkable capabilities across reasoning, code generation, and tool use — yet most deployments still depend on cloud infrastructure and network access.",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+        }
+      ],
+      "note": {
+        "generatedAt": 1786676267097,
+        "model": "chatgpt-web",
+        "note": "Muse Glimmer 的核心不是單純做一個較小的 LLM，而是把「可用的 Agent」塞進個人電腦。\n\n它以 30B 模型為基礎，透過大型 teacher 的 Logit Distillation、Mid-Training、SFT、On-policy Distillation 與 RL，集中強化工具呼叫、長任務推理、多模態、錯誤恢復與多語能力。\n\n真正困難的是硬體。\n30B 完整精度需要超過 55GB 記憶體，因此 Meta 將權重量化到約 4-bit、20GB 以下，讓 24GB～32GB 裝置還能容納 KV Cache、視覺 Encoder 與 Drafter。\n\n速度方面再加入 Speculative Decoding，由小型 Drafter 先猜多個 Token，主模型平行驗證，以降低逐 Token 生成造成的延遲。\n\n整體定位很明確：把原本高度依賴 Cloud API 的 Agent，轉成可以離線、本地、低延遲運行的 Personal Agent，並透過 llama.cpp、MLX、ExecuTorch、Ollama、vLLM 等生態降低部署門檻。",
+        "provider": "chatgpt",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://arxiv.org/html/2606.21649",
       "title": "EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory",

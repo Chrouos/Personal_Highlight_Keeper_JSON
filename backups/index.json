@@ -1,24 +1,29 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1786527467680,
-  "totalPages": 563,
+  "exportedAt": 1787706754968,
+  "totalPages": 587,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 548
+      "pageCount": 570
     },
     {
       "tag": "人工智慧",
       "file": "categories/人工智慧.json",
-      "pageCount": 4
+      "pageCount": 6
     },
     {
       "tag": "多模態模型",
       "file": "categories/多模態模型.json",
+      "pageCount": 6
+    },
+    {
+      "tag": "開源模型",
+      "file": "categories/開源模型.json",
       "pageCount": 4
     },
     {
@@ -27,13 +32,28 @@
       "pageCount": 4
     },
     {
-      "tag": "自然語言處理",
-      "file": "categories/自然語言處理.json",
+      "tag": "成本控制",
+      "file": "categories/成本控制.json",
       "pageCount": 3
     },
     {
-      "tag": "開源模型",
-      "file": "categories/開源模型.json",
+      "tag": "智慧體記憶",
+      "file": "categories/智慧體記憶.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "延遲優化",
+      "file": "categories/延遲優化.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "記憶體快取",
+      "file": "categories/記憶體快取.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "自然語言處理",
+      "file": "categories/自然語言處理.json",
       "pageCount": 3
     },
     {
@@ -47,23 +67,13 @@
       "pageCount": 3
     },
     {
-      "tag": "記憶體快取",
-      "file": "categories/記憶體快取.json",
+      "tag": "開發者指南",
+      "file": "categories/開發者指南.json",
       "pageCount": 2
     },
     {
       "tag": "即時語音",
       "file": "categories/即時語音.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "延遲優化",
-      "file": "categories/延遲優化.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "成本控制",
-      "file": "categories/成本控制.json",
       "pageCount": 2
     },
     {
@@ -144,11 +154,6 @@
     {
       "tag": "Muse Image",
       "file": "categories/Muse Image.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "開發者指南",
-      "file": "categories/開發者指南.json",
       "pageCount": 1
     },
     {
@@ -239,11 +244,6 @@
     {
       "tag": "動態嵌入",
       "file": "categories/動態嵌入.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "智慧體記憶",
-      "file": "categories/智慧體記憶.json",
       "pageCount": 1
     },
     {

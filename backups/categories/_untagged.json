@@ -1,9 +1,1565 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1786527467618,
+  "exportedAt": 1787706754904,
   "category": null,
   "pages": [
+    {
+      "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026",
+      "title": "Shareuhack | mattpocock/skills 精選指南：我們的 AI Agent Fleet 實際在用的 5 個 Claude Code Skills",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787640614956,
+          "id": "hk-1787640614948-81009",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787640614945,
+              "end": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 98
+              },
+              "quote": {
+                "exact": "先寫測試再寫 implementation",
+                "prefix": " 精選指南：AI Agent Fleet 實際在用的 5 個 Claude Code Skills\n你叫 Claude「",
+                "suffix": "」，它回覆「好的，我先寫測試」——然後你回來看，發現它把 implementation 寫完了，最後補了幾個 happy"
+              },
+              "start": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 77
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "先寫測試再寫 implementation"
+          },
+          "text": "先寫測試再寫 implementation",
+          "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787642117333,
+          "id": "hk-1787642117329-51772",
+          "note": "也就是實際的運作習慣，沒有辦法遵循 TDD 流程，或是本來的 Instruction 力度不夠大",
+          "range": {
+            "anchors": {
+              "createdAt": 1787642117327,
+              "end": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 942
+              },
+              "quote": {
+                "exact": "它經常先把功能寫出來，再倒推測試",
+                "prefix": "在 prompt 裡寫得很清楚：「用 TDD 流程，先寫測試」。Claude 也回覆「了解，我先寫測試」。但實際執行時，",
+                "suffix": "。\n根因不是 Claude 理解力不夠——是 prompt 層級的指令本質上是「建議」。Claude 在處理複雜任務時，"
+              },
+              "start": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 926
+              },
+              "version": 1
+            },
+            "endOffset": 108,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 92,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "它經常先把功能寫出來，再倒推測試"
+          },
+          "text": "它經常先把功能寫出來，再倒推測試",
+          "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787642151811,
+          "id": "hk-1787642151808-14926",
+          "note": "記憶",
+          "range": {
+            "anchors": {
+              "createdAt": 1787642151806,
+              "end": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 1434
+              },
+              "quote": {
+                "exact": "CLAUDE.md",
+                "prefix": "，是多數人踩坑的起點。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n層級機制執行保證適合放什麼",
+                "suffix": "每個 session 全量載入機率性（probabilistic）持久專案規範，建議控制在 200 行以內Skills（"
+              },
+              "start": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 1425
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/text()[1]",
+            "text": "CLAUDE.md"
+          },
+          "text": "CLAUDE.md",
+          "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787642162448,
+          "id": "hk-1787642162444-31850",
+          "note": "可以特地使用，偶爾會因為有相關所以找出來用，或是常駐",
+          "range": {
+            "anchors": {
+              "createdAt": 1787642162443,
+              "end": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 1507
+              },
+              "quote": {
+                "exact": "按需載入",
+                "prefix": "n 全量載入機率性（probabilistic）持久專案規範，建議控制在 200 行以內Skills（SKILL.md）",
+                "suffix": "（description 常駐；body 只在 invoke 時載入）機率性（probabilistic）可重用的工作流"
+              },
+              "start": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 1503
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/text()[1]",
+            "text": "按需載入"
+          },
+          "text": "按需載入",
+          "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787642187228,
+          "id": "hk-1787642187225-8686",
+          "note": "Context Rot.",
+          "range": {
+            "anchors": {
+              "createdAt": 1787642187224,
+              "end": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 1763
+              },
+              "quote": {
+                "exact": "會開始靜默忽略埋在雜訊裡的規則",
+                "prefix": "istic）零例外強制執行：格式檢查、lint、測試\n關鍵洞見：CLAUDE.md 超過 200 行之後，Claude ",
+                "suffix": "。Marmelab 的工程團隊在實戰中驗證了這點，我們踩過 CLAUDE.md 超過 200 行的問題——某些規則開始被"
+              },
+              "start": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 1748
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[7]/strong[1]/text()[1]",
+            "text": "會開始靜默忽略埋在雜訊裡的規則"
+          },
+          "text": "會開始靜默忽略埋在雜訊裡的規則",
+          "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787642411337,
+          "id": "hk-1787642411332-49406",
+          "note": "只有那淺淺的 Prompt 是不夠的，還要透過 skills 去一開始搭建規則，幫助整體開發流程",
+          "range": {
+            "anchors": {
+              "createdAt": 1787642411331,
+              "end": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 2376
+              },
+              "quote": {
+                "exact": "prompt engineering 不夠，需要 workflow engineering",
+                "prefix": "IT license，2026 年 4 月底公開）爆紅的真正原因不是名人效應——是它踩中了一個時間點：開發者開始意識到 ",
+                "suffix": "。\n更重要的是，Skills 不是 Claude Code 的獨家功能。Agent Skills（agentskills"
+              },
+              "start": {
+                "css": "div#postBody > div.max-w-none.prose",
+                "textOffset": 2331
+              },
+              "version": 1
+            },
+            "endOffset": 207,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 162,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/main[1]/div[4]/div[4]/article[1]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "prompt engineering 不夠，需要 workflow engineering"
+          },
+          "text": "prompt engineering 不夠，需要 workflow engineering",
+          "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling",
+      "title": "Programmatic Tool Calling | OpenAI API",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787559170071,
+          "id": "hk-1787559170054-6483",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787559170049,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 157
+              },
+              "quote": {
+                "exact": "A program can call tools in parallel,",
+                "prefix": "ript that coordinates the tools in a Responses API request. ",
+                "suffix": " use loops and conditions, and keep intermediate results in "
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 120
+              },
+              "version": 1
+            },
+            "endOffset": 156,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 119,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "A program can call tools in parallel,"
+          },
+          "text": "A program can call tools in parallel,",
+          "url": "https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787561701051,
+          "id": "hk-1787561701040-17590",
+          "note": "重點是要平行產出\n\n\nLLM\n ↓\n產生 JavaScript program\n ↓\n┌────────────────────────────┐\n│ get_inventory(A)           │\n│ get_demand(A)              │\n│ get_inventory(B)           │\n│ get_demand(B)              │\n│                            │\n│ filter / sort / calculate  │\n└────────────────────────────┘\n ↓\n整理好的結果\n ↓\nLLM",
+          "range": {
+            "anchors": {
+              "createdAt": 1787561701037,
+              "end": {
+                "css": "article#mainContent",
+                "textOffset": 368
+              },
+              "quote": {
+                "exact": "This is useful when a task needs a sequence of related tool calls or needs to process large tool outputs before returning a result.",
+                "prefix": "tions, and keep intermediate results in the hosted runtime. ",
+                "suffix": "程式設計工具呼叫允許模型編寫並運行 JavaScript，以協調回應 API 請求中的工具。程式可以並行呼叫工具、使用循"
+              },
+              "start": {
+                "css": "article#mainContent",
+                "textOffset": 237
+              },
+              "version": 1
+            },
+            "endOffset": 211,
+            "endXPath": "/html[1]/body[1]/div[5]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[2]",
+            "startOffset": 80,
+            "startXPath": "/html[1]/body[1]/div[5]/div[1]/main[1]/div[1]/div[1]/div[2]/article[1]/p[1]/text()[2]",
+            "text": "This is useful when a task needs a sequence of related tool calls or needs to process large tool outputs before returning a result."
+          },
+          "text": "This is useful when a task needs a sequence of related tool calls or needs to process large tool outputs before returning a result.",
+          "url": "https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.aiposthub.com/claude-eli5-skill-html-visual-explainer/",
+      "title": "Claude ELI5 Skill 教學：把複雜概念變成圖解",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787534742580,
+          "id": "hk-1787534742570-59596",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787534742566,
+              "end": {
+                "css": "html.has-dark-text.trancy-zh-Hant > body.post-template.tag-ai-gong-ju > div.gh-viewport:nth-of-type(2) > main.gh-main > article.gh-article.post > section.gh-content.gh-canvas",
+                "textOffset": 525
+              },
+              "quote": {
+                "exact": "用大圖、少量文字製作 HTML artifact",
+                "prefix": "主題，再從最基本的角色與流程開始說明。他公開的 Skill 核心指令很短：請 Claude 向完全不了解主題的人解釋，並",
+                "suffix": "。這裡的 HTML artifact，可以先理解成一個由 Claude 產生、能在瀏覽器開啟的圖解網頁。使用方式也很直接"
+              },
+              "start": {
+                "css": "html.has-dark-text.trancy-zh-Hant > body.post-template.tag-ai-gong-ju > div.gh-viewport:nth-of-type(2) > main.gh-main > article.gh-article.post > section.gh-content.gh-canvas",
+                "textOffset": 501
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/p[5]/text()[1]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/p[5]/text()[1]",
+            "text": "用大圖、少量文字製作 HTML artifact"
+          },
+          "text": "用大圖、少量文字製作 HTML artifact",
+          "url": "https://www.aiposthub.com/claude-eli5-skill-html-visual-explainer/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787538911409,
+          "id": "hk-1787538911404-90665",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787538911401,
+              "end": {
+                "css": "html.has-dark-text.trancy-zh-Hant > body.post-template.tag-ai-gong-ju > div.gh-viewport:nth-of-type(2) > main.gh-main > article.gh-article.post > section.gh-content.gh-canvas",
+                "textOffset": 833
+              },
+              "quote": {
+                "exact": "仍屬於社群提供的 plugin，不是 Claude Code 的內建功能，也不是 Anthropic 正式推出的新產品",
+                "prefix": "itory，也就是存放社群功能包的程式碼庫。這個 repository 表示其中的項目已通過自動安全掃描並獲准分發，但它",
+                "suffix": "。實際效果如何？影片把 Discord bot 拆成一張張流程圖頁面先讓讀者看懂網站、bot、Discord 與資料庫各"
+              },
+              "start": {
+                "css": "html.has-dark-text.trancy-zh-Hant > body.post-template.tag-ai-gong-ju > div.gh-viewport:nth-of-type(2) > main.gh-main > article.gh-article.post > section.gh-content.gh-canvas",
+                "textOffset": 774
+              },
+              "version": 1
+            },
+            "endOffset": 160,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/p[8]/text()[2]",
+            "startOffset": 101,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/section[1]/p[8]/text()[2]",
+            "text": "仍屬於社群提供的 plugin，不是 Claude Code 的內建功能，也不是 Anthropic 正式推出的新產品"
+          },
+          "text": "仍屬於社群提供的 plugin，不是 Claude Code 的內建功能，也不是 Anthropic 正式推出的新產品",
+          "url": "https://www.aiposthub.com/claude-eli5-skill-html-visual-explainer/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.bnext.com.tw/article/90870/claude-skills-guidebook",
+      "title": "Claude Skills是什麼、怎麼用？新手零基礎入門教學，不用每次重貼提示詞|數位時代 BusinessNext",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787538698968,
+          "id": "hk-1787538698957-51282",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787538698954,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 57
+              },
+              "quote": {
+                "exact": "每次開新對話，就要重新解釋自己是誰、在做什麼、希望它怎麼回答",
+                "prefix": "\n                                用了 Claude 一陣子，你可能會發現一個惱人狀況：",
+                "suffix": "。每次上傳的那份風格指南、每次貼上的那段背景說明、每次交代的「請不要用條列式」，全都要重複一次。\n這就是多數人卡住的地方"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 27
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/text()[2]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[1]/text()[2]",
+            "text": "每次開新對話，就要重新解釋自己是誰、在做什麼、希望它怎麼回答"
+          },
+          "text": "每次開新對話，就要重新解釋自己是誰、在做什麼、希望它怎麼回答",
+          "url": "https://www.bnext.com.tw/article/90870/claude-skills-guidebook"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787538710729,
+          "id": "hk-1787538710717-80514",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787538710717,
+              "end": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 272
+              },
+              "quote": {
+                "exact": "透過 Skills 把重複的工作流程包成可以自動啟動的小工具，再依照自身需求把個人化偏好（即官方文件中所稱的 profile instructions）寫清楚",
+                "prefix": "在「prompt 工匠」階段，眼見跟 AI 的對話落落長，但仍脫離不了重複勞動的狀況。\n因此，本文將帶領你跨過去這個檻。",
+                "suffix": "，就可以讓 Claude 從「每次都要重新認識你」的對話機器人，變成記得你是誰、知道該怎麼做事的專屬工作夥伴。\n\n\n掌握"
+              },
+              "start": {
+                "css": "section#article > div.w-full.grid > div.left > div.main.grid > div.center.flex:nth-of-type(2) > div.htmlview.article-content:nth-of-type(2)",
+                "textOffset": 193
+              },
+              "version": 1
+            },
+            "endOffset": 70,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[3]/text()[2]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/article[1]/div[2]/section[1]/div[1]/div[1]/div[1]/div[2]/div[2]/p[3]/text()[1]",
+            "text": "透過 Skills 把重複的工作流程包成可以自動啟動的小工具，再依照自身需求把個人化偏好（即官方文件中所稱的 profile instructions）寫清楚"
+          },
+          "text": "透過 Skills 把重複的工作流程包成可以自動啟動的小工具，再依照自身需求把個人化偏好（即官方文件中所稱的 profile instructions）寫清楚",
+          "url": "https://www.bnext.com.tw/article/90870/claude-skills-guidebook"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+      "title": "The New American AI Model Designed to be Customized",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787297666382,
+          "id": "hk-1787297666364-42896",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787297666361,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 107
+              },
+              "quote": {
+                "exact": "AI coding agents can generate code quickly",
+                "prefix": "our Token Usage by Up to 36% (Sponsored)將您的代幣使用量減少高達 36%（贊助）",
+                "suffix": ", but CI checks often happen after the agents finish their w"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 65
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "AI coding agents can generate code quickly"
+          },
+          "text": "AI coding agents can generate code quickly",
+          "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.testingcatalog.com/ornith-1-5-open-models-launch-in-397b-35b-and-9-b-sizes/",
+      "title": "Ornith-1.5 open models launch in 397B, 35B, and 9 B sizes.",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787297344227,
+          "id": "hk-1787297344215-78649",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787297344205,
+              "end": {
+                "css": "section#post-body",
+                "textOffset": 143
+              },
+              "quote": {
+                "exact": "Ornith has released Ornith-1.5",
+                "prefix": "         \n                \n            \n        \n    \n\n\n    ",
+                "suffix": ", a family of open models that extends the self-scaffolding "
+              },
+              "start": {
+                "css": "section#post-body",
+                "textOffset": 113
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[1]",
+            "text": "Ornith has released Ornith-1.5"
+          },
+          "text": "Ornith has released Ornith-1.5",
+          "url": "https://www.testingcatalog.com/ornith-1-5-open-models-launch-in-397b-35b-and-9-b-sizes/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787297351981,
+          "id": "hk-1787297351978-93771",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787297351977,
+              "end": {
+                "css": "section#post-body",
+                "textOffset": 264
+              },
+              "quote": {
+                "exact": "self-scaffolding framework from Ornith-1.0 into a closed self-improvement loop",
+                "prefix": "leased Ornith-1.5, a family of open models that extends the ",
+                "suffix": ". Where the previous generation wrote the scaffold around a "
+              },
+              "start": {
+                "css": "section#post-body",
+                "textOffset": 186
+              },
+              "version": 1
+            },
+            "endOffset": 121,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[2]",
+            "startOffset": 43,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[2]",
+            "text": "self-scaffolding framework from Ornith-1.0 into a closed self-improvement loop"
+          },
+          "text": "self-scaffolding framework from Ornith-1.0 into a closed self-improvement loop",
+          "url": "https://www.testingcatalog.com/ornith-1-5-open-models-launch-in-397b-35b-and-9-b-sizes/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1787297361593,
+          "id": "hk-1787297361591-63595",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787297361591,
+              "end": {
+                "css": "section#post-body",
+                "textOffset": 736
+              },
+              "quote": {
+                "exact": "a 397B mixture-of-experts flagship, a 35B mixture-of-experts model activating 3B parameters per token, and a 9B dense model shipping with a quantized Mobile build for iPhone and Android.",
+                "prefix": "or reinforcement learning. The release covers three scales: ",
+                "suffix": "Ornith 發布了 Ornith-1.5，這是一個開放模型系列，它將 Ornith-1.0 的自我腳手架框架擴展為一個"
+              },
+              "start": {
+                "css": "section#post-body",
+                "textOffset": 550
+              },
+              "version": 1
+            },
+            "endOffset": 472,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[3]",
+            "startOffset": 286,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[3]",
+            "text": "a 397B mixture-of-experts flagship, a 35B mixture-of-experts model activating 3B parameters per token, and a 9B dense model shipping with a quantized Mobile build for iPhone and Android."
+          },
+          "text": "a 397B mixture-of-experts flagship, a 35B mixture-of-experts model activating 3B parameters per token, and a 9B dense model shipping with a quantized Mobile build for iPhone and Android.",
+          "url": "https://www.testingcatalog.com/ornith-1-5-open-models-launch-in-397b-35b-and-9-b-sizes/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "title": "Sol loves to cheat — jumploops",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787296914955,
+          "id": "hk-1787296914951-11474",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787296914948,
+              "end": {
+                "css": "html.trancy-zh-Hant > body > main.wrap > article > div.prose",
+                "textOffset": 251
+              },
+              "quote": {
+                "exact": "“spec-driven” development flow",
+                "prefix": "4%，然後發現 GPT-5.6 Sol 開始作弊。\n\nBackground背景\nI’ve been running a ",
+                "suffix": " for the past ~year.在過去的一年裡，我一直在運行「規範驅動」的開發流程。\nIt’s pretty s"
+              },
+              "start": {
+                "css": "html.trancy-zh-Hant > body > main.wrap > article > div.prose",
+                "textOffset": 221
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/p[2]/text()[1]",
+            "text": "“spec-driven” development flow"
+          },
+          "text": "“spec-driven” development flow",
+          "url": "https://jumploops.com/blog/sol-loves-to-cheat/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.aihero.dev/skills-grill-me",
+      "title": "The /grill-me Skill",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787217045241,
+          "id": "hk-1787217045236-3555",
+          "note": "讓你不要只是一個很模糊的概念，而是真的知道自己在幹嘛",
+          "range": {
+            "anchors": {
+              "createdAt": 1787217045233,
+              "end": {
+                "css": "div.relative.z-10 > article.\\[\\&\\>\\*\\+\\*\\]\\:border-border.relative > div.xl\\:grid.xl\\:grid-cols-\\[minmax\\(0\\,1fr\\)_232px\\]:nth-of-type(2) > div.px-\\[18px\\].pb-16 > article.prose.prose-hr\\:border-border > p.ah-prose-p",
+                "textOffset": 73
+              },
+              "quote": {
+                "exact": "loose idea and interviews you until you can commit to it",
+                "prefix": "l the skillRelated readingWhat it does它的作用\ngrill-me takes a ",
+                "suffix": ". You do not need a worked-out plan to start: producing one "
+              },
+              "start": {
+                "css": "article.\\[\\&\\>\\*\\+\\*\\]\\:border-border.relative > div.xl\\:grid.xl\\:grid-cols-\\[minmax\\(0\\,1fr\\)_232px\\]:nth-of-type(2) > div.px-\\[18px\\].pb-16 > article.prose.prose-hr\\:border-border > p.ah-prose-p > strong.ah-prose-strong",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[2]/div[1]/article[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[2]/div[1]/article[1]/p[1]/strong[1]/text()[1]",
+            "text": "loose idea and interviews you until you can commit to it"
+          },
+          "text": "loose idea and interviews you until you can commit to it",
+          "url": "https://www.aihero.dev/skills-grill-me"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787217243489,
+          "id": "hk-1787217243482-97497",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787217243480,
+              "end": {
+                "css": "div.relative.z-10 > article.\\[\\&\\>\\*\\+\\*\\]\\:border-border.relative > div.xl\\:grid.xl\\:grid-cols-\\[minmax\\(0\\,1fr\\)_232px\\]:nth-of-type(2) > div.px-\\[18px\\].pb-16 > article.prose.prose-hr\\:border-border > p.ah-prose-p",
+                "textOffset": 73
+              },
+              "quote": {
+                "exact": "loose idea and interviews you until you can commit to it",
+                "prefix": "l the skillRelated readingWhat it does它的作用\ngrill-me takes a ",
+                "suffix": ". You do not need a worked-out plan to start: producing one "
+              },
+              "start": {
+                "css": "article.\\[\\&\\>\\*\\+\\*\\]\\:border-border.relative > div.xl\\:grid.xl\\:grid-cols-\\[minmax\\(0\\,1fr\\)_232px\\]:nth-of-type(2) > div.px-\\[18px\\].pb-16 > article.prose.prose-hr\\:border-border > p.ah-prose-p > strong.ah-prose-strong",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[2]/div[1]/article[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/div[2]/div[1]/article[1]/p[1]/strong[1]/text()[1]",
+            "text": "loose idea and interviews you until you can commit to it"
+          },
+          "text": "loose idea and interviews you until you can commit to it",
+          "url": "https://www.aihero.dev/skills-grill-me"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://arxiv.org/html/2608.03487v1",
+      "title": "RAG-Stack: Co-Optimizing RAG Serving Performance and Quality",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787215979925,
+          "id": "hk-1787215979911-93935",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787215979908,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 109
+              },
+              "quote": {
+                "exact": "Retrieval-augmented generation (RAG), which augments LLM generation with information retrieved from databases",
+                "prefix": "email: wenqi.jiang@nus.edu.sg\n\n© none\n\nAbstract.  抽象的。\n    \n",
+                "suffix": ", has become a widely used approach for knowledge-intensive "
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[1]",
+            "text": "Retrieval-augmented generation (RAG), which augments LLM generation with information retrieved from databases"
+          },
+          "text": "Retrieval-augmented generation (RAG), which augments LLM generation with information retrieved from databases",
+          "url": "https://arxiv.org/html/2608.03487v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787215999513,
+          "id": "hk-1787215999506-55531",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787215999506,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 324
+              },
+              "quote": {
+                "exact": "such as retrieval indexes, model selections, and how models invoke retrievals",
+                "prefix": "rn RAG systems, however, expose many configuration choices, ",
+                "suffix": ".\nEach configuration yields a different trade-off between an"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 247
+              },
+              "version": 1
+            },
+            "endOffset": 215,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "such as retrieval indexes, model selections, and how models invoke retrievals"
+          },
+          "text": "such as retrieval indexes, model selections, and how models invoke retrievals",
+          "url": "https://arxiv.org/html/2608.03487v1"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build",
+      "title": "Waymo vs Tesla: Two Ways to Build Self-Driving Cars",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787213592617,
+          "id": "hk-1787213592610-32327",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787213592609,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2110
+              },
+              "quote": {
+                "exact": "Waymo and Tesla",
+                "prefix": "，而可行駛的車道仍然暢通無阻 [3]。這種場景的幾何形狀可能允許直接穿過它。然而，它的真正意義是要求扭轉或採取預防行動。",
+                "suffix": ", two companies investing in self-driving cars, have tried t"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2095
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[6]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[6]/span[1]/text()[1]",
+            "text": "Waymo and Tesla"
+          },
+          "text": "Waymo and Tesla",
+          "url": "https://blog.bytebytego.com/p/waymo-vs-tesla-two-ways-to-build"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://openai.com/zh-Hant/index/chatgpt-for-teens/",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections | OpenAI",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787209063690,
+          "id": "hk-1787209063665-48911",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787209063664,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2 > p.mb-6.last\\:mb-0",
+                "textOffset": 35
+              },
+              "quote": {
+                "exact": "ChatGPT for Teens",
+                "prefix": "ections推出青少年的 ChatGPT：專為學習而打造，以保護為後盾分享  分享We’re introducing ",
+                "suffix": ", an experience designed to help teens learn, think critical"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.contents:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2 > p.mb-6.last\\:mb-0",
+                "textOffset": 18
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[1]/p[1]/span[1]/text()[1]",
+            "text": "ChatGPT for Teens"
+          },
+          "text": "ChatGPT for Teens",
+          "url": "https://openai.com/zh-Hant/index/chatgpt-for-teens/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions",
+      "title": "GraphRAG: How AI Answers Questions Hidden Across Many Documents",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787188622946,
+          "id": "hk-1787188622939-18481",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787188622938,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1611
+              },
+              "quote": {
+                "exact": "can be found in a specific document",
+                "prefix": "看，這兩個問題看起來很相似。然而，從架構上來說，它們是相反的：The first has an answer that ",
+                "suffix": ", which is precisely what similarity search was built for.第一"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1576
+              },
+              "version": 1
+            },
+            "endOffset": 64,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "can be found in a specific document"
+          },
+          "text": "can be found in a specific document",
+          "url": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787189013617,
+          "id": "hk-1787189013609-76231",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787189013608,
+              "end": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 17
+              },
+              "quote": {
+                "exact": "Similarity Limits",
+                "prefix": "題包含與記錄所有權的架構決策記錄相同的詞彙表。這些向量彼此靠近，檢索返回正確的文檔，並且引文指向讀者可以實際驗證的地方。",
+                "suffix": "相似度限制This assumption about questions being similar to the an"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[3]/span[1]/text()[1]",
+            "text": "Similarity Limits"
+          },
+          "text": "Similarity Limits",
+          "url": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787189992164,
+          "id": "hk-1787189992158-72509",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787189992157,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 566
+              },
+              "quote": {
+                "exact": "AI-based retrieval",
+                "prefix": "繞著這項工作繪製了新興勞動力市場的地圖。Explore the report here在此瀏覽報告Imagine an ",
+                "suffix": " system pointed at five years of your team’s engineering doc"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 548
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "text": "AI-based retrieval"
+          },
+          "text": "AI-based retrieval",
+          "url": "https://blog.bytebytego.com/p/graphrag-how-ai-answers-questions"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://openai.com/zh-Hant/index/hugging-face-model-evaluation-security-incident/",
+      "title": "OpenAI 與 Hugging Face 合作處理模型評估期間的資安事件 | OpenAI",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787189922255,
+          "id": "hk-1787189922229-78905",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787189922226,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(5) > p.mb-6.last\\:mb-0",
+                "textOffset": 63
+              },
+              "quote": {
+                "exact": "Hugging Face 偵測並遏止了一個入侵其基礎設施的 AI 智慧體，隨後揭露這起新型資安事件⁠(在新視窗中開啟)。",
+                "prefix": "的風險，並提前做好準備。完成審查後，我們會依據應變整備框架⁠，與安全性與資安委員會及安全諮詢小組共同檢視審查結果。上週，",
+                "suffix": "隨著具備更強網路攻防能力的模型日益普及，我們預期這類事件將更加常見。經過調查，我們目前確認，這起事件是由多個 OpenA"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(5) > p.mb-6.last\\:mb-0",
+                "textOffset": 3
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[5]/p[1]/span[2]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[2]/div[1]/div[5]/p[1]/span[1]/text()[1]",
+            "text": "Hugging Face 偵測並遏止了一個入侵其基礎設施的 AI 智慧體，隨後揭露這起新型資安事件⁠(在新視窗中開啟)。"
+          },
+          "text": "Hugging Face 偵測並遏止了一個入侵其基礎設施的 AI 智慧體，隨後揭露這起新型資安事件⁠(在新視窗中開啟)。",
+          "url": "https://openai.com/zh-Hant/index/hugging-face-model-evaluation-security-incident/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://pagerank.ing/google-tpu-guide/",
+      "title": "TPU 是什麼？專為 AI 設計的專用晶片 | 產品先生",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787132208408,
+          "id": "hk-1787132208405-73406",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787132208404,
+              "end": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 28
+              },
+              "quote": {
+                "exact": "CPU 什麼都能做，但做 AI 計算不夠快",
+                "prefix": "與其做一把什麼都能切的萬用刀，不如做一把專門切某種東西的超級刀參考文獻也許會感興趣的文章\n簡單來說\n\n\n\n一般電腦用的 ",
+                "suffix": "，顯示卡用的 GPU 雖然比較快，但本來是設計來玩遊戲畫圖的，拿來做 AI 還是有點不太合身。\n\n\n\nTPU 不一樣，它"
+              },
+              "start": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 7
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "CPU 什麼都能做，但做 AI 計算不夠快"
+          },
+          "text": "CPU 什麼都能做，但做 AI 計算不夠快",
+          "url": "https://pagerank.ing/google-tpu-guide/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787132210589,
+          "id": "hk-1787132210585-57602",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787132210584,
+              "end": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 58
+              },
+              "quote": {
+                "exact": " GPU 雖然比較快，但本來是設計來玩遊戲畫圖的",
+                "prefix": "的超級刀參考文獻也許會感興趣的文章\n簡單來說\n\n\n\n一般電腦用的 CPU 什麼都能做，但做 AI 計算不夠快，顯示卡用的",
+                "suffix": "，拿來做 AI 還是有點不太合身。\n\n\n\nTPU 不一樣，它從頭到尾只為 AI 而活，它最擅長的就是一直做「矩陣乘法」，"
+              },
+              "start": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[2]/text()[2]",
+            "text": " GPU 雖然比較快，但本來是設計來玩遊戲畫圖的"
+          },
+          "text": " GPU 雖然比較快，但本來是設計來玩遊戲畫圖的",
+          "url": "https://pagerank.ing/google-tpu-guide/"
+        },
+        {
+          "color": "#fce4ee",
+          "createdAt": 1787132224285,
+          "id": "hk-1787132224281-5863",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787132224281,
+              "end": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 38
+              },
+              "quote": {
+                "exact": "TPU 不一樣，它從頭到尾只為 AI 而活，它最擅長的就是一直做「矩陣乘法」",
+                "prefix": " AI 計算不夠快，顯示卡用的 GPU 雖然比較快，但本來是設計來玩遊戲畫圖的，拿來做 AI 還是有點不太合身。\n\n\n\n",
+                "suffix": "，這剛好是神經網路最需要的計算。\n\n\n\nTPU 的設計哲學\n\n\n\n根據 Google 發表的研究論文，TPU 的設計有幾"
+              },
+              "start": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "TPU 不一樣，它從頭到尾只為 AI 而活，它最擅長的就是一直做「矩陣乘法」"
+          },
+          "text": "TPU 不一樣，它從頭到尾只為 AI 而活，它最擅長的就是一直做「矩陣乘法」",
+          "url": "https://pagerank.ing/google-tpu-guide/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787132260426,
+          "id": "hk-1787132260423-15958",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787132260422,
+              "end": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(9)",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "AI 模型長大的速度卻越來越快",
+                "prefix": "IDIA 的晶片不便宜。\n\n\n\n摩爾定律變慢了\n\n\n\n以前每 18 個月晶片效能就翻一倍，現在這個速度已經慢下來了。但 ",
+                "suffix": "，像 ChatGPT 這種大型模型，參數數量每幾個月就翻一倍，這個差距，只能靠做專用晶片來補。\n\n\n\n不想被別人掐脖子\n"
+              },
+              "start": {
+                "css": "article#post-3985 > div.ast-post-format-.ast-no-thumb > div.entry-content.clear > p.wp-block-paragraph:nth-of-type(9)",
+                "textOffset": 33
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[9]/text()[1]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/article[1]/div[1]/div[1]/p[9]/text()[1]",
+            "text": "AI 模型長大的速度卻越來越快"
+          },
+          "text": "AI 模型長大的速度卻越來越快",
+          "url": "https://pagerank.ing/google-tpu-guide/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://news.cnyes.com/news/id/6580804",
+      "title": "不只找博通！Google傳攜手AMD打造第10代TPU！Wedbush：可能撼動半導體產業 | 鉅亨網 - 美股雷達",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787131845072,
+          "id": "hk-1787131845054-90306",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787131845050,
+              "end": {
+                "css": "main#article-container",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "Google傳出正尋求AMD(AMD-US)協助開發下一代張量處理器(TPU)",
+                "prefix": "ogle傳攜手AMD打造第10代TPU！Wedbush：可能撼動半導體產業鉅亨網新聞中心2026-08-19 08:10",
+                "suffix": ", 若消息屬實, Wedbush Securities認為, 這可能成為半導體產業的重要轉折。市場原先普遍認為Googl"
+              },
+              "start": {
+                "css": "main#article-container",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/article[1]/main[1]/section[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/article[1]/main[1]/section[1]/p[1]/text()[1]",
+            "text": "Google傳出正尋求AMD(AMD-US)協助開發下一代張量處理器(TPU)"
+          },
+          "text": "Google傳出正尋求AMD(AMD-US)協助開發下一代張量處理器(TPU)",
+          "url": "https://news.cnyes.com/news/id/6580804"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787131871466,
+          "id": "hk-1787131871426-45654",
+          "note": "TPU 8t = 第八代 Training TPU\nTPU 8i = 第八代 Inference TPU",
+          "range": {
+            "anchors": {
+              "createdAt": 1787131871422,
+              "end": {
+                "css": "main#article-container",
+                "textOffset": 811
+              },
+              "quote": {
+                "exact": "訓練用TPU 8t與推論用TPU 8i",
+                "prefix": "及Google Cloud服務。Google今年4月發布第8代TPU, 首度把產品明確拆分為兩款不同用途的晶片, 分別是",
+                "suffix": "。Google表示, 這兩款晶片是針對AI代理時代的不同運算需求打造, 並將成為其AI Hypercomputer基礎架"
+              },
+              "start": {
+                "css": "main#article-container",
+                "textOffset": 792
+              },
+              "version": 1
+            },
+            "endOffset": 107,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/article[1]/main[1]/section[9]/p[1]/text()[1]",
+            "startOffset": 88,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[1]/article[1]/main[1]/section[9]/p[1]/text()[1]",
+            "text": "訓練用TPU 8t與推論用TPU 8i"
+          },
+          "text": "訓練用TPU 8t與推論用TPU 8i",
+          "url": "https://news.cnyes.com/news/id/6580804"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu",
+      "title": "EP222: What is Google’s TPU? - ByteByteGo Newsletter",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787129904682,
+          "id": "hk-1787129904674-54464",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787129904673,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 919
+              },
+              "quote": {
+                "exact": "TPU (Tensor Processing Unit)",
+                "prefix": "eway ExplainedHTTP vs HTTPS ExplainedWhat is Google’s TPU?A ",
+                "suffix": " is Google’s custom AI chip, designed from scratch for the g"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 891
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "text": "TPU (Tensor Processing Unit)"
+          },
+          "text": "TPU (Tensor Processing Unit)",
+          "url": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787129986039,
+          "id": "hk-1787129986031-58415",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787129986031,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1230
+              },
+              "quote": {
+                "exact": "At Cloud Next ’26",
+                "prefix": "e built for deep learning from day one.TPU 從第一天起就是為深度學習而建構的。",
+                "suffix": ", Google unveiled its 8th generation, and for the first time"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div > div.available-content > div.body.markup",
+                "textOffset": 1213
+              },
+              "version": 1
+            },
+            "endOffset": 17,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[7]/span[1]/text()[1]",
+            "text": "At Cloud Next ’26"
+          },
+          "text": "At Cloud Next ’26",
+          "url": "https://blog.bytebytego.com/p/ep222-what-is-googles-tpu"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://code.claude.com/docs/zh-TW/hooks",
+      "title": "Hooks 參考 - Claude Code Docs",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787038614630,
+          "id": "hk-1787038614285-16347",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787038614281,
+              "end": {
+                "css": "h1#page-title",
+                "textOffset": 5
+              },
+              "quote": {
+                "exact": "Hooks",
+                "prefix": "執行檔案變更後執行測試限制安全考慮免責聲明安全最佳實踐Windows PowerShell 工具偵錯 hooks參考資料",
+                "suffix": " 參考複製頁面複製頁面Claude Code hook 事件、配置架構、JSON 輸入/輸出格式、退出代碼、非同步 ho"
+              },
+              "start": {
+                "css": "h1#page-title",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/header[1]/div[1]/div[2]/h1[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/header[1]/div[1]/div[2]/h1[1]/text()[1]",
+            "text": "Hooks"
+          },
+          "text": "Hooks",
+          "url": "https://code.claude.com/docs/zh-TW/hooks"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787039132393,
+          "id": "hk-1787039131879-26662",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787039131879,
+              "end": {
+                "css": "div#content",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "Hooks 是使用者定義的 shell 命令、HTTP 端點或 LLM 提示，在 Claude Code 生命週期的特定時間點自動執行",
+                "prefix": " MCP 工具 hooks 的參考。複製頁面複製頁面如需快速入門指南和範例，請參閱 使用 hooks 自動化工作流程。\n",
+                "suffix": "。使用此參考來查詢事件架構、配置選項、JSON 輸入/輸出格式，以及非同步 hooks、HTTP hooks 和 MCP"
+              },
+              "start": {
+                "css": "div#content",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/span[1]/text()[1]",
+            "text": "Hooks 是使用者定義的 shell 命令、HTTP 端點或 LLM 提示，在 Claude Code 生命週期的特定時間點自動執行"
+          },
+          "text": "Hooks 是使用者定義的 shell 命令、HTTP 端點或 LLM 提示，在 Claude Code 生命週期的特定時間點自動執行",
+          "url": "https://code.claude.com/docs/zh-TW/hooks"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://code.claude.com/docs/zh-TW/hooks-guide",
+      "title": "使用 hooks 自動化工作流程 - Claude Code Docs",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787038223186,
+          "id": "hk-1787038223085-87436",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787038223081,
+              "end": {
+                "css": "h1#page-title",
+                "textOffset": 16
+              },
+              "quote": {
+                "exact": "使用 hooks 自動化工作流程",
+                "prefix": "中的錯誤/hooks 顯示未配置任何 hooksStop hook 觸發區塊上限JSON 驗證失敗除錯技術深入瞭解自動化",
+                "suffix": "複製頁面複製頁面當 Claude Code 編輯檔案、完成任務或需要輸入時，自動執行 shell 命令。格式化程式碼、發"
+              },
+              "start": {
+                "css": "h1#page-title",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/header[1]/div[1]/div[2]/h1[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/header[1]/div[1]/div[2]/h1[1]/text()[1]",
+            "text": "使用 hooks 自動化工作流程"
+          },
+          "text": "使用 hooks 自動化工作流程",
+          "url": "https://code.claude.com/docs/zh-TW/hooks-guide"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787038228883,
+          "id": "hk-1787038228790-31871",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787038228789,
+              "end": {
+                "css": "div#content",
+                "textOffset": 22
+              },
+              "quote": {
+                "exact": "Hooks 是使用者定義的 shell 命令",
+                "prefix": "、完成任務或需要輸入時，自動執行 shell 命令。格式化程式碼、發送通知、驗證命令並強制執行專案規則。複製頁面複製頁面",
+                "suffix": "，在 Claude Code 生命週期的特定時間點執行。它們提供對 Claude Code 行為的確定性控制，確保某些操"
+              },
+              "start": {
+                "css": "div#content",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/span[1]/text()[1]",
+            "text": "Hooks 是使用者定義的 shell 命令"
+          },
+          "text": "Hooks 是使用者定義的 shell 命令",
+          "url": "https://code.claude.com/docs/zh-TW/hooks-guide"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://power2026.ai/",
+      "title": "Power 2026 by Neel Somani - Electricity Pricing in the Age of AI",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786679195080,
+          "id": "hk-1786679195077-83563",
+          "note": "其實過去就有說明很多電力危機，不是最近發生的事情，甚至有水資源的危機，民眾的抱怨，核能的需求",
+          "range": {
+            "anchors": {
+              "createdAt": 1786679195077,
+              "end": {
+                "css": "article#preface > div.content",
+                "textOffset": 184
+              },
+              "quote": {
+                "exact": "the real constraint to expanding AI capacity is power.",
+                "prefix": "n plenty of discussion on the GPU and memory supply chains, ",
+                "suffix": "人工智慧需求正在爆炸性成長。不過，儘管人們對 GPU 和記憶體供應鏈進行了大量討論，但擴展人工智慧能力的真正限制因素是電"
+              },
+              "start": {
+                "css": "article#preface > div.content",
+                "textOffset": 130
+              },
+              "version": 1
+            },
+            "endOffset": 159,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/article[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 105,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/article[1]/div[1]/p[1]/text()[1]",
+            "text": "the real constraint to expanding AI capacity is power."
+          },
+          "text": "the real constraint to expanding AI capacity is power.",
+          "url": "https://power2026.ai/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786679267292,
+          "id": "hk-1786679267286-39859",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786679267284,
+              "end": {
+                "css": "article#preface > div.content",
+                "textOffset": 308
+              },
+              "quote": {
+                "exact": "Data centers already account for ~5%",
+                "prefix": "記憶體供應鏈進行了大量討論，但擴展人工智慧能力的真正限制因素是電力。\n\n                        ",
+                "suffix": " of US power consumption[1]. With data center power demand d"
+              },
+              "start": {
+                "css": "article#preface > div.content",
+                "textOffset": 272
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "text": "Data centers already account for ~5%"
+          },
+          "text": "Data centers already account for ~5%",
+          "url": "https://power2026.ai/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1786679272362,
+          "id": "hk-1786679272358-17509",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1786679272358,
+              "end": {
+                "css": "article#preface > div.content",
+                "textOffset": 469
+              },
+              "quote": {
+                "exact": "demand would in theory outpace total US power generation by the mid-2030s",
+                "prefix": " With data center power demand doubling every two years[2], ",
+                "suffix": ".資料中心已占美國電力消耗的 5% 左右[1]。隨著資料中心電力需求每兩年翻一番[2]，理論上到 2030 年代中期，需"
+              },
+              "start": {
+                "css": "article#preface > div.content",
+                "textOffset": 396
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/article[1]/div[1]/p[2]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/div[1]/article[1]/div[1]/p[2]/text()[4]",
+            "text": "demand would in theory outpace total US power generation by the mid-2030s"
+          },
+          "text": "demand would in theory outpace total US power generation by the mid-2030s",
+          "url": "https://power2026.ai/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://florenceko.me/?p=1671",
+      "title": "利用 Apache-2.0 程式所應遵守的義務規定 – Florence 弗羅侖司",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#940000",
+          "createdAt": 1786673473519,
+          "id": "hk-1786673473514-53612",
+          "note": "[翻譯] Apache Software Foundation（簡稱 ASF）在 2004 年所發布的授權條款",
+          "range": {
+            "anchors": {
+              "createdAt": 1786673473513,
+              "end": {
+                "css": "article#post-1671 > div.entry-content",
+                "textOffset": 302
+              },
+              "quote": {
+                "exact": "Apache Software Foundation（簡稱 ASF）在 2004 年所發布的授權條款",
+                "prefix": "~~~~~~~~ 本文開始 ~~~~~~~~~~\nApache License 2.0（簡稱 Apache-2.0）是 ",
+                "suffix": "（註一），雖然從數據上來看，Apache-2.0 被社群專案應用的程度遠不如 BSD、GPL 等授權條款，不過由於 Ap"
+              },
+              "start": {
+                "css": "article#post-1671 > div.entry-content",
+                "textOffset": 252
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/article[1]/div[1]/p[3]/text()[1]",
+            "text": "Apache Software Foundation（簡稱 ASF）在 2004 年所發布的授權條款"
+          },
+          "text": "Apache Software Foundation（簡稱 ASF）在 2004 年所發布的授權條款",
+          "url": "https://florenceko.me/?p=1671"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.bnext.com.tw/article/91794/claude-code-cross-session-messaging",
       "title": "Claude Code推出跨Session傳訊！兩個AI終端機可「自己溝通」，工程師不用再當傳話筒|數位時代 BusinessNext",
@@ -117787,6 +119343,22 @@
           "url": "https://ithelp.ithome.com.tw/articles/10289103"
         }
       ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/token-spend-out-of-control-the-case",
+      "title": "Token Spend Out of Control? The Case for Smarter Routing",
+      "tags": [],
+      "entries": [],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.kbwen.com/gpt-5-6-sol-terra-luna-codex-zh/",
+      "title": "GPT-5.6 的 Sol、Terra、Luna 是什麼 | KbWen Blog",
+      "tags": [],
+      "entries": [],
       "note": null,
       "mindmap": null
     }
