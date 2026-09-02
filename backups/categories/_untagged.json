@@ -1,9 +1,3366 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1787706754904,
+  "exportedAt": 1788332182515,
   "category": null,
   "pages": [
+    {
+      "url": "https://www.ithome.com.tw/news/178616",
+      "title": "OpenAI宣布新模型Astra已具備重大網路安全能力 | iThome",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788332022435,
+          "id": "hk-1788332022432-96746",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788332022431,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 68
+              },
+              "quote": {
+                "exact": "新一代AI模型Astra已達該公司《準備框架》（Preparedness Framework）",
+                "prefix": "\n      \n    \n    \n    \n    \n      \n  \n\nOpenAI周二（9/1）宣布，即將推出的",
+                "suffix": "中所定義的「重大」（Critical）網路安全能力閾值。這是OpenAI首次有模型被評定為這一最高風險等級。\n根據Ope"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "text": "新一代AI模型Astra已達該公司《準備框架》（Preparedness Framework）"
+          },
+          "text": "新一代AI模型Astra已達該公司《準備框架》（Preparedness Framework）",
+          "url": "https://www.ithome.com.tw/news/178616"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788332031076,
+          "id": "hk-1788332031075-82625",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788332031075,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "模型可自行找出零時差漏洞，且自己寫程式發動攻擊",
+                "prefix": "penAI首次有模型被評定為這一最高風險等級。\n根據OpenAI的定義，模型滿足以下兩項條件之一就算是達到重大門檻。一是",
+                "suffix": "，二是只要給定一個高層級目標，它就會自行規畫並執行完整的網路攻擊策略。上述兩者分屬不同能力，但凡做到其中任何一種，就是重"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 159
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "模型可自行找出零時差漏洞，且自己寫程式發動攻擊"
+          },
+          "text": "模型可自行找出零時差漏洞，且自己寫程式發動攻擊",
+          "url": "https://www.ithome.com.tw/news/178616"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788332034833,
+          "id": "hk-1788332034832-16019",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788332034831,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 216
+              },
+              "quote": {
+                "exact": "自行規畫並執行完整的網路攻擊策略",
+                "prefix": "下兩項條件之一就算是達到重大門檻。一是模型可自行找出零時差漏洞，且自己寫程式發動攻擊，二是只要給定一個高層級目標，它就會",
+                "suffix": "。上述兩者分屬不同能力，但凡做到其中任何一種，就是重大等級。\nAstra在各種測試展現出顯著超越前代模型的能力。例如在評"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(2) > div.field-items > div.field-item.even",
+                "textOffset": 200
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/text()[2]",
+            "text": "自行規畫並執行完整的網路攻擊策略"
+          },
+          "text": "自行規畫並執行完整的網路攻擊策略",
+          "url": "https://www.ithome.com.tw/news/178616"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
+      "title": "如何縮小語言模型的規模，同時避免使其變得過於簡單？ --- How to Shrink a Language Model Without Making it Too Dumb",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329654453,
+          "id": "hk-1788329654448-68639",
+          "note": "參數量 × 每個參數 bytes ≈ 權重大小\n\n| 精度          |  70B 權重 |          實際推論建議 |\n| ----------- | ------: | --------------: |\n| FP32        | ~280 GB |         320 GB+ |\n| FP16 / BF16 | ~140 GB | **160~180 GB+** |\n| INT8 / FP8  |  ~70 GB |       80~100 GB |\n| INT4 / FP4  |  ~35 GB |        45~60 GB |",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329654447,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 832
+              },
+              "quote": {
+                "exact": "A model with 70 billion parameters can take up to 140 GB of space",
+                "prefix": " minutes直接將成本增加與建築設計變更相關聯，從而使根本原因分析只需幾分鐘。Get the guide  獲取指南",
+                "suffix": ". A good graphics card has 24 GB. A very good one might have"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 767
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "A model with 70 billion parameters can take up to 140 GB of space"
+          },
+          "text": "A model with 70 billion parameters can take up to 140 GB of space",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1788330887815,
+          "id": "hk-1788330887807-84062",
+          "note": "RTX 5090：\n- 32 GB GDDR7\n- 1.792 TB/s Memory Bandwidth\n- 消費級 Blackwell",
+          "range": {
+            "anchors": {
+              "createdAt": 1788330887806,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 864
+              },
+              "quote": {
+                "exact": "24 GB",
+                "prefix": "rs can take up to 140 GB of space. A good graphics card has ",
+                "suffix": ". A very good one might have 48 GB.一個擁有 70 億個參數的模型，可能需要高達 14"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 859
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/text()[2]",
+            "text": "24 GB"
+          },
+          "text": "24 GB",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331170150,
+          "id": "hk-1788331170143-38488",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331170142,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 3161
+              },
+              "quote": {
+                "exact": "normally stored in 16 bits, which is two bytes. Two bytes multiplied by 70 billion comes to 140 GB",
+                "prefix": "ameters means 70 billion numbers or weights. Each weight is ",
+                "suffix": ", which is basically considered the size of the model.一個大型語言"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 3063
+              },
+              "version": 1
+            },
+            "endOffset": 364,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 266,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[12]/text()[1]",
+            "text": "normally stored in 16 bits, which is two bytes. Two bytes multiplied by 70 billion comes to 140 GB"
+          },
+          "text": "normally stored in 16 bits, which is two bytes. Two bytes multiplied by 70 billion comes to 140 GB",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331477793,
+          "id": "hk-1788331477788-73835",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331477786,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 7883
+              },
+              "quote": {
+                "exact": "Quantization",
+                "prefix": "權重的數量，或者減少權重的數量。主要有三種技術：Storing Each Weight in Less Detail (",
+                "suffix": "): In this approach, we keep all the weights, but describe e"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 7871
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/strong[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[1]/p[1]/strong[1]/text()[1]",
+            "text": "Quantization"
+          },
+          "text": "Quantization",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331485320,
+          "id": "hk-1788331485317-18898",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331485317,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 8113
+              },
+              "quote": {
+                "exact": "Pruning",
+                "prefix": "重，但以更精簡的方式描述它們。例如，將兩個字節簡化為半個字節。Removing Irrelevant Weights (",
+                "suffix": "): This approach involves finding the weights that contribut"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 8106
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/strong[1]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[2]/p[1]/strong[1]/text()[1]",
+            "text": "Pruning"
+          },
+          "text": "Pruning",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331488802,
+          "id": "hk-1788331488795-66292",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331488794,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 8311
+              },
+              "quote": {
+                "exact": "Knowledge Distillation",
+                "prefix": "權重，然後將其刪除。Building a Smaller Model to Mimic the Larger One (",
+                "suffix": "): In this approach, we don’t touch the original model, but "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 8289
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[3]/p[1]/strong[1]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[6]/li[3]/p[1]/strong[1]/text()[1]",
+            "text": "Knowledge Distillation"
+          },
+          "text": "Knowledge Distillation",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331515494,
+          "id": "hk-1788331515491-79749",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331515490,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10303
+              },
+              "quote": {
+                "exact": "Quantization is a technique that takes away this precision",
+                "prefix": "2934517 還是 0.029，對模型的輸出幾乎沒有影響。 換句話說，大量的存儲空間被用於存儲那些可能並不重要的精度。",
+                "suffix": ".量化是一種技術，它會降低這種精確性。The first bit of quantization happens eve"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10245
+              },
+              "version": 1
+            },
+            "endOffset": 58,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[30]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[30]/text()[1]",
+            "text": "Quantization is a technique that takes away this precision"
+          },
+          "text": "Quantization is a technique that takes away this precision",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331525948,
+          "id": "hk-1788331525941-18479",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331525940,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10487
+              },
+              "quote": {
+                "exact": "model weights are normally stored as 32-bit (4 bytes) floating-point numbers",
+                "prefix": " happens even before the model is shipped. During training, ",
+                "suffix": ". This is also known as the FP32 format. Since training invo"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10411
+              },
+              "version": 1
+            },
+            "endOffset": 165,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[31]/text()[1]",
+            "startOffset": 89,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[31]/text()[1]",
+            "text": "model weights are normally stored as 32-bit (4 bytes) floating-point numbers"
+          },
+          "text": "model weights are normally stored as 32-bit (4 bytes) floating-point numbers",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788331550156,
+          "id": "hk-1788331550153-732",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788331550153,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10725
+              },
+              "quote": {
+                "exact": "But when the model is distributed, the precision is usually brought down to 16-bit float format",
+                "prefix": " tiny adjustments to each weight, high precision is needed. ",
+                "suffix": ", which is also known as FP16 or BF16.量化過程在模型發佈之前就已經開始。在訓練過程"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10630
+              },
+              "version": 1
+            },
+            "endOffset": 238,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[31]/text()[2]",
+            "startOffset": 143,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[31]/text()[2]",
+            "text": "But when the model is distributed, the precision is usually brought down to 16-bit float format"
+          },
+          "text": "But when the model is distributed, the precision is usually brought down to 16-bit float format",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://research.haloneuro.ai/posts/sopro-v2",
+      "title": "Sopro V2：私有、快速、本地文本轉語音 · Halo Research --- Sopro V2: private, fast, on-device text-to-speech · Halo Research",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788320248983,
+          "id": "hk-1788320248981-29467",
+          "note": "可以跑在 M3 上",
+          "range": {
+            "anchors": {
+              "createdAt": 1788320248980,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 191
+              },
+              "quote": {
+                "exact": "120M-parameter voice-cloning",
+                "prefix": "urcing our fastest one: sopro-v2-turbo. Sopro V2 Turbo is a ",
+                "suffix": " text-to-speech model that streams, runs comfortably on a la"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 163
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[1]/text()[2]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[1]/text()[2]",
+            "text": "120M-parameter voice-cloning"
+          },
+          "text": "120M-parameter voice-cloning",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788320262674,
+          "id": "hk-1788320262672-7425",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788320262672,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 277
+              },
+              "quote": {
+                "exact": "text-to-speech model that streams, runs comfortably on a laptop CPU or in the browser",
+                "prefix": "-v2-turbo. Sopro V2 Turbo is a 120M-parameter voice-cloning ",
+                "suffix": ", and is multilingual: English, German, French, and, more im"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 192
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[1]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[1]/text()[3]",
+            "text": "text-to-speech model that streams, runs comfortably on a laptop CPU or in the browser"
+          },
+          "text": "text-to-speech model that streams, runs comfortably on a laptop CPU or in the browser",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788328691420,
+          "id": "hk-1788328691417-74572",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788328691415,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 518
+              },
+              "quote": {
+                "exact": "0.24",
+                "prefix": "st. On an Apple M3 CPU, sopro-v2-turbo generates offline at ",
+                "suffix": " real-time factor (RTF, generation time divided by audio dur"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 514
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[2]/text()[1]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[2]/text()[1]",
+            "text": "0.24"
+          },
+          "text": "0.24",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788328700765,
+          "id": "hk-1788328700762-49784",
+          "note": "| Hardware     | 模式          |       效能 |\n| ------------ | ----------- | -------: |\n| Apple M3 CPU | Offline     | 0.24 RTF |\n| Apple M3 CPU | Streaming   | 0.21 RTF |\n| Apple M3 CPU | First Audio |  ~300 ms |\n| H100         | Offline     | 0.07 RTF |\n| H100         | First Audio |  ~200 ms |",
+          "range": {
+            "anchors": {
+              "createdAt": 1788328700761,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 823
+              },
+              "quote": {
+                "exact": "It is also genuinely fast. On an Apple M3 CPU, sopro-v2-turbo generates offline at 0.24 real-time factor (RTF, generation time divided by audio duration) and streams with a time-to-first-audio of about 300 ms at 0.21 RTF. On a single H100 it reaches 0.07 RTF offline and about 200 ms to first audio when streaming. All numbers are single-stream PyTorch with the default settings, no batching.",
+                "prefix": "first open TTS model natively targeting European Portuguese.",
+                "suffix": "Sopro aims to be as simple as possible to use. One command s"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 431
+              },
+              "version": 1
+            },
+            "endOffset": 305,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[1]/p[2]/text()[1]",
+            "text": "It is also genuinely fast. On an Apple M3 CPU, sopro-v2-turbo generates offline at 0.24 real-time factor (RTF, generation time divided by audio duration) and streams with a time-to-first-audio of about 300 ms at 0.21 RTF. On a single H100 it reaches 0.07 RTF offline and about 200 ms to first audio when streaming. All numbers are single-stream PyTorch with the default settings, no batching."
+          },
+          "text": "It is also genuinely fast. On an Apple M3 CPU, sopro-v2-turbo generates offline at 0.24 real-time factor (RTF, generation time divided by audio duration) and streams with a time-to-first-audio of about 300 ms at 0.21 RTF. On a single H100 it reaches 0.07 RTF offline and about 200 ms to first audio when streaming. All numbers are single-stream PyTorch with the default settings, no batching.",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329741662,
+          "id": "hk-1788329741659-13890",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329741659,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 1788
+              },
+              "quote": {
+                "exact": " Halo NeuroAI.",
+                "prefix": "t over two weeks of vacation from the startup I co-founded —",
+                "suffix": " Halo is a software and hardware company whose main goal is "
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 1774
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[2]/p[1]/text()[2]",
+            "startOffset": 118,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[2]/p[1]/text()[1]",
+            "text": " Halo NeuroAI."
+          },
+          "text": " Halo NeuroAI.",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329747857,
+          "id": "hk-1788329747856-87172",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329747856,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 1894
+              },
+              "quote": {
+                "exact": "main goal is to give a voice back to people who lost theirs",
+                "prefix": "Halo NeuroAI. Halo is a software and hardware company whose ",
+                "suffix": ", to conditions like ALS or post-stroke aphasia. We offered "
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 1835
+              },
+              "version": 1
+            },
+            "endOffset": 106,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[2]/p[1]/text()[2]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[2]/p[1]/text()[2]",
+            "text": "main goal is to give a voice back to people who lost theirs"
+          },
+          "text": "main goal is to give a voice back to people who lost theirs",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329766680,
+          "id": "hk-1788329766678-89753",
+          "note": "所以他們新增了這個歐洲葡萄牙語",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329766678,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 2165
+              },
+              "quote": {
+                "exact": "Brazilian Portuguese data bias",
+                "prefix": "Portuguese didn't sound right on any of them, mostly due to ",
+                "suffix": ", and the workarounds we built to compensate increased laten"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 2135
+              },
+              "version": 1
+            },
+            "endOffset": 271,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[2]/p[1]/text()[3]",
+            "startOffset": 241,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[2]/p[1]/text()[3]",
+            "text": "Brazilian Portuguese data bias"
+          },
+          "text": "Brazilian Portuguese data bias",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329817702,
+          "id": "hk-1788329817699-77425",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329817699,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 5661
+              },
+              "quote": {
+                "exact": "For V2 we trained an 8,192-token SentencePiece unigram tokenizer",
+                "prefix": "as really an ~85M-parameter model, not the headline number. ",
+                "suffix": ": we keep some compression without paying for a huge vocabul"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 5597
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[4]/p[1]/text()[2]",
+            "startOffset": 237,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[4]/p[1]/text()[1]",
+            "text": "For V2 we trained an 8,192-token SentencePiece unigram tokenizer"
+          },
+          "text": "For V2 we trained an 8,192-token SentencePiece unigram tokenizer",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329830947,
+          "id": "hk-1788329830945-94851",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329830945,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 6022
+              },
+              "quote": {
+                "exact": "was replacing the convolutional base model with a transformer decoder",
+                "prefix": "器，我們採用了一些壓縮技術，從而避免了龐大的詞彙表。AR model  增強現實模型The second change ",
+                "suffix": ". The conv model was too myopic and led to repetitions, and "
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 5953
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[5]/p[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[5]/p[1]/text()[1]",
+            "text": "was replacing the convolutional base model with a transformer decoder"
+          },
+          "text": "was replacing the convolutional base model with a transformer decoder",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788329840810,
+          "id": "hk-1788329840809-88707",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788329840809,
+              "end": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 6232
+              },
+              "quote": {
+                "exact": "a decoder with RoPE, RMSNorm, and grouped-query attention",
+                "prefix": "ith, attention is cheap with a KV cache. We kept it simple: ",
+                "suffix": ".第二個改變是，將卷積神經網絡（CNN）替換為 Transformer 解碼器。CNN 模型過於侷限，容易產生重複，而對"
+              },
+              "start": {
+                "css": "html > body.__variable_geist_0tvmz3h.__variable_geist_mono_1diim1n > main.article-shell > article > div.article-content > div.article-body",
+                "textOffset": 6175
+              },
+              "version": 1
+            },
+            "endOffset": 210,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[5]/p[1]/text()[2]",
+            "startOffset": 153,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/section[5]/p[1]/text()[2]",
+            "text": "a decoder with RoPE, RMSNorm, and grouped-query attention"
+          },
+          "text": "a decoder with RoPE, RMSNorm, and grouped-query attention",
+          "url": "https://research.haloneuro.ai/posts/sopro-v2"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://github.com/sgl-project/sglang",
+      "title": "SGL 專案/SGLANG：SGLang 是一個針對大型語言模型與多模態模型的高性能服務框架。 --- sgl-project/sglang: SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788319518192,
+          "id": "hk-1788319518189-42822",
+          "note": "SGLang 是一個專門拿來「高速部署與執行 LLM / VLM 推論」的 Serving Framework\n\n\n定位跟 vLLM 很接近，重點是讓模型在 GPU 上跑得更快、吞吐量更高、延遲更低",
+          "range": {
+            "anchors": {
+              "createdAt": 1788319518187,
+              "end": {
+                "css": "div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(3) > h2.heading-element",
+                "textOffset": 5
+              },
+              "quote": {
+                "exact": "About",
+                "prefix": " serving of the official LLaVA v1.6 release demo (usage).\n\n\n",
+                "suffix": "\nSGLang is a high-performance serving framework for large la"
+              },
+              "start": {
+                "css": "div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(3) > h2.heading-element",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[3]/h2[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[3]/h2[1]/text()[1]",
+            "text": "About"
+          },
+          "text": "About",
+          "url": "https://github.com/sgl-project/sglang"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788319655944,
+          "id": "hk-1788319655937-12097",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788319655935,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 3793
+              },
+              "quote": {
+                "exact": "high-performance serving framework for large language models",
+                "prefix": "al LLaVA v1.6 release demo (usage).\n\n\nAbout  關於\nSGLang is a ",
+                "suffix": " and multimodal models.\nIt is designed to deliver low-latenc"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 3733
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
+            "text": "high-performance serving framework for large language models"
+          },
+          "text": "high-performance serving framework for large language models",
+          "url": "https://github.com/sgl-project/sglang"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788319668746,
+          "id": "hk-1788319668745-80129",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788319668744,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 3884
+              },
+              "quote": {
+                "exact": "low-latency and high-throughput inference",
+                "prefix": "age models and multimodal models.\nIt is designed to deliver ",
+                "suffix": " across a wide range of setups, from a single GPU to large d"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 3843
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[2]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[2]",
+            "text": "low-latency and high-throughput inference"
+          },
+          "text": "low-latency and high-throughput inference",
+          "url": "https://github.com/sgl-project/sglang"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1788319796801,
+          "id": "hk-1788319796799-30139",
+          "note": "System Prompt + 文件 A\n          ↓\n     Prefix Cache\n       ↙      ↘\n問題 A         問題 B",
+          "range": {
+            "anchors": {
+              "createdAt": 1788319796799,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4141
+              },
+              "quote": {
+                "exact": "RadixAttention ",
+                "prefix": "集群。 其主要特點包括：\n\nFast Runtime: Provides efficient serving with ",
+                "suffix": "for prefix caching, a zero-overhead CPU scheduler, prefill-d"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4126
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[1]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[1]/text()[1]",
+            "text": "RadixAttention "
+          },
+          "text": "RadixAttention ",
+          "url": "https://github.com/sgl-project/sglang"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1788319853054,
+          "id": "hk-1788319853050-5394",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788319853050,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4159
+              },
+              "quote": {
+                "exact": "prefix caching",
+                "prefix": "Runtime: Provides efficient serving with RadixAttention for ",
+                "suffix": ", a zero-overhead CPU scheduler, prefill-decode disaggregati"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4145
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[1]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[1]/text()[2]",
+            "text": "prefix caching"
+          },
+          "text": "prefix caching",
+          "url": "https://github.com/sgl-project/sglang"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://help.openai.com/en/articles/20001507-paid-weekly-work-and-codex-rate-limit-resets",
+      "title": "每週支付、Codex 速率限制重置 | OpenAI 幫助中心 --- Paid weekly Work and Codex rate limit resets | OpenAI Help Center",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788314213478,
+          "id": "hk-1788314213471-32981",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788314213470,
+              "end": {
+                "css": "div.mx-auto.w-full > div.flex.justify-between > div.max-w-2xl.min-w-0 > article.border-b.border-gray-200 > div.prose.prose-blue:nth-of-type(2) > div.intercom-interblocks-callout.callout-transparent",
+                "textOffset": 270
+              },
+              "quote": {
+                "exact": "A completed purchase immediately restores both 5-hour and weekly usage. ",
+                "prefix": "t, or from an in-app offer after reaching the weekly limit. ",
+                "suffix": "It pulls your normal weekly allowance forward rather than ad"
+              },
+              "start": {
+                "css": "div.mx-auto.w-full > div.flex.justify-between > div.max-w-2xl.min-w-0 > article.border-b.border-gray-200 > div.prose.prose-blue:nth-of-type(2) > div.intercom-interblocks-callout.callout-transparent",
+                "textOffset": 198
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 186,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/div[1]/p[1]/text()[1]",
+            "text": "A completed purchase immediately restores both 5-hour and weekly usage. "
+          },
+          "text": "A completed purchase immediately restores both 5-hour and weekly usage. ",
+          "url": "https://help.openai.com/en/articles/20001507-paid-weekly-work-and-codex-rate-limit-resets"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788314229181,
+          "id": "hk-1788314229180-84626",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788314229180,
+              "end": {
+                "css": "div.mx-auto.w-full > div.flex.justify-between > div.max-w-2xl.min-w-0 > article.border-b.border-gray-200 > div.prose.prose-blue:nth-of-type(2) > div.intercom-interblocks-callout.callout-transparent:nth-of-type(3)",
+                "textOffset": 238
+              },
+              "quote": {
+                "exact": "not available on Free, Go, Business, Enterprise, or Edu plans. Availability may vary by account",
+                "prefix": "al accounts on ChatGPT web and the Codex desktop app. It is ",
+                "suffix": ".“重置”功能適用於 ChatGPT Plus 和 Pro 個人賬戶，可在 ChatGPT 網頁和 Codex 桌面應用"
+              },
+              "start": {
+                "css": "div.mx-auto.w-full > div.flex.justify-between > div.max-w-2xl.min-w-0 > article.border-b.border-gray-200 > div.prose.prose-blue:nth-of-type(2) > div.intercom-interblocks-callout.callout-transparent:nth-of-type(3)",
+                "textOffset": 143
+              },
+              "version": 1
+            },
+            "endOffset": 222,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/div[3]/p[1]/text()[1]",
+            "startOffset": 127,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/article[1]/div[2]/div[3]/p[1]/text()[1]",
+            "text": "not available on Free, Go, Business, Enterprise, or Edu plans. Availability may vary by account"
+          },
+          "text": "not available on Free, Go, Business, Enterprise, or Edu plans. Availability may vary by account",
+          "url": "https://help.openai.com/en/articles/20001507-paid-weekly-work-and-codex-rate-limit-resets"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.alphalab.site/archify-architecture-delta-tutorial",
+      "title": "【2026 最新】Archify Architecture Delta 教學：可驗證 Before／Delta／After SVG — AlphaLab",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788147208054,
+          "id": "hk-1788147208042-98713",
+          "note": "中間資料格式（Intermediate Representation, IR）",
+          "range": {
+            "anchors": {
+              "createdAt": 1788147208040,
+              "end": {
+                "css": "div.max-w-5xl.mx-auto > div.grid.grid-cols-1 > div.min-w-0 > article.max-w-none > div.font-sans.antialiased > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": " Typed JSON IR",
+                "prefix": "Archify Architecture Delta 是什麼？\n\n\n\nArchify不是拖拉式繪圖器。Agent 先整理",
+                "suffix": "（此處是受 JSON Schema 約束，不是 TypeScript 靜態型別），Archify 再校驗並編譯成含 in"
+              },
+              "start": {
+                "css": "div.max-w-5xl.mx-auto > div.grid.grid-cols-1 > div.min-w-0 > article.max-w-none > div.font-sans.antialiased > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[3]/main[1]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[3]/main[1]/section[1]/div[1]/div[1]/div[1]/article[1]/div[1]/p[3]/text()[1]",
+            "text": " Typed JSON IR"
+          },
+          "text": " Typed JSON IR",
+          "url": "https://www.alphalab.site/archify-architecture-delta-tutorial"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.stst.com.tw/class/id=1424",
+      "title": "包裝食品營養標示應遵行事項: 規範整理與建議 | 振泰檢驗JTS",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788145329388,
+          "id": "hk-1788145329384-48209",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788145329382,
+              "end": {
+                "css": "div#post-1424 > div.ffb-id-p76bbao.post-content:nth-of-type(2) > div.post-content.ff-richtext",
+                "textOffset": 1049
+              },
+              "quote": {
+                "exact": "完整包裝之食品應標示「淨重、容量或數量」",
+                "prefix": "-----------------------\n \n\n \n \n如何標示淨重、容量或數量\n「淨重、容量或數量」的意義\n \n",
+                "suffix": "，其中淨重是指食品除去食品包裝或容器(不可食用之部位)後之實際重量。\n一般標示單位\n標示時必須以公制單位或其通用符號標示"
+              },
+              "start": {
+                "css": "div#post-1424 > div.ffb-id-p76bbao.post-content:nth-of-type(2) > div.post-content.ff-richtext",
+                "textOffset": 1029
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/p[19]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/p[19]/text()[1]",
+            "text": "完整包裝之食品應標示「淨重、容量或數量」"
+          },
+          "text": "完整包裝之食品應標示「淨重、容量或數量」",
+          "url": "https://www.stst.com.tw/class/id=1424"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.mohw.gov.tw/cp-2649-20007-1.html",
+      "title": "磷酸鹽食品添加物規範將依國人膳食風險評估結果及各界建議研擬- 衛生福利部",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788143452614,
+          "id": "hk-1788143452612-87154",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788143452612,
+              "end": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "「食品添加物使用範圍及限量暨規格標準」屬第(七)類品質改良用、釀造用及食品製造用劑，可使用於各類食品，用量以Phosphate計為3g/kg以下",
+                "prefix": "非現行標準，有關食品添加物之使用規範，業者仍需依照現行「食品添加物使用範圍及限量暨規格標準」。\n磷酸鹽類食品添加物於現行",
+                "suffix": "；亦屬第(十三)類結著劑，可使用於肉製品及魚肉煉製品；用量以Phosphate 計為3g/kg 以下。經查國際間食品添加"
+              },
+              "start": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 110
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/text()[2]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/text()[2]",
+            "text": "「食品添加物使用範圍及限量暨規格標準」屬第(七)類品質改良用、釀造用及食品製造用劑，可使用於各類食品，用量以Phosphate計為3g/kg以下"
+          },
+          "text": "「食品添加物使用範圍及限量暨規格標準」屬第(七)類品質改良用、釀造用及食品製造用劑，可使用於各類食品，用量以Phosphate計為3g/kg以下",
+          "url": "https://www.mohw.gov.tw/cp-2649-20007-1.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/Law/Edit",
+      "title": "食品標示諮詢服務平台",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787910465068,
+          "id": "hk-1787910465060-67440",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787910465059,
+              "end": {
+                "css": "div#NoticeContent",
+                "textOffset": 1661
+              },
+              "quote": {
+                "exact": "熱量以大卡、Kcal或kcal標示",
+                "prefix": "六、包裝食品營養標示之單位，應依下列規定辦理：(一) 固體（半固體）以公克或g標示，液體以毫升、mL或ml標示。(二) ",
+                "suffix": "。(三) 蛋白質、脂肪、飽和脂肪(酸)、反式脂肪(酸)、單元及多元不飽和脂肪(酸)總量、碳水化合物、糖、膳食纖維以公克或"
+              },
+              "start": {
+                "css": "div#NoticeContent",
+                "textOffset": 1644
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[31]/span[2]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[31]/span[2]/text()[2]",
+            "text": "熱量以大卡、Kcal或kcal標示"
+          },
+          "text": "熱量以大卡、Kcal或kcal標示",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/Law/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787910602181,
+          "id": "hk-1787910602176-44961",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787910602175,
+              "end": {
+                "css": "div#NoticeContent",
+                "textOffset": 2522
+              },
+              "quote": {
+                "exact": "蛋白質之熱量，以每公克四大卡計算",
+                "prefix": "性隨時間改變，得以加註標示特定營養素含量之實際衰退情形。十一、包裝食品營養標示之熱量計算方式，應依下列規定辦理：(一) ",
+                "suffix": "。(二) 脂肪之熱量，以每公克九大卡計算。(三) 碳水化合物之熱量，以每公克四大卡計算，但加以標示膳食纖維者，其膳食纖維"
+              },
+              "start": {
+                "css": "div#NoticeContent",
+                "textOffset": 2506
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[47]/span[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[47]/span[2]/text()[2]",
+            "text": "蛋白質之熱量，以每公克四大卡計算"
+          },
+          "text": "蛋白質之熱量，以每公克四大卡計算",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/Law/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787910606464,
+          "id": "hk-1787910606461-31774",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787910606461,
+              "end": {
+                "css": "div#NoticeContent",
+                "textOffset": 2542
+              },
+              "quote": {
+                "exact": "脂肪之熱量，以每公克九大卡計算",
+                "prefix": "實際衰退情形。十一、包裝食品營養標示之熱量計算方式，應依下列規定辦理：(一) 蛋白質之熱量，以每公克四大卡計算。(二) ",
+                "suffix": "。(三) 碳水化合物之熱量，以每公克四大卡計算，但加以標示膳食纖維者，其膳食纖維熱量得以每公克二大卡計算。(四) 赤藻糖"
+              },
+              "start": {
+                "css": "div#NoticeContent",
+                "textOffset": 2527
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[48]/span[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[48]/span[2]/text()[2]",
+            "text": "脂肪之熱量，以每公克九大卡計算"
+          },
+          "text": "脂肪之熱量，以每公克九大卡計算",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/Law/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787910608599,
+          "id": "hk-1787910608597-56144",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787910608596,
+              "end": {
+                "css": "div#NoticeContent",
+                "textOffset": 2565
+              },
+              "quote": {
+                "exact": "碳水化合物之熱量，以每公克四大卡計算",
+                "prefix": "量計算方式，應依下列規定辦理：(一) 蛋白質之熱量，以每公克四大卡計算。(二) 脂肪之熱量，以每公克九大卡計算。(三) ",
+                "suffix": "，但加以標示膳食纖維者，其膳食纖維熱量得以每公克二大卡計算。(四) 赤藻糖醇之熱量得以零大卡計算，其他糖醇之熱量得以每公"
+              },
+              "start": {
+                "css": "div#NoticeContent",
+                "textOffset": 2547
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[49]/span[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[49]/span[2]/text()[2]",
+            "text": "碳水化合物之熱量，以每公克四大卡計算"
+          },
+          "text": "碳水化合物之熱量，以每公克四大卡計算",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/Law/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787911312285,
+          "id": "hk-1787911312280-65264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787911312276,
+              "end": {
+                "css": "div#NoticeContent",
+                "textOffset": 2803
+              },
+              "quote": {
+                "exact": "每份熱量計算方式，得以每一百公克(或毫升)之熱量換算之，或以每一百公克(或毫升)之蛋白質、脂肪及碳水化合物含量換算為每份含量後，再以第一款至前款計算方式計算每份之熱量",
+                "prefix": "得以每公克七大卡計算。並應將糖醇含量標示於營養標示格式中，有機酸及酒精(乙醇)含量應於營養標示格式外明顯處註明。(五) ",
+                "suffix": "。十二、包裝維生素礦物質類之錠狀、膠囊狀食品，不適用本規定。第二章 嬰兒與較大嬰兒配方食品營養標示十三、嬰兒與較大嬰兒配"
+              },
+              "start": {
+                "css": "div#NoticeContent",
+                "textOffset": 2720
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[51]/span[2]/text()[6]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[2]/p[51]/span[2]/text()[2]",
+            "text": "每份熱量計算方式，得以每一百公克(或毫升)之熱量換算之，或以每一百公克(或毫升)之蛋白質、脂肪及碳水化合物含量換算為每份含量後，再以第一款至前款計算方式計算每份之熱量"
+          },
+          "text": "每份熱量計算方式，得以每一百公克(或毫升)之熱量換算之，或以每一百公克(或毫升)之蛋白質、脂肪及碳水化合物含量換算為每份含量後，再以第一款至前款計算方式計算每份之熱量",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/Law/Edit"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://udn.com/news/story/7266/9212755",
+      "title": "醫曝短影音成癮傷腦 注意力、記憶力變差 | 生活新聞 | 生活 | 聯合新聞網",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787903022970,
+          "id": "hk-1787903022966-72199",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787903022964,
+              "end": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 198
+              },
+              "quote": {
+                "exact": "國衛院與清華大學、陽明交通大學等團隊合作，開發出網路成癮狀態自動分類系統，有助預警成癮行為",
+                "prefix": "短幾分鐘休閒娛樂，變成「大腦在偷懶」。提醒短影音影響注意力、記憶力，更傷害青少年自我控制能力。\n\n「網路成癮」問題嚴重，",
+                "suffix": "，未來有機會發展成校園心理健康篩檢工具。\n\n\n\n  \n\n\n\n\n\n\n\n\n\n  \n  \n    \n  \ncloseAdver"
+              },
+              "start": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 153
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[3]/text()[4]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[3]/text()[2]",
+            "text": "國衛院與清華大學、陽明交通大學等團隊合作，開發出網路成癮狀態自動分類系統，有助預警成癮行為"
+          },
+          "text": "國衛院與清華大學、陽明交通大學等團隊合作，開發出網路成癮狀態自動分類系統，有助預警成癮行為",
+          "url": "https://udn.com/news/story/7266/9212755"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787903061775,
+          "id": "hk-1787903061771-44477",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787903061770,
+              "end": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 632
+              },
+              "quote": {
+                "exact": "青少年可能因大腦前額葉發展尚未成熟，對短影音刺激更敏感，容易形成依賴",
+                "prefix": "泌多巴胺，產生幸福感。長期沉迷會造成注意力下降、缺乏耐心等「代償」問題，並會想看更多重口味影片得到滿足。\n\n許正典表示，",
+                "suffix": "。孩子若出現成績退步、睡眠及飲食、習慣改變，如早上起不來，興趣範圍變窄、人際關係改變甚至不想上學，家長要多留意上網情形。"
+              },
+              "start": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 598
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[7]/text()[1]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[7]/text()[1]",
+            "text": "青少年可能因大腦前額葉發展尚未成熟，對短影音刺激更敏感，容易形成依賴"
+          },
+          "text": "青少年可能因大腦前額葉發展尚未成熟，對短影音刺激更敏感，容易形成依賴",
+          "url": "https://udn.com/news/story/7266/9212755"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787903074256,
+          "id": "hk-1787903074253-85183",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787903074252,
+              "end": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 789
+              },
+              "quote": {
+                "exact": "不斷刺激大腦多巴胺系統，讓人停不下來，一部接一部。長時間下來大腦只想尋求快速愉悅，對「高價值但慢回報」活動失去興趣與耐心，情緒調節也變困難",
+                "prefix": "，興趣範圍變窄、人際關係改變甚至不想上學，家長要多留意上網情形。\n\n身心科醫師鄭佳益說，短影音濃縮了「強、快、短」內容，",
+                "suffix": "。\n\n鄭佳益強調，大腦是可塑的，只要願意減少高速刺激，就能重新長回專注力。若已對短影音成癮，家長不能一味限制手機使用，有"
+              },
+              "start": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 720
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[9]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[9]/text()[1]",
+            "text": "不斷刺激大腦多巴胺系統，讓人停不下來，一部接一部。長時間下來大腦只想尋求快速愉悅，對「高價值但慢回報」活動失去興趣與耐心，情緒調節也變困難"
+          },
+          "text": "不斷刺激大腦多巴胺系統，讓人停不下來，一部接一部。長時間下來大腦只想尋求快速愉悅，對「高價值但慢回報」活動失去興趣與耐心，情緒調節也變困難",
+          "url": "https://udn.com/news/story/7266/9212755"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787903116634,
+          "id": "hk-1787903116632-66283",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787903116632,
+              "end": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 825
+              },
+              "quote": {
+                "exact": "只要願意減少高速刺激，就能重新長回專注力",
+                "prefix": "長時間下來大腦只想尋求快速愉悅，對「高價值但慢回報」活動失去興趣與耐心，情緒調節也變困難。\n\n鄭佳益強調，大腦是可塑的，",
+                "suffix": "。若已對短影音成癮，家長不能一味限制手機使用，有可能引發更劇烈情緒波動，可透過行為、心理治療等，引導孩子重新建立生活重心"
+              },
+              "start": {
+                "css": "div.container > section.wrapper-left.main-content__wrapper:nth-of-type(2) > section.article-content__wrapper > article.article-content > div.article-content__paragraph > section.article-content__editor",
+                "textOffset": 805
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[11]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/section[2]/section[1]/article[1]/div[1]/section[1]/p[11]/text()[1]",
+            "text": "只要願意減少高速刺激，就能重新長回專注力"
+          },
+          "text": "只要願意減少高速刺激，就能重新長回專注力",
+          "url": "https://udn.com/news/story/7266/9212755"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "title": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787891101065,
+          "id": "hk-1787891101063-81676",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787891101061,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8",
+                "textOffset": 83
+              },
+              "quote": {
+                "exact": "the first natively multimodal model in the GLM-5 series",
+                "prefix": "用 ZCodeHuggingFace  Hugging FaceWe introduce GLM-5.3-Flash, ",
+                "suffix": ". With 320B total parameters and just 18B active parameters,"
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8",
+                "textOffset": 28
+              },
+              "version": 1
+            },
+            "endOffset": 83,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[1]/text()[1]",
+            "text": "the first natively multimodal model in the GLM-5 series"
+          },
+          "text": "the first natively multimodal model in the GLM-5 series",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787891106736,
+          "id": "hk-1787891106730-35947",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787891106730,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8",
+                "textOffset": 142
+              },
+              "quote": {
+                "exact": "320B total parameters and just 18B active parameters",
+                "prefix": "e first natively multimodal model in the GLM-5 series. With ",
+                "suffix": ", it outperforms GLM-5.2 across benchmarks and real-world wo"
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8",
+                "textOffset": 90
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[1]/text()[2]",
+            "text": "320B total parameters and just 18B active parameters"
+          },
+          "text": "320B total parameters and just 18B active parameters",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787891133518,
+          "id": "hk-1787891133516-83447",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787891133515,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8",
+                "textOffset": 268
+              },
+              "quote": {
+                "exact": "approaching Claude Opus 4.8 ",
+                "prefix": "arks and real-world workloads at one-tenth the price, while ",
+                "suffix": "on coding and agentic benchmarks.我們隆重推出 GLM-5.3-Flash，這是 GLM"
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8",
+                "textOffset": 240
+              },
+              "version": 1
+            },
+            "endOffset": 126,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[1]/text()[3]",
+            "startOffset": 98,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[1]/text()[3]",
+            "text": "approaching Claude Opus 4.8 "
+          },
+          "text": "approaching Claude Opus 4.8 ",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787891174341,
+          "id": "hk-1787891174340-36477",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787891174340,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(2)",
+                "textOffset": 166
+              },
+              "quote": {
+                "exact": "hybrid architecture combining sparse and linear attention",
+                "prefix": "improvements over GLM-5. For the first time, we introduce a ",
+                "suffix": ", sharply reducing long-context serving costs while preservi"
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(2)",
+                "textOffset": 109
+              },
+              "version": 1
+            },
+            "endOffset": 166,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[2]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[2]/text()[1]",
+            "text": "hybrid architecture combining sparse and linear attention"
+          },
+          "text": "hybrid architecture combining sparse and linear attention",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787891198965,
+          "id": "hk-1787891198962-79985",
+          "note": "Ox Alpha 以兩倍於排名第二 DeepSeek 的數據奪得了 OpenRouter 的第一名",
+          "range": {
+            "anchors": {
+              "createdAt": 1787891198962,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(3)",
+                "textOffset": 115
+              },
+              "quote": {
+                "exact": "tested GLM-5.3-Flash anonymously as ox-alpha on OpenCode and OpenRouter to gather user feedback.",
+                "prefix": "些改進使得 GLM-5.3-Flash 能夠在更少的計算資源下，產生更強的智能。\nBefore release, we ",
+                "suffix": " It quickly became the most popular model of the week — with"
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(3)",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[3]/text()[2]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[3]/text()[1]",
+            "text": "tested GLM-5.3-Flash anonymously as ox-alpha on OpenCode and OpenRouter to gather user feedback."
+          },
+          "text": "tested GLM-5.3-Flash anonymously as ox-alpha on OpenCode and OpenRouter to gather user feedback.",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787896578763,
+          "id": "hk-1787896578762-95822",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787896578762,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(7)",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "Compared with the GLM-4.5 series, GLM-5.3-Flash is specifically designed for ultra-low-cost inference",
+                "prefix": "0 vs. 29.5)。\n\nArchitecture for Extreme Efficiency極致效率的建築設計\n\n",
+                "suffix": ". Despite a similar total parameter count (320B vs. 355B), i"
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(7)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[7]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[7]/text()[1]",
+            "text": "Compared with the GLM-4.5 series, GLM-5.3-Flash is specifically designed for ultra-low-cost inference"
+          },
+          "text": "Compared with the GLM-4.5 series, GLM-5.3-Flash is specifically designed for ultra-low-cost inference",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787896607715,
+          "id": "hk-1787896607713-33126",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787896607713,
+              "end": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(8)",
+                "textOffset": 122
+              },
+              "quote": {
+                "exact": " long-context scenarios, we use a hybrid architecture combining linear and sparse attention.",
+                "prefix": " 32B 相比）和層數（45 與 92 相比）都大幅減少。\nTo minimize attention costs in",
+                "suffix": " Linear attention captures local dependencies through state "
+              },
+              "start": {
+                "css": "div#root > div.bg-background.no-scrollbar:nth-of-type(2) > div.flex.flex-col > div.flex.flex-col:nth-of-type(2) > p.self-stretch.text-grey-8:nth-of-type(8)",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[8]/text()[1]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[2]/p[8]/text()[1]",
+            "text": " long-context scenarios, we use a hybrid architecture combining linear and sparse attention."
+          },
+          "text": " long-context scenarios, we use a hybrid architecture combining linear and sparse attention.",
+          "url": "https://z.ai/blog/glm-5.3-flash"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://x.com/AndrewYNg/status/2090840747738374568",
+      "title": "Andrew Ng on X: \"The most important skills in Building and Deploying AI Applications. https://t.co/IyWIKLIzeM\" / X",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787718805702,
+          "id": "hk-1787718805693-3545",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787885186639,
+              "end": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(4)",
+                "textOffset": 111
+              },
+              "quote": {
+                "exact": "difference between AI applications and non-AI software is that the former’s output is less predictable.",
+                "prefix": " structured expert interviews, and survey responses.The key ",
+                "suffix": " You don’t know in advance what an LLM will output, or what "
+              },
+              "start": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(4)",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "difference between AI applications and non-AI software is that the former’s output is less predictable."
+          },
+          "text": "difference between AI applications and non-AI software is that the former’s output is less predictable.",
+          "url": "https://x.com/AndrewYNg/status/2090840747738374568"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787718828918,
+          "id": "hk-1787718828913-49108",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787885186660,
+              "end": {
+                "css": "div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(4) > span > mark.hk-highlight",
+                "textOffset": 103
+              },
+              "quote": {
+                "exact": "key difference between AI applications and non-AI software is that the former’s output is less predictable.",
+                "prefix": "ngs, structured expert interviews, and survey responses.The ",
+                "suffix": " You don’t know in advance what an LLM will output, or what "
+              },
+              "start": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(4)",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 103,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/span[1]/mark[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "key difference between AI applications and non-AI software is that the former’s output is less predictable."
+          },
+          "text": "key difference between AI applications and non-AI software is that the former’s output is less predictable.",
+          "url": "https://x.com/AndrewYNg/status/2090840747738374568"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787718833417,
+          "id": "hk-1787718833408-20544",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787885190193,
+              "end": {
+                "css": "ul.mb-4.list-disc > li.my-1:nth-of-type(5) > span > font.notranslate.immersive-translate-target-wrapper > font.notranslate.immersive-translate-target-translation-theme-dashedBorder > font.notranslate.immersive-translate-target-inner",
+                "textOffset": 2
+              },
+              "quote": {
+                "exact": "於",
+                "prefix": "aluation-driven development以評估為導向的開發Operating in production處",
+                "suffix": "生產狀態Machine learning foundations機器學習基礎This map of skills was"
+              },
+              "start": {
+                "css": "ul.mb-4.list-disc > li.my-1:nth-of-type(5) > span > font.notranslate.immersive-translate-target-wrapper > font.notranslate.immersive-translate-target-translation-theme-dashedBorder > font.notranslate.immersive-translate-target-inner",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[5]/span[1]/font[1]/font[1]/font[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/ul[1]/li[5]/span[1]/font[1]/font[1]/font[1]/text()[1]",
+            "text": "於"
+          },
+          "text": "於",
+          "url": "https://x.com/AndrewYNg/status/2090840747738374568"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787885206879,
+          "id": "hk-1787885206878-17558",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787885206878,
+              "end": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(5)",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "LLM foundations",
+                "prefix": "該做什麼。能夠熟練地判斷下一步應該做什麼，從而能夠構建可靠的軟件系統，即使基於不可靠的人工智能組件。這需要掌握以下知識：",
+                "suffix": ". Understanding how large language models tokenize input and"
+              },
+              "start": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(5)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/b[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/b[1]/strong[1]/text()[1]",
+            "text": "LLM foundations"
+          },
+          "text": "LLM foundations",
+          "url": "https://x.com/AndrewYNg/status/2090840747738374568"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787885219878,
+          "id": "hk-1787885219877-80210",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787885219876,
+              "end": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(5)",
+                "textOffset": 116
+              },
+              "quote": {
+                "exact": "input and generate output allows you to understand",
+                "prefix": "undations. Understanding how large language models tokenize ",
+                "suffix": " when to count on them and when they may fail. It also allow"
+              },
+              "start": {
+                "css": "div.flex.flex-col > div.flex.flex-col > div.flex.flex-col:nth-of-type(3) > div.x-article-body.break-words > div.contents > p.mb-4.leading-relaxed:nth-of-type(5)",
+                "textOffset": 66
+              },
+              "version": 1
+            },
+            "endOffset": 100,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "text": "input and generate output allows you to understand"
+          },
+          "text": "input and generate output allows you to understand",
+          "url": "https://x.com/AndrewYNg/status/2090840747738374568"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://ithelp.ithome.com.tw/articles/10267542",
+      "title": "[DAY5]webhook簡介 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787883876719,
+          "id": "hk-1787883876718-6856",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787883876717,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 101
+              },
+              "quote": {
+                "exact": "Hook",
+                "prefix": "                        webhook 究竟是什麼呢？我認為在了解Webhook前我們需要先了解",
+                "suffix": "（鉤子編程）Hook顧名思義是要用來勾住某項東西不讓他走的編程，據資料此編程有著許多用途。例如：調試、擴展功能，如衡量3"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 97
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[2]",
+            "text": "Hook"
+          },
+          "text": "Hook",
+          "url": "https://ithelp.ithome.com.tw/articles/10267542"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787883882720,
+          "id": "hk-1787883882719-44779",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787883882718,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 132
+              },
+              "quote": {
+                "exact": "勾住某項東西不讓他走的編程",
+                "prefix": "  webhook 究竟是什麼呢？我認為在了解Webhook前我們需要先了解Hook（鉤子編程）Hook顧名思義是要用來",
+                "suffix": "，據資料此編程有著許多用途。例如：調試、擴展功能，如衡量3D遊戲的幀率\n接著回到Webhook，webhook是一個系統"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 119
+              },
+              "version": 1
+            },
+            "endOffset": 25,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[1]/text()[4]",
+            "text": "勾住某項東西不讓他走的編程"
+          },
+          "text": "勾住某項東西不讓他走的編程",
+          "url": "https://ithelp.ithome.com.tw/articles/10267542"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787883900982,
+          "id": "hk-1787883900980-87123",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787883900980,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 234
+              },
+              "quote": {
+                "exact": "Webhook自數據產生時立刻發送訊息給提出要求的系統",
+                "prefix": "如：調試、擴展功能，如衡量3D遊戲的幀率\n接著回到Webhook，webhook是一個系統給予其他系統訊息的一種方式。 ",
+                "suffix": "。大部分服務的提供商對其API的訪問有一定的限制，所以有webhook方式的或使用輪詢（Polling）方式，但這樣使用"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 207
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Webhook自數據產生時立刻發送訊息給提出要求的系統"
+          },
+          "text": "Webhook自數據產生時立刻發送訊息給提出要求的系統",
+          "url": "https://ithelp.ithome.com.tw/articles/10267542"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787883905389,
+          "id": "hk-1787883905388-8202",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787883905387,
+              "end": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 301
+              },
+              "quote": {
+                "exact": "所以有webhook方式的或使用輪詢（Polling）方式，但這樣使用者會有一點延遲",
+                "prefix": "息的一種方式。 Webhook自數據產生時立刻發送訊息給提出要求的系統。大部分服務的提供商對其API的訪問有一定的限制，",
+                "suffix": "。Webhook有時也被稱為反向API，因為他提供了API規則，你需要設計要使用的API（我們的是LINEMessage"
+              },
+              "start": {
+                "css": "div.leftside > div.qa-panel.clearfix:nth-of-type(2) > div.qa-panel__content:nth-of-type(3) > div.qa-markdown:nth-of-type(2) > div.markdown > div.markdown__style",
+                "textOffset": 259
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/p[2]/text()[3]",
+            "text": "所以有webhook方式的或使用輪詢（Polling）方式，但這樣使用者會有一點延遲"
+          },
+          "text": "所以有webhook方式的或使用輪詢（Polling）方式，但這樣使用者會有一點延遲",
+          "url": "https://ithelp.ithome.com.tw/articles/10267542"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/background-work-from-cron-jobs-to",
+      "title": "背景工作：從 Cron 任務到分佈式系統 --- Background Work: From Cron Jobs to Distributed Systems",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787881279472,
+          "id": "hk-1787881279469-10309",
+          "note": "有事件發生時，系統主動通知另一個系統\nAPI 的反向通知\n\nEvent-driven（事件驅動）通知機制",
+          "range": {
+            "anchors": {
+              "createdAt": 1787881279469,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1701
+              },
+              "quote": {
+                "exact": "webhook",
+                "prefix": "緩存刷新。Another system could have triggered it. For example, a ",
+                "suffix": " arrives, or a file is stored in object storage.另一個系統也可能觸發了該"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1694
+              },
+              "version": 1
+            },
+            "endOffset": 62,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[3]/p[1]/span[1]/text()[1]",
+            "text": "webhook"
+          },
+          "text": "webhook",
+          "url": "https://blog.bytebytego.com/p/background-work-from-cron-jobs-to"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://orkes.io/blog/what-is-loop-engineering",
+      "title": "什麼是“循環工程”？— Orkes --- What Is Loop Engineering? — Orkes",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787810522434,
+          "id": "hk-1787810522420-11520",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787810883913,
+              "end": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\] > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 312
+              },
+              "quote": {
+                "exact": "the agent can reprompt itself without you",
+                "prefix": "g.\nLoop engineering is building a loop around your agent so ",
+                "suffix": " needing to do it.\nFor example when you ask Claude to build "
+              },
+              "start": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\] > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 271
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[1]/article[1]/div[2]/p[4]/strong[1]/text()[1]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/div[1]/article[1]/div[2]/p[4]/strong[1]/text()[1]",
+            "text": "the agent can reprompt itself without you"
+          },
+          "text": "the agent can reprompt itself without you",
+          "url": "https://orkes.io/blog/what-is-loop-engineering"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787810942452,
+          "id": "hk-1787810942447-69868",
+          "note": "這件事情想要 Agent 代替你的角色，做完這個循環的動作",
+          "range": {
+            "anchors": {
+              "createdAt": 1787810942446,
+              "end": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\]:nth-of-type(2) > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 808
+              },
+              "quote": {
+                "exact": "find out that it was trash, figure out the next step, and prompt it again",
+                "prefix": "，您自然會再次向它提出要求（即重新提示），但使用略微不同的輸入。\nYou read what it produced, ",
+                "suffix": ". It does that step and then stops again, waiting for you. T"
+              },
+              "start": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\]:nth-of-type(2) > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 735
+              },
+              "version": 1
+            },
+            "endOffset": 100,
+            "endXPath": "/html[1]/body[1]/div[2]/article[1]/div[2]/p[6]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[2]/article[1]/div[2]/p[6]/text()[1]",
+            "text": "find out that it was trash, figure out the next step, and prompt it again"
+          },
+          "text": "find out that it was trash, figure out the next step, and prompt it again",
+          "url": "https://orkes.io/blog/what-is-loop-engineering"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787810974684,
+          "id": "hk-1787810974682-52786",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787810974681,
+              "end": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\]:nth-of-type(2) > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 1433
+              },
+              "quote": {
+                "exact": "you are the loop messenger",
+                "prefix": "一步的行動，就是您，因為當輸入不正確時，您需要重新提示。\nSo in a real sense, right now, ",
+                "suffix": ". You’re the part of the setup that carries the work from on"
+              },
+              "start": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\]:nth-of-type(2) > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 1407
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/article[1]/div[2]/p[8]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/article[1]/div[2]/p[8]/strong[1]/text()[1]",
+            "text": "you are the loop messenger"
+          },
+          "text": "you are the loop messenger",
+          "url": "https://orkes.io/blog/what-is-loop-engineering"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787811035887,
+          "id": "hk-1787811035882-67793",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787811035881,
+              "end": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\]:nth-of-type(2) > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 5304
+              },
+              "quote": {
+                "exact": "e-prompting",
+                "prefix": "。這確實就是一個循環。那麼，循環工程的實際作用是什麼呢？\nRight now, it’s all about the r",
+                "suffix": ", and a lot can go into that. The agent’s built-in loop only"
+              },
+              "start": {
+                "css": "html > body.min-h-screen.font-sans > div.mx-auto.max-w-\\[1180px\\]:nth-of-type(2) > article > div.prose.prose-neutral:nth-of-type(2)",
+                "textOffset": 5293
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[2]/article[1]/div[2]/p[18]/text()[1]",
+            "startOffset": 31,
+            "startXPath": "/html[1]/body[1]/div[2]/article[1]/div[2]/p[18]/text()[1]",
+            "text": "e-prompting"
+          },
+          "text": "e-prompting",
+          "url": "https://orkes.io/blog/what-is-loop-engineering"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit",
+      "title": "食品標示諮詢服務平台",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787799033186,
+          "id": "hk-1787799033184-89861",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787799033182,
+              "end": {
+                "css": "div#ans",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "應標示有效日期",
+                "prefix": "       \n            一、依食品安全衛生管理法第22條第1項第7款規定，食品及食品原料之容器或外包裝，",
+                "suffix": "。倘自願加標製造日期或保存期限，以提供更多產品資訊予消費者，並無違反規定。二、另依前行政院衛生署於75年8月4日以衛署食"
+              },
+              "start": {
+                "css": "div#ans",
+                "textOffset": 53
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[1]/span[7]/text()[1]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[1]/span[7]/text()[1]",
+            "text": "應標示有效日期"
+          },
+          "text": "應標示有效日期",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787799044388,
+          "id": "hk-1787799044384-13822",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787799044384,
+              "end": {
+                "css": "div#ans",
+                "textOffset": 216
+              },
+              "quote": {
+                "exact": "除應標示有效日期外，亦應加標示保存期限及保存條件，併此敘明",
+                "prefix": "4號公告，鮮乳、脫脂乳、淡煉乳、加糖全脂煉乳、加糖脫脂煉乳、乳油(Cream)、調味乳、發酵乳、合成乳及其他液態乳製品，",
+                "suffix": "。\n\n\n        \n    \n\n    \n        關閉頁面\n    \n\n\n    \n        \n  "
+              },
+              "start": {
+                "css": "div#ans",
+                "textOffset": 187
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[11]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[11]/text()[1]",
+            "text": "除應標示有效日期外，亦應加標示保存期限及保存條件，併此敘明"
+          },
+          "text": "除應標示有效日期外，亦應加標示保存期限及保存條件，併此敘明",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787799248918,
+          "id": "hk-1787799248917-88633",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787799248916,
+              "end": {
+                "css": "div#ans",
+                "textOffset": 133
+              },
+              "quote": {
+                "exact": "乳品",
+                "prefix": "原料應符合各乳品定義，品名、外包裝始可標示為鮮乳、保久乳、調味乳或乳飲品，或通稱為牛乳。二、市售產品是否認屬本標示規定之",
+                "suffix": "，需視產品外包裝標示實際傳達消費者之整體表現而定。市售產品如使用生乳、鮮乳、保久乳、濃縮乳、或乳粉為原料，惟其總含量未達"
+              },
+              "start": {
+                "css": "div#ans",
+                "textOffset": 131
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[2]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[2]/text()[1]",
+            "text": "乳品"
+          },
+          "text": "乳品",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787799271217,
+          "id": "hk-1787799271214-69985",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787799271214,
+              "end": {
+                "css": "div#ans",
+                "textOffset": 198
+              },
+              "quote": {
+                "exact": "未達50%以上",
+                "prefix": "乳品，需視產品外包裝標示實際傳達消費者之整體表現而定。市售產品如使用生乳、鮮乳、保久乳、濃縮乳、或乳粉為原料，惟其總含量",
+                "suffix": "，則產品外包裝實際傳達消費者之整體表現，包括文字敘述、產品品名、圖案、符號等，不得使消費者誤解為乳品。例如：「○○牛奶花"
+              },
+              "start": {
+                "css": "div#ans",
+                "textOffset": 191
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[5]/text()[1]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[3]/text()[1]",
+            "text": "未達50%以上"
+          },
+          "text": "未達50%以上",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787799273633,
+          "id": "hk-1787799273630-36213",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787799273629,
+              "end": {
+                "css": "div#ans",
+                "textOffset": 248
+              },
+              "quote": {
+                "exact": "不得使消費者誤解為乳品",
+                "prefix": "乳、或乳粉為原料，惟其總含量未達50%以上，則產品外包裝實際傳達消費者之整體表現，包括文字敘述、產品品名、圖案、符號等，",
+                "suffix": "。例如：「○○牛奶花生」產品，如確實使用牛奶作為原料，雖乳含量未達50%以上，惟外包裝標示之整體表現未使消費者誤解為乳品"
+              },
+              "start": {
+                "css": "div#ans",
+                "textOffset": 237
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[4]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[4]/text()[1]",
+            "text": "不得使消費者誤解為乳品"
+          },
+          "text": "不得使消費者誤解為乳品",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787799375224,
+          "id": "hk-1787799375222-10592",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787799375222,
+              "end": {
+                "css": "div#ans",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "雖乳含量未達50%以上，惟外包裝標示之整體表現未使消費者誤解為乳品，則產品品名標示含「牛奶」字樣，尚符合規定",
+                "prefix": "表現，包括文字敘述、產品品名、圖案、符號等，不得使消費者誤解為乳品。例如：「○○牛奶花生」產品，如確實使用牛奶作為原料，",
+                "suffix": "。 三、另如產品以「乳」字樣作為產品品名，例如：「○○初乳」，且外包裝標示佐以乳牛牧場圖案，惟該產品乳含量未達50%以上"
+              },
+              "start": {
+                "css": "div#ans",
+                "textOffset": 275
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[6]/text()[1]",
+            "startOffset": 27,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/p[2]/span[4]/text()[2]",
+            "text": "雖乳含量未達50%以上，惟外包裝標示之整體表現未使消費者誤解為乳品，則產品品名標示含「牛奶」字樣，尚符合規定"
+          },
+          "text": "雖乳含量未達50%以上，惟外包裝標示之整體表現未使消費者誤解為乳品，則產品品名標示含「牛奶」字樣，尚符合規定",
+          "url": "https://foodlabel.fda.gov.tw/FdaFrontEndApp/FoodFAQ/Edit"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.mohw.gov.tw/cp-3160-25456-1.html",
+      "title": "食品有效日期正確標示，免生誤解- 衛生福利部",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787798958865,
+          "id": "hk-1787798958859-23097",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787798958851,
+              "end": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "包裝食品應於外包裝標示「有效日期」，標示方式可以民國100年或2011年標示",
+                "prefix": "  回上一頁\n                \n              食品藥物管理局表示，依據食品衛生管理法規定，",
+                "suffix": "，但不應以消費者不熟知之外文符號標示呈現，如「01.MAR.2011」。又如以「04.01.2011」之標示方式時，業者"
+              },
+              "start": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 22
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/text()[1]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/text()[1]",
+            "text": "包裝食品應於外包裝標示「有效日期」，標示方式可以民國100年或2011年標示"
+          },
+          "text": "包裝食品應於外包裝標示「有效日期」，標示方式可以民國100年或2011年標示",
+          "url": "https://www.mohw.gov.tw/cp-3160-25456-1.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787798968884,
+          "id": "hk-1787798968881-74016",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787798968880,
+              "end": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 154
+              },
+              "quote": {
+                "exact": "如「01.MAR.2011」。又如以「04.01.2011」之標示方式時，業者應於外包裝同時顯著加註「日/月/年」之字樣，以達協助消費者辨認之目的",
+                "prefix": "，包裝食品應於外包裝標示「有效日期」，標示方式可以民國100年或2011年標示，但不應以消費者不熟知之外文符號標示呈現，",
+                "suffix": "。\n同時再次提醒民眾，民眾於選購食品時，應注意食品有效日期標示資訊是否完整，食品是否仍於效期之內，以確保自身健康\n\n  "
+              },
+              "start": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 81
+              },
+              "version": 1
+            },
+            "endOffset": 94,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/text()[2]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/text()[2]",
+            "text": "如「01.MAR.2011」。又如以「04.01.2011」之標示方式時，業者應於外包裝同時顯著加註「日/月/年」之字樣，以達協助消費者辨認之目的"
+          },
+          "text": "如「01.MAR.2011」。又如以「04.01.2011」之標示方式時，業者應於外包裝同時顯著加註「日/月/年」之字樣，以達協助消費者辨認之目的",
+          "url": "https://www.mohw.gov.tw/cp-3160-25456-1.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell",
+      "title": "Secure Shell - 維基百科，自由的百科全書",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732531672,
+          "id": "hk-1787732531663-36681",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732531660,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output > p > a.mw-redirect",
+                "textOffset": 6
+              },
+              "quote": {
+                "exact": "安全殼層協定（Secure Shell Protocol，簡稱SSH）是一種加密的網路傳輸協定",
+                "prefix": "P\nNDP\nTunnels\nL2TP\nPPP\nMAC\nEthernet\nDSL\nISDN\nFDDI\n更多...\n閱論編\n",
+                "suffix": "，可在不安全的網路中為網路服務提供安全的傳輸環境[1]。SSH通過在網路中建立安全隧道（英語：secure channe"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 425
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/a[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[1]/b[1]/text()[1]",
+            "text": "安全殼層協定（Secure Shell Protocol，簡稱SSH）是一種加密的網路傳輸協定"
+          },
+          "text": "安全殼層協定（Secure Shell Protocol，簡稱SSH）是一種加密的網路傳輸協定",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732537572,
+          "id": "hk-1787732537566-64130",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732537565,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 573
+              },
+              "quote": {
+                "exact": "常見的用途是遠端登入系統",
+                "prefix": "SH通過在網路中建立安全隧道（英語：secure channel）來實現SSH客戶端與伺服器之間的連線[2]。\nSSH最",
+                "suffix": "，人們通常利用SSH來傳輸命令列介面和遠端執行命令。雖然SSH最初在類Unix系統中普及，但隨著微軟在Windows 1"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 561
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[2]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[2]/text()[1]",
+            "text": "常見的用途是遠端登入系統"
+          },
+          "text": "常見的用途是遠端登入系統",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732545584,
+          "id": "hk-1787732545573-43438",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732545572,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 775
+              },
+              "quote": {
+                "exact": "Windows 10 1803版本已提供OpenSSH工具",
+                "prefix": "s現已全面支援SSH的客戶端與伺服器端功能。[3]2015年，微軟宣布將在未來的作業系統中提供原生SSH協定支援[4]，",
+                "suffix": "[5]。\n在設計上，SSH是Telnet和非安全shell的替代品。Telnet和Berkeley rlogin（英語："
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 746
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[2]/text()[12]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[2]/text()[11]",
+            "text": "Windows 10 1803版本已提供OpenSSH工具"
+          },
+          "text": "Windows 10 1803版本已提供OpenSSH工具",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732556320,
+          "id": "hk-1787732556309-6435",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732556307,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1175
+              },
+              "quote": {
+                "exact": "SSH以非對稱加密實現身分驗證",
+                "prefix": "確認美國中央情報局已經開發出能夠在Windows或Linux作業系統中竊取SSH對談的工具。[10]\n\n\n概述[編輯]\n",
+                "suffix": "[2]。身分驗證有多種途徑，例如其中一種方法是使用自動生成的公鑰-私鑰對來簡單地加密網路連線，隨後使用密碼認證進行登入；"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1160
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/a[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[1]",
+            "text": "SSH以非對稱加密實現身分驗證"
+          },
+          "text": "SSH以非對稱加密實現身分驗證",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732563504,
+          "id": "hk-1787732563498-44137",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732563496,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1221
+              },
+              "quote": {
+                "exact": "使用自動生成的公鑰-私鑰對來簡單地加密網路連線",
+                "prefix": "SH對談的工具。[10]\n\n\n概述[編輯]\nSSH以非對稱加密實現身分驗證[2]。身分驗證有多種途徑，例如其中一種方法是",
+                "suffix": "，隨後使用密碼認證進行登入；另一種方法是人工生成一對公鑰和私鑰，通過生成的金鑰進行認證，這樣就可以在不輸入密碼的情況下登"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1198
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[2]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[2]",
+            "text": "使用自動生成的公鑰-私鑰對來簡單地加密網路連線"
+          },
+          "text": "使用自動生成的公鑰-私鑰對來簡單地加密網路連線",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732569519,
+          "id": "hk-1787732569510-64094",
+          "note": "這很方便",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732569509,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1282
+              },
+              "quote": {
+                "exact": "人工生成一對公鑰和私鑰，通過生成的金鑰進行認證，這樣就可以在不輸入密碼的情況下登入",
+                "prefix": "驗證有多種途徑，例如其中一種方法是使用自動生成的公鑰-私鑰對來簡單地加密網路連線，隨後使用密碼認證進行登入；另一種方法是",
+                "suffix": "。任何人都可以自行生成金鑰。公鑰需要放在待訪問的電腦之中，而對應的私鑰需要由使用者自行保管。認證過程基於生成出來的私鑰，"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1241
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[3]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[5]/text()[3]",
+            "text": "人工生成一對公鑰和私鑰，通過生成的金鑰進行認證，這樣就可以在不輸入密碼的情況下登入"
+          },
+          "text": "人工生成一對公鑰和私鑰，通過生成的金鑰進行認證，這樣就可以在不輸入密碼的情況下登入",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1787732585436,
+          "id": "hk-1787732585432-62297",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732585432,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1391
+              },
+              "quote": {
+                "exact": "SSH-1和SSH-2",
+                "prefix": "使用者自行保管。認證過程基於生成出來的私鑰，但整個認證過程中私鑰本身不會傳輸到網路中。\nSSH協定有兩個主要版本，分別是",
+                "suffix": "。無論是哪個版本，核實未知金鑰來源都是重要的事情，因為SSH只驗證提供使用者是否擁有與公鑰相匹配的私鑰，只要接受公鑰而且"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1380
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[6]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[6]/text()[1]",
+            "text": "SSH-1和SSH-2"
+          },
+          "text": "SSH-1和SSH-2",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787732615908,
+          "id": "hk-1787732615898-74172",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732615896,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1708
+              },
+              "quote": {
+                "exact": "私鑰會儲存在固定位置，也可以通過命令列參數指定（例如ssh命令的「-i」選項）。ssh-keygen是生成金鑰的工具之一",
+                "prefix": "當遠端機器持有公鑰，而本地持有對應私鑰時，登入過程不再需要手動輸入密碼。另外為了額外的安全性，私鑰本身也能用密碼保護。\n",
+                "suffix": "。\nSSH也支援基於密碼的身分驗證，此時金鑰是自動生成的。若客戶端和伺服器端從未進行過身分驗證，SSH未記錄伺服器端所使"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1648
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[8]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[8]/text()[1]",
+            "text": "私鑰會儲存在固定位置，也可以通過命令列參數指定（例如ssh命令的「-i」選項）。ssh-keygen是生成金鑰的工具之一"
+          },
+          "text": "私鑰會儲存在固定位置，也可以通過命令列參數指定（例如ssh命令的「-i」選項）。ssh-keygen是生成金鑰的工具之一",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        },
+        {
+          "color": "#fce4ee",
+          "createdAt": 1787732621083,
+          "id": "hk-1787732621076-93279",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787732621075,
+              "end": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1569
+              },
+              "quote": {
+                "exact": "~/.ssh/authorized_keys",
+                "prefix": "統也會把攻擊者視為合法使用者。\n\n金鑰管理[編輯]\n在類Unix系統中，已許可登入的公鑰通常儲存在使用者/home目錄的",
+                "suffix": "檔案中[11]，該檔案只由SSH使用。當遠端機器持有公鑰，而本地持有對應私鑰時，登入過程不再需要手動輸入密碼。另外為了額"
+              },
+              "start": {
+                "css": "div#mw-content-text > div.mw-content-ltr.mw-parser-output",
+                "textOffset": 1547
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[7]/text()[2]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[3]/main[1]/div[3]/div[3]/div[1]/p[7]/text()[2]",
+            "text": "~/.ssh/authorized_keys"
+          },
+          "text": "~/.ssh/authorized_keys",
+          "url": "https://zh.wikipedia.org/zh-tw/Secure_Shell"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.mohw.gov.tw/cp-16-43376-1.html",
+      "title": "公告食品過敏原標示規定，應標示之過敏原增加為11項- 衛生福利部",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787728481165,
+          "id": "hk-1787728481160-70108",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787728481157,
+              "end": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 499
+              },
+              "quote": {
+                "exact": "另過敏原醒語之標示方式除原有之「本產品含有○○」或「本產品含有○○，不適合對其過敏體質者食用」，並增列將其所含致過敏性內容物全部載明於「品名」之方式。",
+                "prefix": "載體或酒類之澄清用途者，不在此限。\n\n(十一) 使用亞硫酸鹽類等，其終產品以二氧化硫殘留量計每公斤十毫克以上之製品。\n\n",
+                "suffix": "\n\n食品藥物管理署提醒有特殊過敏體質之消費者，可以由外包裝標示明確得知所購買的食品資訊，依需要做選擇。本規定自109年7"
+              },
+              "start": {
+                "css": "body > main.main > div.mainRow > div.columnRight:nth-of-type(2) > section.cp > article.cpArticle",
+                "textOffset": 424
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/p[13]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/div[2]/section[1]/article[1]/p[13]/text()[1]",
+            "text": "另過敏原醒語之標示方式除原有之「本產品含有○○」或「本產品含有○○，不適合對其過敏體質者食用」，並增列將其所含致過敏性內容物全部載明於「品名」之方式。"
+          },
+          "text": "另過敏原醒語之標示方式除原有之「本產品含有○○」或「本產品含有○○，不適合對其過敏體質者食用」，並增列將其所含致過敏性內容物全部載明於「品名」之方式。",
+          "url": "https://www.mohw.gov.tw/cp-16-43376-1.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://archive.codenewsletter.ai/2090840747738374568",
+      "title": "Andrew Ng (@AndrewYNg) on X",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787718882582,
+          "id": "hk-1787718882579-51303",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787718882576,
+              "end": {
+                "css": "main.pb-16.pt-4 > article.overflow-hidden.rounded-2xl > div.flex.gap-3\\.5 > div.min-w-0.flex-1:nth-of-type(2) > div.mt-2:nth-of-type(3) > div.post-body.mt-5",
+                "textOffset": 734
+              },
+              "quote": {
+                "exact": "difference between AI applications and non-AI software is that the former’s output is less predictable",
+                "prefix": " structured expert interviews, and survey responses.The key ",
+                "suffix": ". You don’t know in advance what an LLM will output, or what"
+              },
+              "start": {
+                "css": "main.pb-16.pt-4 > article.overflow-hidden.rounded-2xl > div.flex.gap-3\\.5 > div.min-w-0.flex-1:nth-of-type(2) > div.mt-2:nth-of-type(3) > div.post-body.mt-5",
+                "textOffset": 632
+              },
+              "version": 1
+            },
+            "endOffset": 110,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[1]/div[2]/div[3]/div[1]/p[4]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/article[1]/div[1]/div[2]/div[3]/div[1]/p[4]/text()[1]",
+            "text": "difference between AI applications and non-AI software is that the former’s output is less predictable"
+          },
+          "text": "difference between AI applications and non-AI software is that the former’s output is less predictable",
+          "url": "https://archive.codenewsletter.ai/2090840747738374568"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
+      "title": "How to Steal an AI Model’s Private Thoughts",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707448998,
+          "id": "hk-1787707448990-71136",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707448989,
+              "end": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(2)",
+                "textOffset": 16
+              },
+              "quote": {
+                "exact": "Reasoning Traces",
+                "prefix": "racies.免責聲明：這篇文章是基於各種來源公開分享的詳細資訊。參考資料在最後。如果您發現任何不準確之處，請發表評論。",
+                "suffix": "推理痕跡推理痕跡Modern frontier models first generate an extended in"
+              },
+              "start": {
+                "css": "article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup > h2.header-anchor-post:nth-of-type(2)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[2]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/h2[2]/span[1]/text()[1]",
+            "text": "Reasoning Traces"
+          },
+          "text": "Reasoning Traces",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707468261,
+          "id": "hk-1787707468252-54491",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707468250,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 3522
+              },
+              "quote": {
+                "exact": "This longer sequence of exploration is the reasoning trace, which is also known as the chain of thought",
+                "prefix": " ultimately helps it write a clean two hundred-word answer. ",
+                "suffix": ".現代前沿模型首先產生擴展的內部文字序列，然後再產生可見的答案。例如，如果我們要求一個模型解決一個困難的數學問題，模型可"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 3419
+              },
+              "version": 1
+            },
+            "endOffset": 434,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[10]/span[1]/text()[1]",
+            "startOffset": 331,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[10]/span[1]/text()[1]",
+            "text": "This longer sequence of exploration is the reasoning trace, which is also known as the chain of thought"
+          },
+          "text": "This longer sequence of exploration is the reasoning trace, which is also known as the chain of thought",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707517270,
+          "id": "hk-1787707517258-86812",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707517257,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4367
+              },
+              "quote": {
+                "exact": "Why do the model providers hide these reasoning traces",
+                "prefix": "些憑證才能完成工作。換句話說，在產生任何答案之前，憑證會透過推理追蹤。Concealment Rationale隱瞞理由",
+                "suffix": "?為什麼模型提供者要隱藏這些推理痕跡？There are two separate motivations:有兩個不同的"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4313
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/span[1]/text()[1]",
+            "text": "Why do the model providers hide these reasoning traces"
+          },
+          "text": "Why do the model providers hide these reasoning traces",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707526181,
+          "id": "hk-1787707526171-41336",
+          "note": "被對手模仿了很討厭，花很多時間開發對方抄襲就可以做到或是比你更好",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707526170,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4471
+              },
+              "quote": {
+                "exact": "commercial",
+                "prefix": "痕跡？There are two separate motivations:有兩個不同的動機：The first is ",
+                "suffix": ". A competitor can collect a large number of traces from a s"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4461
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[4]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[4]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "commercial"
+          },
+          "text": "commercial",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707555511,
+          "id": "hk-1787707555501-20195",
+          "note": "這個推理的過程中可能有很多隱私的內容，如果全部可見反而對使用者或是公司不好",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707555500,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4565
+              },
+              "quote": {
+                "exact": "safety-related",
+                "prefix": "以建立更便宜的強大模型的模仿品。這是因為最終答案僅提供計算的端點，而追蹤提供答案背後的方法。The second is ",
+                "suffix": ". A model sometimes has to generate reasoning about a harmfu"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4551
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[4]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[4]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "safety-related"
+          },
+          "text": "safety-related",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707716193,
+          "id": "hk-1787707716183-21713",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707716182,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5603
+              },
+              "quote": {
+                "exact": "keeps the state on the server",
+                "prefix": "his leaves us with two options:這給我們留下了兩個選擇：The first option ",
+                "suffix": ". The provider stores the trace in its own database, returns"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5574
+              },
+              "version": 1
+            },
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "keeps the state on the server"
+          },
+          "text": "keeps the state on the server",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707733462,
+          "id": "hk-1787707733453-16922",
+          "note": "把所有用戶對話資訊都記錄在自己的 server\n負擔太大",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707733452,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5732
+              },
+              "quote": {
+                "exact": "but expensive",
+                "prefix": "t up when the next message arrives. This is straightforward ",
+                "suffix": " because it means storing state for every conversation from "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5719
+              },
+              "version": 1
+            },
+            "endOffset": 185,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[1]/p[1]/span[1]/text()[2]",
+            "startOffset": 172,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[1]/p[1]/span[1]/text()[2]",
+            "text": "but expensive"
+          },
+          "text": "but expensive",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707766921,
+          "id": "hk-1787707766911-76807",
+          "note": "重要的是把加密過後的資訊給使用者，解密方法只有公司本人知道",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707766910,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5988
+              },
+              "quote": {
+                "exact": "encrypts the trace and returns it to the client",
+                "prefix": "找它。這很簡單，但成本很高，因為這意味著儲存來自全球服務的每個用戶的每個對話的狀態。The second option ",
+                "suffix": ", which stores the block and sends it back with each subsequ"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5941
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[5]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "encrypts the trace and returns it to the client"
+          },
+          "text": "encrypts the trace and returns it to the client",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707791307,
+          "id": "hk-1787707791293-341",
+          "note": "這三間公司所要服務的對象實在是太多了，因此將負擔轉嫁給使用者是比較好的選擇",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707791291,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6118
+              },
+              "quote": {
+                "exact": "OpenAI, Anthropic, and Google chose the second option",
+                "prefix": "端，客戶端儲存該區塊並將其與每個後續請求一起發送回。在這種情況下，提供者不會儲存任何內容。Providers like ",
+                "suffix": ". Confidentiality keeps competitors from reading the trace, "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6065
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[17]/span[1]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[17]/span[1]/text()[1]",
+            "text": "OpenAI, Anthropic, and Google chose the second option"
+          },
+          "text": "OpenAI, Anthropic, and Google chose the second option",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787707823714,
+          "id": "hk-1787707823703-55683",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787707823702,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6454
+              },
+              "quote": {
+                "exact": "long string of base64 text",
+                "prefix": "sent back to the client?那麼發送回客戶端的區塊內實際上是什麼？It consists of a ",
+                "suffix": ", which is a way of writing binary data using ordinary lette"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6428
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[19]/span[1]/text()[1]",
+            "startOffset": 17,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[19]/span[1]/text()[1]",
+            "text": "long string of base64 text"
+          },
+          "text": "long string of base64 text",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787714680138,
+          "id": "hk-1787714680125-33264",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787714680119,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10057
+              },
+              "quote": {
+                "exact": "receive anti-distillation training aimed at preventing disclosure of their own reasoning.",
+                "prefix": "均勻的。Flagship models such as Claude Opus 4.8 and GPT-5.6 Sol ",
+                "suffix": " It is present behind input and output filters that check fo"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 9968
+              },
+              "version": 1
+            },
+            "endOffset": 145,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[25]/span[1]/text()[1]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[25]/span[1]/text()[1]",
+            "text": "receive anti-distillation training aimed at preventing disclosure of their own reasoning."
+          },
+          "text": "receive anti-distillation training aimed at preventing disclosure of their own reasoning.",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787714779424,
+          "id": "hk-1787714779417-14817",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787714779412,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 13154
+              },
+              "quote": {
+                "exact": "Distillation",
+                "prefix": "wo of them use blocks the attacker generated:其中兩個使用攻擊者產生的區塊：",
+                "suffix": ": It involves training a copycat model on a target’s visible"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 13142
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[1]/p[1]/strong[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[1]/p[1]/strong[1]/span[1]/text()[1]",
+            "text": "Distillation"
+          },
+          "text": "Distillation",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787714798124,
+          "id": "hk-1787714798112-46027",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787714798111,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 13900
+              },
+              "quote": {
+                "exact": "Models are trained to withhold harmful content from visible output",
+                "prefix": ",000 條踪跡的成本約為 720 美元，並且當區塊來自公共資料集時，永遠不會查詢前沿模型。Jailbreaking: ",
+                "suffix": ". However, they are largely not trained to avoid generating "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 13834
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "Models are trained to withhold harmful content from visible output"
+          },
+          "text": "Models are trained to withhold harmful content from visible output",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787714821901,
+          "id": "hk-1787714821895-58136",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787714821894,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 15345
+              },
+              "quote": {
+                "exact": "From genuine user sessions, 62 API keys, 33 passwords, 24 access tokens, 7 private keys, and 30 personal email addresses",
+                "prefix": "8 個公共代理軌跡，並解碼了 315,320 個推理區塊，透過自動化管道過濾結果以刪除佔位符和基準裝置。以下是一些發現：",
+                "suffix": "來自真實使用者會話、62 個 API 金鑰、33 個密碼、24 個存取權杖、7 個私鑰和 30 個個人電子郵件地址Acr"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 15225
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[10]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[10]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "From genuine user sessions, 62 API keys, 33 passwords, 24 access tokens, 7 private keys, and 30 personal email addresses"
+          },
+          "text": "From genuine user sessions, 62 API keys, 33 passwords, 24 access tokens, 7 private keys, and 30 personal email addresses",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787715038042,
+          "id": "hk-1787715038029-18949",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787715038025,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 14101
+              },
+              "quote": {
+                "exact": "Distillation",
+                "prefix": "wo of them use blocks the attacker generated:其中兩個使用攻擊者產生的區塊：",
+                "suffix": ": It involves training a copycat model on a target’s visible"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 14089
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[1]/p[1]/strong[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[1]/p[1]/strong[1]/span[1]/text()[1]",
+            "text": "Distillation"
+          },
+          "text": "Distillation",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787715043154,
+          "id": "hk-1787715043143-26171",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787715043142,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 14847
+              },
+              "quote": {
+                "exact": "Models are trained to withhold harmful content from visible output",
+                "prefix": ",000 條踪跡的成本約為 720 美元，並且當區塊來自公共資料集時，永遠不會查詢前沿模型。Jailbreaking: ",
+                "suffix": ". However, they are largely not trained to avoid generating "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 14781
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[9]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "Models are trained to withhold harmful content from visible output"
+          },
+          "text": "Models are trained to withhold harmful content from visible output",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787715056651,
+          "id": "hk-1787715056643-75755",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787715056642,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 15952
+              },
+              "quote": {
+                "exact": "collected 6,708 public agent trajectories from GitHub and Hugging Face and decoded 315,320 reasoning blocks",
+                "prefix": "誌，並在發布前對可見文字進行清理。然而，他們無法清理加密的區塊，因為他們也無法讀取它們。The researchers ",
+                "suffix": ", filtering the results through an automated pipeline to rem"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 15845
+              },
+              "version": 1
+            },
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[35]/span[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[35]/span[1]/text()[1]",
+            "text": "collected 6,708 public agent trajectories from GitHub and Hugging Face and decoded 315,320 reasoning blocks"
+          },
+          "text": "collected 6,708 public agent trajectories from GitHub and Hugging Face and decoded 315,320 reasoning blocks",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1787715060855,
+          "id": "hk-1787715060847-48605",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1787715060845,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 16384
+              },
+              "quote": {
+                "exact": "62 API keys, 33 passwords, 24 access tokens, 7 private keys, and 30 personal email addresses",
+                "prefix": "，透過自動化管道過濾結果以刪除佔位符和基準裝置。以下是一些發現：From genuine user sessions, ",
+                "suffix": "來自真實使用者會話、62 個 API 金鑰、33 個密碼、24 個存取權杖、7 個私鑰和 30 個個人電子郵件地址Acr"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 16292
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[10]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[10]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "62 API keys, 33 passwords, 24 access tokens, 7 private keys, and 30 personal email addresses"
+          },
+          "text": "62 API keys, 33 passwords, 24 access tokens, 7 private keys, and 30 personal email addresses",
+          "url": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.shareuhack.com/zh-TW/posts/claude-code-community-skills-agent-fleet-guide-2026",
       "title": "Shareuhack | mattpocock/skills 精選指南：我們的 AI Agent Fleet 實際在用的 5 個 Claude Code Skills",
@@ -28113,7 +31470,7 @@
     },
     {
       "url": "https://discord.com/channels/1362241582702526615/1362245292493373571",
-      "title": "(1101) Discord | #丟丟的遊戲室 | 丟海裡夥伴們",
+      "title": "Discord",
       "tags": [],
       "entries": [
         {
@@ -119347,8 +122704,24 @@
       "mindmap": null
     },
     {
+      "url": "http://10.166.57.21:7190/",
+      "title": "食品法規工作台",
+      "tags": [],
+      "entries": [],
+      "note": null,
+      "mindmap": null
+    },
+    {
       "url": "https://blog.bytebytego.com/p/token-spend-out-of-control-the-case",
       "title": "Token Spend Out of Control? The Case for Smarter Routing",
+      "tags": [],
+      "entries": [],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfap2CRoiHLieDGQ-nhT45Jtm0yCjtXiPxM8lGzmjZcIbG_Ug/viewform",
+      "title": "penombra",
       "tags": [],
       "entries": [],
       "note": null,

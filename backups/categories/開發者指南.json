@@ -1,9 +1,126 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1787706754956,
+  "exportedAt": 1788332182546,
   "category": "開發者指南",
   "pages": [
+    {
+      "url": "https://github.com/tt-a1i/archify",
+      "title": "tt-a1i/archify: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "tags": [
+        "系統設計",
+        "軟體架構",
+        "開發者指南",
+        "圖表自動化",
+        "AI"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788142989821,
+          "id": "hk-1788142989813-75484",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788142989811,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 272
+              },
+              "quote": {
+                "exact": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode",
+                "prefix": "為一個清晰、交互式的系統圖，直接在聊天中完成。\nArchify is a Node.js rendering and v",
+                "suffix": ". Agents produce typed JSON IR; Archify deterministically co"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 207
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[5]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[5]/text()[1]",
+            "text": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode"
+          },
+          "text": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode",
+          "url": "https://github.com/tt-a1i/archify"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788142993885,
+          "id": "hk-1788142993878-1642",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788142993877,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 116
+              },
+              "quote": {
+                "exact": "into a polished, interactive system map",
+                "prefix": "\n\n\n  \n\n\nArchify  建築設計\nTurn a codebase or system description ",
+                "suffix": " — directly in chat.將代碼庫或系統描述轉化為一個清晰、交互式的系統圖，直接在聊天中完成。\nArchi"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 77
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/strong[1]/text()[1]",
+            "text": "into a polished, interactive system map"
+          },
+          "text": "into a polished, interactive system map",
+          "url": "https://github.com/tt-a1i/archify"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788143002647,
+          "id": "hk-1788143002643-25747",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788143002642,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 745
+              },
+              "quote": {
+                "exact": "Before / Delta / After",
+                "prefix": "e changes before merge — compare two validated snapshots as ",
+                "suffix": ", with exact added, removed, changed, moved, and rerouted fa"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 723
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "text": "Before / Delta / After"
+          },
+          "text": "Before / Delta / After",
+          "url": "https://github.com/tt-a1i/archify"
+        }
+      ],
+      "note": {
+        "generatedAt": 1788146585573,
+        "model": "chatgpt-web",
+        "note": "Archify 是一套專為 Cursor、Claude Code、Codex CLI 等 AI Agent 設計的 Node.js 架構圖渲染與驗證系統。傳統的 AI 繪圖往往面臨 layout 錯亂或直接產生無效 SVG 的問題，而 Archify 的核心運作機制是讓 Agent 先輸出帶有強型別的 JSON 中介表示式 (IR)，再透過確定性的編譯器將其轉換為互動式 HTML 或向量圖表。\n\n這套工具強調「真實性」與「嚴謹度」。在產出圖像前，系統會進行嚴格的原子化驗證，包含 Schema、版面配置與路徑間距檢查，若驗證失敗則會傳回結構化的修復憑證，引導 Agent 自動進行修正。除了支援系統架構、工作流程、時序圖、資料流與生命週期等五種圖表外，它還能比較程式碼合併前後的架構快照（Before/Delta/After），並精確顯示元件的增刪與路徑變更。整個系統不需連接實體基礎設施或綁定專案，使用者直接在 Agent 視窗中描述系統即可生成單一且包含互動功能的 HTML 檔案，極大地簡化了技術溝通與架構審查的流程。",
+        "provider": "chatgpt",
+        "url": "https://github.com/tt-a1i/archify"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "title": "Gemini 3.7 Flash: our most intelligent workhorse model",

@@ -1,15 +1,15 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1787706754968,
-  "totalPages": 587,
+  "exportedAt": 1788332182560,
+  "totalPages": 611,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 570
+      "pageCount": 593
     },
     {
       "tag": "人工智慧",
@@ -22,6 +22,11 @@
       "pageCount": 6
     },
     {
+      "tag": "系統設計",
+      "file": "categories/系統設計.json",
+      "pageCount": 4
+    },
+    {
       "tag": "開源模型",
       "file": "categories/開源模型.json",
       "pageCount": 4
@@ -30,6 +35,11 @@
       "tag": "機器學習",
       "file": "categories/機器學習.json",
       "pageCount": 4
+    },
+    {
+      "tag": "開發者指南",
+      "file": "categories/開發者指南.json",
+      "pageCount": 3
     },
     {
       "tag": "成本控制",
@@ -57,19 +67,9 @@
       "pageCount": 3
     },
     {
-      "tag": "系統設計",
-      "file": "categories/系統設計.json",
-      "pageCount": 3
-    },
-    {
       "tag": "OpenAI API",
       "file": "categories/OpenAI API.json",
       "pageCount": 3
-    },
-    {
-      "tag": "開發者指南",
-      "file": "categories/開發者指南.json",
-      "pageCount": 2
     },
     {
       "tag": "即時語音",
@@ -80,6 +80,21 @@
       "tag": "提示詞工程",
       "file": "categories/提示詞工程.json",
       "pageCount": 2
+    },
+    {
+      "tag": "軟體架構",
+      "file": "categories/軟體架構.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "圖表自動化",
+      "file": "categories/圖表自動化.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "AI",
+      "file": "categories/AI.json",
+      "pageCount": 1
     },
     {
       "tag": "64位元運算",
