@@ -1,8 +1,1419 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1788332181273,
+  "exportedAt": 1788926733101,
   "pages": [
+    {
+      "url": "https://health.chiayi.gov.tw/News_Content.aspx?s=943560",
+      "title": "乳品標示新制7月1日上路! 有標章才能叫「鮮乳」 嘉市衛生局提醒業者儘速檢視產品標示",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788848604270,
+          "id": "hk-1788848604266-25843",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788848604263,
+              "end": {
+                "css": "div.in > div.ct > div.in > div.div > div.essay > div.p:nth-of-type(2)",
+                "textOffset": 225
+              },
+              "quote": {
+                "exact": "另完整包裝食品原有標示含「鮮乳」字樣者，應於116年7月1日前完成改標（以產品製造日期為準）",
+                "prefix": "產及驗證管理法》取得相關「驗證標章」，始得標示為「鮮乳」；未符合規定者，不得於產品名稱、標示或宣傳內容使用「鮮乳」字樣。",
+                "suffix": "。\n\n    此外，衛生福利部已於114年6月3日修正公告「食用動物乳、保久乳、調味乳、乳飲品及乳粉品名及標示規定」，符"
+              },
+              "start": {
+                "css": "div.in > div.ct > div.in > div.div > div.essay > div.p:nth-of-type(2)",
+                "textOffset": 179
+              },
+              "version": 1
+            },
+            "endOffset": 219,
+            "endXPath": "/html[1]/body[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[2]/text()[1]",
+            "startOffset": 173,
+            "startXPath": "/html[1]/body[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/p[2]/text()[1]",
+            "text": "另完整包裝食品原有標示含「鮮乳」字樣者，應於116年7月1日前完成改標（以產品製造日期為準）"
+          },
+          "text": "另完整包裝食品原有標示含「鮮乳」字樣者，應於116年7月1日前完成改標（以產品製造日期為準）",
+          "url": "https://health.chiayi.gov.tw/News_Content.aspx?s=943560"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://tw.news.yahoo.com/%E5%90%88%E5%BA%AB%E9%8A%8011%E9%A0%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-2%E6%83%85%E6%B3%81-%E5%B8%B3%E6%88%B6%E6%81%90%E8%A2%AB%E9%8E%96%E6%AD%BB-%E8%BD%89%E5%B8%B3-%E9%A0%98%E9%8C%A2%E9%83%BD%E4%B8%8D%E8%A1%8C-003023175.html",
+      "title": "合庫銀11項新制上路！「2情況」帳戶恐被鎖死　轉帳、領錢都不行",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788745385720,
+          "id": "hk-1788745385717-83849",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788745385716,
+              "end": {
+                "css": "article#article-ad65f147-2587-3c81-b788-34efa858927c > div.atoms > p.mb-module-gap.break-words:nth-of-type(12)",
+                "textOffset": 67
+              },
+              "quote": {
+                "exact": "餘額等值新臺幣1000元以下時，銀行可直接辦理結清銷戶",
+                "prefix": "、網路轉帳及電子支付服務，並可結清帳戶。（九）警示帳戶低額銷戶若帳戶被通報為警示帳戶，將暫停全部交易，匯入款項退匯處理；",
+                "suffix": "。（十）衍生管制帳戶限制衍生管制帳戶將停止提款卡與電子轉帳功能，匯入款項退回匯款行。（十一）薪轉異常或久未交易處置若帳戶"
+              },
+              "start": {
+                "css": "article#article-ad65f147-2587-3c81-b788-34efa858927c > div.atoms > p.mb-module-gap.break-words:nth-of-type(12)",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/main[1]/div[1]/section[1]/div[1]/article[1]/div[1]/p[12]/text()[1]",
+            "text": "餘額等值新臺幣1000元以下時，銀行可直接辦理結清銷戶"
+          },
+          "text": "餘額等值新臺幣1000元以下時，銀行可直接辦理結清銷戶",
+          "url": "https://tw.news.yahoo.com/%E5%90%88%E5%BA%AB%E9%8A%8011%E9%A0%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-2%E6%83%85%E6%B3%81-%E5%B8%B3%E6%88%B6%E6%81%90%E8%A2%AB%E9%8E%96%E6%AD%BB-%E8%BD%89%E5%B8%B3-%E9%A0%98%E9%8C%A2%E9%83%BD%E4%B8%8D%E8%A1%8C-003023175.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://x.com/thsottiaux/status/2095651088502591861",
+      "title": "Tibo on X: \"We will give one banked reset for every day you don't have access to Astra on your paid ChatGPT plan, starting today. Team is moving mountains to give access as fast as we can. First one will land in ~ 3 hours. There is still time to create your account if you don't have one.\" / X",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#dff2e0",
+          "createdAt": 1788743774407,
+          "id": "hk-1788743774402-93138",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788743774399,
+              "end": {
+                "css": "div.transition-colors.focus-visible\\:outline-2 > article.flex.flex-col > div.flex.flex-col > div.flex.flex-col > div.font-chirp.max-w-full:nth-of-type(2) > span.font-chirp.max-w-full",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "reset for every day you don't have access to Astra",
+                "prefix": " you don't have one.\"Tibo@thsottiauxWe will give one banked ",
+                "suffix": " on your paid ChatGPT plan, starting today.  Team is moving "
+              },
+              "start": {
+                "css": "div.transition-colors.focus-visible\\:outline-2 > article.flex.flex-col > div.flex.flex-col > div.flex.flex-col > div.font-chirp.max-w-full:nth-of-type(2) > span.font-chirp.max-w-full",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/span[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/article[1]/div[1]/div[1]/div[2]/span[1]/text()[1]",
+            "text": "reset for every day you don't have access to Astra"
+          },
+          "text": "reset for every day you don't have access to Astra",
+          "url": "https://x.com/thsottiaux/status/2095651088502591861"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/",
+      "title": "Ollama企業生產環境夠用嗎？何時該換vLLM｜蓋斯克科技",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788511280009,
+          "id": "hk-1788511280003-25741",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511280001,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 83
+              },
+              "quote": {
+                "exact": "單人開發、內部小工具、概念驗證階段，Ollama 幾乎是最快的起手方式",
+                "prefix": "26-08-06\n\n\n\nOllama 能不能上生產環境，答案不是「行」或「不行」，而是「同一顆模型同時間有幾個人在用」。",
+                "suffix": "；但當多個使用者同時對同一顆模型送出請求，Ollama 預設偏向序列處理的架構會讓排隊延遲隨併發數疊加，這時候該看的是 "
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[2]/text()[1]",
+            "text": "單人開發、內部小工具、概念驗證階段，Ollama 幾乎是最快的起手方式"
+          },
+          "text": "單人開發、內部小工具、概念驗證階段，Ollama 幾乎是最快的起手方式",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788511283766,
+          "id": "hk-1788511283762-52784",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511283762,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 134
+              },
+              "quote": {
+                "exact": "Ollama 預設偏向序列處理的架構會讓排隊延遲隨併發數疊加",
+                "prefix": "在用」。單人開發、內部小工具、概念驗證階段，Ollama 幾乎是最快的起手方式；但當多個使用者同時對同一顆模型送出請求，",
+                "suffix": "，這時候該看的是 vLLM、SGLang 這類為多用戶生產服務設計的推論框架。這篇文章把兩者的設計差異、分界線判斷方式，"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 104
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[2]/text()[2]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[2]/text()[2]",
+            "text": "Ollama 預設偏向序列處理的架構會讓排隊延遲隨併發數疊加"
+          },
+          "text": "Ollama 預設偏向序列處理的架構會讓排隊延遲隨併發數疊加",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788511305847,
+          "id": "hk-1788511305839-28646",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511305838,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > div.aeo-summary",
+                "textOffset": 92
+              },
+              "quote": {
+                "exact": "同一顆模型同時間的併發使用人數",
+                "prefix": "Ollama 封裝 llama.cpp，設計目標是本機單人互動，不是多租戶生產服務。\n    分界線不是公司規模，而是「",
+                "suffix": "」。\n    vLLM／SGLang 靠 continuous batching、PagedAttention 等技術讓"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > div.aeo-summary",
+                "textOffset": 77
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "同一顆模型同時間的併發使用人數"
+          },
+          "text": "同一顆模型同時間的併發使用人數",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788511312768,
+          "id": "hk-1788511312763-28843",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511312762,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 41
+              },
+              "quote": {
+                "exact": "Ollama 是把 llama.cpp 包成一行指令就能跑的地端 LLM 執行工具",
+                "prefix": "，做對第一次選型更多關於Ollama企業部署的常見問題FAQ一、Ollama 是什麼：個人與 POC 的最短路徑\n\n\n\n",
+                "suffix": "，設計目標是本機單人互動，不是企業級生產服務。Ollama 是一套地端大型語言模型執行工具，用於在個人電腦或單一伺服器上"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[3]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[3]/strong[1]/text()[1]",
+            "text": "Ollama 是把 llama.cpp 包成一行指令就能跑的地端 LLM 執行工具"
+          },
+          "text": "Ollama 是把 llama.cpp 包成一行指令就能跑的地端 LLM 執行工具",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511319209,
+          "id": "hk-1788511319204-34750",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511319204,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 65
+              },
+              "quote": {
+                "exact": "Georgi Gerganov 自 2023 年開始釋出的開源推論引擎",
+                "prefix": "。兩者都能泡出咖啡，但是為完全不同的使用情境設計的。\n\n\n\nOllama 底層封裝的是 llama.cpp，這是開發者 ",
+                "suffix": "，最初的設計目標就是讓一般消費級硬體也能跑動大型語言模型。Ollama 在這之上加了一層易用性：ollama pull "
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[5]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[5]/text()[2]",
+            "text": "Georgi Gerganov 自 2023 年開始釋出的開源推論引擎"
+          },
+          "text": "Georgi Gerganov 自 2023 年開始釋出的開源推論引擎",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511325424,
+          "id": "hk-1788511325416-93517",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511325415,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "目標就是讓一般消費級硬體也能跑動大型語言模型",
+                "prefix": "的是 llama.cpp，這是開發者 Georgi Gerganov 自 2023 年開始釋出的開源推論引擎，最初的設計",
+                "suffix": "。Ollama 在這之上加了一層易用性：ollama pull 抓模型、ollama run 直接開始對話，並提供 Op"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 71
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[5]/text()[3]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[5]/text()[3]",
+            "text": "目標就是讓一般消費級硬體也能跑動大型語言模型"
+          },
+          "text": "目標就是讓一般消費級硬體也能跑動大型語言模型",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511394028,
+          "id": "hk-1788511394023-61026",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511394023,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(6)",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "快速跑起模型",
+                "prefix": "一顆開源模型，不需要準備 GPU 伺服器、不需要學習容器編排。\n\n\n\nOllama 的定位很清楚：解決的是「怎麼讓一個人",
+                "suffix": "」，不是「怎麼讓一百個人同時穩定地用同一顆模型」。掌握這個出發點，後面判斷什麼時候該換工具就不會憑感覺猜，而是看設計目的"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(6)",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[6]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[6]/text()[1]",
+            "text": "快速跑起模型"
+          },
+          "text": "快速跑起模型",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511398068,
+          "id": "hk-1788511398064-54169",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511398064,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 6
+              },
+              "quote": {
+                "exact": "Ollama",
+                "prefix": "下單，設計重點是產能與穩定的出杯速度，而不是單杯沖泡的便利性。兩者都能泡出咖啡，但是為完全不同的使用情境設計的。\n\n\n\n",
+                "suffix": " 底層封裝的是 llama.cpp，這是開發者 Georgi Gerganov 自 2023 年開始釋出的開源推論引擎，"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[5]/text()[1]",
+            "text": "Ollama"
+          },
+          "text": "Ollama",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511420915,
+          "id": "hk-1788511420910-22301",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511420910,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(9)",
+                "textOffset": 52
+              },
+              "quote": {
+                "exact": "Ollama 預設的處理方式偏向序列排隊，回應時間會隨併發數疊加",
+                "prefix": "的第一步工具。\n\n\n\n三、Ollama 什麼時候會爆：多用戶併發是分水嶺\n\n\n\n當同一顆模型同時間收到多個使用者的請求，",
+                "suffix": "，這是它的設計選擇，不是程式錯誤。Ollama 底層基於 llama.cpp，一開始並不是以高併發生產服務為目標設計；即"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(9)",
+                "textOffset": 20
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[9]/strong[1]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[9]/strong[1]/text()[1]",
+            "text": "Ollama 預設的處理方式偏向序列排隊，回應時間會隨併發數疊加"
+          },
+          "text": "Ollama 預設的處理方式偏向序列排隊，回應時間會隨併發數疊加",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511424806,
+          "id": "hk-1788511424802-22032",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511424801,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(9)",
+                "textOffset": 176
+              },
+              "quote": {
+                "exact": "不是「讓多人同時獲得穩定一致的回應時間」",
+                "prefix": "是以高併發生產服務為目標設計；即使後續版本加入了有限度的平行處理能力，它的排程機制重點仍然是「讓單機也能順利跑起來」，而",
+                "suffix": "。\n\n\n\n更關鍵的是，Ollama 沒有內建服務水準保證（SLA）的機制——沒有排隊可視化、沒有明確的逾時與限流控制、也"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(9)",
+                "textOffset": 156
+              },
+              "version": 1
+            },
+            "endOffset": 107,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[9]/text()[1]",
+            "startOffset": 87,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[9]/text()[1]",
+            "text": "不是「讓多人同時獲得穩定一致的回應時間」"
+          },
+          "text": "不是「讓多人同時獲得穩定一致的回應時間」",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1788511428237,
+          "id": "hk-1788511428233-38150",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511428232,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(10)",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "沒有內建服務水準保證（SLA）的機制",
+                "prefix": "程機制重點仍然是「讓單機也能順利跑起來」，而不是「讓多人同時獲得穩定一致的回應時間」。\n\n\n\n更關鍵的是，Ollama ",
+                "suffix": "——沒有排隊可視化、沒有明確的逾時與限流控制、也沒有多副本自動擴展的設計。這些在單人使用時完全不是問題，但一旦把它當成「"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(10)",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[10]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[10]/text()[1]",
+            "text": "沒有內建服務水準保證（SLA）的機制"
+          },
+          "text": "沒有內建服務水準保證（SLA）的機制",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1788511434650,
+          "id": "hk-1788511434644-75346",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511434643,
+              "end": {
+                "css": "h2#sec-4",
+                "textOffset": 13
+              },
+              "quote": {
+                "exact": "vLLM／SGLang",
+                "prefix": "可行性評估，不用先約不用先付錢。\n  \n    LINE 詢問 AI 導入 →\n  \n  或 預約免費健診\n\n\n\n\n四、",
+                "suffix": " 是什麼：生產環境怎麼不一樣\n\n\n\nvLLM 與 SGLang 是專為多用戶生產服務設計的推論框架，靠 continuo"
+              },
+              "start": {
+                "css": "h2#sec-4",
+                "textOffset": 2
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/h2[4]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/h2[4]/text()[1]",
+            "text": "vLLM／SGLang"
+          },
+          "text": "vLLM／SGLang",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1788511440773,
+          "id": "hk-1788511440768-36527",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511440767,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(11)",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "靠 continuous batching、PagedAttention 等技術讓 GPU 在同一個時間視窗內服務更多請求",
+                "prefix": "LLM／SGLang 是什麼：生產環境怎麼不一樣\n\n\n\nvLLM 與 SGLang 是專為多用戶生產服務設計的推論框架，",
+                "suffix": "，而不是讓請求排隊等待。vLLM 是一套開源 LLM 推論服務框架，用於在生產環境中同時服務多個併發請求。\n\n\n\ncon"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(11)",
+                "textOffset": 32
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[11]/strong[1]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[11]/strong[1]/text()[1]",
+            "text": "靠 continuous batching、PagedAttention 等技術讓 GPU 在同一個時間視窗內服務更多請求"
+          },
+          "text": "靠 continuous batching、PagedAttention 等技術讓 GPU 在同一個時間視窗內服務更多請求",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1788511486529,
+          "id": "hk-1788511486521-74339",
+          "note": "Request A 看見的 KV Cache\n\n[Page 0] → [Page 1] → [Page 2] → [Page 3]\n    │           │           │           │\n    ▼           ▼           ▼           ▼\n  GPU #2      GPU #4      GPU #0      GPU #3\n    │           │           │           │\n    └────────── Block Table ────────────┘\n\n\nGPU 實際記憶體\n\n位置      #0         #1          #2         #3         #4\n        ┌────────┬──────────┬────────┬────────┬────────┐\n        │ Page 2 │ 其他資料 │ Page 0 │ Page 3 │ Page 1 │\n        └────────┴──────────┴────────┴────────┴────────┘",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511486521,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(12)",
+                "textOffset": 186
+              },
+              "quote": {
+                "exact": "PagedAttention 則是借用作業系統「分頁記憶體」",
+                "prefix": "ing 則是動態地讓新請求隨時插入正在運行的批次，舊請求一結束就釋放位置給新請求進來，盡量讓 GPU 不因為等待而閒置。",
+                "suffix": "的概念來管理 KV Cache（模型生成過程中需要保留的注意力快取）：不用替每個請求預先保留一整塊連續記憶體，而是用小分"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(12)",
+                "textOffset": 156
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[12]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[12]/strong[2]/text()[1]",
+            "text": "PagedAttention 則是借用作業系統「分頁記憶體」"
+          },
+          "text": "PagedAttention 則是借用作業系統「分頁記憶體」",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1788511490280,
+          "id": "hk-1788511490276-27613",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788511490275,
+              "end": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(12)",
+                "textOffset": 264
+              },
+              "quote": {
+                "exact": "用小分頁動態分配與回收，減少記憶體碎片浪費",
+                "prefix": "憶體」的概念來管理 KV Cache（模型生成過程中需要保留的注意力快取）：不用替每個請求預先保留一整塊連續記憶體，而是",
+                "suffix": "，讓同一張顯卡能同時服務更多請求。\n\n\n\nvLLM 專案在官方 GitHub 頁面上，將自己定位為「Easy, fast"
+              },
+              "start": {
+                "css": "div.elementor-container.elementor-column-gap-wider > div.elementor-column.elementor-col-100 > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-a542e39:nth-of-type(6) > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(12)",
+                "textOffset": 243
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[12]/text()[2]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[6]/div[1]/p[12]/text()[2]",
+            "text": "用小分頁動態分配與回收，減少記憶體碎片浪費"
+          },
+          "text": "用小分頁動態分配與回收，減少記憶體碎片浪費",
+          "url": "https://zonetech.tw/blogs/ollama-enterprise-limits/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
+      "title": "Why Your RAG System Is Only as Good as Its Translator Model",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788506156797,
+          "id": "hk-1788506156787-23121",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788506156784,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4433
+              },
+              "quote": {
+                "exact": "chunks",
+                "prefix": "從文本中提取信息。It divides the text into smaller passages known as ",
+                "suffix": ".它將文本分割成更小的段落，這些段落被稱為“塊”。It sends each chunk into an embeddi"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4427
+              },
+              "version": 1
+            },
+            "endOffset": 57,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 51,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[3]/p[1]/span[1]/text()[1]",
+            "text": "chunks"
+          },
+          "text": "chunks",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788506165290,
+          "id": "hk-1788506165276-64272",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788506165276,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4260
+              },
+              "quote": {
+                "exact": "documents ",
+                "prefix": "the system prepares the documents:在索引階段，系統會準備文檔：It collects ",
+                "suffix": "from various sources (files, websites, databases, etc.).它從各種"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4250
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "documents "
+          },
+          "text": "documents ",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788506168245,
+          "id": "hk-1788506168233-18534",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788506168232,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4363
+              },
+              "quote": {
+                "exact": "text",
+                "prefix": "databases, etc.).它從各種來源收集文件（如：文件、網站、數據庫等）。It extracts their ",
+                "suffix": ".  它從文本中提取信息。It divides the text into smaller passages known"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4359
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[2]/p[1]/span[1]/text()[1]",
+            "text": "text"
+          },
+          "text": "text",
+          "url": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "title": "隆重介紹 Gemini 3.8 Flash 和 3.8 Flash Cyber --- Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788494893755,
+          "id": "hk-1788494893738-6974",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788494893734,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 948
+              },
+              "quote": {
+                "exact": "cybersecurity model with frontier-level performance",
+                "prefix": "3.75 美元/百萬輸出 token。Gemini 3.8 Flash Cyber: our most capable ",
+                "suffix": " in vulnerability detection and automated patching, availabl"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 897
+              },
+              "version": 1
+            },
+            "endOffset": 69,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "cybersecurity model with frontier-level performance"
+          },
+          "text": "cybersecurity model with frontier-level performance",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.ithome.com.tw/news/178674",
+      "title": "Meta發表Muse Spark 1.3，強調主動確認與長時多工能力 | iThome",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788492862205,
+          "id": "hk-1788492862199-89702",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788492862192,
+              "end": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 453
+              },
+              "quote": {
+                "exact": "Muse Spark 1.3工具呼叫次數少了20%，Token用量也少了25%",
+                "prefix": "3對自己能力的邊界判斷更準，比較不會在做不到的事情上硬掰出結果。另也強調其程式碼撰寫風格更清晰及簡潔，相較於上一個版本，",
+                "suffix": "。\nMeta還以尚在預覽中的Muse Spark 1.3 max版本來與OpenAI GPT 5.6 Sol（max）及"
+              },
+              "start": {
+                "css": "div.row-fluid > div.contents-wrap > div.content > div.field.field-name-body:nth-of-type(3) > div.field-items > div.field-item.even",
+                "textOffset": 414
+              },
+              "version": 1
+            },
+            "endOffset": 215,
+            "endXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 176,
+            "startXPath": "/html[1]/body[1]/div[4]/div[1]/section[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "Muse Spark 1.3工具呼叫次數少了20%，Token用量也少了25%"
+          },
+          "text": "Muse Spark 1.3工具呼叫次數少了20%，Token用量也少了25%",
+          "url": "https://www.ithome.com.tw/news/178674"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+      "title": "介紹 Muse Spark 1.3 | Meta AI 研究 --- Introducing Muse Spark 1.3 | Meta AI Research",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788490533650,
+          "id": "hk-1788490533645-73908",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788490533641,
+              "end": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.article-page-frame-module__NUwTIq__editorialContainer > article > header.mx-auto.max-w-5xl > h1.font-display.text-text-primary > span.whitespace-normal.sm\\:whitespace-nowrap",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "Muse Spark 1.3",
+                "prefix": "能研究AI Developers  人工智能開發者Try Meta AI  嘗試 Meta AIIntroducing ",
+                "suffix": "推出 Muse Spark 1.3September 2, 2026·3 minute read  閱讀時間：3 分鐘W"
+              },
+              "start": {
+                "css": "div.max-w-page-shell.px-page-gutter > div.article-page-frame-module__NUwTIq__editorialContainer > article > header.mx-auto.max-w-5xl > h1.font-display.text-text-primary > span.whitespace-normal.sm\\:whitespace-nowrap",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/header[1]/h1[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/div[1]/div[1]/article[1]/header[1]/h1[1]/span[1]/text()[1]",
+            "text": "Muse Spark 1.3"
+          },
+          "text": "Muse Spark 1.3",
+          "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C",
+      "title": "Speculative Decoding - HackMD",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788414715575,
+          "id": "hk-1788414715569-50337",
+          "note": "https://zhuanlan.zhihu.com/p/651359908\n\n通過讓小模型（draft model）快速、連續地解碼多個 Tokens 並保留過程中的採樣機率分佈，並讓我們真正希望加速的大模型（target model）在此之上預測下一個 Token",
+          "range": {
+            "anchors": {
+              "createdAt": 1788414715567,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(2)",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "投機採樣",
+                "prefix": "LMs are Faster than One\n參考資料\nMedusa（美杜莎）\n\nKarpathy曾多次提出，大模型「",
+                "suffix": "」對於推理時間優化是一個出色的方案。 但是，儘管投機解碼能夠加速生成速度，但因其太過複雜，並沒有被許多開發者採用。\n為什"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(2)",
+                "textOffset": 32
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[2]/li[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[2]/li[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "投機採樣"
+          },
+          "text": "投機採樣",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788414751932,
+          "id": "hk-1788414751931-86656",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788414751930,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "事先預測可能的輸出序列，然後基於這些預測進行更有效率的運算資源分配。",
+                "prefix": "技術。 這種方法主要用於提高解碼速度和效率，尤其是在生成文字時。 Speculative Decoding 的核心概念是",
+                "suffix": "\n原理與工作方式\n\n\n並行預測：\n\nSpeculative Decoding 透過在解碼過程中並行地預測多個可能的候選序"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 148
+              },
+              "version": 1
+            },
+            "endOffset": 147,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/p[2]/span[1]/text()[1]",
+            "startOffset": 113,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/p[2]/span[1]/text()[1]",
+            "text": "事先預測可能的輸出序列，然後基於這些預測進行更有效率的運算資源分配。"
+          },
+          "text": "事先預測可能的輸出序列，然後基於這些預測進行更有效率的運算資源分配。",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788414857072,
+          "id": "hk-1788414857070-37547",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788414857070,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 246
+              },
+              "quote": {
+                "exact": "並行地預測多個可能的候選序列來運作",
+                "prefix": "行更有效率的運算資源分配。\n原理與工作方式\n\n\n並行預測：\n\nSpeculative Decoding 透過在解碼過程中",
+                "suffix": "。 這意味著系統不是逐步地一個接一個地產生序列，而是同時探索多個可能的序列擴展。\n\n\n\n機率評估：\n\n每個產生的候選序列"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 229
+              },
+              "version": 1
+            },
+            "endOffset": 46,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ol[1]/li[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ol[1]/li[1]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "並行地預測多個可能的候選序列來運作"
+          },
+          "text": "並行地預測多個可能的候選序列來運作",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788414865093,
+          "id": "hk-1788414865092-2648",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788414865091,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 333
+              },
+              "quote": {
+                "exact": "每個產生的候選序列都會根據其可能性（通常是基於模型輸出的機率分佈）被評估",
+                "prefix": "能的候選序列來運作。 這意味著系統不是逐步地一個接一個地產生序列，而是同時探索多個可能的序列擴展。\n\n\n\n機率評估：\n\n",
+                "suffix": "。 這些評估可以基於語言模型的得分，也可以結合其他標準，如語意相容性、語法正確性等。\n\n\n\n最佳序列選擇：\n\n在預測的序"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 297
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ol[1]/li[2]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ol[1]/li[2]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "每個產生的候選序列都會根據其可能性（通常是基於模型輸出的機率分佈）被評估"
+          },
+          "text": "每個產生的候選序列都會根據其可能性（通常是基於模型輸出的機率分佈）被評估",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788414870517,
+          "id": "hk-1788414870515-90337",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788414870514,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 451
+              },
+              "quote": {
+                "exact": "得分最高的序列被認為是最有可能的正確輸出",
+                "prefix": "確性等。\n\n\n\n最佳序列選擇：\n\n在預測的序列中，根據定義的標準選擇最佳序列。 這可以透過比較每個序列的綜合得分來完成，",
+                "suffix": "。\n\n\n\n資源優化：\n\n透過預測多個序列，系統可以更好地分配計算資源。 例如，對於那些初步評估得分較低的序列路徑，可以提"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 431
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ol[1]/li[3]/ul[1]/li[1]/span[1]/text()[1]",
+            "startOffset": 43,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ol[1]/li[3]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "得分最高的序列被認為是最有可能的正確輸出"
+          },
+          "text": "得分最高的序列被認為是最有可能的正確輸出",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788415299988,
+          "id": "hk-1788415299987-93680",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788415299986,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 725
+              },
+              "quote": {
+                "exact": "效率提高",
+                "prefix": "作過程。\n\n優點\n\n速度提升：透過平行處理與預測，Speculative Decoding 能顯著提昇文字產生的速度。\n",
+                "suffix": "：有效地使用計算資源，避免在不太可能的候選項上浪費計算力。\n品質最佳化：透過比較多個候選項，能夠提高生成文字的質量，選擇"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 721
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ul[2]/li[2]/strong[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ul[2]/li[2]/strong[1]/span[1]/text()[1]",
+            "text": "效率提高"
+          },
+          "text": "效率提高",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788415309693,
+          "id": "hk-1788415309690-18347",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788415309690,
+              "end": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 845
+              },
+              "quote": {
+                "exact": "需要複雜的演算法和最佳化技巧",
+                "prefix": "能夠提高生成文字的質量，選擇出最佳的輸出。\n\n缺點\n\n複雜度增加：管理和實作 Speculative Decoding ",
+                "suffix": "，可能增加系統的實作複雜度。\n資源消耗：雖然提高了單次產生的效率，但預測多個序列可能會增加整體的資源消耗，特別是在資源受"
+              },
+              "start": {
+                "css": "div#doc-body > ul.part.in-view:nth-of-type(3)",
+                "textOffset": 831
+              },
+              "version": 1
+            },
+            "endOffset": 42,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ul[3]/li[1]/span[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[2]/div[4]/div[1]/ul[3]/li[1]/ul[3]/li[1]/span[1]/text()[1]",
+            "text": "需要複雜的演算法和最佳化技巧"
+          },
+          "text": "需要複雜的演算法和最佳化技巧",
+          "url": "https://hackmd.io/@tsungjung411/BJRyYcW7C"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://clay-atlas.com/blog/2024/11/05/cn-speculative-decoding-implementation/",
+      "title": "推測性解碼（Speculative Decoding）實作筆記（附簡易實驗結果） - Clay-Technology World",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788415069165,
+          "id": "hk-1788415069160-48742",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788415069158,
+              "end": {
+                "css": "article#post-14042 > div.nv-content-wrap.entry-content > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 42
+              },
+              "quote": {
+                "exact": "加速推理技巧",
+                "prefix": "024-11-06 by Clay\n介紹\n\n\n\n推測性解碼（Speculative Decoding）是一種實用性極強的",
+                "suffix": "，通過讓小模型（draft model）快速、連續地解碼多個 Tokens 並保留過程中的採樣機率分佈，並讓我們真正希望"
+              },
+              "start": {
+                "css": "article#post-14042 > div.nv-content-wrap.entry-content > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 36
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "text": "加速推理技巧"
+          },
+          "text": "加速推理技巧",
+          "url": "https://clay-atlas.com/blog/2024/11/05/cn-speculative-decoding-implementation/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788415074453,
+          "id": "hk-1788415074447-46078",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788415074446,
+              "end": {
+                "css": "article#post-14042 > div.nv-content-wrap.entry-content > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 137
+              },
+              "quote": {
+                "exact": "通過讓小模型（draft model）快速、連續地解碼多個 Tokens 並保留過程中的採樣機率分佈，並讓我們真正希望加速的大模型（target model）在此之上預測下一個 Token",
+                "prefix": "06 by Clay\n介紹\n\n\n\n推測性解碼（Speculative Decoding）是一種實用性極強的加速推理技巧，",
+                "suffix": " —— 同時把過往的每個 Token 位置的採樣機率分佈一次性地計算得出，再透過 target model probs "
+              },
+              "start": {
+                "css": "article#post-14042 > div.nv-content-wrap.entry-content > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 43
+              },
+              "version": 1
+            },
+            "endOffset": 95,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/article[1]/div[1]/p[2]/text()[2]",
+            "text": "通過讓小模型（draft model）快速、連續地解碼多個 Tokens 並保留過程中的採樣機率分佈，並讓我們真正希望加速的大模型（target model）在此之上預測下一個 Token"
+          },
+          "text": "通過讓小模型（draft model）快速、連續地解碼多個 Tokens 並保留過程中的採樣機率分佈，並讓我們真正希望加速的大模型（target model）在此之上預測下一個 Token",
+          "url": "https://clay-atlas.com/blog/2024/11/05/cn-speculative-decoding-implementation/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://github.com/vllm-project/vllm",
+      "title": "vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788402721660,
+          "id": "hk-1788402721651-31689",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788402721648,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 376
+              },
+              "quote": {
+                "exact": "for LLM inference and serving",
+                "prefix": "s to join us.\n\nAbout\nvLLM is a fast and easy-to-use library ",
+                "suffix": ".\nOriginally developed in the Sky Computing Lab at UC Berkel"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 347
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[1]",
+            "startOffset": 39,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[1]",
+            "text": "for LLM inference and serving"
+          },
+          "text": "for LLM inference and serving",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788403411709,
+          "id": "hk-1788403411702-22810",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788403411701,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 838
+              },
+              "quote": {
+                "exact": "Continuous batching of incoming requests, chunked prefill, prefix caching",
+                "prefix": "ement of attention key and value memory with PagedAttention\n",
+                "suffix": "\nFast and flexible model execution with piecewise and full C"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 765
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[3]/text()[1]",
+            "text": "Continuous batching of incoming requests, chunked prefill, prefix caching"
+          },
+          "text": "Continuous batching of incoming requests, chunked prefill, prefix caching",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788404342155,
+          "id": "hk-1788404342150-15268",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788404342150,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 925
+              },
+              "quote": {
+                "exact": "Quantization",
+                "prefix": "ble model execution with piecewise and full CUDA/HIP graphs\n",
+                "suffix": ": FP8, MXFP8/MXFP4, NVFP4, INT8, INT4, GPTQ/AWQ, GGUF, compr"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 913
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[5]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[5]/text()[1]",
+            "text": "Quantization"
+          },
+          "text": "Quantization",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788404348255,
+          "id": "hk-1788404348251-75581",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788404348250,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1145
+              },
+              "quote": {
+                "exact": "GEMM/MoE",
+                "prefix": "ion, FlashInfer, TRTLLM-GEN, FlashMLA, and Triton\nOptimized ",
+                "suffix": " kernels for various precisions using CUTLASS, TRTLLM-GEN, C"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1137
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[7]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[7]/text()[1]",
+            "text": "GEMM/MoE"
+          },
+          "text": "GEMM/MoE",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788404377552,
+          "id": "hk-1788404377547-99151",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788404377543,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1691
+              },
+              "quote": {
+                "exact": "Streaming ",
+                "prefix": ", expert, and context parallelism for distributed inference\n",
+                "suffix": "outputs\nGeneration of structured outputs using xgrammar or g"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1681
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/text()[1]",
+            "text": "Streaming "
+          },
+          "text": "Streaming ",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788404380130,
+          "id": "hk-1788404380126-2741",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788404380125,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1793
+              },
+              "quote": {
+                "exact": "Tool calling and reasoning parsers",
+                "prefix": "Generation of structured outputs using xgrammar or guidance\n",
+                "suffix": "\nOpenAI-compatible API server, plus Anthropic Messages API a"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1759
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[6]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[6]/text()[1]",
+            "text": "Tool calling and reasoning parsers"
+          },
+          "text": "Tool calling and reasoning parsers",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788404387974,
+          "id": "hk-1788404387970-35220",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788404387969,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1994
+              },
+              "quote": {
+                "exact": "NVIDIA GPUs, AMD GPUs, Intel GPUs, and x86/ARM/PowerPC CPUs",
+                "prefix": "ent multi-LoRA support for dense and MoE layers\nSupport for ",
+                "suffix": ". Additionally, diverse hardware plugins such as Google TPUs"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1935
+              },
+              "version": 1
+            },
+            "endOffset": 71,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[9]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[9]/text()[1]",
+            "text": "NVIDIA GPUs, AMD GPUs, Intel GPUs, and x86/ARM/PowerPC CPUs"
+          },
+          "text": "NVIDIA GPUs, AMD GPUs, Intel GPUs, and x86/ARM/PowerPC CPUs",
+          "url": "https://github.com/vllm-project/vllm"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788404393026,
+          "id": "hk-1788404393023-54900",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788404393022,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1922
+              },
+              "quote": {
+                "exact": "Efficient multi-LoRA support for dense and MoE layers",
+                "prefix": "le API server, plus Anthropic Messages API and gRPC support\n",
+                "suffix": "\nSupport for NVIDIA GPUs, AMD GPUs, Intel GPUs, and x86/ARM/"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1869
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[8]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[8]/text()[1]",
+            "text": "Efficient multi-LoRA support for dense and MoE layers"
+          },
+          "text": "Efficient multi-LoRA support for dense and MoE layers",
+          "url": "https://github.com/vllm-project/vllm"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.ithome.com.tw/news/178616",
       "title": "OpenAI宣布新模型Astra已具備重大網路安全能力 | iThome",
