@@ -1,9 +1,621 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1788926734694,
+  "exportedAt": 1789971261685,
   "category": null,
   "pages": [
+    {
+      "url": "https://www.nmmst.gov.tw/chhtml/content/542",
+      "title": "國立海洋科技博物館-定時導覽",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789711031943,
+          "id": "hk-1789711031939-6719",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789711031937,
+              "end": {
+                "css": "div#mcontent",
+                "textOffset": 121
+              },
+              "quote": {
+                "exact": "每日：10:00、11:00、14:00、15:00、16:00(假日加場)",
+                "prefix": "列時段服務現場散客。\n\n主題館 \n\n\t\n\t\t由專人帶領漫步主題館，認識海科館之美與多元海洋科學與科技發展。\n\t\n\t\n\t\t",
+                "suffix": "。\n\t\n\t\n\t\t每場約30分。\n\t\n\t\n\t\t每場次以40人為限，以服務現場民眾為主。團體請於參觀7日前完成預約單申請。\n"
+              },
+              "start": {
+                "css": "div#mcontent",
+                "textOffset": 83
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/div[1]/ol[1]/li[2]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[4]/div[2]/div[1]/ol[1]/li[2]/text()[1]",
+            "text": "每日：10:00、11:00、14:00、15:00、16:00(假日加場)"
+          },
+          "text": "每日：10:00、11:00、14:00、15:00、16:00(假日加場)",
+          "url": "https://www.nmmst.gov.tw/chhtml/content/542"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "title": "邁克·諾霍維奇 - 博客 --- Michael Noukhovitch - Blog",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789617421713,
+          "id": "hk-1789617421706-97688",
+          "note": "RL 很容易讓模型「本來就會的題目變得更會」，但真正不會的難題，反而學不到",
+          "range": {
+            "anchors": {
+              "createdAt": 1789617421705,
+              "end": {
+                "css": "article#main",
+                "textOffset": 571
+              },
+              "quote": {
+                "exact": "Matthew Effect and proposing to solve it with Never Give Up",
+                "prefix": "y recent paper on RL post-training of LLMs: introducing the ",
+                "suffix": ". It is presented interactively and less formally, more like"
+              },
+              "start": {
+                "css": "article#main",
+                "textOffset": 512
+              },
+              "version": 1
+            },
+            "endOffset": 144,
+            "endXPath": "/html[1]/body[1]/article[1]/section[3]/p[1]/text()[1]",
+            "startOffset": 85,
+            "startXPath": "/html[1]/body[1]/article[1]/section[3]/p[1]/text()[1]",
+            "text": "Matthew Effect and proposing to solve it with Never Give Up"
+          },
+          "text": "Matthew Effect and proposing to solve it with Never Give Up",
+          "url": "https://mnoukhov.github.io/posts/ngu/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789617451435,
+          "id": "hk-1789617451430-64734",
+          "note": "我們很容易解讀成：RL → 模型整體能力提升\n\n但作者把 AIME 題目拆成：\nEasy\nMedium\nHard\n\n才發現：\nEasy    ████ → █████████\nMedium  ██   → ██████\nHard    ▏    → ▏",
+          "range": {
+            "anchors": {
+              "createdAt": 1789617451430,
+              "end": {
+                "css": "article#main",
+                "textOffset": 1536
+              },
+              "quote": {
+                "exact": "What does this curve really mean?",
+                "prefix": " 訓練 Olmo 3 7B 模型，在 Dolci RL-Zero 平臺上進行數學訓練，這是否能顯著提升其整體的數學能力？",
+                "suffix": "這條曲線的真正含義是什麼？Our eval is an average over 30 AIME questions. "
+              },
+              "start": {
+                "css": "article#main",
+                "textOffset": 1503
+              },
+              "version": 1
+            },
+            "endOffset": 33,
+            "endXPath": "/html[1]/body[1]/article[1]/section[3]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/article[1]/section[3]/p[3]/text()[1]",
+            "text": "What does this curve really mean?"
+          },
+          "text": "What does this curve really mean?",
+          "url": "https://mnoukhov.github.io/posts/ngu/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/",
+      "title": "New Gemini Audio models for developers",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789615477079,
+          "id": "hk-1789615477068-51986",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615477062,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 167
+              },
+              "quote": {
+                "exact": "suite for building real-time, voice-first product experiences",
+                "prefix": "he Gemini API and Google AI Studio, expanding our developer ",
+                "suffix": ":今天，我們在 Gemini API 和 Google AI Studio 中發佈了新的 Gemini Live 模型，"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 106
+              },
+              "version": 1
+            },
+            "endOffset": 87,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[4]",
+            "text": "suite for building real-time, voice-first product experiences"
+          },
+          "text": "suite for building real-time, voice-first product experiences",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789615489331,
+          "id": "hk-1789615489322-69457",
+          "note": "Mic → Gemini 3.8 Live → 語音回覆\n\n模型可以一邊維持對話，一邊 Reasoning、呼叫 Tool / API",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615489321,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 292
+              },
+              "quote": {
+                "exact": " native speech-to-speech models",
+                "prefix": "tended Thinking: Gemini 3.8 Live brings a step change to our",
+                "suffix": ", capable of performing tasks while maintaining dialogue. Fo"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 261
+              },
+              "version": 1
+            },
+            "endOffset": 75,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 44,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "text": " native speech-to-speech models"
+          },
+          "text": " native speech-to-speech models",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fce4ee",
+          "createdAt": 1789615525987,
+          "id": "hk-1789615525978-50026",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615525977,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 217
+              },
+              "quote": {
+                "exact": "Gemini 3.8 Live and 3.8 Live Extended Thinking:",
+                "prefix": "e for building real-time, voice-first product experiences:  ",
+                "suffix": " Gemini 3.8 Live brings a step change to our native speech-t"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 170
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/b[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/a[1]/b[1]/text()[1]",
+            "text": "Gemini 3.8 Live and 3.8 Live Extended Thinking:"
+          },
+          "text": "Gemini 3.8 Live and 3.8 Live Extended Thinking:",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fce4ee",
+          "createdAt": 1789615533644,
+          "id": "hk-1789615533631-29668",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615533631,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 514
+              },
+              "quote": {
+                "exact": "Gemini 3.5 Transcribe:",
+                "prefix": "g #1 on Artificial Analysis’ Speech-to-Speech leaderboard.  ",
+                "suffix": " Our dedicated speech-to-text model brings highly precise tr"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 492
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[3]/a[1]/b[1]/text()[1]",
+            "text": "Gemini 3.5 Transcribe:"
+          },
+          "text": "Gemini 3.5 Transcribe:",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789615612462,
+          "id": "hk-1789615612454-55238",
+          "note": "使用者講話\n   ↓\nGemini 理解意圖\n   ├─→ 呼叫 API / Tool ─────────→ 結果回來\n   │\n   └─→ 同時繼續跟使用者講話",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615612453,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 271
+              },
+              "quote": {
+                "exact": "Gemini 3.8 Live and 3.8 Live Extended Thinking enable developers to build voice agents that can reason and execute tasks while maintaining the flow of conversations.",
+                "prefix": "Build more intelligent conversational agentsOur new models, ",
+                "suffix": " Key capabilities include:Asynchronous function calling: Exe"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 106
+              },
+              "version": 1
+            },
+            "endOffset": 119,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/a[1]/text()[1]",
+            "text": "Gemini 3.8 Live and 3.8 Live Extended Thinking enable developers to build voice agents that can reason and execute tasks while maintaining the flow of conversations."
+          },
+          "text": "Gemini 3.8 Live and 3.8 Live Extended Thinking enable developers to build voice agents that can reason and execute tasks while maintaining the flow of conversations.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789615645269,
+          "id": "hk-1789615645261-13570",
+          "note": "專門做 Speech-to-Text\n\nAudio Stream\n    ↓\nGemini 3.5 Transcribe\n    ↓\nText",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615645260,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 21
+              },
+              "quote": {
+                "exact": "Gemini 3.5 Transcribe",
+                "prefix": "    \n      \n    \n  \n        \n       \n\n\n  \n\n  \n    \n\n\n  \n    ",
+                "suffix": ": Convert streamed speech to textReal-time speech understand"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[8]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[8]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "Gemini 3.5 Transcribe"
+          },
+          "text": "Gemini 3.5 Transcribe",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789615667752,
+          "id": "hk-1789615667744-65176",
+          "note": "Word Error Rate\n\nStreaming：4.0%\nNon-streaming：2.6%\n支援 85+ 語言",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615667743,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 242
+              },
+              "quote": {
+                "exact": "WER",
+                "prefix": "latency transcription with high precision, achieving a 4.0% ",
+                "suffix": ", and useful features:Automatic code-switching: Handle intra"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 239
+              },
+              "version": 1
+            },
+            "endOffset": 188,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[8]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 185,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[8]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "WER"
+          },
+          "text": "WER",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789615675898,
+          "id": "hk-1789615675889-24598",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789615675888,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 780
+              },
+              "quote": {
+                "exact": "supports 85+ languages",
+                "prefix": "sfluency removal that eliminates filler words3.5 Transcribe ",
+                "suffix": " and provides a strong listening engine for voice experience"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 758
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[8]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[8]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "supports 85+ languages"
+          },
+          "text": "supports 85+ languages",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789616098101,
+          "id": "hk-1789616098070-1031",
+          "note": "Gemini 3.8 Live\n→ 我想做「會跟人講話的 AI」\n\nGemini 3.5 Transcribe\n→ 我只是想把電話 / 會議 / 錄音轉成文字",
+          "range": {
+            "anchors": {
+              "createdAt": 1789616098069,
+              "end": {
+                "css": "section.uni-article-hero.uni-article-hero--green > div.uni-page--fullbleed.uni-article-hero__container > div.uni-page > div.uni-grid.uni-article-hero__content-grid:nth-of-type(2) > div.uni-grid__col--span-4.uni-grid__col--span-12-tablet > h1.uni-article-hero__title.font-h1",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "Gemini 3.8 Live and 3.5 Transcribe",
+                "prefix": "\n        \n          Build real-time voice applications with ",
+                "suffix": "\n\n          \n            \n              \n              \n    "
+              },
+              "start": {
+                "css": "section.uni-article-hero.uni-article-hero--green > div.uni-page--fullbleed.uni-article-hero__container > div.uni-page > div.uni-grid.uni-article-hero__content-grid:nth-of-type(2) > div.uni-grid__col--span-4.uni-grid__col--span-12-tablet > h1.uni-article-hero__title.font-h1",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[1]/div[1]/div[1]/div[2]/div[1]/h1[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[1]/div[1]/div[1]/div[2]/div[1]/h1[1]/text()[1]",
+            "text": "Gemini 3.8 Live and 3.5 Transcribe"
+          },
+          "text": "Gemini 3.8 Live and 3.5 Transcribe",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://applealmond.com/posts/325363",
+      "title": "Apple 發表會懶人包！iPhone Duo、18 Pro、AirPods 5、Apple Watch 系列新品規格與價格一次看 - 蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789003227056,
+          "id": "hk-1789003227054-7472",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789003227052,
+              "end": {
+                "css": "article#the-post > div.entry-content.entry",
+                "textOffset": 4083
+              },
+              "quote": {
+                "exact": "可以全天候每 5 秒測量一次心率，HRV 測量頻率最高提升至以往的 24 倍。",
+                "prefix": "2，鈦金屬與陶瓷款則搭配藍寶石玻璃錶面。\n\n核心規格與新功能\nSeries 12 搭載 S11 晶片與全新健康感測系統，",
+                "suffix": "\n\n這些資料也用於新的 「準備指數」。系統會整合近期活動、訓練負荷、生命徵象與睡眠分數，以 0 至 10 分呈現當天狀態"
+              },
+              "start": {
+                "css": "article#the-post > div.entry-content.entry",
+                "textOffset": 4044
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/p[46]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/p[46]/text()[1]",
+            "text": "可以全天候每 5 秒測量一次心率，HRV 測量頻率最高提升至以往的 24 倍。"
+          },
+          "text": "可以全天候每 5 秒測量一次心率，HRV 測量頻率最高提升至以往的 24 倍。",
+          "url": "https://applealmond.com/posts/325363"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789003230739,
+          "id": "hk-1789003230737-17337",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789003230736,
+              "end": {
+                "css": "table#tablepress-493 > tbody.row-hover",
+                "textOffset": 67
+              },
+              "quote": {
+                "exact": "不支援",
+                "prefix": "\nAirPods 5\n無線充電盒款\n\n\n開啟降噪的單次聆聽時間\n最長 4 小時\n最長 5 小時\n\n\n耳機柄滑動調整音量\n",
+                "suffix": "\n支援\n\n\nUSB-C 充電\n支援\n支援\n\n\nApple Watch、Qi 無線充電\n不支援\n支援\n\n\n充電盒揚聲器協助"
+              },
+              "start": {
+                "css": "table#tablepress-493 > tbody.row-hover",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[10]/table[1]/tbody[1]/tr[3]/td[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[10]/table[1]/tbody[1]/tr[3]/td[2]/text()[1]",
+            "text": "不支援"
+          },
+          "text": "不支援",
+          "url": "https://applealmond.com/posts/325363"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789003231747,
+          "id": "hk-1789003231745-72907",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789003231745,
+              "end": {
+                "css": "table#tablepress-493 > tbody.row-hover",
+                "textOffset": 113
+              },
+              "quote": {
+                "exact": "不支援",
+                "prefix": "時\n\n\n耳機柄滑動調整音量\n不支援\n支援\n\n\nUSB-C 充電\n支援\n支援\n\n\nApple Watch、Qi 無線充電\n",
+                "suffix": "\n支援\n\n\n充電盒揚聲器協助尋找\n不支援\n支援\n\n\n\n無線充電盒款搭配充電盒，在開啟降噪時最長可聆聽 22 小時。Air"
+              },
+              "start": {
+                "css": "table#tablepress-493 > tbody.row-hover",
+                "textOffset": 110
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[10]/table[1]/tbody[1]/tr[5]/td[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[10]/table[1]/tbody[1]/tr[5]/td[2]/text()[1]",
+            "text": "不支援"
+          },
+          "text": "不支援",
+          "url": "https://applealmond.com/posts/325363"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789003232709,
+          "id": "hk-1789003232706-89760",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789003232705,
+              "end": {
+                "css": "table#tablepress-493 > tbody.row-hover",
+                "textOffset": 133
+              },
+              "quote": {
+                "exact": "不支援",
+                "prefix": "\n\n\nUSB-C 充電\n支援\n支援\n\n\nApple Watch、Qi 無線充電\n不支援\n支援\n\n\n充電盒揚聲器協助尋找\n",
+                "suffix": "\n支援\n\n\n\n無線充電盒款搭配充電盒，在開啟降噪時最長可聆聽 22 小時。AirPods 5 版本比較\n台灣價格與上市資"
+              },
+              "start": {
+                "css": "table#tablepress-493 > tbody.row-hover",
+                "textOffset": 130
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[10]/table[1]/tbody[1]/tr[6]/td[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/div[10]/table[1]/tbody[1]/tr[6]/td[2]/text()[1]",
+            "text": "不支援"
+          },
+          "text": "不支援",
+          "url": "https://applealmond.com/posts/325363"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789003234697,
+          "id": "hk-1789003234696-81278",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789003234696,
+              "end": {
+                "css": "article#the-post > div.entry-content.entry",
+                "textOffset": 3664
+              },
+              "quote": {
+                "exact": "AirPods 5 無線充電盒款：NT$5,190。\n",
+                "prefix": "噪時最長可聆聽 22 小時。AirPods 5 版本比較\n台灣價格與上市資訊\n\nAirPods 5：NT$4,490。\n",
+                "suffix": "預購：9 月 11 日上午 9 點。\n開賣：9 月 18 日。\n\n兩款相差 700 元。如果經常調整音量，或已經有 Ap"
+              },
+              "start": {
+                "css": "article#the-post > div.entry-content.entry",
+                "textOffset": 3637
+              },
+              "version": 1
+            },
+            "endOffset": 0,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/ul[6]/li[3]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/ul[6]/li[2]/strong[1]/text()[1]",
+            "text": "AirPods 5 無線充電盒款：NT$5,190。\n"
+          },
+          "text": "AirPods 5 無線充電盒款：NT$5,190。\n",
+          "url": "https://applealmond.com/posts/325363"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789003247533,
+          "id": "hk-1789003247532-26139",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789003247530,
+              "end": {
+                "css": "article#the-post > div.entry-content.entry",
+                "textOffset": 4296
+              },
+              "quote": {
+                "exact": "睡眠追蹤、睡眠分數、心電圖、高低心率通知、跌倒與車禍偵測等；新的 S11 也支援 Shazam 與聲音辨識，後者可協助使用者留意門鈴、警報等重要聲音",
+                "prefix": "緒」或「全力以赴」等建議。\n準備指數會隨資料更新，讓使用者在安排一天活動時，多一項可以參考的資訊。\n日常功能方面，仍包含",
+                "suffix": "。\n\n\n續航與充電\n\n\n\n使用情境\n官方最長時間\n\n\n正常使用\n24 小時\n\n\n低耗電模式\n38 小時\n\n\n室外體能訓練"
+              },
+              "start": {
+                "css": "article#the-post > div.entry-content.entry",
+                "textOffset": 4222
+              },
+              "version": 1
+            },
+            "endOffset": 84,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/p[50]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/article[1]/div[1]/p[50]/text()[1]",
+            "text": "睡眠追蹤、睡眠分數、心電圖、高低心率通知、跌倒與車禍偵測等；新的 S11 也支援 Shazam 與聲音辨識，後者可協助使用者留意門鈴、警報等重要聲音"
+          },
+          "text": "睡眠追蹤、睡眠分數、心電圖、高低心率通知、跌倒與車禍偵測等；新的 S11 也支援 Shazam 與聲音辨識，後者可協助使用者留意門鈴、警報等重要聲音",
+          "url": "https://applealmond.com/posts/325363"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://health.chiayi.gov.tw/News_Content.aspx?s=943560",
       "title": "乳品標示新制7月1日上路! 有標章才能叫「鮮乳」 嘉市衛生局提醒業者儘速檢視產品標示",
@@ -32881,7 +33493,7 @@
     },
     {
       "url": "https://discord.com/channels/1362241582702526615/1362245292493373571",
-      "title": "Discord",
+      "title": "(1367) Discord",
       "tags": [],
       "entries": [
         {
