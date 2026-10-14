@@ -1,25 +1,40 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1789971261737,
-  "totalPages": 627,
+  "exportedAt": 1791961014920,
+  "totalPages": 648,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 608
+      "pageCount": 628
     },
     {
       "tag": "人工智慧",
       "file": "categories/人工智慧.json",
-      "pageCount": 7
+      "pageCount": 8
     },
     {
       "tag": "多模態模型",
       "file": "categories/多模態模型.json",
+      "pageCount": 7
+    },
+    {
+      "tag": "機器學習",
+      "file": "categories/機器學習.json",
       "pageCount": 6
+    },
+    {
+      "tag": "成本控制",
+      "file": "categories/成本控制.json",
+      "pageCount": 5
+    },
+    {
+      "tag": "開源模型",
+      "file": "categories/開源模型.json",
+      "pageCount": 5
     },
     {
       "tag": "系統設計",
@@ -27,29 +42,14 @@
       "pageCount": 5
     },
     {
-      "tag": "機器學習",
-      "file": "categories/機器學習.json",
-      "pageCount": 5
-    },
-    {
-      "tag": "成本控制",
-      "file": "categories/成本控制.json",
+      "tag": "開發者指南",
+      "file": "categories/開發者指南.json",
       "pageCount": 4
     },
     {
       "tag": "延遲優化",
       "file": "categories/延遲優化.json",
       "pageCount": 4
-    },
-    {
-      "tag": "開源模型",
-      "file": "categories/開源模型.json",
-      "pageCount": 4
-    },
-    {
-      "tag": "開發者指南",
-      "file": "categories/開發者指南.json",
-      "pageCount": 3
     },
     {
       "tag": "智慧體記憶",

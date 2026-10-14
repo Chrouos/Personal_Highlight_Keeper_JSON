@@ -1,9 +1,447 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1789971261732,
+  "exportedAt": 1791961014907,
   "category": "開源模型",
   "pages": [
+    {
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "title": "google/embeddinggemma-2 · Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "開發者指南",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#ece3fa",
+          "createdAt": 1791790437022,
+          "id": "hk-ai-preview-1791790437021-48034",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790437020,
+              "end": {
+                "css": "header.bg-linear-to-t.border-b > div.container.relative > div.flex.flex-col-reverse:nth-of-type(2) > div.relative.mb-1\\.5:nth-of-type(2) > div.relative.flex-auto:nth-of-type(3) > nav.sr-only",
+                "textOffset": 826
+              },
+              "quote": {
+                "exact": "model = SentenceTransformer(\"google/embeddinggemma-2\")",
+                "prefix": "rs:  from sentence_transformers import SentenceTransformer\n\n",
+                "suffix": "\n\nsentences = [\n    \"The weather is lovely today.\",\n    \"It'"
+              },
+              "start": {
+                "css": "header.bg-linear-to-t.border-b > div.container.relative > div.flex.flex-col-reverse:nth-of-type(2) > div.relative.mb-1\\.5:nth-of-type(2) > div.relative.flex-auto:nth-of-type(3) > nav.sr-only",
+                "textOffset": 772
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[3]/nav[1]/ul[1]/li[3]/pre[1]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[3]/nav[1]/ul[1]/li[3]/pre[1]/text()[1]",
+            "text": "model = SentenceTransformer(\"google/embeddinggemma-2\")"
+          },
+          "text": "model = SentenceTransformer(\"google/embeddinggemma-2\")",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791790471535,
+          "id": "hk-ai-preview-1791790471532-37903",
+          "note": "AI：EmbeddingGemma 2 是參數小於 1B 的最強多模態嵌入模型之一，非常適合開發者應用於端側或邊緣 AI 應用程式。\n延伸：這預示著未來開源輕量化多模態 AI 將更普及於智慧型手機與 IoT 裝置中。\n來源：Google Gemma 團隊",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471522,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 19355
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications.",
+                "prefix": " fine-tuning, and other use cases.\n\n\n\t\n\t\t\n\t\n\t\n\t\tBenefits\n\t\n\n",
+                "suffix": " \nThe model is designed from the ground up for responsible A"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 19162
+              },
+              "version": 1
+            },
+            "endOffset": 193,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[44]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[91]",
+            "text": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications."
+          },
+          "text": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1791790471547,
+          "id": "hk-ai-preview-1791790471539-65474",
+          "note": "AI：作為預訓練嵌入模型，它不像生成式模型那樣經歷過後訓練對齊、安全微調或輸出層面的內容審核。\n延伸：因此開發者必須在應用程式端自行實施檢索過濾與公平性測試等防護措施。\n來源：Google's AI Principles",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471535,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 14264
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation.",
+                "prefix": " in line with our policies.\n\n\n\t\n\t\t\n\t\n\t\n\t\tEthics & Safety\n\t\n\n",
+                "suffix": " Safety mitigations during development were focused on pre-t"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 14100
+              },
+              "version": 1
+            },
+            "endOffset": 164,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[36]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[73]",
+            "text": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation."
+          },
+          "text": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1791790471554,
+          "id": "hk-ai-preview-1791790471551-19796",
+          "note": "AI：模型在 float16 下的激活範圍會超出其動態範圍，導致回傳 NaN 或靜默降級的嵌入而不報錯，因此非常容易被忽略。\n延伸：這也是為什麼官方強烈建議使用 bfloat16 或 float32 來確保數值穩定性。\n來源：IEEE 754 float16 standard",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471548,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 9146
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss.",
+                "prefix": "\n\nRun inference in bfloat16 or float32. Do not use float16.\n",
+                "suffix": "\nbfloat16 is safe, and carries the same 8-bit exponent as fl"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 8946
+              },
+              "version": 1
+            },
+            "endOffset": 116,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[21]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[43]",
+            "text": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss."
+          },
+          "text": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1791790471559,
+          "id": "hk-ai-preview-1791790471558-22147",
+          "note": "AI：截斷向量後必須重新進行 L2 正規化，因為切片操作無法保持原本的單位長度，若略過此步驟將會默默降低排序品質。\n延伸：這是使用 MRL（巢狀表徵學習）模型時最常見的開發者隱性陷阱（待查證）",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471555,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 8081
+              },
+              "quote": {
+                "exact": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity.",
+                "prefix": "ty.\nAt runtime, please adhere to the following guidelines:\n\n",
+                "suffix": " Skipping this step degrades ranking quality silently—it pro"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 7907
+              },
+              "version": 1
+            },
+            "endOffset": 144,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[3]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[3]/text()[1]",
+            "text": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity."
+          },
+          "text": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1791790471565,
+          "id": "hk-ai-preview-1791790471562-93140",
+          "note": "AI：視覺與音訊編碼器為獨立元件，部署純文字或單一模態管線時可透過設定關閉未使用的編碼器來降低記憶體消耗。\n延伸：開發者在整合進 LangChain 或 LlamaIndex 等框架時需特別注意此設定方式。\n來源：SentenceTransformers",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471559,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 7067
+              },
+              "quote": {
+                "exact": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs",
+                "prefix": "t: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. Selective Encoder Loading\n\t\n\n",
+                "suffix": ":\nPlease note: configuring EmbeddingGemma 2 to load with omi"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 6853
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[15]/code[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[32]",
+            "text": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs"
+          },
+          "text": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471567,
+          "id": "hk-ai-preview-1791790471566-90385",
+          "note": "AI：具備 8K 代幣的上下文視窗，能夠處理長達數分鐘的音訊或影片內容。\n延伸：相較於早期嵌入模型僅能處理短文字，8K 視窗讓長影音檢索與語音檔案分析變得可行。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471565,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1687
+              },
+              "quote": {
+                "exact": "8K token context window, capable of processing minutes of audio or video.",
+                "prefix": "age costs with minimal impact on quality.  \nContext length: ",
+                "suffix": "\nTask-steered representations: Uses lightweight text instruc"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1614
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/text()[1]",
+            "text": "8K token context window, capable of processing minutes of audio or video."
+          },
+          "text": "8K token context window, capable of processing minutes of audio or video.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471569,
+          "id": "hk-ai-preview-1791790471568-90740",
+          "note": "AI：原生支援 128d、256d、512d 與 768d 的截斷嵌入，能在對品質影響極小的狀況下減少高達 6 倍的向量儲存成本。\n延伸：此技術通常基於 Matryoshka Representation Learning（巢狀表徵學習）原理。\n來源：Matryoshka Representation Learning",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471567,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1595
+              },
+              "quote": {
+                "exact": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality.",
+                "prefix": "their use case.  \nMatryoshka Representation Learning (MRL): ",
+                "suffix": "  \nContext length: 8K token context window, capable of proce"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1435
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/text()[1]",
+            "text": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality."
+          },
+          "text": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1791790471570,
+          "id": "hk-ai-preview-1791790471569-41313",
+          "note": "AI：結合了 270M 參數的文字主幹與可選擇性載入的視覺和音訊編碼器，允許開發者僅載入實際需求模組。\n延伸：這種模組化架構能顯著節省記憶體，對資源受限的邊緣裝置（Edge AI）開發極為實用。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471569,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1390
+              },
+              "quote": {
+                "exact": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case.",
+                "prefix": "e tasks relative to its predecessor.   \nFlexible footprint: ",
+                "suffix": "  \nMatryoshka Representation Learning (MRL): Native support "
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1172
+              },
+              "version": 1
+            },
+            "endOffset": 219,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[3]/text()[1]",
+            "text": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case."
+          },
+          "text": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471572,
+          "id": "hk-ai-preview-1791790471571-42178",
+          "note": "AI：支援超過 100 種語言，且在程式碼相關任務上的表現比前一代提升了約 14%。\n延伸：多語系與程式碼能力的提升對跨國軟體開發及多語言 RAG 系統特別關鍵。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471570,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1148
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor.",
+                "prefix": " 768-dimensional embedding space.\nMultilinguality and code: ",
+                "suffix": "   \nFlexible footprint: Combines a 270M parameter text backb"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1029
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[2]/text()[1]",
+            "text": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor."
+          },
+          "text": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471573,
+          "id": "hk-ai-preview-1791790471572-33776",
+          "note": "AI：原生多模態特性將文字、圖片、影片與音訊等四種模態統一於單一共用的 768 維嵌入空間中。\n延伸：相較於過去需要多個獨立模型分別處理不同模態，這能大幅簡化多模態檢索的架構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471572,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1002
+              },
+              "quote": {
+                "exact": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space.",
+                "prefix": "ore features: \n\nNative multimodality: Native multimodality: ",
+                "suffix": "\nMultilinguality and code: EmbeddingGemma 2 understands 100+"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 897
+              },
+              "version": 1
+            },
+            "endOffset": 128,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[1]/text()[1]",
+            "startOffset": 23,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[1]/text()[1]",
+            "text": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space."
+          },
+          "text": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1791790471575,
+          "id": "hk-ai-preview-1791790471573-77423",
+          "note": "AI：EmbeddingGemma 2 專為行動裝置與筆電等消費級硬體設計，能為端側應用提供低延遲的語意表示。\n延伸：通常這類端側模型會搭配量化技術（如 INT4/INT8）以進一步降低記憶體佔用。\n來源：Google Gemma 團隊",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471573,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 731
+              },
+              "quote": {
+                "exact": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering.",
+                "prefix": "model with modular vision (170M) and audio (300M) encoders.\n",
+                "suffix": "\nEmbeddingGemma 2 builds upon the architectural and capabili"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 485
+              },
+              "version": 1
+            },
+            "endOffset": 246,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[4]",
+            "text": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering."
+          },
+          "text": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1791790471581,
+          "id": "hk-ai-preview-1791790471576-78724",
+          "note": "AI：Google DeepMind 開發的 EmbeddingGemma 2 是一個開源多模態嵌入模型，能將文字、程式碼、圖片、影片及音訊等輸入對應至單一且統一的 768 維向量空間中。\n延伸：這是 Google 繼 Gemini 與 Gemma 系列後，在輕量化開源嵌入領域的重要布局。\n來源：Google DeepMind",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471575,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 355
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space.",
+                "prefix": "|\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
+                "suffix": " The model has 740M total parameters, combining a 270M param"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 136
+              },
+              "version": 1
+            },
+            "endOffset": 203,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[3]",
+            "text": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space."
+          },
+          "text": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        }
+      ],
+      "note": {
+        "generatedAt": 1791790471581,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/google/embeddinggemma-2"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "title": "Introducing Muse Glimmer: An Open Agentic Model That Runs on Your Device | Meta AI Research",

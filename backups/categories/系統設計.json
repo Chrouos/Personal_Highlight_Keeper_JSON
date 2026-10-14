@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1789971261727,
+  "exportedAt": 1791961014909,
   "category": "系統設計",
   "pages": [
     {
@@ -1355,26 +1355,26 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1788143002642,
+              "createdAt": 1790067802236,
               "end": {
                 "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 745
+                "textOffset": 8635
               },
               "quote": {
                 "exact": "Before / Delta / After",
-                "prefix": "e changes before merge — compare two validated snapshots as ",
-                "suffix": ", with exact added, removed, changed, moved, and rerouted fa"
+                "prefix": " design or PR review, Architecture Delta compares validated ",
+                "suffix": " snapshots with a machine receipt. Select an authored change"
               },
               "start": {
                 "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 723
+                "textOffset": 8613
               },
               "version": 1
             },
-            "endOffset": 60,
-            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
-            "startOffset": 38,
-            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
             "text": "Before / Delta / After"
           },
           "text": "Before / Delta / After",

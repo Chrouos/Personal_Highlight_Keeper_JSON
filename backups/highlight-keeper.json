@@ -1,8 +1,2642 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1789971261520,
+  "exportedAt": 1791961013041,
   "pages": [
+    {
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791941387384,
+          "id": "hk-1791941387378-8755",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791941387377,
+              "end": {
+                "css": "div.the-highlights > div.highlights-content.ui-body2 > ul > li > span > span.speechify-word:nth-of-type(9)",
+                "textOffset": 4
+              },
+              "quote": {
+                "exact": "Muse Wonder and Muse Wonder Full",
+                "prefix": "\t\t\t\t\t\t\t\tTakeaways\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t Meta is introducing ",
+                "suffix": ", our most capable models to date, built to deliver state-of"
+              },
+              "start": {
+                "css": "div.the-highlights > div.highlights-content.ui-body2 > ul > li > span > span.speechify-word:nth-of-type(4)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[6]/div[1]/main[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/span[9]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[6]/div[1]/main[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/span[4]/text()[1]",
+            "text": "Muse Wonder and Muse Wonder Full"
+          },
+          "text": "Muse Wonder and Muse Wonder Full",
+          "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/",
+      "title": "Why is Speculative Decoding Fast? — Joe Barrow",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791880736759,
+          "id": "hk-1791880736725-325",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791880736723,
+              "end": {
+                "css": "html.trancy-zh-Hant > body > article.article",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "There is a common misconception that speculative decoding is fast because you do less work per token",
+                "prefix": "您改變了 GPU 正在執行的工作類型。\n\n    \nBy Joe Barrow2026-10-08    \n\n\n    ",
+                "suffix": ".\nThat just “verifying” a draft requires fewer FLOPs than ge"
+              },
+              "start": {
+                "css": "html.trancy-zh-Hant > body > article.article",
+                "textOffset": 229
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/article[1]/p[2]/text()[5]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/article[1]/p[2]/text()[2]",
+            "text": "There is a common misconception that speculative decoding is fast because you do less work per token"
+          },
+          "text": "There is a common misconception that speculative decoding is fast because you do less work per token",
+          "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.vals.ai/blogs/multi-agent-vibe-code-bench",
+      "title": "Do Agent Teams Pay Off? A Case Study on Vibe Code Bench | Vals AI",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791875240876,
+          "id": "hk-1791875240871-57168",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791875240869,
+              "end": {
+                "css": "main.w-full.background-base > section.w-full.edge-b > div.max-w-screen-xl.mx-auto > div.grid.grid-cols-16 > div.flex.min-w-0 > article.blog-content.prose-vals",
+                "textOffset": 1777
+              },
+              "quote": {
+                "exact": "Teams cost 1.8 to 5.1 times as much as single agents",
+                "prefix": "是指應用程式在 50 個應用程式中通過的 UI 測試百分比。八個設置各跑一次。\nKey findings  主要發現\n\n",
+                "suffix": ", and only one difference in score was statistically signifi"
+              },
+              "start": {
+                "css": "main.w-full.background-base > section.w-full.edge-b > div.max-w-screen-xl.mx-auto > div.grid.grid-cols-16 > div.flex.min-w-0 > article.blog-content.prose-vals",
+                "textOffset": 1725
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/div[6]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/article[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[6]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/article[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "text": "Teams cost 1.8 to 5.1 times as much as single agents"
+          },
+          "text": "Teams cost 1.8 to 5.1 times as much as single agents",
+          "url": "https://www.vals.ai/blogs/multi-agent-vibe-code-bench"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "title": "Microsoft-Decision-1：我們的快速決策模式 --- Microsoft-Decision-1: Our model for fast decision-making",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791871324814,
+          "id": "hk-1791871324807-85044",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791871324805,
+              "end": {
+                "css": "main#main-content > div.article-content:nth-of-type(2) > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 45
+              },
+              "quote": {
+                "exact": "Microsoft-Decision-1,",
+                "prefix": "—以極低成本、高效能做出決策和分類——各種有用的任務就會被解鎖。\n\n\n\nToday we’re introducing ",
+                "suffix": " our new model for fast decision-scoring, available in Micro"
+              },
+              "start": {
+                "css": "main#main-content > div.article-content:nth-of-type(2) > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/p[2]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/p[2]/strong[1]/text()[1]",
+            "text": "Microsoft-Decision-1,"
+          },
+          "text": "Microsoft-Decision-1,",
+          "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791871332699,
+          "id": "hk-1791871332694-12671",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791871332694,
+              "end": {
+                "css": "main#main-content > div.article-content:nth-of-type(2) > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 141
+              },
+              "quote": {
+                "exact": "decision-scoring, available in Microsoft Foundry and through OpenRouter.",
+                "prefix": "re introducing Microsoft-Decision-1, our new model for fast ",
+                "suffix": " This model is designed for routing, classification, priorit"
+              },
+              "start": {
+                "css": "main#main-content > div.article-content:nth-of-type(2) > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 69
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/p[2]/text()[4]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/p[2]/text()[2]",
+            "text": "decision-scoring, available in Microsoft Foundry and through OpenRouter."
+          },
+          "text": "decision-scoring, available in Microsoft Foundry and through OpenRouter.",
+          "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791871346733,
+          "id": "hk-1791871346731-16814",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791871346731,
+              "end": {
+                "css": "main#main-content > div.article-content:nth-of-type(2) > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 223
+              },
+              "quote": {
+                "exact": "routing, classification, prioritization, verification,",
+                "prefix": " Foundry and through OpenRouter. This model is designed for ",
+                "suffix": " and workflow control, making it easier to incorporate decis"
+              },
+              "start": {
+                "css": "main#main-content > div.article-content:nth-of-type(2) > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 169
+              },
+              "version": 1
+            },
+            "endOffset": 82,
+            "endXPath": "/html[1]/body[1]/main[1]/div[2]/p[2]/text()[3]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/main[1]/div[2]/p[2]/text()[3]",
+            "text": "routing, classification, prioritization, verification,"
+          },
+          "text": "routing, classification, prioritization, verification,",
+          "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/",
+      "title": "Gemini 4 的 Argon 架構浮出水面，與此同時，谷歌正在測試 Carbon 架構。 --- Gemini 4 Argon hints emerge as Google tests Carbon model",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791865300598,
+          "id": "hk-1791865300594-13212",
+          "note": "Google 正準備擴大 Gemini 4 Argon 的使用範圍，同時內部正在測試另一個可能更強的 Carbon 模型，據稱 Coding 能力接近 Claude Opus 5.5",
+          "range": {
+            "anchors": {
+              "createdAt": 1791865300593,
+              "end": {
+                "css": "section#post-body",
+                "textOffset": 1459
+              },
+              "quote": {
+                "exact": "Carbon",
+                "prefix": "kpoints. According to early employee feedback, one of them, ",
+                "suffix": ", reportedly feels comparable to Claude Opus 5.5 for coding."
+              },
+              "start": {
+                "css": "section#post-body",
+                "textOffset": 1453
+              },
+              "version": 1
+            },
+            "endOffset": 170,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[3]/text()[1]",
+            "startOffset": 164,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[3]/text()[1]",
+            "text": "Carbon"
+          },
+          "text": "Carbon",
+          "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791865341866,
+          "id": "hk-1791865341862-56874",
+          "note": "最大 900K Context\n\n這代表 Google 可能讓開發者依照任務長度，選擇不同 Context 容量\n\n例如：\n小型程式修改 → 256K\n跨檔案程式分析 → 512K\n大型 Repository 分析 → 900K",
+          "range": {
+            "anchors": {
+              "createdAt": 1791865341862,
+              "end": {
+                "css": "section#post-body",
+                "textOffset": 383
+              },
+              "quote": {
+                "exact": "900K ",
+                "prefix": "ault, 512K consuming approximately 1.3x quota per turn, and ",
+                "suffix": "consuming around 1.8x quota per turn. These configurations r"
+              },
+              "start": {
+                "css": "section#post-body",
+                "textOffset": 378
+              },
+              "version": 1
+            },
+            "endOffset": 270,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[1]",
+            "startOffset": 265,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/article[1]/section[1]/p[1]/text()[1]",
+            "text": "900K "
+          },
+          "text": "900K ",
+          "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "title": "Gemini at Work 2026: Introducing Gemini agent | Google Cloud Blog",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791865246099,
+          "id": "hk-1791865246095-42747",
+          "note": "過去使用 AI 通常需要自己組合多個服務，現在 Google 希望使用者只需要交代最終目標\n\n使用者提出目標\n      ↓\nGemini Agent\n      ├─ Memory：記住工作背景\n      ├─ Skills：知道怎麼做\n      ├─ Tools：操作外部系統\n      ├─ Sub-agents：分工處理\n      └─ Model Routing：選擇模型\n      ↓\n完成工作並交付結果\n\n\n最特別的是 Gemini Agent 不再綁定單一模型\n它可以根據任務選擇 Gemini 或 Anthropic Claude，未來還計畫支援更多模型",
+          "range": {
+            "anchors": {
+              "createdAt": 1791865246094,
+              "end": {
+                "css": "section.nRhiJb-DARUcf > div.Wdmc0c.nRhiJb-DbgRPb-wNfPc-cGMI2b > div.nRhiJb-ObfsIf:nth-of-type(2) > div.nRhiJb-kR0ZEf-OWXEXe-GV1x9e-EehZO.nRhiJb-fmcmS-oXtfBe:nth-of-type(2) > h1.Qwf2Db-MnozTc.Qwf2Db-MnozTc-OWXEXe-MnozTc-ibL1re > div.Qwf2Db-MnozTc.Qwf2Db-MnozTc-OWXEXe-MnozTc-ibL1re",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "Gemini agent",
+                "prefix": "g  人工智能與機器學習Welcome to Gemini at Work 2026: Introducing the ",
+                "suffix": "歡迎來到“Gemini 在工作場所 2026”： 介紹 Gemini 助手October 9, 2026  2026 年"
+              },
+              "start": {
+                "css": "section.nRhiJb-DARUcf > div.Wdmc0c.nRhiJb-DbgRPb-wNfPc-cGMI2b > div.nRhiJb-ObfsIf:nth-of-type(2) > div.nRhiJb-kR0ZEf-OWXEXe-GV1x9e-EehZO.nRhiJb-fmcmS-oXtfBe:nth-of-type(2) > h1.Qwf2Db-MnozTc.Qwf2Db-MnozTc-OWXEXe-MnozTc-ibL1re > div.Qwf2Db-MnozTc.Qwf2Db-MnozTc-OWXEXe-MnozTc-ibL1re",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/article[1]/section[1]/div[1]/div[2]/div[2]/h1[1]/div[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/c-wiz[1]/div[1]/div[1]/article[1]/section[1]/div[1]/div[2]/div[2]/h1[1]/div[1]/text()[1]",
+            "text": "Gemini agent"
+          },
+          "text": "Gemini agent",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
+      "title": "如何在沒有語言的情況下，利用邏輯推理構建模型 --- How to Build Models Without Language, with Logical Intelligence",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791864006856,
+          "id": "hk-1791864006847-71681",
+          "note": "LLMs 反而無法很好解決這種邏輯問題\n道理也很簡單它是生程式模型，它的輸出有一部分是靠猜的\n\nLLM 是一邊寫答案，一邊推理",
+          "range": {
+            "anchors": {
+              "createdAt": 1791864006845,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 931
+              },
+              "quote": {
+                "exact": "OpenAI’s GPT-5.2, Claude Opus 4.5 and Sonnet 4.5, Gemini 3 Pro, and DeepSeek V3.2, collectively only solved 2% of the puzzles",
+                "prefix": "a panel of frontier large language models (LLMs), including ",
+                "suffix": " and burned around $11,000 in API calls. Interestingly, a mo"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 806
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/strong[1]/text()[1]",
+            "startOffset": 169,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "text": "OpenAI’s GPT-5.2, Claude Opus 4.5 and Sonnet 4.5, Gemini 3 Pro, and DeepSeek V3.2, collectively only solved 2% of the puzzles"
+          },
+          "text": "OpenAI’s GPT-5.2, Claude Opus 4.5 and Sonnet 4.5, Gemini 3 Pro, and DeepSeek V3.2, collectively only solved 2% of the puzzles",
+          "url": "https://blog.bytebytego.com/p/how-to-build-models-without-language"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791864074078,
+          "id": "hk-1791864074069-88403",
+          "note": "LLM 的模型講白一點就是找機率最高的\n但仍然是隨機性",
+          "range": {
+            "anchors": {
+              "createdAt": 1791864074067,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 3981
+              },
+              "quote": {
+                "exact": "predict the next item in a sequence",
+                "prefix": " most basic, a large language model is a system designed to ",
+                "suffix": ". It reads as input a sequence of previous tokens, then it s"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 3946
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "startOffset": 66,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[11]/text()[1]",
+            "text": "predict the next item in a sequence"
+          },
+          "text": "predict the next item in a sequence",
+          "url": "https://blog.bytebytego.com/p/how-to-build-models-without-language"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791864434991,
+          "id": "hk-1791864434980-90565",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791864434978,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6943
+              },
+              "quote": {
+                "exact": "The first is because an LLM generates tokens from left to right",
+                "prefix": "wo primary reasons why an LLM finds it hard to play Sudoku. ",
+                "suffix": ". The order in which the digits are placed depends on the pr"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6880
+              },
+              "version": 1
+            },
+            "endOffset": 134,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[18]/text()[1]",
+            "startOffset": 71,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[18]/text()[1]",
+            "text": "The first is because an LLM generates tokens from left to right"
+          },
+          "text": "The first is because an LLM generates tokens from left to right",
+          "url": "https://blog.bytebytego.com/p/how-to-build-models-without-language"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://codelove.tw/@tony/post/an2gPa",
+      "title": "更好的 Postman 替代 API 用戶端？以下是我的前 15 名",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791854285149,
+          "id": "hk-1791854285143-28328",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791854285139,
+              "end": {
+                "css": "div.row.no-gutters > div.col-12.col-lg-9 > div.bg-white.mt-3:nth-of-type(2) > div.p-3.px-md-5 > div.mt-3.mt-md-4:nth-of-type(4) > div.post-core.linkify",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "Postman",
+                "prefix": "？它似乎變得更大了，但奇怪的是，速度也更慢了。以前只是一個簡單的 API 呼叫的快捷工具，現在感覺就像一個巨大的程式。\n",
+                "suffix": " 有什麼新功能？為什麼人們正在尋找 Postman 的替代品\n不只是你一個人。各地的開發人員——在論壇上、在團隊聊天中以"
+              },
+              "start": {
+                "css": "div.row.no-gutters > div.col-12.col-lg-9 > div.bg-white.mt-3:nth-of-type(2) > div.p-3.px-md-5 > div.mt-3.mt-md-4:nth-of-type(4) > div.post-core.linkify",
+                "textOffset": 322
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/h3[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/h3[1]/strong[1]/text()[1]",
+            "text": "Postman"
+          },
+          "text": "Postman",
+          "url": "https://codelove.tw/@tony/post/an2gPa"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791854300675,
+          "id": "hk-1791854300671-28424",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791854300670,
+              "end": {
+                "css": "div.row.no-gutters > div.col-12.col-lg-9 > div.bg-white.mt-3:nth-of-type(2) > div.p-3.px-md-5 > div.mt-3.mt-md-4:nth-of-type(4) > div.post-core.linkify",
+                "textOffset": 526
+              },
+              "quote": {
+                "exact": "保存了大量 API 請求，它可能會非常拖沓",
+                "prefix": "又重：還記得 Postman 速度很快的時候嗎？對我們很多人來說，這種感覺已經不再存在了。啟動它可能需要一段時間，如果您",
+                "suffix": "。許多人認為它消耗了太多的電腦資源。\n\n\n功能太多？ Postman 現在做了很多事。功能豐富固然好，但這也意味著應用程"
+              },
+              "start": {
+                "css": "div.row.no-gutters > div.col-12.col-lg-9 > div.bg-white.mt-3:nth-of-type(2) > div.p-3.px-md-5 > div.mt-3.mt-md-4:nth-of-type(4) > div.post-core.linkify",
+                "textOffset": 505
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 57,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/ul[1]/li[1]/p[1]/text()[1]",
+            "text": "保存了大量 API 請求，它可能會非常拖沓"
+          },
+          "text": "保存了大量 API 請求，它可能會非常拖沓",
+          "url": "https://codelove.tw/@tony/post/an2gPa"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791854310103,
+          "id": "hk-1791854310102-72723",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791854310102,
+              "end": {
+                "css": "div.row.no-gutters > div.col-12.col-lg-9 > div.bg-white.mt-3:nth-of-type(2) > div.p-3.px-md-5 > div.mt-3.mt-md-4:nth-of-type(4) > div.post-core.linkify",
+                "textOffset": 725
+              },
+              "quote": {
+                "exact": "Postman 中以前免費的一些功能，例如無需在線保存即可進行快速測試的本地“便箋簿”，現在已經消失了或需要付費。",
+                "prefix": "是當你只想做簡單的 API 測試時。有時您只想發送快速請求，而不是學習整個新系統。\n\n\n支付更多費用：這是一個大問題。 ",
+                "suffix": "與你的團隊合作非常重要，但也意味著你可能需要付出代價。對於想要省錢的個人開發人員、小公司或團隊來說，Postman 可能"
+              },
+              "start": {
+                "css": "div.row.no-gutters > div.col-12.col-lg-9 > div.bg-white.mt-3:nth-of-type(2) > div.p-3.px-md-5 > div.mt-3.mt-md-4:nth-of-type(4) > div.post-core.linkify",
+                "textOffset": 668
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/ul[1]/li[3]/p[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/ul[1]/li[3]/p[1]/text()[1]",
+            "text": "Postman 中以前免費的一些功能，例如無需在線保存即可進行快速測試的本地“便箋簿”，現在已經消失了或需要付費。"
+          },
+          "text": "Postman 中以前免費的一些功能，例如無需在線保存即可進行快速測試的本地“便箋簿”，現在已經消失了或需要付費。",
+          "url": "https://codelove.tw/@tony/post/an2gPa"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "title": "google/embeddinggemma-2 · Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "開發者指南",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#ece3fa",
+          "createdAt": 1791790437022,
+          "id": "hk-ai-preview-1791790437021-48034",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790437020,
+              "end": {
+                "css": "header.bg-linear-to-t.border-b > div.container.relative > div.flex.flex-col-reverse:nth-of-type(2) > div.relative.mb-1\\.5:nth-of-type(2) > div.relative.flex-auto:nth-of-type(3) > nav.sr-only",
+                "textOffset": 826
+              },
+              "quote": {
+                "exact": "model = SentenceTransformer(\"google/embeddinggemma-2\")",
+                "prefix": "rs:  from sentence_transformers import SentenceTransformer\n\n",
+                "suffix": "\n\nsentences = [\n    \"The weather is lovely today.\",\n    \"It'"
+              },
+              "start": {
+                "css": "header.bg-linear-to-t.border-b > div.container.relative > div.flex.flex-col-reverse:nth-of-type(2) > div.relative.mb-1\\.5:nth-of-type(2) > div.relative.flex-auto:nth-of-type(3) > nav.sr-only",
+                "textOffset": 772
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[3]/nav[1]/ul[1]/li[3]/pre[1]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[3]/nav[1]/ul[1]/li[3]/pre[1]/text()[1]",
+            "text": "model = SentenceTransformer(\"google/embeddinggemma-2\")"
+          },
+          "text": "model = SentenceTransformer(\"google/embeddinggemma-2\")",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1791790471535,
+          "id": "hk-ai-preview-1791790471532-37903",
+          "note": "AI：EmbeddingGemma 2 是參數小於 1B 的最強多模態嵌入模型之一，非常適合開發者應用於端側或邊緣 AI 應用程式。\n延伸：這預示著未來開源輕量化多模態 AI 將更普及於智慧型手機與 IoT 裝置中。\n來源：Google Gemma 團隊",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471522,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 19355
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications.",
+                "prefix": " fine-tuning, and other use cases.\n\n\n\t\n\t\t\n\t\n\t\n\t\tBenefits\n\t\n\n",
+                "suffix": " \nThe model is designed from the ground up for responsible A"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 19162
+              },
+              "version": 1
+            },
+            "endOffset": 193,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[44]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[91]",
+            "text": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications."
+          },
+          "text": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1791790471547,
+          "id": "hk-ai-preview-1791790471539-65474",
+          "note": "AI：作為預訓練嵌入模型，它不像生成式模型那樣經歷過後訓練對齊、安全微調或輸出層面的內容審核。\n延伸：因此開發者必須在應用程式端自行實施檢索過濾與公平性測試等防護措施。\n來源：Google's AI Principles",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471535,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 14264
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation.",
+                "prefix": " in line with our policies.\n\n\n\t\n\t\t\n\t\n\t\n\t\tEthics & Safety\n\t\n\n",
+                "suffix": " Safety mitigations during development were focused on pre-t"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 14100
+              },
+              "version": 1
+            },
+            "endOffset": 164,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[36]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[73]",
+            "text": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation."
+          },
+          "text": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1791790471554,
+          "id": "hk-ai-preview-1791790471551-19796",
+          "note": "AI：模型在 float16 下的激活範圍會超出其動態範圍，導致回傳 NaN 或靜默降級的嵌入而不報錯，因此非常容易被忽略。\n延伸：這也是為什麼官方強烈建議使用 bfloat16 或 float32 來確保數值穩定性。\n來源：IEEE 754 float16 standard",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471548,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 9146
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss.",
+                "prefix": "\n\nRun inference in bfloat16 or float32. Do not use float16.\n",
+                "suffix": "\nbfloat16 is safe, and carries the same 8-bit exponent as fl"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 8946
+              },
+              "version": 1
+            },
+            "endOffset": 116,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[21]/text()[3]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[43]",
+            "text": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss."
+          },
+          "text": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1791790471559,
+          "id": "hk-ai-preview-1791790471558-22147",
+          "note": "AI：截斷向量後必須重新進行 L2 正規化，因為切片操作無法保持原本的單位長度，若略過此步驟將會默默降低排序品質。\n延伸：這是使用 MRL（巢狀表徵學習）模型時最常見的開發者隱性陷阱（待查證）",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471555,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 8081
+              },
+              "quote": {
+                "exact": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity.",
+                "prefix": "ty.\nAt runtime, please adhere to the following guidelines:\n\n",
+                "suffix": " Skipping this step degrades ranking quality silently—it pro"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 7907
+              },
+              "version": 1
+            },
+            "endOffset": 144,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[3]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[3]/text()[1]",
+            "text": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity."
+          },
+          "text": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1791790471565,
+          "id": "hk-ai-preview-1791790471562-93140",
+          "note": "AI：視覺與音訊編碼器為獨立元件，部署純文字或單一模態管線時可透過設定關閉未使用的編碼器來降低記憶體消耗。\n延伸：開發者在整合進 LangChain 或 LlamaIndex 等框架時需特別注意此設定方式。\n來源：SentenceTransformers",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471559,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 7067
+              },
+              "quote": {
+                "exact": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs",
+                "prefix": "t: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. Selective Encoder Loading\n\t\n\n",
+                "suffix": ":\nPlease note: configuring EmbeddingGemma 2 to load with omi"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 6853
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[15]/code[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[32]",
+            "text": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs"
+          },
+          "text": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471567,
+          "id": "hk-ai-preview-1791790471566-90385",
+          "note": "AI：具備 8K 代幣的上下文視窗，能夠處理長達數分鐘的音訊或影片內容。\n延伸：相較於早期嵌入模型僅能處理短文字，8K 視窗讓長影音檢索與語音檔案分析變得可行。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471565,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1687
+              },
+              "quote": {
+                "exact": "8K token context window, capable of processing minutes of audio or video.",
+                "prefix": "age costs with minimal impact on quality.  \nContext length: ",
+                "suffix": "\nTask-steered representations: Uses lightweight text instruc"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1614
+              },
+              "version": 1
+            },
+            "endOffset": 74,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/text()[1]",
+            "text": "8K token context window, capable of processing minutes of audio or video."
+          },
+          "text": "8K token context window, capable of processing minutes of audio or video.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471569,
+          "id": "hk-ai-preview-1791790471568-90740",
+          "note": "AI：原生支援 128d、256d、512d 與 768d 的截斷嵌入，能在對品質影響極小的狀況下減少高達 6 倍的向量儲存成本。\n延伸：此技術通常基於 Matryoshka Representation Learning（巢狀表徵學習）原理。\n來源：Matryoshka Representation Learning",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471567,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1595
+              },
+              "quote": {
+                "exact": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality.",
+                "prefix": "their use case.  \nMatryoshka Representation Learning (MRL): ",
+                "suffix": "  \nContext length: 8K token context window, capable of proce"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1435
+              },
+              "version": 1
+            },
+            "endOffset": 56,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/text()[1]",
+            "text": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality."
+          },
+          "text": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1791790471570,
+          "id": "hk-ai-preview-1791790471569-41313",
+          "note": "AI：結合了 270M 參數的文字主幹與可選擇性載入的視覺和音訊編碼器，允許開發者僅載入實際需求模組。\n延伸：這種模組化架構能顯著節省記憶體，對資源受限的邊緣裝置（Edge AI）開發極為實用。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471569,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1390
+              },
+              "quote": {
+                "exact": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case.",
+                "prefix": "e tasks relative to its predecessor.   \nFlexible footprint: ",
+                "suffix": "  \nMatryoshka Representation Learning (MRL): Native support "
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1172
+              },
+              "version": 1
+            },
+            "endOffset": 219,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[3]/text()[1]",
+            "text": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case."
+          },
+          "text": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471572,
+          "id": "hk-ai-preview-1791790471571-42178",
+          "note": "AI：支援超過 100 種語言，且在程式碼相關任務上的表現比前一代提升了約 14%。\n延伸：多語系與程式碼能力的提升對跨國軟體開發及多語言 RAG 系統特別關鍵。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471570,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1148
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor.",
+                "prefix": " 768-dimensional embedding space.\nMultilinguality and code: ",
+                "suffix": "   \nFlexible footprint: Combines a 270M parameter text backb"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1029
+              },
+              "version": 1
+            },
+            "endOffset": 120,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[2]/text()[1]",
+            "text": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor."
+          },
+          "text": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1791790471573,
+          "id": "hk-ai-preview-1791790471572-33776",
+          "note": "AI：原生多模態特性將文字、圖片、影片與音訊等四種模態統一於單一共用的 768 維嵌入空間中。\n延伸：相較於過去需要多個獨立模型分別處理不同模態，這能大幅簡化多模態檢索的架構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471572,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1002
+              },
+              "quote": {
+                "exact": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space.",
+                "prefix": "ore features: \n\nNative multimodality: Native multimodality: ",
+                "suffix": "\nMultilinguality and code: EmbeddingGemma 2 understands 100+"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 897
+              },
+              "version": 1
+            },
+            "endOffset": 128,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[1]/text()[1]",
+            "startOffset": 23,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[1]/text()[1]",
+            "text": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space."
+          },
+          "text": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1791790471575,
+          "id": "hk-ai-preview-1791790471573-77423",
+          "note": "AI：EmbeddingGemma 2 專為行動裝置與筆電等消費級硬體設計，能為端側應用提供低延遲的語意表示。\n延伸：通常這類端側模型會搭配量化技術（如 INT4/INT8）以進一步降低記憶體佔用。\n來源：Google Gemma 團隊",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471573,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 731
+              },
+              "quote": {
+                "exact": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering.",
+                "prefix": "model with modular vision (170M) and audio (300M) encoders.\n",
+                "suffix": "\nEmbeddingGemma 2 builds upon the architectural and capabili"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 485
+              },
+              "version": 1
+            },
+            "endOffset": 246,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[4]",
+            "text": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering."
+          },
+          "text": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1791790471581,
+          "id": "hk-ai-preview-1791790471576-78724",
+          "note": "AI：Google DeepMind 開發的 EmbeddingGemma 2 是一個開源多模態嵌入模型，能將文字、程式碼、圖片、影片及音訊等輸入對應至單一且統一的 768 維向量空間中。\n延伸：這是 Google 繼 Gemini 與 Gemma 系列後，在輕量化開源嵌入領域的重要布局。\n來源：Google DeepMind",
+          "range": {
+            "anchors": {
+              "createdAt": 1791790471575,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 355
+              },
+              "quote": {
+                "exact": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space.",
+                "prefix": "|\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
+                "suffix": " The model has 740M total parameters, combining a 270M param"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 136
+              },
+              "version": 1
+            },
+            "endOffset": 203,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[3]",
+            "text": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space."
+          },
+          "text": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space.",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        }
+      ],
+      "note": {
+        "generatedAt": 1791790471581,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/google/embeddinggemma-2"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://klab.tw/2026/09/laya-review-tutorial/",
+      "title": "Laya 評測與使用教學，Jev 的開源替代模型｜Mac 實測單題最快 11 毫秒 - KodeLab",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790821833837,
+          "id": "hk-1790821833823-5560",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790821833820,
+              "end": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 62
+              },
+              "quote": {
+                "exact": "原始碼放在 GitHub 的 NandhaKishorM/laya",
+                "prefix": "aya 會把資料傳到網路上嗎參考來源\nLaya 是什麼\n\n\n\nLaya 由 Convai Innovations 發布，",
+                "suffix": " ，權重放在 Hugging Face 的 convaiinnovations/laya 。第一版在 2026 年 9 "
+              },
+              "start": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 29
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[3]/a[1]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[3]/text()[1]",
+            "text": "原始碼放在 GitHub 的 NandhaKishorM/laya"
+          },
+          "text": "原始碼放在 GitHub 的 NandhaKishorM/laya",
+          "url": "https://klab.tw/2026/09/laya-review-tutorial/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790821838086,
+          "id": "hk-1790821838081-57430",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790821838080,
+              "end": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 156
+              },
+              "quote": {
+                "exact": "Apache 2.0",
+                "prefix": "nvaiinnovations/laya 。第一版在 2026 年 9 月 18 日上架 PyPI，程式碼與權重都採用 ",
+                "suffix": " 授權。\n\n\n\n官方把 Laya 定位為 System 1 決策引擎，System 1 指快速、直覺式的判斷：程式把一段"
+              },
+              "start": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(3)",
+                "textOffset": 146
+              },
+              "version": 1
+            },
+            "endOffset": 50,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[3]/text()[3]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[3]/text()[3]",
+            "text": "Apache 2.0"
+          },
+          "text": "Apache 2.0",
+          "url": "https://klab.tw/2026/09/laya-review-tutorial/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790823022802,
+          "id": "hk-1790823022797-15994",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790823022796,
+              "end": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph",
+                "textOffset": 65
+              },
+              "quote": {
+                "exact": "Laya 是 Convai Innovations 在 2026 年 9 月 18 日以 Apache 2.0 授權開源的決策模型",
+                "prefix": "月 25 日 4,780 字 · 約 17 分鐘\t    小\n\t    小中大\n\t\n\t\n\t    \n\t        \n",
+                "suffix": "。它和 TypeSafe AI 的 Jev 一樣不生成文字，只回答程式事先定義好的選擇題、評分題與是非題；差別在權重可以"
+              },
+              "start": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[1]/text()[1]",
+            "text": "Laya 是 Convai Innovations 在 2026 年 9 月 18 日以 Apache 2.0 授權開源的決策模型"
+          },
+          "text": "Laya 是 Convai Innovations 在 2026 年 9 月 18 日以 Apache 2.0 授權開源的決策模型",
+          "url": "https://klab.tw/2026/09/laya-review-tutorial/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790823028096,
+          "id": "hk-1790823028092-43626",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790823028091,
+              "end": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 30
+              },
+              "quote": {
+                "exact": "M4 Pro Mac 上安裝 Laya 0.3.20",
+                "prefix": "成文字，只回答程式事先定義好的選擇題、評分題與是非題；差別在權重可以下載，能在自己的電腦或伺服器上執行。\n\n\n\n這篇在 ",
+                "suffix": "，量測 GPU 與 CPU 的延遲、吞吐量和記憶體，並用繁體中文與英文各 12 題測試客服分流、Agent 選工具與 R"
+              },
+              "start": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(2)",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[2]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[2]/text()[1]",
+            "text": "M4 Pro Mac 上安裝 Laya 0.3.20"
+          },
+          "text": "M4 Pro Mac 上安裝 Laya 0.3.20",
+          "url": "https://klab.tw/2026/09/laya-review-tutorial/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790836655531,
+          "id": "hk-1790836655523-80993",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790836655518,
+              "end": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 51
+              },
+              "quote": {
+                "exact": "Choice 從選項挑一個、Score 依等級評分、Noul 回傳是非題",
+                "prefix": "合客服分流、Agent 選工具、RAG 文件過濾與輸出檢查這類答案範圍已知的判斷。\n\n\n\n問題型別沿用 Jev 的三種：",
+                "suffix": "「是」的機率。Jev 是 TypeSafe AI 在 2026 年 9 月 15 日推出的雲端決策模型，只能透過 API"
+              },
+              "start": {
+                "css": "article#post-4981 > div.entry-container:nth-of-type(3) > div.entry-content > p.wp-block-paragraph:nth-of-type(5)",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[5]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/div[2]/div[2]/div[1]/main[1]/div[1]/article[1]/div[3]/div[1]/p[5]/text()[1]",
+            "text": "Choice 從選項挑一個、Score 依等級評分、Noul 回傳是非題"
+          },
+          "text": "Choice 從選項挑一個、Score 依等級評分、Noul 回傳是非題",
+          "url": "https://klab.tw/2026/09/laya-review-tutorial/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for",
+      "title": "DoorDash 如何構建了用於 AI 代理的工具箱 --- How DoorDash Built a Toolbox for AI Agents",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790820890254,
+          "id": "hk-1790820890244-90925",
+          "note": "MCP 解決「工具怎麼呼叫」\nAgent Gateway 解決「企業裡誰能呼叫、能看到什麼、用誰的權限、出了什麼事」。",
+          "range": {
+            "anchors": {
+              "createdAt": 1790820890241,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1069
+              },
+              "quote": {
+                "exact": "MCP",
+                "prefix": "ions in real systems. This involves the use of tools. While ",
+                "suffix": " made it easier to expose these tools, there were a lot of o"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1066
+              },
+              "version": 1
+            },
+            "endOffset": 125,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 122,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/text()[1]",
+            "text": "MCP"
+          },
+          "text": "MCP",
+          "url": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790820910697,
+          "id": "hk-1790820910683-64225",
+          "note": "Agent\n  │\n  │ MCP\n  ▼\nAgent Gateway\n├─ Authentication\n├─ Authorization\n├─ Tool Filtering\n├─ Credential Injection\n├─ Rate Limit\n├─ Routing\n└─ Observability\n  │\n  ├──────────────┬──────────────┐\n  ▼              ▼              ▼\nGitHub MCP     Jira MCP      Logs MCP",
+          "range": {
+            "anchors": {
+              "createdAt": 1790820910680,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1337
+              },
+              "quote": {
+                "exact": "Agent Gateway",
+                "prefix": "化了這些工具的暴露，但要使其在企業級應用中有效，還需要解決許多其他問題。DoorDash built a shared ",
+                "suffix": " to control how AI agents discover and use tools. The gatewa"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1324
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/text()[1]",
+            "text": "Agent Gateway"
+          },
+          "text": "Agent Gateway",
+          "url": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790822972854,
+          "id": "hk-1790822972845-20513",
+          "note": "AI Agent 要真的幫人做事，就必須能操作公司內外的系統，但 Tool 一多，管理會開始失控。\n\nAgent A → 自己做 OAuth / 權限 / Logging\nAgent B → 再做一次 OAuth / 權限 / Logging\nAgent C → 又做一套",
+          "range": {
+            "anchors": {
+              "createdAt": 1790822972844,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4153
+              },
+              "quote": {
+                "exact": "The agent application uses an MCP client to access the tools.",
+                "prefix": "ses tools, and an MCP client communicates with that server. ",
+                "suffix": "模型上下文協議 (MCP) 提供了一種通用的方式來描述、發現和調用功能。一個 MCP 服務器提供工具，而一個 MCP 客"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4092
+              },
+              "version": 1
+            },
+            "endOffset": 242,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 181,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "The agent application uses an MCP client to access the tools."
+          },
+          "text": "The agent application uses an MCP client to access the tools.",
+          "url": "https://blog.bytebytego.com/p/how-doordash-built-a-toolbox-for"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "title": "Introducing Gemini 4 Argon",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790818267477,
+          "id": "hk-1790818267468-69869",
+          "note": "Gemini 4 Argon 是 Google 在 2026/9/30 公布的新一代 Frontier Model",
+          "range": {
+            "anchors": {
+              "createdAt": 1790818267466,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 62
+              },
+              "quote": {
+                "exact": "Gemini 4 Argon",
+                "prefix": "  \n\n\n  \n    Today, we’re announcing our new frontier model, ",
+                "suffix": ", which is rolling out to a set of trusted cyber defenders t"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 62,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Gemini 4 Argon"
+          },
+          "text": "Gemini 4 Argon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790818530616,
+          "id": "hk-1790818530609-38385",
+          "note": "把單次 Output Token 上限拉到 100 萬 tokens，上一代約為 64K\n\n他們想強調模型可以在一次 trajectory 裡持續思考、產生與執行非常長的工作流程",
+          "range": {
+            "anchors": {
+              "createdAt": 1790818530608,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 251
+              },
+              "quote": {
+                "exact": "we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens",
+                "prefix": "Argon’s capabilities across longer, more complex use cases, ",
+                "suffix": ". When the model has the headroom to think deeply and genera"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 124
+              },
+              "version": 1
+            },
+            "endOffset": 207,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 80,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens"
+          },
+          "text": "we are significantly expanding the model’s output token limit to an industry-leading 1M tokens, up from the previous 64K tokens",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790818571441,
+          "id": "hk-1790818571432-11843",
+          "note": "Coding / Agent\n真實軟體工程中，需要長時間、多步驟操作的任務",
+          "range": {
+            "anchors": {
+              "createdAt": 1790818571432,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 423
+              },
+              "quote": {
+                "exact": "DeepSWE ",
+                "prefix": "ns and algorithm designs. It sets a new state of the art on ",
+                "suffix": "v1.1 (77.9%), which measures a model’s performance in real-w"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 415
+              },
+              "version": 1
+            },
+            "endOffset": 186,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 178,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "DeepSWE "
+          },
+          "text": "DeepSWE ",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790820578499,
+          "id": "hk-1790820578488-16397",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790820578487,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1148
+              },
+              "quote": {
+                "exact": "Argon is also uniquely strong when knowledge work requires visual understanding.",
+                "prefix": "re business functions, Argon ranks #1 with a score of 51.3%.",
+                "suffix": " It’s able to drive professional chart analysis, identify de"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1068
+              },
+              "version": 1
+            },
+            "endOffset": 80,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[4]/text()[1]",
+            "text": "Argon is also uniquely strong when knowledge work requires visual understanding."
+          },
+          "text": "Argon is also uniquely strong when knowledge work requires visual understanding.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790820598546,
+          "id": "hk-1790820598540-61054",
+          "note": "Vals Index：跨 Finance / Coding / Legal / Tax\nAutomationBench：51.3%，排名第一\nLVBench 長影片理解：91.7%\nCWE-bench v1 漏洞修復：68%",
+          "range": {
+            "anchors": {
+              "createdAt": 1790820598539,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "coding and enterprise workflows",
+                "prefix": "  \n\n\n  \n\n  \n    \n  \n    \n  \n\n\n  \n\n  \n    \n\n\n  \n    Enabling ",
+                "suffix": " across domainsGemini 4 Argon’s capabilities across coding, "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 9
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 9,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "coding and enterprise workflows"
+          },
+          "text": "coding and enterprise workflows",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790820704241,
+          "id": "hk-1790820704229-34091",
+          "note": "首發優惠：\nInput  $2 / 1M tokens\nOutput $10 / 1M tokens\nCached Input 再便宜 95%\n\n優惠結束後：\nInput  $4 / 1M\nOutput $20 / 1M",
+          "range": {
+            "anchors": {
+              "createdAt": 1790820704228,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1068
+              },
+              "quote": {
+                "exact": "price\n\n1\nof $2 per million input tokens and $10 per million output tokens",
+                "prefix": "持續收集早期測試者的反饋，並不斷改進安全機制。Argon will launch at an introductory ",
+                "suffix": ", with cached input tokens priced at 95% off input token pri"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 995
+              },
+              "version": 1
+            },
+            "endOffset": 65,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[3]/text()[2]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "text": "price\n\n1\nof $2 per million input tokens and $10 per million output tokens"
+          },
+          "text": "price\n\n1\nof $2 per million input tokens and $10 per million output tokens",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.mobile01.com/topicdetail.php?t=7249324",
+      "title": "Google Chrome 瀏覽器導入側邊 Tab 標籤設計 辨識切換分頁效率更快速 - Mobile01",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790817867258,
+          "id": "hk-1790817867249-46756",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790817867247,
+              "end": {
+                "css": "article#article_93005498",
+                "textOffset": 332
+              },
+              "quote": {
+                "exact": "瀏覽器的左側，除了可以顯示更多網頁標題，快速搜尋切換外，也可將原本就提供的頁籤分類功能做出階層化的整理，",
+                "prefix": "的。針對這個問題，Google 在這次的 Chrome 瀏覽器更新中加入了垂直分頁頁籤的設計，使用者可以將分頁標籤設置在",
+                "suffix": "在使用上更加有效率。而設計在側邊也能更有效的利用螢幕空間（畢竟在大部分的 16： 9 螢幕上，左右的瀏覽器空間都是浪費的"
+              },
+              "start": {
+                "css": "article#article_93005498",
+                "textOffset": 280
+              },
+              "version": 1
+            },
+            "endOffset": 110,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/article[1]/div[1]/text()[4]",
+            "startOffset": 58,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/div[3]/div[1]/div[1]/div[1]/article[1]/div[1]/text()[4]",
+            "text": "瀏覽器的左側，除了可以顯示更多網頁標題，快速搜尋切換外，也可將原本就提供的頁籤分類功能做出階層化的整理，"
+          },
+          "text": "瀏覽器的左側，除了可以顯示更多網頁標題，快速搜尋切換外，也可將原本就提供的頁籤分類功能做出階層化的整理，",
+          "url": "https://www.mobile01.com/topicdetail.php?t=7249324"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
+      "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790759958210,
+          "id": "hk-1790759958208-46137",
+          "note": "Partitioning（資料表分區）\n大表切成多張小表\n\nquestions\n├─ questions_app_1\n├─ questions_app_2\n├─ questions_app_3\n└─ questions_app_4",
+          "range": {
+            "anchors": {
+              "createdAt": 1790759958207,
+              "end": {
+                "css": "div#DDL-PARTITIONING-OVERVIEW",
+                "textOffset": 171
+              },
+              "quote": {
+                "exact": "splitting what is logically one large table into smaller physical pieces",
+                "prefix": " Overview #\n        \n      \n    \n    Partitioning refers to ",
+                "suffix": ". Partitioning can provide several benefits:\n    \n      \n   "
+              },
+              "start": {
+                "css": "div#DDL-PARTITIONING-OVERVIEW",
+                "textOffset": 99
+              },
+              "version": 1
+            },
+            "endOffset": 95,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[3]/p[1]/text()[1]",
+            "startOffset": 23,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[3]/p[1]/text()[1]",
+            "text": "splitting what is logically one large table into smaller physical pieces"
+          },
+          "text": "splitting what is logically one large table into smaller physical pieces",
+          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790760043646,
+          "id": "hk-1790760043632-97588",
+          "note": "SELECT *\nFROM questions\nWHERE application_id = 'A';\n\n查詢可以少掃很多資料",
+          "range": {
+            "anchors": {
+              "createdAt": 1790760043631,
+              "end": {
+                "css": "div#DDL-PARTITIONING-OVERVIEW > div.itemizedlist:nth-of-type(2) > ul.itemizedlist > li.listitem",
+                "textOffset": 79
+              },
+              "quote": {
+                "exact": "Query performance can be improved dramatically in certain situations",
+                "prefix": "an provide several benefits:\n    \n      \n        \n          ",
+                "suffix": ", particularly when most of the heavily accessed rows of the"
+              },
+              "start": {
+                "css": "div#DDL-PARTITIONING-OVERVIEW > div.itemizedlist:nth-of-type(2) > ul.itemizedlist > li.listitem",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[3]/div[2]/ul[1]/li[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[3]/div[2]/ul[1]/li[1]/p[1]/text()[1]",
+            "text": "Query performance can be improved dramatically in certain situations"
+          },
+          "text": "Query performance can be improved dramatically in certain situations",
+          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://ms851.com/labor-dispute-03-probationary-period/",
+      "title": "2026 試用期總整理｜薪水、資遣費、有多久？有違反勞基法嗎？",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790212194535,
+          "id": "hk-1790212194529-18469",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790212194525,
+              "end": {
+                "css": "div#single-post > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(20)",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "試用期間約定下，雇主可以隨時終止契約，並無須具備勞基法第11條或第12條第1項各款規定的法定終止事由",
+                "prefix": "否定見解\n\n\n\n目前法院實務多數見解認為：\n\n\n\n\n試用期間約定雇主具有「保留解僱（契約終止）權」。\n\n\n\n\n換言之，在",
+                "suffix": "，既然資遣費的支付是依照雇主要依勞基法第11條規定終止勞動契約，那自然雇主就不需要負擔資遣費。\n\n\n\n＊喵星律師小提醒雖"
+              },
+              "start": {
+                "css": "div#single-post > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(20)",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[20]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[20]/text()[1]",
+            "text": "試用期間約定下，雇主可以隨時終止契約，並無須具備勞基法第11條或第12條第1項各款規定的法定終止事由"
+          },
+          "text": "試用期間約定下，雇主可以隨時終止契約，並無須具備勞基法第11條或第12條第1項各款規定的法定終止事由",
+          "url": "https://ms851.com/labor-dispute-03-probationary-period/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790212202781,
+          "id": "hk-1790212202778-39665",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790212202777,
+              "end": {
+                "css": "div#single-post > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(18)",
+                "textOffset": 27
+              },
+              "quote": {
+                "exact": "根據勞動部見解，工作未滿 3 個月，雇主也應給付資遣費",
+                "prefix": "契約，仍必須遵守「預告期間」以及負擔「資遣費」，因此若雇主因為被檢舉而先進到勞工局的話，是有很高的機率被開罰的。\n\n\n\n",
+                "suffix": "，就算只做 1 個月或 1 天，都是可以拿資遣費的喔！\n\n\n\n法院多數採否定見解\n\n\n\n目前法院實務多數見解認為：\n\n\n"
+              },
+              "start": {
+                "css": "div#single-post > div.elementor-widget-container > p.wp-block-paragraph:nth-of-type(18)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[18]/a[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]/p[18]/text()[1]",
+            "text": "根據勞動部見解，工作未滿 3 個月，雇主也應給付資遣費"
+          },
+          "text": "根據勞動部見解，工作未滿 3 個月，雇主也應給付資遣費",
+          "url": "https://ms851.com/labor-dispute-03-probationary-period/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live",
+      "title": "OpenAI 如何構建 GPT-Live – ByteByteGo 新聞簡報 --- How OpenAI Built GPT-Live - ByteByteGo Newsletter",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790131963824,
+          "id": "hk-1790131963820-23913",
+          "note": "傳統做法靠 Turn Detector 判斷使用者是不是講完了",
+          "range": {
+            "anchors": {
+              "createdAt": 1790131963819,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1250
+              },
+              "quote": {
+                "exact": "most voice models can either listen or speak, but not both at the same time.",
+                "prefix": " so you can continue. This is a common frustration, because ",
+                "suffix": "如果您之前使用過語音助手，您可能已經遇到過類似的狀況。您與系統對話，但當您短暫地停頓，以便思考合適的詞語時，系統就會開始"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1174
+              },
+              "version": 1
+            },
+            "endOffset": 361,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "startOffset": 285,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[4]/span[1]/text()[1]",
+            "text": "most voice models can either listen or speak, but not both at the same time."
+          },
+          "text": "most voice models can either listen or speak, but not both at the same time.",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790133580240,
+          "id": "hk-1790133580238-49786",
+          "note": "GPT-Live 把「即時說話」和「深度思考」拆成兩個模型，讓 Voice Model 專心維持低延遲對話，複雜推理再丟給更強的 Backend Model 處理。",
+          "range": {
+            "anchors": {
+              "createdAt": 1790133580237,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1467
+              },
+              "quote": {
+                "exact": "OpenAI’s GPT-Live-1",
+                "prefix": "n at the wrong moment在不合適的時機，自動助手介入Newer voice models, like ",
+                "suffix": ", change that by listening and speaking at the same time. Th"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 1448
+              },
+              "version": 1
+            },
+            "endOffset": 44,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[5]/span[1]/text()[1]",
+            "text": "OpenAI’s GPT-Live-1"
+          },
+          "text": "OpenAI’s GPT-Live-1",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790133604574,
+          "id": "hk-1790133604572-62428",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790133604572,
+              "end": {
+                "css": "div.dt-post-body > div.available-content > div.body.markup > div.captioned-image-container:nth-of-type(4) > figure > figcaption.image-caption",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "Full-duplex architecture",
+                "prefix": "，通過同時監聽和說話。該模型會不斷地決定是保持沉默、打斷，還是開始說話。 這種方式使得對話更加自然，減少了不必要的打斷。",
+                "suffix": ". Both sides are always on全雙工架構。雙方始終保持連接。Under the hood, the"
+              },
+              "start": {
+                "css": "div.dt-post-body > div.available-content > div.body.markup > div.captioned-image-container:nth-of-type(4) > figure > figcaption.image-caption",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/div[4]/figure[1]/figcaption[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/div[4]/figure[1]/figcaption[1]/text()[1]",
+            "text": "Full-duplex architecture"
+          },
+          "text": "Full-duplex architecture",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790134889260,
+          "id": "hk-1790134889258-825",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790134889258,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2503
+              },
+              "quote": {
+                "exact": "cascaded pipelines",
+                "prefix": "在本文中，您將學習：The three generations of voice systems, including ",
+                "suffix": ", turn-based end-to-end models, and full-duplex models這包括三種類"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2485
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 50,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[1]",
+            "text": "cascaded pipelines"
+          },
+          "text": "cascaded pipelines",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790134892424,
+          "id": "hk-1790134892421-63108",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790134892421,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2533
+              },
+              "quote": {
+                "exact": "turn-based end-to-end models",
+                "prefix": "generations of voice systems, including cascaded pipelines, ",
+                "suffix": ", and full-duplex models這包括三種類型的語音系統，包括：級聯式管道、輪流式端到端模型，以及雙向通"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2505
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[2]",
+            "text": "turn-based end-to-end models"
+          },
+          "text": "turn-based end-to-end models",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790135155364,
+          "id": "hk-1790135155362-7747",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790135155362,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2557
+              },
+              "quote": {
+                "exact": "full-duplex models",
+                "prefix": "uding cascaded pipelines, turn-based end-to-end models, and ",
+                "suffix": "Delegating thinking from talking, the core idea behind GPT-L"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 2539
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[3]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/ul[2]/li[1]/p[1]/span[1]/text()[3]",
+            "text": "full-duplex models"
+          },
+          "text": "full-duplex models",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790143029120,
+          "id": "hk-1790143029108-42184",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790143029107,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4418
+              },
+              "quote": {
+                "exact": "chains three separate models",
+                "prefix": "l.讓我們逐個深入分析。1. Cascaded Design  1. 級聯式設計The cascaded design ",
+                "suffix": ". An automatic speech recognition (ASR) model transcribes th"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4390
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[1]",
+            "startOffset": 20,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[1]",
+            "text": "chains three separate models"
+          },
+          "text": "chains three separate models",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790143032694,
+          "id": "hk-1790143032691-78474",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790143032691,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4457
+              },
+              "quote": {
+                "exact": "(ASR)",
+                "prefix": "ains three separate models. An automatic speech recognition ",
+                "suffix": " model transcribes the user’s speech into text, an LLM then "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4452
+              },
+              "version": 1
+            },
+            "endOffset": 39,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[2]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[2]",
+            "text": "(ASR)"
+          },
+          "text": "(ASR)",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790143036641,
+          "id": "hk-1790143036633-15090",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790143036632,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4511
+              },
+              "quote": {
+                "exact": "LLM",
+                "prefix": "ion (ASR) model transcribes the user’s speech into text, an ",
+                "suffix": " then generates a text reply, and a text-to-speech (TTS) mod"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4508
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[3]",
+            "startOffset": 51,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[3]",
+            "text": "LLM"
+          },
+          "text": "LLM",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790143039115,
+          "id": "hk-1790143039108-9157",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790143039107,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4566
+              },
+              "quote": {
+                "exact": "TTS",
+                "prefix": ", an LLM then generates a text reply, and a text-to-speech (",
+                "suffix": ") model finally reads the reply for the user.The cascaded de"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 4563
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[4]",
+            "startOffset": 52,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[14]/span[1]/text()[4]",
+            "text": "TTS"
+          },
+          "text": "TTS",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790143986479,
+          "id": "hk-1790143986472-94643",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790143986471,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5395
+              },
+              "quote": {
+                "exact": "First, information loss. The LLM only sees a transcript, so vocal information like tone and emotions will be unavailable to the model.",
+                "prefix": "caded design works in practice, but it has two main issues. ",
+                "suffix": "在實際應用中，這種分層設計方法有效，但存在兩個主要問題。首先，信息丟失。LLM 只能看到文本記錄，因此無法獲取語音信息，"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5261
+              },
+              "version": 1
+            },
+            "endOffset": 197,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[16]/span[1]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[16]/span[1]/text()[1]",
+            "text": "First, information loss. The LLM only sees a transcript, so vocal information like tone and emotions will be unavailable to the model."
+          },
+          "text": "First, information loss. The LLM only sees a transcript, so vocal information like tone and emotions will be unavailable to the model.",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790143995201,
+          "id": "hk-1790143995193-17912",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790143995192,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5559
+              },
+              "quote": {
+                "exact": "Second, the system is complex and slow. ",
+                "prefix": "情感。The transcript drops everything but the words這份記錄只保留了關鍵詞。",
+                "suffix": "Since the three stages run in series, their latencies add up"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 5519
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[17]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[17]/span[1]/text()[1]",
+            "text": "Second, the system is complex and slow. "
+          },
+          "text": "Second, the system is complex and slow. ",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790144007542,
+          "id": "hk-1790144007538-57580",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790144007538,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6098
+              },
+              "quote": {
+                "exact": "end-to-end speech model",
+                "prefix": "ch-to-Speech2. 輪流式、語音到語音The second generation introduces an ",
+                "suffix": ", a single model trained to consume audio as input and produ"
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 6075
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[19]/span[1]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[19]/span[1]/text()[1]",
+            "text": "end-to-end speech model"
+          },
+          "text": "end-to-end speech model",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790144092565,
+          "id": "hk-1790144092562-10078",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790144092561,
+              "end": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10232
+              },
+              "quote": {
+                "exact": "GPT-Live-1 in July 2026, a family of full-duplex voice models",
+                "prefix": "下一個標記，因此提供服務的成本較高。其次，模型需要在毫秒內做出響應，因此其容量不能過大。OpenAI launched ",
+                "suffix": ". It is designed around the challenges described above. The "
+              },
+              "start": {
+                "css": "div.pencraft.pc-display-contents > article.typography.newsletter-post > div:nth-of-type(3) > div.dt-post-body > div.available-content > div.body.markup",
+                "textOffset": 10171
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[28]/span[1]/text()[1]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/article[1]/div[3]/div[1]/div[1]/div[1]/p[28]/span[1]/text()[1]",
+            "text": "GPT-Live-1 in July 2026, a family of full-duplex voice models"
+          },
+          "text": "GPT-Live-1 in July 2026, a family of full-duplex voice models",
+          "url": "https://blog.bytebytego.com/p/how-openai-built-gpt-live"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://ai.meta.com/blog/large-language-model-llama-meta-ai/",
+      "title": "Introducing LLaMA: A foundational, 65-billion-parameter language model",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790066330256,
+          "id": "hk-1790066330252-90354",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790066330251,
+              "end": {
+                "css": "div._8za3:nth-of-type(7) > div._8zng > div._8znh > div._8zn9._99tb:nth-of-type(3) > div._8zna > p._8w6f._8w61:nth-of-type(3)",
+                "textOffset": 428
+              },
+              "quote": {
+                "exact": "7B, 13B, 33B, and 65B parameters",
+                "prefix": "y of tasks. We are making LLaMA available at several sizes (",
+                "suffix": ") and also sharing a LLaMA model card that details how we bu"
+              },
+              "start": {
+                "css": "div._8za3:nth-of-type(7) > div._8zng > div._8znh > div._8zn9._99tb:nth-of-type(3) > div._8zna > p._8w6f._8w61:nth-of-type(3)",
+                "textOffset": 396
+              },
+              "version": 1
+            },
+            "endOffset": 428,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/p[3]/text()[1]",
+            "startOffset": 396,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/p[3]/text()[1]",
+            "text": "7B, 13B, 33B, and 65B parameters"
+          },
+          "text": "7B, 13B, 33B, and 65B parameters",
+          "url": "https://ai.meta.com/blog/large-language-model-llama-meta-ai/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://outcomeschool.com/blog/math-behind-attention-qkv",
+      "title": "注意力機制是如何工作的？Q、K、和 V 的數學原理，一步一步詳解 --- How Does Attention Work? The Math Behind Q, K, and V Step by Step",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790058354011,
+          "id": "hk-1790058354007-5409",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790058354005,
+              "end": {
+                "css": "div.mx-auto.w-full > article > div > div.mx-auto.max-w-3xl > div.xl\\:col-span-3.xl\\:row-span-2 > div.prose.max-w-none",
+                "textOffset": 2344
+              },
+              "quote": {
+                "exact": "each word is first converted into a vector (i.e. a list of numbers) called an embedding.",
+                "prefix": "ds:讓我們用一個簡單的三字句子：\"I love AI\"  “我非常喜歡人工智能。”In a Transformer, ",
+                "suffix": " Just for the sake of understanding, we will use very small "
+              },
+              "start": {
+                "css": "div.mx-auto.w-full > article > div > div.mx-auto.max-w-3xl > div.xl\\:col-span-3.xl\\:row-span-2 > div.prose.max-w-none",
+                "textOffset": 2256
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/p[13]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/p[13]/text()[2]",
+            "text": "each word is first converted into a vector (i.e. a list of numbers) called an embedding."
+          },
+          "text": "each word is first converted into a vector (i.e. a list of numbers) called an embedding.",
+          "url": "https://outcomeschool.com/blog/math-behind-attention-qkv"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790058389436,
+          "id": "hk-1790058389434-31144",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790058389433,
+              "end": {
+                "css": "div.mx-auto.w-full > article > div > div.mx-auto.max-w-3xl > div.xl\\:col-span-3.xl\\:row-span-2 > div.prose.max-w-none",
+                "textOffset": 3129
+              },
+              "quote": {
+                "exact": "Q (Query), K (Key), and V (Value).",
+                "prefix": "建 Q、K、和 V 矩陣Now, we need to create three separate matrices: ",
+                "suffix": "現在，我們需要創建三個獨立的矩陣：Q（查詢矩陣）、K（鍵矩陣）和 V（值矩陣）。How do we create the"
+              },
+              "start": {
+                "css": "div.mx-auto.w-full > article > div > div.mx-auto.max-w-3xl > div.xl\\:col-span-3.xl\\:row-span-2 > div.prose.max-w-none",
+                "textOffset": 3095
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/p[16]/text()[4]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/p[16]/strong[1]/text()[1]",
+            "text": "Q (Query), K (Key), and V (Value)."
+          },
+          "text": "Q (Query), K (Key), and V (Value).",
+          "url": "https://outcomeschool.com/blog/math-behind-attention-qkv"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://outcomeschool.com/blog/scaling-dot-product-attention",
+      "title": "為什麼我們使用縮放因子 √dₖ？ 這一縮放因子的數學原理 --- Why Do We Scale Attention by √dₖ? The Math Behind the Scaling Factor",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790058035297,
+          "id": "hk-1790058035295-45162",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790058035294,
+              "end": {
+                "css": "div.mx-auto.w-full > article > div > div.mx-auto.max-w-3xl > div.xl\\:col-span-3.xl\\:row-span-2 > div.prose.max-w-none",
+                "textOffset": 98
+              },
+              "quote": {
+                "exact": " why we scale the dot product attention by √dₖ in the Transformer",
+                "prefix": "謝卡Published onApril 5, 2026In this blog, we will learn about",
+                "suffix": " architecture with a step-by-step numeric example.在本文中，我們將通過"
+              },
+              "start": {
+                "css": "div.mx-auto.w-full > article > div > div.mx-auto.max-w-3xl > div.xl\\:col-span-3.xl\\:row-span-2 > div.prose.max-w-none",
+                "textOffset": 33
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/section[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/p[1]/text()[1]",
+            "text": " why we scale the dot product attention by √dₖ in the Transformer"
+          },
+          "text": " why we scale the dot product attention by √dₖ in the Transformer",
+          "url": "https://outcomeschool.com/blog/scaling-dot-product-attention"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.almabetter.com/bytes/articles/support-vector-machines",
+      "title": "支持向量機 (SVM) 綜合指南 --- A Comprehensive Guide to Support Vector Machines (SVMs)",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790049319964,
+          "id": "hk-1790049319962-95909",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790049319961,
+              "end": {
+                "css": "main.font-gellix > section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > p.my-6.text-justify",
+                "textOffset": 31
+              },
+              "quote": {
+                "exact": "Support Vector Machines (SVMs) ",
+                "prefix": "oad  下載 120K  120,000Active Users  活躍用戶Download Ebook  下載電子書",
+                "suffix": "are a powerful and widely used tool in the field of Machine "
+              },
+              "start": {
+                "css": "main.font-gellix > section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > p.my-6.text-justify",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/p[1]/text()[1]",
+            "text": "Support Vector Machines (SVMs) "
+          },
+          "text": "Support Vector Machines (SVMs) ",
+          "url": "https://www.almabetter.com/bytes/articles/support-vector-machines"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790049336491,
+          "id": "hk-1790049336490-60324",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790049336490,
+              "end": {
+                "css": "main.font-gellix > section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > p.my-6.text-justify",
+                "textOffset": 236
+              },
+              "quote": {
+                "exact": "dealing with high-dimensional data and can also be used for both classification and regression tasks",
+                "prefix": "eld of Machine Learning. They are particularly effective at ",
+                "suffix": ". SVMs have been widely used in various fields, from compute"
+              },
+              "start": {
+                "css": "main.font-gellix > section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > p.my-6.text-justify",
+                "textOffset": 136
+              },
+              "version": 1
+            },
+            "endOffset": 206,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 106,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/p[1]/text()[2]",
+            "text": "dealing with high-dimensional data and can also be used for both classification and regression tasks"
+          },
+          "text": "dealing with high-dimensional data and can also be used for both classification and regression tasks",
+          "url": "https://www.almabetter.com/bytes/articles/support-vector-machines"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790049363888,
+          "id": "hk-1790049363886-56527",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790049363886,
+              "end": {
+                "css": "section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > ul.ml-4.w-\\[97\\%\\] > li.my-6.\\!list-item",
+                "textOffset": 59
+              },
+              "quote": {
+                "exact": "find the optimal decision boundary",
+                "prefix": "SVM（支持向量機）是一種監督式機器學習算法，用於分類和迴歸任務。\n\nThe goal of an SVM is to ",
+                "suffix": ", or hyperplane, that separates different classes of data in"
+              },
+              "start": {
+                "css": "section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > ul.ml-4.w-\\[97\\%\\] > li.my-6.\\!list-item",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 59,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "find the optimal decision boundary"
+          },
+          "text": "find the optimal decision boundary",
+          "url": "https://www.almabetter.com/bytes/articles/support-vector-machines"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790049367101,
+          "id": "hk-1790049367100-75994",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790049367099,
+              "end": {
+                "css": "section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > ul.ml-4.w-\\[97\\%\\] > li.my-6.\\!list-item",
+                "textOffset": 74
+              },
+              "quote": {
+                "exact": "hyperplane",
+                "prefix": "goal of an SVM is to find the optimal decision boundary, or ",
+                "suffix": ", that separates different classes of data in a dataset.支持向量"
+              },
+              "start": {
+                "css": "section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > ul.ml-4.w-\\[97\\%\\] > li.my-6.\\!list-item",
+                "textOffset": 64
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "text": "hyperplane"
+          },
+          "text": "hyperplane",
+          "url": "https://www.almabetter.com/bytes/articles/support-vector-machines"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1790049379432,
+          "id": "hk-1790049379430-72423",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790049379429,
+              "end": {
+                "css": "section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > ul.ml-4.w-\\[97\\%\\] > li.my-6.\\!list-item:nth-of-type(4)",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "linear SVMs, which separate data using a straight line, and kernel-based SVMs",
+                "prefix": "SVM 能夠處理包含多個特徵和非線性可分離數據的複雜數據集。\nThere are two types of SVMs: ",
+                "suffix": ", which can handle non-linearly separable data by transformi"
+              },
+              "start": {
+                "css": "section.font-satoshi-regular:nth-of-type(2) > div.mx-4.mt-\\[33px\\]:nth-of-type(2) > article.md\\:col-span-12.lg\\:col-span-8 > div > ul.ml-4.w-\\[97\\%\\] > li.my-6.\\!list-item:nth-of-type(4)",
+                "textOffset": 29
+              },
+              "version": 1
+            },
+            "endOffset": 106,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/article[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "text": "linear SVMs, which separate data using a straight line, and kernel-based SVMs"
+          },
+          "text": "linear SVMs, which separate data using a straight line, and kernel-based SVMs",
+          "url": "https://www.almabetter.com/bytes/articles/support-vector-machines"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf",
+      "title": "自監督式學習 Self-Supervised Learning for Computer Vision 之概述 | by 李謦伊 | 謦伊的閱讀筆記 | Medium",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789977932992,
+          "id": "hk-1789977932986-56903",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789977932983,
+              "end": {
+                "css": "li#\\39 75b",
+                "textOffset": 43
+              },
+              "quote": {
+                "exact": "監督式學習 (Supervised Learning) 是指使用大量的標記資料進行訓練",
+                "prefix": "·May 2, 20225581Share機器學習演算法主要分為四種：監督式學習、非監督式學習、半監督式學習、強化學習。",
+                "suffix": "，應用的方向大致可分為分類、迴歸，為目前最常見的作法。非監督式學習 (Unsupervised Learning) 是指"
+              },
+              "start": {
+                "css": "li#\\39 75b",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "監督式學習 (Supervised Learning) 是指使用大量的標記資料進行訓練"
+          },
+          "text": "監督式學習 (Supervised Learning) 是指使用大量的標記資料進行訓練",
+          "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789977935546,
+          "id": "hk-1789977935542-5477",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789977935541,
+              "end": {
+                "css": "li#\\36 532",
+                "textOffset": 43
+              },
+              "quote": {
+                "exact": "非監督式學習 (Unsupervised Learning) 是指使用大量未標記的資料",
+                "prefix": "ervised Learning) 是指使用大量的標記資料進行訓練，應用的方向大致可分為分類、迴歸，為目前最常見的作法。",
+                "suffix": "，藉由資料本身的特性找出潛在的規則，應用的方向有聚類、降維以及待會要介紹的自監督式學習 (Self-Supervised"
+              },
+              "start": {
+                "css": "li#\\36 532",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "非監督式學習 (Unsupervised Learning) 是指使用大量未標記的資料"
+          },
+          "text": "非監督式學習 (Unsupervised Learning) 是指使用大量未標記的資料",
+          "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789977939878,
+          "id": "hk-1789977939874-38733",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789977939874,
+              "end": {
+                "css": "li#cae5",
+                "textOffset": 77
+              },
+              "quote": {
+                "exact": "半監督式學習 (Semi-Supervised Learning) 則是介於監督式學習和非監督式學習之間，結合少量的標記資料與其他大量未標記的資料一起使用",
+                "prefix": "出潛在的規則，應用的方向有聚類、降維以及待會要介紹的自監督式學習 (Self-Supervised Learning)。",
+                "suffix": "，應用的方向有 Noisy Student、Meta Pseudo Labels、Generative methods "
+              },
+              "start": {
+                "css": "li#cae5",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "半監督式學習 (Semi-Supervised Learning) 則是介於監督式學習和非監督式學習之間，結合少量的標記資料與其他大量未標記的資料一起使用"
+          },
+          "text": "半監督式學習 (Semi-Supervised Learning) 則是介於監督式學習和非監督式學習之間，結合少量的標記資料與其他大量未標記的資料一起使用",
+          "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789977943172,
+          "id": "hk-1789977943168-14402",
+          "note": "action -> reward",
+          "range": {
+            "anchors": {
+              "createdAt": 1789977943168,
+              "end": {
+                "css": "li#\\30 902",
+                "textOffset": 38
+              },
+              "quote": {
+                "exact": "強化學習 (Reinforcement Learning) 是透過獎懲的機制",
+                "prefix": "用的方向有 Noisy Student、Meta Pseudo Labels、Generative methods 等。",
+                "suffix": "，讓機器在環境中進行 trial and error，並從中自我學習以取得最大的 Reward，應用的方向有 DQN、T"
+              },
+              "start": {
+                "css": "li#\\30 902",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "text": "強化學習 (Reinforcement Learning) 是透過獎懲的機制"
+          },
+          "text": "強化學習 (Reinforcement Learning) 是透過獎懲的機制",
+          "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789977975099,
+          "id": "hk-1789977975095-43292",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789977975094,
+              "end": {
+                "css": "p#\\33 cd2",
+                "textOffset": 158
+              },
+              "quote": {
+                "exact": "Self-Supervised Learning 就是屬於 Unsupervised Learning 的一種，透過挖掘大量無標記資料中本身的資訊，人為地製造標籤（pretext）",
+                "prefix": "本較高或是特定領域的資料取得不易，因此研究的方向逐漸關注於 Unsupervised Learning。而本文要介紹的 ",
+                "suffix": "，如此一來就可以使用監督式學習的方式進行訓練，如同其名為通過自己來監督自己。目的是希望模型能夠學習到資料中的通用 rep"
+              },
+              "start": {
+                "css": "p#\\33 cd2",
+                "textOffset": 68
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[2]/text()[1]",
+            "text": "Self-Supervised Learning 就是屬於 Unsupervised Learning 的一種，透過挖掘大量無標記資料中本身的資訊，人為地製造標籤（pretext）"
+          },
+          "text": "Self-Supervised Learning 就是屬於 Unsupervised Learning 的一種，透過挖掘大量無標記資料中本身的資訊，人為地製造標籤（pretext）",
+          "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1789977998444,
+          "id": "hk-1789977998441-45954",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1789977998441,
+              "end": {
+                "css": "p#\\38 3db",
+                "textOffset": 91
+              },
+              "quote": {
+                "exact": "首先用這些未標記資料訓練一個初步的模型產生出一種通用的 Representation，接著再根據下游任務使用少量的有標籤資料 fine-tune",
+                "prefix": "型能夠學習到資料中的通用 representation，並應用至不同的下游任務裡。作法如下圖所示，訓練步驟會分為兩部分，",
+                "suffix": " (這邊僅需要少量有標籤資料是因為模型在第一部分時就已經將參數訓練得差不多了)。Press enter or click"
+              },
+              "start": {
+                "css": "p#\\38 3db",
+                "textOffset": 19
+              },
+              "version": 1
+            },
+            "endOffset": 91,
+            "endXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 19,
+            "startXPath": "/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[6]/article[1]/div[1]/div[1]/section[1]/div[1]/div[4]/div[1]/div[1]/p[3]/text()[1]",
+            "text": "首先用這些未標記資料訓練一個初步的模型產生出一種通用的 Representation，接著再根據下游任務使用少量的有標籤資料 fine-tune"
+          },
+          "text": "首先用這些未標記資料訓練一個初步的模型產生出一種通用的 Representation，接著再根據下游任務使用少量的有標籤資料 fine-tune",
+          "url": "https://medium.com/ching-i/%E8%87%AA%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92-self-supervised-learning-for-computer-vision-%E4%B9%8B%E6%A6%82%E8%BF%B0-b0decf770abf"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
     {
       "url": "https://www.nmmst.gov.tw/chhtml/content/542",
       "title": "國立海洋科技博物館-定時導覽",
@@ -4473,26 +7107,26 @@
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1788143002642,
+              "createdAt": 1790067802236,
               "end": {
                 "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 745
+                "textOffset": 8635
               },
               "quote": {
                 "exact": "Before / Delta / After",
-                "prefix": "e changes before merge — compare two validated snapshots as ",
-                "suffix": ", with exact added, removed, changed, moved, and rerouted fa"
+                "prefix": " design or PR review, Architecture Delta compares validated ",
+                "suffix": " snapshots with a machine receipt. Select an authored change"
               },
               "start": {
                 "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 723
+                "textOffset": 8613
               },
               "version": 1
             },
-            "endOffset": 60,
-            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
-            "startOffset": 38,
-            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
             "text": "Before / Delta / After"
           },
           "text": "Before / Delta / After",
@@ -43250,7 +45884,7 @@
     },
     {
       "url": "https://discord.com/channels/1362241582702526615/1362245292493373571",
-      "title": "(1367) Discord",
+      "title": "(1373) Discord",
       "tags": [],
       "entries": [
         {
