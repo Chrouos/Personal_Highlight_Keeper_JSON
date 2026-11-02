@@ -1,8 +1,8 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1793611026884,
-  "totalPages": 4619,
+  "exportedAt": 1793611544954,
+  "totalPages": 4618,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
@@ -14,32 +14,22 @@
     {
       "tag": "人工智慧",
       "file": "categories/人工智慧.json",
-      "pageCount": 11
+      "pageCount": 10
     },
     {
       "tag": "多模態模型",
       "file": "categories/多模態模型.json",
-      "pageCount": 9
+      "pageCount": 8
     },
     {
       "tag": "開源模型",
       "file": "categories/開源模型.json",
-      "pageCount": 9
+      "pageCount": 8
     },
     {
       "tag": "機器學習",
       "file": "categories/機器學習.json",
       "pageCount": 8
-    },
-    {
-      "tag": "延遲優化",
-      "file": "categories/延遲優化.json",
-      "pageCount": 6
-    },
-    {
-      "tag": "開發者指南",
-      "file": "categories/開發者指南.json",
-      "pageCount": 6
     },
     {
       "tag": "成本控制",
@@ -52,9 +42,19 @@
       "pageCount": 6
     },
     {
+      "tag": "開發者指南",
+      "file": "categories/開發者指南.json",
+      "pageCount": 5
+    },
+    {
+      "tag": "延遲優化",
+      "file": "categories/延遲優化.json",
+      "pageCount": 5
+    },
+    {
       "tag": "記憶體快取",
       "file": "categories/記憶體快取.json",
-      "pageCount": 5
+      "pageCount": 4
     },
     {
       "tag": "自然語言處理",

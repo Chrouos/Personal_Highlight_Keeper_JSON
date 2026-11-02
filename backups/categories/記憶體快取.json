@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1793611026853,
+  "exportedAt": 1793611544948,
   "category": "記憶體快取",
   "pages": [
     {
@@ -536,28 +536,6 @@
         "note": "Mistral Large 4 是具備多語言與多模態能力的開放權重模型，透過 MoE、MLA 與 DSA 結合專家路由、KV 壓縮及稀疏注意力，支援大型模型的長上下文處理。\n\n文章特別強調資安應用：模型能重現並修補漏洞，而開放權重讓使用者自行控制部署與使用政策，降低封閉 API 對防禦工作的限制，同時仍保留有害請求拒絕機制。\n\n在工程實作上，模型支援 Transformers、vLLM、llama.cpp 與 TRL 微調，並可透過量化及 Speculative Decoding 改善部署效率。\n\n不過，模型龐大的參數量仍帶來硬體門檻，即使採用低位元量化，單機部署依然需要大量記憶體，顯示模型架構效率與實際部署成本仍需分開評估。",
         "provider": "chatgpt",
         "url": "https://huggingface.co/blog/mistral-large4"
-      },
-      "mindmap": null
-    },
-    {
-      "url": "https://chatgpt.com/",
-      "title": "ChatGPT",
-      "tags": [
-        "人工智慧",
-        "多模態模型",
-        "延遲優化",
-        "記憶體快取",
-        "開發者指南",
-        "開源模型"
-      ],
-      "entries": [],
-      "note": {
-        "formatVersion": 2,
-        "generatedAt": 1793586680990,
-        "model": "chatgpt-web",
-        "note": "Mistral Large 4 是具備多語言與多模態能力的開放權重模型，透過 MoE、MLA 與 DSA 結合專家路由、KV 壓縮及稀疏注意力，支援大型模型的長上下文處理。\n\n文章特別強調資安應用：模型能重現並修補漏洞，而開放權重讓使用者自行控制部署與使用政策，降低封閉 API 對防禦工作的限制，同時仍保留有害請求拒絕機制。\n\n在工程實作上，模型支援 Transformers、vLLM、llama.cpp 與 TRL 微調，並可透過量化及 Speculative Decoding 改善部署效率。\n\n不過，模型龐大的參數量仍帶來硬體門檻，即使採用低位元量化，單機部署依然需要大量記憶體，顯示模型架構效率與實際部署成本仍需分開評估。",
-        "provider": "chatgpt",
-        "url": "https://chatgpt.com/"
       },
       "mindmap": null
     },

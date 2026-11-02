@@ -1,9 +1,255 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1793611026861,
+  "exportedAt": 1793611544891,
   "category": "成本控制",
   "pages": [
+    {
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "title": "google/embeddinggemma-2 · Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "開發者指南",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611253874,
+          "id": "hk-1793611253856-12924",
+          "note": "將文字、程式碼、圖片、影片、音訊轉換到同一個 768 維向量空間，適合 RAG、語意搜尋及跨模態檢索",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611253853,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 298
+              },
+              "quote": {
+                "exact": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
+                "prefix": ".0 | Authors: Google DeepMind\n\n\nEmbeddingGemma 2 is an open ",
+                "suffix": "—and combinations thereof—into a single, unified 768-dimensi"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 185
+              },
+              "version": 1
+            },
+            "endOffset": 125,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs"
+          },
+          "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611270487,
+          "id": "hk-1793611270468-16913",
+          "note": "EmbeddingGemma 2 是 Google DeepMind 於 2026 年 10 月推出的輕量級 Multimodal Embedding Model",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611270467,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 172
+              },
+              "quote": {
+                "exact": "EmbeddingGemma ",
+                "prefix": "t\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
+                "suffix": "2 is an open multimodal embedding model built by Google Deep"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 157
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
+            "text": "EmbeddingGemma "
+          },
+          "text": "EmbeddingGemma ",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611306284,
+          "id": "hk-1793611306272-84570",
+          "note": "Context Window\t8,192 Tokens",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611306270,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1633
+              },
+              "quote": {
+                "exact": "Context length",
+                "prefix": "n in vector storage costs with minimal impact on quality.  \n",
+                "suffix": ": 8K token context window, capable of processing minutes of "
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1619
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
+            "text": "Context length"
+          },
+          "text": "Context length",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611319743,
+          "id": "hk-1793611319732-74255",
+          "note": "Text、Code、Image、Video、Audio\n\n例如使用文字「紅色汽車」，就能檢索相關圖片，而不需要先把圖片轉成文字",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611319731,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 482
+              },
+              "quote": {
+                "exact": "Text, Images, Video, Audio",
+                "prefix": "rojection Layer\n512→768\n\n\nInput/Output\nSupported Modalities\n",
+                "suffix": "\n\n\n\nContext Window\n8,192 tokens\n\n\n\nNative Output Dimension\n7"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 456
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
+            "text": "Text, Images, Video, Audio"
+          },
+          "text": "Text, Images, Video, Audio",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611331620,
+          "id": "hk-1793611331603-26714",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611331602,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 513
+              },
+              "quote": {
+                "exact": "8,192 tokens",
+                "prefix": "ted Modalities\nText, Images, Video, Audio\n\n\n\nContext Window\n",
+                "suffix": "\n\n\n\nNative Output Dimension\n768\n\n\n\nMRL Truncation Dimensions"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 501
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "text": "8,192 tokens"
+          },
+          "text": "8,192 tokens",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611368325,
+          "id": "hk-1793611368316-43776",
+          "note": "可以縮短 Embedding 維度，降低向量資料庫的儲存與檢索成本\n維度\t多語 MTEB 分數\t向量儲存量\n768d\t  61.36\t100%\n512d\t  61.17\t66.7%\n256d\t  60.41\t33.3%\n128d\t  57.89\t16.7%\n\nGoogle 官方 Benchmark，儲存量以相同數值精度、僅計向量本體估算",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611368315,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1454
+              },
+              "quote": {
+                "exact": "Matryoshka Representation Learning (MRL)",
+                "prefix": " to load only the modalities required for their use case.  \n",
+                "suffix": ": Native support for truncated embeddings across 128d, 256d,"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1414
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
+            "text": "Matryoshka Representation Learning (MRL)"
+          },
+          "text": "Matryoshka Representation Learning (MRL)",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611417911,
+          "id": "hk-1793611417893-58459",
+          "note": "不需要完整載入 740M 參數\n- Text / Code：270M\n- Text + Image：440M\n- Text + Audio：570M\n- 全模態：740M\n能依照實際 RAG 需求降低記憶體佔用",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611417892,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "Selective Encoder Loading",
+                "prefix": "encode(f\"title: {title} | text: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. ",
+                "suffix": "\n\t\n\nThe vision and audio encoders are independent components"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
+            "text": "Selective Encoder Loading"
+          },
+          "text": "Selective Encoder Loading",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        }
+      ],
+      "note": {
+        "generatedAt": 1791790471581,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/google/embeddinggemma-2"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
@@ -438,27 +684,6 @@
         "note": "通用開源模型的既有詞表在單一領域應用中常造成 Token 過度切片與未用詞彙的冗餘計算，其中推論階段的解碼成本尤高。為此，本文提出了 VocabX 方法，透過成本權重而非頻率來評估詞表，並同步結合子詞層重構與多詞層巨集 Token 機制。實驗結果表明，該方法在生產環境的作文批改器中成功將推論成本大降 77%，同時提升了評分品質。然而研究也發現，過度壓縮承載關鍵決策的區段會折損表現，證明模型專門化應從詞表層面切入而非僅限於資料與權重。",
         "provider": "chatgpt",
         "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-      },
-      "mindmap": null
-    },
-    {
-      "url": "https://huggingface.co/google/embeddinggemma-2",
-      "title": "google/embeddinggemma-2 · Hugging Face",
-      "tags": [
-        "人工智慧",
-        "多模態模型",
-        "成本控制",
-        "開發者指南",
-        "開源模型",
-        "機器學習"
-      ],
-      "entries": [],
-      "note": {
-        "generatedAt": 1791790471581,
-        "model": "chatgpt-web",
-        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
-        "provider": "chatgpt",
-        "url": "https://huggingface.co/google/embeddinggemma-2"
       },
       "mindmap": null
     },
