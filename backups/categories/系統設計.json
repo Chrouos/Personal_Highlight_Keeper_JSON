@@ -1,9 +1,222 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1791961014909,
+  "exportedAt": 1793611026865,
   "category": "系統設計",
   "pages": [
+    {
+      "url": "https://arxiv.org/html/2610.14224v1",
+      "title": "Harness2: Recursive Agent Harnessing foran Open World",
+      "tags": [
+        "人工智慧",
+        "系統設計",
+        "提示詞工程",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792114838093,
+          "id": "hk-1792114838070-75349",
+          "note": "RSI（Recursive Self-Improvement，遞迴式自我改進）\n\n指 AI 系統不只完成任務，還能根據執行結果持續改善自己，並利用改善後的能力進一步改善自己",
+          "range": {
+            "anchors": {
+              "createdAt": 1792114838068,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "Recursive self-improvement (RSI)",
+                "prefix": "ir underlying models but also on their execution harnesses. ",
+                "suffix": " offers a promising approach to automatically evolve these h"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 107
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 107,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "Recursive self-improvement (RSI)"
+          },
+          "text": "Recursive self-improvement (RSI)",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792131729236,
+          "id": "hk-1792131729219-65889",
+          "note": "Propose（提出修改）→ Probe（對比測試）→ Compose（整合改善）",
+          "range": {
+            "anchors": {
+              "createdAt": 1792137352186,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 941
+              },
+              "quote": {
+                "exact": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
+                "prefix": "these challenges through two connected levels of recursion. ",
+                "suffix": " Harnessing-level recursion then extracts experience from th"
+              },
+              "start": {
+                "css": "em#abstract1\\.1\\.3",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 205,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/em[2]/text()[1]",
+            "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion."
+          },
+          "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792132229894,
+          "id": "hk-1792132229879-43324",
+          "note": "研究要解決的兩個問題\n問題一：缺少 Ground Truth（標準答案）\nOpen-world Task（開放世界任務）往往是第一次遇到的任務\n沒有標準答案可以驗證 Harness 修改後是否真的更好\n\n問題二：RSI 缺乏泛化能力\n傳統 Recursive Self-Improvement（遞迴自我改善）通常只針對當前任務優化\n換一個任務時，過去的改善經驗難以重複利用",
+          "range": {
+            "anchors": {
+              "createdAt": 1792465925026,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 290
+              },
+              "quote": {
+                "exact": "two critical challenges",
+                "prefix": ". However, deploying RSI in open-world settings still faces ",
+                "suffix": ". First, open-world tasks are typically unseen during the ha"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 267
+              },
+              "version": 1
+            },
+            "endOffset": 151,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 128,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "two critical challenges"
+          },
+          "text": "two critical challenges",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792134508846,
+          "id": "hk-1792134508830-11526",
+          "note": "[翻譯] 任務級遞歸完善了目前任務的執行工具。",
+          "range": {
+            "anchors": {
+              "createdAt": 1792134508829,
+              "end": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 517
+              },
+              "quote": {
+                "exact": " Task-level recursion refines the current task’s execution harness.",
+                "prefix": "nts these updates through two coupled levels of recursion: ❶",
+                "suffix": " To overcome the absence of ground-truth feedback, we introd"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 450
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[7]",
+            "startOffset": 180,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[5]",
+            "text": " Task-level recursion refines the current task’s execution harness."
+          },
+          "text": " Task-level recursion refines the current task’s execution harness.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792134527467,
+          "id": "hk-1792134527453-84350",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1792134527453,
+              "end": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 1067
+              },
+              "quote": {
+                "exact": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
+                "prefix": "ential recursion builds successive revisions iteratively. ❷ ",
+                "suffix": " Instead of inheriting the previous execution harness, this "
+              },
+              "start": {
+                "css": "span#S1\\.p5\\.1\\.10",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[11]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/span[3]/text()[1]",
+            "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness."
+          },
+          "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792137365820,
+          "id": "hk-1792137365784-13128",
+          "note": "問題： 這種方式容易對已知任務最佳化\n當 Agent 遇到全新的任務、工具或環境時，原本的 Harness 未必還有效",
+          "range": {
+            "anchors": {
+              "createdAt": 1792379003565,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 221
+              },
+              "quote": {
+                "exact": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
+                "prefix": "e generated, evaluated, and retained (Duan et al., 2026).\n\n\n",
+                "suffix": ". However, a static harness selected beforehand often fails "
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[1]",
+            "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment"
+          },
+          "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        }
+      ],
+      "note": {
+        "generatedAt": 1792114953109,
+        "model": "chatgpt-web",
+        "note": "在開源與智慧體技術快速發展的背景下，大型語言模型代理程式的效能不僅取決於底層模型本身，更受到其外在執行環境（即 harness，包含提示詞、記憶、技能與工具編排等）的深遠影響。然而，在開放世界中部署代理程式時，往往面臨缺乏真實標籤驗證器以及改進過程高度任務專一、難以泛化至新情境的兩大挑戰。為此，研究團隊推出了 Harness2 框架，透過「任務層級遞迴」與「harnessing 層級遞迴」兩個相連的層級來實現遞迴自我改進。任務層級採用創新的「提出－探測－組合」對比式步驟，在沒有正確答案的情況下透過行為對比來安全地編輯與合併 harness 修改；harnessing 層級則會萃取每次改進的經驗並存入持續改進庫中，供後續任務適應與重複利用。實驗證明，這套方法無論在辦公、程式開發或法律代理等專業基準測試中，皆能顯著提升各類模型的表現，甚至讓較弱的模型超越原本未經優化的強大模型，為線上測試時期的自主調校開闢了強大且可持續的技術路徑。",
+        "provider": "chatgpt",
+        "url": "https://arxiv.org/html/2610.14224v1"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
       "title": "How Smart Model Routing Can Cut LLM Costs by 10X",

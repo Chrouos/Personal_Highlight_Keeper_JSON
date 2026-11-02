@@ -1,69 +1,74 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "exportedAt": 1791961014920,
-  "totalPages": 648,
+  "exportedAt": 1793611026884,
+  "totalPages": 4619,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 628
+      "pageCount": 4595
     },
     {
       "tag": "人工智慧",
       "file": "categories/人工智慧.json",
-      "pageCount": 8
+      "pageCount": 11
     },
     {
       "tag": "多模態模型",
       "file": "categories/多模態模型.json",
-      "pageCount": 7
+      "pageCount": 9
+    },
+    {
+      "tag": "開源模型",
+      "file": "categories/開源模型.json",
+      "pageCount": 9
     },
     {
       "tag": "機器學習",
       "file": "categories/機器學習.json",
+      "pageCount": 8
+    },
+    {
+      "tag": "延遲優化",
+      "file": "categories/延遲優化.json",
+      "pageCount": 6
+    },
+    {
+      "tag": "開發者指南",
+      "file": "categories/開發者指南.json",
       "pageCount": 6
     },
     {
       "tag": "成本控制",
       "file": "categories/成本控制.json",
-      "pageCount": 5
-    },
-    {
-      "tag": "開源模型",
-      "file": "categories/開源模型.json",
-      "pageCount": 5
+      "pageCount": 6
     },
     {
       "tag": "系統設計",
       "file": "categories/系統設計.json",
-      "pageCount": 5
-    },
-    {
-      "tag": "開發者指南",
-      "file": "categories/開發者指南.json",
-      "pageCount": 4
-    },
-    {
-      "tag": "延遲優化",
-      "file": "categories/延遲優化.json",
-      "pageCount": 4
-    },
-    {
-      "tag": "智慧體記憶",
-      "file": "categories/智慧體記憶.json",
-      "pageCount": 3
+      "pageCount": 6
     },
     {
       "tag": "記憶體快取",
       "file": "categories/記憶體快取.json",
-      "pageCount": 3
+      "pageCount": 5
     },
     {
       "tag": "自然語言處理",
       "file": "categories/自然語言處理.json",
+      "pageCount": 4
+    },
+    {
+      "tag": "提示詞工程",
+      "file": "categories/提示詞工程.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "智慧體記憶",
+      "file": "categories/智慧體記憶.json",
       "pageCount": 3
     },
     {
@@ -74,11 +79,6 @@
     {
       "tag": "即時語音",
       "file": "categories/即時語音.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "提示詞工程",
-      "file": "categories/提示詞工程.json",
       "pageCount": 2
     },
     {

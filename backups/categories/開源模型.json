@@ -1,9 +1,1216 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1791961014907,
+  "exportedAt": 1793611026858,
   "category": "開源模型",
   "pages": [
+    {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "延遲優化",
+        "記憶體快取",
+        "開發者指南",
+        "開源模型"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586210997,
+          "id": "hk-1793586210988-82451",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586210984,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > h1.group.relative",
+                "textOffset": 46
+              },
+              "quote": {
+                "exact": "Mistral Large 4 ",
+                "prefix": "gn Up        Back to Articles \n\t\n\t\t\n\t\n\t\n\t\tWelcome Le Chonk: ",
+                "suffix": "on Hugging Face\n\t\n  Published\n\t\t\t\t\tOctober 29, 2026  Update "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > h1.group.relative",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/span[1]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/span[1]/text()[1]",
+            "text": "Mistral Large 4 "
+          },
+          "text": "Mistral Large 4 ",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586273370,
+          "id": "hk-1793586273365-54989",
+          "note": "總參數量\t\n約 1T（1 兆）\n\nActive Parameters\t\n約 49B\n\nContext Window\t\n1M Tokens\n\n架構\tMoE + MLA + DSA",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586273365,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 485
+              },
+              "quote": {
+                "exact": "It has about 1T total, 49B active parameter, and a context window of 1M tokens.",
+                "prefix": "tral. It takes text and images as input and generates text. ",
+                "suffix": "\nThe model is released in two official variants:\n\nFP8\nNVFP4\n"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 406
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[3]",
+            "startOffset": 161,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
+            "text": "It has about 1T total, 49B active parameter, and a context window of 1M tokens."
+          },
+          "text": "It has about 1T total, 49B active parameter, and a context window of 1M tokens.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586292334,
+          "id": "hk-1793586292330-88825",
+          "note": "核心特色是結合 \nMoE（混合專家）\nMLA（潛在注意力）\nDSA（稀疏注意力）\n\n降低大型模型處理長上下文的運算與記憶體負擔",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586292329,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 260
+              },
+              "quote": {
+                "exact": "Mistral Large 4",
+                "prefix": "th TRL Inference Endpoints Dell Enterprise Hub Try it out  \n",
+                "suffix": " (aka Le Chonk) is a multimodal, multilingual, Mixture-of-Ex"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 245
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
+            "text": "Mistral Large 4"
+          },
+          "text": "Mistral Large 4",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586389704,
+          "id": "hk-1793586389697-75843",
+          "note": "MoE 減少模型參數計算量\nDSA 減少 Attention 計算量",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586389696,
+              "end": {
+                "css": "div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6) > h2.relative.group:nth-of-type(2)",
+                "textOffset": 23
+              },
+              "quote": {
+                "exact": "What is new",
+                "prefix": "nce Endpoints\nDell Enterprise Hub\nTry it out\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t",
+                "suffix": " with Mistral Large 4\n\t\n\nMistral Large 4 combines a large po"
+              },
+              "start": {
+                "css": "div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6) > h2.relative.group:nth-of-type(2)",
+                "textOffset": 12
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/h2[2]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/h2[2]/span[1]/text()[1]",
+            "text": "What is new"
+          },
+          "text": "What is new",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686774,
+          "id": "hk-ai-preview-1793586686772-19522",
+          "note": "AI：推測解碼可提升生成吞吐",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686767,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 15002
+              },
+              "quote": {
+                "exact": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted.",
+                "prefix": "requests at a time, and we observed the following results:\n\n",
+                "suffix": "  \nLong prompts: 16K-token prompts, four at a time, are pref"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 14811
+              },
+              "version": 1
+            },
+            "endOffset": 191,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/ul[4]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/ul[4]/text()[1]",
+            "text": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted."
+          },
+          "text": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793586686780,
+          "id": "hk-ai-preview-1793586686779-85169",
+          "note": "AI：單機部署仍需大量記憶體",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686775,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12113
+              },
+              "quote": {
+                "exact": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference.",
+                "prefix": "2_K, Q4_K_M, NVFP4, Q8_0, and BF16 for further conversions. ",
+                "suffix": " You can also run on multiple NVIDIA or AMD cards.\nRunning Q"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11982
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[35]/text()[7]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[35]/text()[7]",
+            "text": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference."
+          },
+          "text": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686783,
+          "id": "hk-ai-preview-1793586686781-97306",
+          "note": "AI：發布首日即支援三大推論框架",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686780,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 6913
+              },
+              "quote": {
+                "exact": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp.",
+                "prefix": "detection-rule generation.\n\n\t\n\t\t\n\t\n\t\n\t\tInference Support\n\t\n\n",
+                "suffix": " GGUF quants are available from GGUF and the llama.cpp team."
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 6830
+              },
+              "version": 1
+            },
+            "endOffset": 83,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[23]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[35]",
+            "text": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp."
+          },
+          "text": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586686787,
+          "id": "hk-ai-preview-1793586686784-83864",
+          "note": "AI：程式代理任務具競爭力",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686784,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 5415
+              },
+              "quote": {
+                "exact": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4.",
+                "prefix": "en weights model on Artificial Analysis Intelligence index.\n",
+                "suffix": " Its combined Coding Agent Index score of 49.8% places it ah"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 5314
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[19]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[29]",
+            "text": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4."
+          },
+          "text": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793586686790,
+          "id": "hk-ai-preview-1793586686788-29573",
+          "note": "AI：以16億參數編碼器處理影像",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686787,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4842
+              },
+              "quote": {
+                "exact": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads.",
+                "prefix": "ed multiplier per frequency.\n\n\n\t\n\t\t\n\t\n\t\n\t\tVision encoder\n\t\n\n",
+                "suffix": " It uses 14 × 14 patches and a patch-merge projector with sp"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4719
+              },
+              "version": 1
+            },
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[25]",
+            "text": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads."
+          },
+          "text": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793586686793,
+          "id": "hk-ai-preview-1793586686792-4034",
+          "note": "AI：每個Token啟用五個專家",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686791,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4588
+              },
+              "quote": {
+                "exact": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token.",
+                "prefix": "yer uses NoPE. The model also shares KV state across layers.",
+                "suffix": "\nRegarding RoPE, Mistral uses LeRope, a YaRN-scaled RoPE wit"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4315
+              },
+              "version": 1
+            },
+            "endOffset": 273,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[13]/text()[2]",
+            "startOffset": 173,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[13]/text()[1]",
+            "text": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token."
+          },
+          "text": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793586686795,
+          "id": "hk-ai-preview-1793586686794-16583",
+          "note": "AI：壓縮KV並篩選注意力位置",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686793,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4141
+              },
+              "quote": {
+                "exact": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query.",
+                "prefix": "DSA) indexer (a direction in other models such as GLM 5.3). ",
+                "suffix": "\nFor each decoder block, there’s a 3:1 RoPE to NoPE pattern,"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4042
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[12]/text()[3]",
+            "startOffset": 256,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[12]/text()[2]",
+            "text": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query."
+          },
+          "text": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586686800,
+          "id": "hk-ai-preview-1793586686797-5673",
+          "note": "AI：資安能力與有害請求拒絕並存",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686796,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2975
+              },
+              "quote": {
+                "exact": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model.",
+                "prefix": "e usage policy and the deployment under the user’s control. ",
+                "suffix": "\nFor community builders, an open weight model like Mistral L"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2787
+              },
+              "version": 1
+            },
+            "endOffset": 538,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "startOffset": 350,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "text": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model."
+          },
+          "text": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686803,
+          "id": "hk-ai-preview-1793586686802-5045",
+          "note": "AI：開放權重讓使用者掌握部署與政策",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686800,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2786
+              },
+              "quote": {
+                "exact": "Crucially, open weight models put both the usage policy and the deployment under the user’s control.",
+                "prefix": "n an API can also lose access in the middle of an incident. ",
+                "suffix": " That said, the model still declines harmful requests: on cy"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2686
+              },
+              "version": 1
+            },
+            "endOffset": 349,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "startOffset": 249,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "text": "Crucially, open weight models put both the usage policy and the deployment under the user’s control."
+          },
+          "text": "Crucially, open weight models put both the usage policy and the deployment under the user’s control.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793586686805,
+          "id": "hk-ai-preview-1793586686804-77469",
+          "note": "AI：封閉API可能阻礙資安應變",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686803,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2685
+              },
+              "quote": {
+                "exact": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident.",
+                "prefix": "ral mainly positions the model for defensive security work. ",
+                "suffix": " Crucially, open weight models put both the usage policy and"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2477
+              },
+              "version": 1
+            },
+            "endOffset": 248,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "text": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident."
+          },
+          "text": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686808,
+          "id": "hk-ai-preview-1793586686806-10762",
+          "note": "AI：漏洞重現與修補測試達82%",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686805,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 1977
+              },
+              "quote": {
+                "exact": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software.",
+                "prefix": "rge 4 collection.\n\n\t\n\t\t\n\t\n\t\n\t\tCybersecurity Capabilities\n\t\n\n",
+                "suffix": " Mistral reports that several closed frontier models score n"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 1802
+              },
+              "version": 1
+            },
+            "endOffset": 175,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[7]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[13]",
+            "text": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software."
+          },
+          "text": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793586686809,
+          "id": "hk-ai-preview-1793586686809-93615",
+          "note": "AI：開放權重授權限制模型服務用途",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686808,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 757
+              },
+              "quote": {
+                "exact": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings).",
+                "prefix": "e are also GGUFs created by Unsloth and the llama.cpp team. ",
+                "suffix": "\nMistral Large 4 is particularly strong for cybersecurity, c"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 610
+              },
+              "version": 1
+            },
+            "endOffset": 172,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[3]/text()[3]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[3]/text()[3]",
+            "text": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings)."
+          },
+          "text": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings).",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        }
+      ],
+      "note": {
+        "formatVersion": 2,
+        "generatedAt": 1793586686812,
+        "model": "chatgpt-web",
+        "note": "Mistral Large 4 是具備多語言與多模態能力的開放權重模型，透過 MoE、MLA 與 DSA 結合專家路由、KV 壓縮及稀疏注意力，支援大型模型的長上下文處理。\n\n文章特別強調資安應用：模型能重現並修補漏洞，而開放權重讓使用者自行控制部署與使用政策，降低封閉 API 對防禦工作的限制，同時仍保留有害請求拒絕機制。\n\n在工程實作上，模型支援 Transformers、vLLM、llama.cpp 與 TRL 微調，並可透過量化及 Speculative Decoding 改善部署效率。\n\n不過，模型龐大的參數量仍帶來硬體門檻，即使採用低位元量化，單機部署依然需要大量記憶體，顯示模型架構效率與實際部署成本仍需分開評估。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/blog/mistral-large4"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://chatgpt.com/",
+      "title": "ChatGPT",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "延遲優化",
+        "記憶體快取",
+        "開發者指南",
+        "開源模型"
+      ],
+      "entries": [],
+      "note": {
+        "formatVersion": 2,
+        "generatedAt": 1793586680990,
+        "model": "chatgpt-web",
+        "note": "Mistral Large 4 是具備多語言與多模態能力的開放權重模型，透過 MoE、MLA 與 DSA 結合專家路由、KV 壓縮及稀疏注意力，支援大型模型的長上下文處理。\n\n文章特別強調資安應用：模型能重現並修補漏洞，而開放權重讓使用者自行控制部署與使用政策，降低封閉 API 對防禦工作的限制，同時仍保留有害請求拒絕機制。\n\n在工程實作上，模型支援 Transformers、vLLM、llama.cpp 與 TRL 微調，並可透過量化及 Speculative Decoding 改善部署效率。\n\n不過，模型龐大的參數量仍帶來硬體門檻，即使採用低位元量化，單機部署依然需要大量記憶體，顯示模型架構效率與實際部署成本仍需分開評估。",
+        "provider": "chatgpt",
+        "url": "https://chatgpt.com/"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "tags": [
+        "成本控制",
+        "自然語言處理",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793089103517,
+          "id": "hk-ai-preview-1793089103516-10321",
+          "note": "AI：模型專門化優化應將視角延伸至比資料與權重更早的詞表層",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103514,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12692
+              },
+              "quote": {
+                "exact": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
+                "prefix": "77%, with the same base model and the same training recipe.\n",
+                "suffix": "\nThe full method, the tables for every experiment and the di"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12584
+              },
+              "version": 1
+            },
+            "endOffset": 108,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[45]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[53]",
+            "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary."
+          },
+          "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103518,
+          "id": "hk-ai-preview-1793089103518-98163",
+          "note": "AI：VocabX 在各領域與模型測試中的壓縮表現均全面領先參照方法",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103517,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11908
+              },
+              "quote": {
+                "exact": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
+                "prefix": "mining and test documents, and the same vocabulary ceiling.\n",
+                "suffix": " In estimated inference cost, the pruned version of VocabX a"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11799
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[42]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[49]",
+            "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points."
+          },
+          "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793089103520,
+          "id": "hk-ai-preview-1793089103520-49633",
+          "note": "AI：過度壓縮決策關鍵區段會對模型輸出品質造成負面影響",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103518,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11423
+              },
+              "quote": {
+                "exact": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
+                "prefix": "or the fused version.\nThe lesson applies beyond the grader. ",
+                "suffix": "\n\n\t\n\t\t\n\t\n\t\n\t\tBeyond the Grader\n\t\n\nTo find out whether the ga"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11214
+              },
+              "version": 1
+            },
+            "endOffset": 247,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
+            "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter."
+          },
+          "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103521,
+          "id": "hk-ai-preview-1793089103520-29994",
+          "note": "AI：綜合評分指標是用來衡量批改準確度與篩選能力的標準，在本文中扮演驗證模型優化後品質提升的角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103520,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10769
+              },
+              "quote": {
+                "exact": "bench score",
+                "prefix": "n. It was the most compact option, but quality dropped: its ",
+                "suffix": " was 0.689, below the production grader's 0.703. With the gr"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10758
+              },
+              "version": 1
+            },
+            "endOffset": 231,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "startOffset": 220,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "text": "bench score"
+          },
+          "text": "bench score",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103521,
+          "id": "hk-ai-preview-1793089103521-24275",
+          "note": "AI：巨集 Token 是將重複出現的完整短語或結構合併為單一 Token 的機制，在本文中扮演大幅減少輸出 Token 數的角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103521,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10699
+              },
+              "quote": {
+                "exact": "macro token",
+                "prefix": " competency's grade with the surrounding JSON into a single ",
+                "suffix": ". It was the most compact option, but quality dropped: its b"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10688
+              },
+              "version": 1
+            },
+            "endOffset": 161,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "startOffset": 150,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "text": "macro token"
+          },
+          "text": "macro token",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103524,
+          "id": "hk-ai-preview-1793089103523-61531",
+          "note": "AI：優化詞表使批改器推論成本大降七成七並提升品質",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103521,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10537
+              },
+              "quote": {
+                "exact": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
+                "prefix": "nce server, and cost was calculated from measured runtime.\n\n",
+                "suffix": "\nGetting there required a course correction. The first versi"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10293
+              },
+              "version": 1
+            },
+            "endOffset": 244,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[38]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[44]",
+            "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810."
+          },
+          "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103526,
+          "id": "hk-ai-preview-1793089103525-74361",
+          "note": "AI：運用統計估算方法補足樣本未覆蓋候選詞的真實增益",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103524,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 9673
+              },
+              "quote": {
+                "exact": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
+                "prefix": "s already chosen, and only that part needs to be estimated. ",
+                "suffix": " A candidate that is rare in the sample but frequent in the "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 9543
+              },
+              "version": 1
+            },
+            "endOffset": 392,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
+            "startOffset": 262,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
+            "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero."
+          },
+          "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103527,
+          "id": "hk-ai-preview-1793089103526-17332",
+          "note": "AI：VocabX 同時在子詞層與多詞層重建詞表以消除冗餘",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103526,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 8115
+              },
+              "quote": {
+                "exact": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
+                "prefix": "week and sending the kit in a single box. VocabX does both. ",
+                "suffix": " Both layers are chosen under the same cost criterion, each "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7858
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[3]",
+            "startOffset": 198,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[2]",
+            "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token."
+          },
+          "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103527-23588",
+          "note": "AI：以成本與時間作為詞表優化與候選評估的核心依據",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103527,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7345
+              },
+              "quote": {
+                "exact": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
+                "prefix": " path to solving the first.\nFirst, we changed the question. ",
+                "suffix": " Each eliminated token is multiplied by the price of the fie"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7253
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
+            "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves."
+          },
+          "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103528-82943",
+          "note": "AI：鍵值快取是隨著上下文增長而佔用記憶體頻寬的注意力記憶體，在本文解碼階段扮演推論成本放大的關鍵因素",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4280
+              },
+              "quote": {
+                "exact": "KV cache",
+                "prefix": "ot solve it. At every decode step, the model also reads the ",
+                "suffix": ", the attention memory that holds the context already proces"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4272
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "startOffset": 241,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "text": "KV cache"
+          },
+          "text": "KV cache",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103528-4780",
+          "note": "AI：VocabX 是一種基於成本權重的領域特定詞表適應方法，在本文中扮演重構詞表以大幅降低推論成本的核心角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 574
+              },
+              "quote": {
+                "exact": "VocabX",
+                "prefix": "to many tokens. This article previews some results from the ",
+                "suffix": " paper, which we will publish soon: how we specialized the v"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 568
+              },
+              "version": 1
+            },
+            "endOffset": 162,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "startOffset": 156,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "text": "VocabX"
+          },
+          "text": "VocabX",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793089103529,
+          "id": "hk-ai-preview-1793089103529-46746",
+          "note": "AI：生產環境中的作文批改器面臨高頻文本被過度切片的痛點",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 523
+              },
+              "quote": {
+                "exact": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
+                "prefix": "vocabulary built for many domains and general applications.\n",
+                "suffix": " This article previews some results from the VocabX paper, w"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 412
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[3]",
+            "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens."
+          },
+          "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793089103529,
+          "id": "hk-ai-preview-1793089103529-74544",
+          "note": "AI：微調後的通用開源模型沿用了涵蓋多領域的既有詞表",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103529,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 411
+              },
+              "quote": {
+                "exact": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
+                "prefix": "g Only for the Tokens That Matter Sources Further Reading  \n",
+                "suffix": "\nIn an essay grader we run in production, that vocabulary sp"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 233
+              },
+              "version": 1
+            },
+            "endOffset": 178,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/em[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[2]",
+            "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications."
+          },
+          "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        }
+      ],
+      "note": {
+        "formatVersion": 2,
+        "generatedAt": 1793089103531,
+        "model": "chatgpt-web",
+        "note": "通用開源模型的既有詞表在單一領域應用中常造成 Token 過度切片與未用詞彙的冗餘計算，其中推論階段的解碼成本尤高。為此，本文提出了 VocabX 方法，透過成本權重而非頻率來評估詞表，並同步結合子詞層重構與多詞層巨集 Token 機制。實驗結果表明，該方法在生產環境的作文批改器中成功將推論成本大降 77%，同時提升了評分品質。然而研究也發現，過度壓縮承載關鍵決策的區段會折損表現，證明模型專門化應從詞表層面切入而非僅限於資料與權重。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://arxiv.org/html/2610.14224v1",
+      "title": "Harness2: Recursive Agent Harnessing foran Open World",
+      "tags": [
+        "人工智慧",
+        "系統設計",
+        "提示詞工程",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792114838093,
+          "id": "hk-1792114838070-75349",
+          "note": "RSI（Recursive Self-Improvement，遞迴式自我改進）\n\n指 AI 系統不只完成任務，還能根據執行結果持續改善自己，並利用改善後的能力進一步改善自己",
+          "range": {
+            "anchors": {
+              "createdAt": 1792114838068,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "Recursive self-improvement (RSI)",
+                "prefix": "ir underlying models but also on their execution harnesses. ",
+                "suffix": " offers a promising approach to automatically evolve these h"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 107
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 107,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "Recursive self-improvement (RSI)"
+          },
+          "text": "Recursive self-improvement (RSI)",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792131729236,
+          "id": "hk-1792131729219-65889",
+          "note": "Propose（提出修改）→ Probe（對比測試）→ Compose（整合改善）",
+          "range": {
+            "anchors": {
+              "createdAt": 1792137352186,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 941
+              },
+              "quote": {
+                "exact": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
+                "prefix": "these challenges through two connected levels of recursion. ",
+                "suffix": " Harnessing-level recursion then extracts experience from th"
+              },
+              "start": {
+                "css": "em#abstract1\\.1\\.3",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 205,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/em[2]/text()[1]",
+            "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion."
+          },
+          "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792132229894,
+          "id": "hk-1792132229879-43324",
+          "note": "研究要解決的兩個問題\n問題一：缺少 Ground Truth（標準答案）\nOpen-world Task（開放世界任務）往往是第一次遇到的任務\n沒有標準答案可以驗證 Harness 修改後是否真的更好\n\n問題二：RSI 缺乏泛化能力\n傳統 Recursive Self-Improvement（遞迴自我改善）通常只針對當前任務優化\n換一個任務時，過去的改善經驗難以重複利用",
+          "range": {
+            "anchors": {
+              "createdAt": 1792465925026,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 290
+              },
+              "quote": {
+                "exact": "two critical challenges",
+                "prefix": ". However, deploying RSI in open-world settings still faces ",
+                "suffix": ". First, open-world tasks are typically unseen during the ha"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 267
+              },
+              "version": 1
+            },
+            "endOffset": 151,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 128,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "two critical challenges"
+          },
+          "text": "two critical challenges",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792134508846,
+          "id": "hk-1792134508830-11526",
+          "note": "[翻譯] 任務級遞歸完善了目前任務的執行工具。",
+          "range": {
+            "anchors": {
+              "createdAt": 1792134508829,
+              "end": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 517
+              },
+              "quote": {
+                "exact": " Task-level recursion refines the current task’s execution harness.",
+                "prefix": "nts these updates through two coupled levels of recursion: ❶",
+                "suffix": " To overcome the absence of ground-truth feedback, we introd"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 450
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[7]",
+            "startOffset": 180,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[5]",
+            "text": " Task-level recursion refines the current task’s execution harness."
+          },
+          "text": " Task-level recursion refines the current task’s execution harness.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792134527467,
+          "id": "hk-1792134527453-84350",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1792134527453,
+              "end": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 1067
+              },
+              "quote": {
+                "exact": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
+                "prefix": "ential recursion builds successive revisions iteratively. ❷ ",
+                "suffix": " Instead of inheriting the previous execution harness, this "
+              },
+              "start": {
+                "css": "span#S1\\.p5\\.1\\.10",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[11]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/span[3]/text()[1]",
+            "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness."
+          },
+          "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792137365820,
+          "id": "hk-1792137365784-13128",
+          "note": "問題： 這種方式容易對已知任務最佳化\n當 Agent 遇到全新的任務、工具或環境時，原本的 Harness 未必還有效",
+          "range": {
+            "anchors": {
+              "createdAt": 1792379003565,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 221
+              },
+              "quote": {
+                "exact": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
+                "prefix": "e generated, evaluated, and retained (Duan et al., 2026).\n\n\n",
+                "suffix": ". However, a static harness selected beforehand often fails "
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[1]",
+            "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment"
+          },
+          "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        }
+      ],
+      "note": {
+        "generatedAt": 1792114953109,
+        "model": "chatgpt-web",
+        "note": "在開源與智慧體技術快速發展的背景下，大型語言模型代理程式的效能不僅取決於底層模型本身，更受到其外在執行環境（即 harness，包含提示詞、記憶、技能與工具編排等）的深遠影響。然而，在開放世界中部署代理程式時，往往面臨缺乏真實標籤驗證器以及改進過程高度任務專一、難以泛化至新情境的兩大挑戰。為此，研究團隊推出了 Harness2 框架，透過「任務層級遞迴」與「harnessing 層級遞迴」兩個相連的層級來實現遞迴自我改進。任務層級採用創新的「提出－探測－組合」對比式步驟，在沒有正確答案的情況下透過行為對比來安全地編輯與合併 harness 修改；harnessing 層級則會萃取每次改進的經驗並存入持續改進庫中，供後續任務適應與重複利用。實驗證明，這套方法無論在辦公、程式開發或法律代理等專業基準測試中，皆能顯著提升各類模型的表現，甚至讓較弱的模型超越原本未經優化的強大模型，為線上測試時期的自主調校開闢了強大且可持續的技術路徑。",
+        "provider": "chatgpt",
+        "url": "https://arxiv.org/html/2610.14224v1"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://huggingface.co/google/embeddinggemma-2",
       "title": "google/embeddinggemma-2 · Hugging Face",
@@ -15,424 +1222,7 @@
         "開源模型",
         "機器學習"
       ],
-      "entries": [
-        {
-          "color": "#ece3fa",
-          "createdAt": 1791790437022,
-          "id": "hk-ai-preview-1791790437021-48034",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790437020,
-              "end": {
-                "css": "header.bg-linear-to-t.border-b > div.container.relative > div.flex.flex-col-reverse:nth-of-type(2) > div.relative.mb-1\\.5:nth-of-type(2) > div.relative.flex-auto:nth-of-type(3) > nav.sr-only",
-                "textOffset": 826
-              },
-              "quote": {
-                "exact": "model = SentenceTransformer(\"google/embeddinggemma-2\")",
-                "prefix": "rs:  from sentence_transformers import SentenceTransformer\n\n",
-                "suffix": "\n\nsentences = [\n    \"The weather is lovely today.\",\n    \"It'"
-              },
-              "start": {
-                "css": "header.bg-linear-to-t.border-b > div.container.relative > div.flex.flex-col-reverse:nth-of-type(2) > div.relative.mb-1\\.5:nth-of-type(2) > div.relative.flex-auto:nth-of-type(3) > nav.sr-only",
-                "textOffset": 772
-              },
-              "version": 1
-            },
-            "endOffset": 109,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[3]/nav[1]/ul[1]/li[3]/pre[1]/text()[1]",
-            "startOffset": 55,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/header[1]/div[1]/div[2]/div[2]/div[3]/nav[1]/ul[1]/li[3]/pre[1]/text()[1]",
-            "text": "model = SentenceTransformer(\"google/embeddinggemma-2\")"
-          },
-          "text": "model = SentenceTransformer(\"google/embeddinggemma-2\")",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1791790471535,
-          "id": "hk-ai-preview-1791790471532-37903",
-          "note": "AI：EmbeddingGemma 2 是參數小於 1B 的最強多模態嵌入模型之一，非常適合開發者應用於端側或邊緣 AI 應用程式。\n延伸：這預示著未來開源輕量化多模態 AI 將更普及於智慧型手機與 IoT 裝置中。\n來源：Google Gemma 團隊",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471522,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 19355
-              },
-              "quote": {
-                "exact": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications.",
-                "prefix": " fine-tuning, and other use cases.\n\n\n\t\n\t\t\n\t\n\t\n\t\tBenefits\n\t\n\n",
-                "suffix": " \nThe model is designed from the ground up for responsible A"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 19162
-              },
-              "version": 1
-            },
-            "endOffset": 193,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[44]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[91]",
-            "text": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications."
-          },
-          "text": "EmbeddingGemma 2 is among the strongest multimodal embedding models under 1B parameters. We’re excited to see how developers will use and adapt this model for on-device or edge AI applications.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1791790471547,
-          "id": "hk-ai-preview-1791790471539-65474",
-          "note": "AI：作為預訓練嵌入模型，它不像生成式模型那樣經歷過後訓練對齊、安全微調或輸出層面的內容審核。\n延伸：因此開發者必須在應用程式端自行實施檢索過濾與公平性測試等防護措施。\n來源：Google's AI Principles",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471535,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 14264
-              },
-              "quote": {
-                "exact": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation.",
-                "prefix": " in line with our policies.\n\n\n\t\n\t\t\n\t\n\t\n\t\tEthics & Safety\n\t\n\n",
-                "suffix": " Safety mitigations during development were focused on pre-t"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 14100
-              },
-              "version": 1
-            },
-            "endOffset": 164,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[36]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[73]",
-            "text": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation."
-          },
-          "text": "EmbeddingGemma 2 is a pre-trained embedding model. Unlike generative models, it does not undergo post-training alignment, safety tuning, or output-level moderation.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1791790471554,
-          "id": "hk-ai-preview-1791790471551-19796",
-          "note": "AI：模型在 float16 下的激活範圍會超出其動態範圍，導致回傳 NaN 或靜默降級的嵌入而不報錯，因此非常容易被忽略。\n延伸：這也是為什麼官方強烈建議使用 bfloat16 或 float32 來確保數值穩定性。\n來源：IEEE 754 float16 standard",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471548,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 9146
-              },
-              "quote": {
-                "exact": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss.",
-                "prefix": "\n\nRun inference in bfloat16 or float32. Do not use float16.\n",
-                "suffix": "\nbfloat16 is safe, and carries the same 8-bit exponent as fl"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 8946
-              },
-              "version": 1
-            },
-            "endOffset": 116,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[21]/text()[3]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[43]",
-            "text": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss."
-          },
-          "text": "EmbeddingGemma 2's activation range exceeds the dynamic range of float16. In float16 the model returns NaN or silently degraded embeddings rather than raising an error, so the failure is easy to miss.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1791790471559,
-          "id": "hk-ai-preview-1791790471558-22147",
-          "note": "AI：截斷向量後必須重新進行 L2 正規化，因為切片操作無法保持原本的單位長度，若略過此步驟將會默默降低排序品質。\n延伸：這是使用 MRL（巢狀表徵學習）模型時最常見的開發者隱性陷阱（待查證）",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471555,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 8081
-              },
-              "quote": {
-                "exact": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity.",
-                "prefix": "ty.\nAt runtime, please adhere to the following guidelines:\n\n",
-                "suffix": " Skipping this step degrades ranking quality silently—it pro"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 7907
-              },
-              "version": 1
-            },
-            "endOffset": 144,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[3]/li[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[3]/text()[1]",
-            "text": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity."
-          },
-          "text": "Re-normalize after truncating: slicing a unit-length vector does not preserve unit length. The shortened vector must be L2-normalized before it is used for cosine similarity.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1791790471565,
-          "id": "hk-ai-preview-1791790471562-93140",
-          "note": "AI：視覺與音訊編碼器為獨立元件，部署純文字或單一模態管線時可透過設定關閉未使用的編碼器來降低記憶體消耗。\n延伸：開發者在整合進 LangChain 或 LlamaIndex 等框架時需特別注意此設定方式。\n來源：SentenceTransformers",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471559,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 7067
-              },
-              "quote": {
-                "exact": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs",
-                "prefix": "t: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. Selective Encoder Loading\n\t\n\n",
-                "suffix": ":\nPlease note: configuring EmbeddingGemma 2 to load with omi"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 6853
-              },
-              "version": 1
-            },
-            "endOffset": 13,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[15]/code[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[32]",
-            "text": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs"
-          },
-          "text": "The vision and audio encoders are independent components. To reduce memory consumption when deploying text-only or single-modality pipelines, disable unused modality encoders via SentenceTransformer’s config_kwargs",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1791790471567,
-          "id": "hk-ai-preview-1791790471566-90385",
-          "note": "AI：具備 8K 代幣的上下文視窗，能夠處理長達數分鐘的音訊或影片內容。\n延伸：相較於早期嵌入模型僅能處理短文字，8K 視窗讓長影音檢索與語音檔案分析變得可行。",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471565,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1687
-              },
-              "quote": {
-                "exact": "8K token context window, capable of processing minutes of audio or video.",
-                "prefix": "age costs with minimal impact on quality.  \nContext length: ",
-                "suffix": "\nTask-steered representations: Uses lightweight text instruc"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1614
-              },
-              "version": 1
-            },
-            "endOffset": 74,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/text()[1]",
-            "text": "8K token context window, capable of processing minutes of audio or video."
-          },
-          "text": "8K token context window, capable of processing minutes of audio or video.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1791790471569,
-          "id": "hk-ai-preview-1791790471568-90740",
-          "note": "AI：原生支援 128d、256d、512d 與 768d 的截斷嵌入，能在對品質影響極小的狀況下減少高達 6 倍的向量儲存成本。\n延伸：此技術通常基於 Matryoshka Representation Learning（巢狀表徵學習）原理。\n來源：Matryoshka Representation Learning",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471567,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1595
-              },
-              "quote": {
-                "exact": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality.",
-                "prefix": "their use case.  \nMatryoshka Representation Learning (MRL): ",
-                "suffix": "  \nContext length: 8K token context window, capable of proce"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1435
-              },
-              "version": 1
-            },
-            "endOffset": 56,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/text()[2]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/text()[1]",
-            "text": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality."
-          },
-          "text": "Native support for truncated embeddings across 128d, 256d, 512d, and 768d, enabling up to a 6x reduction in vector storage costs with minimal impact on quality.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1791790471570,
-          "id": "hk-ai-preview-1791790471569-41313",
-          "note": "AI：結合了 270M 參數的文字主幹與可選擇性載入的視覺和音訊編碼器，允許開發者僅載入實際需求模組。\n延伸：這種模組化架構能顯著節省記憶體，對資源受限的邊緣裝置（Edge AI）開發極為實用。",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471569,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1390
-              },
-              "quote": {
-                "exact": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case.",
-                "prefix": "e tasks relative to its predecessor.   \nFlexible footprint: ",
-                "suffix": "  \nMatryoshka Representation Learning (MRL): Native support "
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1172
-              },
-              "version": 1
-            },
-            "endOffset": 219,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[3]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[3]/text()[1]",
-            "text": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case."
-          },
-          "text": "Combines a 270M parameter text backbone (130M transformer + 140M embedder) with selectively loadable vision (170M) and audio (300M) encoders, allowing developers to load only the modalities required for their use case.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1791790471572,
-          "id": "hk-ai-preview-1791790471571-42178",
-          "note": "AI：支援超過 100 種語言，且在程式碼相關任務上的表現比前一代提升了約 14%。\n延伸：多語系與程式碼能力的提升對跨國軟體開發及多語言 RAG 系統特別關鍵。",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471570,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1148
-              },
-              "quote": {
-                "exact": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor.",
-                "prefix": " 768-dimensional embedding space.\nMultilinguality and code: ",
-                "suffix": "   \nFlexible footprint: Combines a 270M parameter text backb"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1029
-              },
-              "version": 1
-            },
-            "endOffset": 120,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[2]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[2]/text()[1]",
-            "text": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor."
-          },
-          "text": "EmbeddingGemma 2 understands 100+ languages, and achieves a ~14% improvement on code tasks relative to its predecessor.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1791790471573,
-          "id": "hk-ai-preview-1791790471572-33776",
-          "note": "AI：原生多模態特性將文字、圖片、影片與音訊等四種模態統一於單一共用的 768 維嵌入空間中。\n延伸：相較於過去需要多個獨立模型分別處理不同模態，這能大幅簡化多模態檢索的架構。",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471572,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1002
-              },
-              "quote": {
-                "exact": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space.",
-                "prefix": "ore features: \n\nNative multimodality: Native multimodality: ",
-                "suffix": "\nMultilinguality and code: EmbeddingGemma 2 understands 100+"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 897
-              },
-              "version": 1
-            },
-            "endOffset": 128,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[1]/text()[1]",
-            "startOffset": 23,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[1]/text()[1]",
-            "text": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space."
-          },
-          "text": "Unifies 4 modalities (text, images, video, and audio) in a single shared 768-dimensional embedding space.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1791790471575,
-          "id": "hk-ai-preview-1791790471573-77423",
-          "note": "AI：EmbeddingGemma 2 專為行動裝置與筆電等消費級硬體設計，能為端側應用提供低延遲的語意表示。\n延伸：通常這類端側模型會搭配量化技術（如 INT4/INT8）以進一步降低記憶體佔用。\n來源：Google Gemma 團隊",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471573,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 731
-              },
-              "quote": {
-                "exact": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering.",
-                "prefix": "model with modular vision (170M) and audio (300M) encoders.\n",
-                "suffix": "\nEmbeddingGemma 2 builds upon the architectural and capabili"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 485
-              },
-              "version": 1
-            },
-            "endOffset": 246,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[3]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[4]",
-            "text": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering."
-          },
-          "text": "Designed to run on consumer hardware such as mobile devices and laptops, EmbeddingGemma 2 delivers low-latency semantic representations for on-device applications, like search, retrieval-augmented generation (RAG), classification, and clustering.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#ece3fa",
-          "createdAt": 1791790471581,
-          "id": "hk-ai-preview-1791790471576-78724",
-          "note": "AI：Google DeepMind 開發的 EmbeddingGemma 2 是一個開源多模態嵌入模型，能將文字、程式碼、圖片、影片及音訊等輸入對應至單一且統一的 768 維向量空間中。\n延伸：這是 Google 繼 Gemini 與 Gemma 系列後，在輕量化開源嵌入領域的重要布局。\n來源：Google DeepMind",
-          "range": {
-            "anchors": {
-              "createdAt": 1791790471575,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 355
-              },
-              "quote": {
-                "exact": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space.",
-                "prefix": "|\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
-                "suffix": " The model has 740M total parameters, combining a 270M param"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 136
-              },
-              "version": 1
-            },
-            "endOffset": 203,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
-            "startOffset": 2,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/text()[3]",
-            "text": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space."
-          },
-          "text": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space.",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        }
-      ],
+      "entries": [],
       "note": {
         "generatedAt": 1791790471581,
         "model": "chatgpt-web",

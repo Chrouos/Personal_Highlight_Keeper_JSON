@@ -1,9 +1,446 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1791961014914,
+  "exportedAt": 1793611026863,
   "category": "自然語言處理",
   "pages": [
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "tags": [
+        "成本控制",
+        "自然語言處理",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793089103517,
+          "id": "hk-ai-preview-1793089103516-10321",
+          "note": "AI：模型專門化優化應將視角延伸至比資料與權重更早的詞表層",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103514,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12692
+              },
+              "quote": {
+                "exact": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
+                "prefix": "77%, with the same base model and the same training recipe.\n",
+                "suffix": "\nThe full method, the tables for every experiment and the di"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12584
+              },
+              "version": 1
+            },
+            "endOffset": 108,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[45]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[53]",
+            "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary."
+          },
+          "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103518,
+          "id": "hk-ai-preview-1793089103518-98163",
+          "note": "AI：VocabX 在各領域與模型測試中的壓縮表現均全面領先參照方法",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103517,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11908
+              },
+              "quote": {
+                "exact": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
+                "prefix": "mining and test documents, and the same vocabulary ceiling.\n",
+                "suffix": " In estimated inference cost, the pruned version of VocabX a"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11799
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[42]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[49]",
+            "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points."
+          },
+          "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793089103520,
+          "id": "hk-ai-preview-1793089103520-49633",
+          "note": "AI：過度壓縮決策關鍵區段會對模型輸出品質造成負面影響",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103518,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11423
+              },
+              "quote": {
+                "exact": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
+                "prefix": "or the fused version.\nThe lesson applies beyond the grader. ",
+                "suffix": "\n\n\t\n\t\t\n\t\n\t\n\t\tBeyond the Grader\n\t\n\nTo find out whether the ga"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11214
+              },
+              "version": 1
+            },
+            "endOffset": 247,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
+            "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter."
+          },
+          "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103521,
+          "id": "hk-ai-preview-1793089103520-29994",
+          "note": "AI：綜合評分指標是用來衡量批改準確度與篩選能力的標準，在本文中扮演驗證模型優化後品質提升的角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103520,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10769
+              },
+              "quote": {
+                "exact": "bench score",
+                "prefix": "n. It was the most compact option, but quality dropped: its ",
+                "suffix": " was 0.689, below the production grader's 0.703. With the gr"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10758
+              },
+              "version": 1
+            },
+            "endOffset": 231,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "startOffset": 220,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "text": "bench score"
+          },
+          "text": "bench score",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103521,
+          "id": "hk-ai-preview-1793089103521-24275",
+          "note": "AI：巨集 Token 是將重複出現的完整短語或結構合併為單一 Token 的機制，在本文中扮演大幅減少輸出 Token 數的角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103521,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10699
+              },
+              "quote": {
+                "exact": "macro token",
+                "prefix": " competency's grade with the surrounding JSON into a single ",
+                "suffix": ". It was the most compact option, but quality dropped: its b"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10688
+              },
+              "version": 1
+            },
+            "endOffset": 161,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "startOffset": 150,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "text": "macro token"
+          },
+          "text": "macro token",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103524,
+          "id": "hk-ai-preview-1793089103523-61531",
+          "note": "AI：優化詞表使批改器推論成本大降七成七並提升品質",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103521,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10537
+              },
+              "quote": {
+                "exact": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
+                "prefix": "nce server, and cost was calculated from measured runtime.\n\n",
+                "suffix": "\nGetting there required a course correction. The first versi"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10293
+              },
+              "version": 1
+            },
+            "endOffset": 244,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[38]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[44]",
+            "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810."
+          },
+          "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103526,
+          "id": "hk-ai-preview-1793089103525-74361",
+          "note": "AI：運用統計估算方法補足樣本未覆蓋候選詞的真實增益",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103524,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 9673
+              },
+              "quote": {
+                "exact": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
+                "prefix": "s already chosen, and only that part needs to be estimated. ",
+                "suffix": " A candidate that is rare in the sample but frequent in the "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 9543
+              },
+              "version": 1
+            },
+            "endOffset": 392,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
+            "startOffset": 262,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
+            "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero."
+          },
+          "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103527,
+          "id": "hk-ai-preview-1793089103526-17332",
+          "note": "AI：VocabX 同時在子詞層與多詞層重建詞表以消除冗餘",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103526,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 8115
+              },
+              "quote": {
+                "exact": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
+                "prefix": "week and sending the kit in a single box. VocabX does both. ",
+                "suffix": " Both layers are chosen under the same cost criterion, each "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7858
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[3]",
+            "startOffset": 198,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[2]",
+            "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token."
+          },
+          "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103527-23588",
+          "note": "AI：以成本與時間作為詞表優化與候選評估的核心依據",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103527,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7345
+              },
+              "quote": {
+                "exact": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
+                "prefix": " path to solving the first.\nFirst, we changed the question. ",
+                "suffix": " Each eliminated token is multiplied by the price of the fie"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7253
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
+            "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves."
+          },
+          "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103528-82943",
+          "note": "AI：鍵值快取是隨著上下文增長而佔用記憶體頻寬的注意力記憶體，在本文解碼階段扮演推論成本放大的關鍵因素",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4280
+              },
+              "quote": {
+                "exact": "KV cache",
+                "prefix": "ot solve it. At every decode step, the model also reads the ",
+                "suffix": ", the attention memory that holds the context already proces"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4272
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "startOffset": 241,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "text": "KV cache"
+          },
+          "text": "KV cache",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103528-4780",
+          "note": "AI：VocabX 是一種基於成本權重的領域特定詞表適應方法，在本文中扮演重構詞表以大幅降低推論成本的核心角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 574
+              },
+              "quote": {
+                "exact": "VocabX",
+                "prefix": "to many tokens. This article previews some results from the ",
+                "suffix": " paper, which we will publish soon: how we specialized the v"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 568
+              },
+              "version": 1
+            },
+            "endOffset": 162,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "startOffset": 156,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "text": "VocabX"
+          },
+          "text": "VocabX",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793089103529,
+          "id": "hk-ai-preview-1793089103529-46746",
+          "note": "AI：生產環境中的作文批改器面臨高頻文本被過度切片的痛點",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 523
+              },
+              "quote": {
+                "exact": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
+                "prefix": "vocabulary built for many domains and general applications.\n",
+                "suffix": " This article previews some results from the VocabX paper, w"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 412
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[3]",
+            "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens."
+          },
+          "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793089103529,
+          "id": "hk-ai-preview-1793089103529-74544",
+          "note": "AI：微調後的通用開源模型沿用了涵蓋多領域的既有詞表",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103529,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 411
+              },
+              "quote": {
+                "exact": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
+                "prefix": "g Only for the Tokens That Matter Sources Further Reading  \n",
+                "suffix": "\nIn an essay grader we run in production, that vocabulary sp"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 233
+              },
+              "version": 1
+            },
+            "endOffset": 178,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/em[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[2]",
+            "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications."
+          },
+          "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        }
+      ],
+      "note": {
+        "formatVersion": 2,
+        "generatedAt": 1793089103531,
+        "model": "chatgpt-web",
+        "note": "通用開源模型的既有詞表在單一領域應用中常造成 Token 過度切片與未用詞彙的冗餘計算，其中推論階段的解碼成本尤高。為此，本文提出了 VocabX 方法，透過成本權重而非頻率來評估詞表，並同步結合子詞層重構與多詞層巨集 Token 機制。實驗結果表明，該方法在生產環境的作文批改器中成功將推論成本大降 77%，同時提升了評分品質。然而研究也發現，過度壓縮承載關鍵決策的區段會折損表現，證明模型專門化應從詞表層面切入而非僅限於資料與權重。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+      },
+      "mindmap": null
+    },
     {
       "url": "https://mistral.ai/news/shieldstral/",
       "title": "Introducing Shieldstral. | Mistral AI",
