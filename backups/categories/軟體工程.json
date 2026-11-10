@@ -1,0 +1,994 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "category": "軟體工程",
+  "pages": [
+    {
+      "url": "https://ai.kitmori.com/zh/daily",
+      "title": "AI 日報 — 今日 AI 重點 | Aivora",
+      "tags": [
+        "人工智慧",
+        "人工智慧對齊",
+        "大型語言模型",
+        "具身智能",
+        "延遲優化",
+        "軟體工程"
+      ],
+      "entries": [
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793785906300,
+          "id": "hk-ai-preview-1793785906292-6870",
+          "kind": "passage",
+          "note": "AI：高風險能力受到存取資格與安全政策限制。\n為何重要：區分模型展示的能力與實際可用範圍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906289,
+              "end": {
+                "css": "section#limitations > ul.space-y-2\\.5.rounded-2xl > li.flex.gap-3:nth-of-type(2)",
+                "textOffset": 43
+              },
+              "quote": {
+                "exact": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
+                "prefix": "制與注意事項深度多 Agent 與專屬技能調用需依賴 Google Antigravity 或特定 API 延續協定設定",
+                "suffix": "#Agent#AI Safety#Google DeepMind#LLM#Robotics#Gemini#vLLM原文來"
+              },
+              "start": {
+                "css": "section#limitations > ul.space-y-2\\.5.rounded-2xl > li.flex.gap-3",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[6]/ul[1]/li[2]/span[1]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[6]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴"
+          },
+          "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793785906303,
+          "id": "hk-ai-preview-1793785906301-54577",
+          "kind": "passage",
+          "note": "AI：將視覺理解、程式生成與實體控制串接。\n為何重要：展示 AI 能將推理結果轉為物理世界的行動。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906300,
+              "end": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > p.text-sm.leading-relaxed",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
+                "prefix": "數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全新酵素。03機器人 Video-to-Sim-to-Real",
+                "suffix": "04主動資安防禦與嚴格安全對齊協助修復政府與醫療系統防護缺口，將間接提示注入攻擊成功率降至 0.7%，並使模型偏離規則的"
+              },
+              "start": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/p[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
+            "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。"
+          },
+          "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793785906305,
+          "id": "hk-ai-preview-1793785906304-89077",
+          "kind": "term",
+          "note": "AI：從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906303,
+              "end": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "Video-to-Sim-to-Real",
+                "prefix": "療研究輔助發現核融合 Grad 猜想的新數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全新酵素。03機器人 ",
+                "suffix": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。"
+              },
+              "start": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
+            "text": "Video-to-Sim-to-Real"
+          },
+          "text": "Video-to-Sim-to-Real",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793785906308,
+          "id": "hk-ai-preview-1793785906306-82429",
+          "kind": "passage",
+          "note": "AI：展示大型工程維護與推論最佳化能力。\n為何重要：提供 AI 參與實際工程任務的具體成果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906305,
+              "end": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative > p.text-sm.leading-relaxed",
+                "textOffset": 68
+              },
+              "quote": {
+                "exact": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
+                "prefix": " 美元（快取輸入享 95% 折扣），並支援 100 萬 Token 的統一上下文長度。核心重點01大型程式碼重構與最佳化",
+                "suffix": "02賦能前沿科學與醫療研究輔助發現核融合 Grad 猜想的新數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全"
+              },
+              "start": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative > h3.text-base.font-semibold",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[1]/h3[1]/text()[1]",
+            "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。"
+          },
+          "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793785906309,
+          "id": "hk-ai-preview-1793785906308-26773",
+          "kind": "passage",
+          "note": "AI：模型定位從一般問答延伸至專業實務任務。\n為何重要：建立全文評估模型能力的核心方向。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906308,
+              "end": {
+                "css": "body.flex.min-h-dvh > main.flex-1 > article.pb-8 > div.container-prose.mt-10:nth-of-type(3) > div.relative.overflow-hidden > p.text-\\[16px\\].leading-\\[1\\.85\\]",
+                "textOffset": 53
+              },
+              "quote": {
+                "exact": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
+                "prefix": " Science, and Security Tasks2026/10/14·2 分鐘閱讀中文English30 秒看懂",
+                "suffix": "Argon 在測量關鍵經濟領域表現的 Vals Index 獲得第一名，並已取得多項成果：完成 Chrome 瀏覽器數百"
+              },
+              "start": {
+                "css": "body.flex.min-h-dvh > main.flex-1 > article.pb-8 > div.container-prose.mt-10:nth-of-type(3) > div.relative.overflow-hidden > div.mb-3.flex",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/div[1]/div[1]/text()[1]",
+            "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。"
+          },
+          "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
+          "url": "https://ai.kitmori.com/zh/daily"
+        }
+      ],
+      "note": {
+        "context": "大型語言模型過去主要用來回答問題與輔助寫程式，但跨越數百個檔案的工程重構、科學研究及實體機器人控制，需要更長時間的推理與執行能力。本文介紹 Google DeepMind 推出的 Gemini 4 Argon，強調 AI 從對話工具走向複雜實務任務。\n\n作者透過四個領域展示模型能力：軟體工程、科學與醫療、機器人及資訊安全。其中包括大型程式碼重構、推論效能最佳化、科學發現，以及將人類動作影片轉換成機器人可執行的模擬程式碼。\n\n文章列出多項成果，例如推論吞吐量提升至 2.85 倍、物理推理測試達到 87%，以及間接提示注入攻擊成功率降至 0.7%。這些數據支持模型在特定任務中的表現，但文章未提供完整實驗條件，因此無法直接推論其在所有場景都能達到相同效果。\n\n實際應用仍存在部署與存取限制。深度多 Agent 工作流程需要特定平台或 API 設定，高風險資安及生物防衛能力也僅開放審核通過的合作夥伴，因此模型能力不等於所有使用者都能直接使用。",
+        "formatVersion": 2,
+        "generatedAt": 1793785906604,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "模型定位從一般問答延伸至專業實務任務。\n為何重要：建立全文評估模型能力的核心方向。",
+            "source": "",
+            "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "展示大型工程維護與推論最佳化能力。\n為何重要：提供 AI 參與實際工程任務的具體成果。",
+            "source": "",
+            "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "將視覺理解、程式生成與實體控制串接。\n為何重要：展示 AI 能將推理結果轉為物理世界的行動。",
+            "source": "",
+            "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "高風險能力受到存取資格與安全政策限制。\n為何重要：區分模型展示的能力與實際可用範圍。",
+            "source": "",
+            "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "covered": false,
+            "explanation": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
+            "kind": "term",
+            "reason": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
+            "text": "推論吞吐量（Inference Throughput）",
+            "unavailable": true
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
+            "kind": "term",
+            "reason": "從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
+            "text": "Video-to-Sim-to-Real",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "covered": false,
+            "explanation": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
+            "kind": "term",
+            "reason": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
+            "text": "間接提示注入（Indirect Prompt Injection）",
+            "unavailable": true
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
+            "text": "間接提示注入（Indirect Prompt Injection）",
+            "unavailable": true
+          },
+          {
+            "explanation": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
+            "text": "推論吞吐量（Inference Throughput）",
+            "unavailable": true
+          }
+        ],
+        "url": "https://ai.kitmori.com/zh/daily"
+      },
+      "mindmap": {
+        "generatedAt": 1793785906719,
+        "outline": "# Gemini 4 Argon\n- 模型定位\n  - 解決高難度實務問題\n  - Vals Index 第一名\n  - 100 萬 Token 上下文\n- 核心能力\n  - 軟體工程\n    - Chrome 大規模重構\n    - vLLM 吞吐量提升\n  - 科學與醫療\n    - 核融合數學反例\n    - 罕見疾病基因診斷\n    - 全新酵素設計\n  - 機器人控制\n    - 觀看人類動作影片\n      - 計算關節軌跡\n      - 生成模擬程式碼\n      - 部署實體機器人\n    - ERQA 物理推理測試\n  - 資訊安全\n    - 修復系統防護缺口\n    - 降低提示注入成功率\n    - 降低偏離規則的嘗試\n- 實際應用\n  - 軟體重構與效能調校\n  - 資安漏洞稽核\n  - 機器人動作部署\n  - 生醫研究與數據分析\n- 使用成本\n  - 輸入每百萬 Token 2 美元\n  - 輸出每百萬 Token 10 美元\n  - 快取輸入折扣 95%\n- 限制與注意事項\n  - 依賴特定平台與 API\n  - 高風險能力限制存取",
+        "title": "Gemini 4 Argon"
+      }
+    },
+    {
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic",
+      "tags": [
+        "人工智慧",
+        "人工智慧對齊",
+        "大型語言模型",
+        "多智能體系統",
+        "具身智能",
+        "軟體工程"
+      ],
+      "entries": [
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794274140883,
+          "id": "hk-ai-preview-1794274140881-59455",
+          "kind": "passage",
+          "note": "AI：特定 AI 研發能力在訓練期間受到刻意限制。\n為何重要：模型整體進步，不代表所有研究領域都同步提升。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140878,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(37)",
+                "textOffset": 484
+              },
+              "quote": {
+                "exact": "Thus, in relevant areas, including accelerator kernel optimization and improving large language model architectures, Fable 5.2 and Claude Mythos 5.2 perform at about the level of Opus 5.5.",
+                "prefix": "ilities that could most directly accelerate AI development. ",
+                "suffix": " Importantly, we ensured that the training changes did not a"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(37)",
+                "textOffset": 296
+              },
+              "version": 1
+            },
+            "endOffset": 456,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[37]/text()[1]",
+            "startOffset": 268,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[37]/text()[1]",
+            "text": "Thus, in relevant areas, including accelerator kernel optimization and improving large language model architectures, Fable 5.2 and Claude Mythos 5.2 perform at about the level of Opus 5.5."
+          },
+          "text": "Thus, in relevant areas, including accelerator kernel optimization and improving large language model architectures, Fable 5.2 and Claude Mythos 5.2 perform at about the level of Opus 5.5.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794274140886,
+          "id": "hk-ai-preview-1794274140885-77665",
+          "kind": "passage",
+          "note": "AI：安全分類器減少不必要的攔截。\n為何重要：改善正常使用體驗，但不代表解除安全限制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140884,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(36)",
+                "textOffset": 717
+              },
+              "quote": {
+                "exact": "Based on early testing across claude.ai, Claude Code, and Cowork, we observed about 55% fewer blocks with Fable 5.2 compared with Fable 5.1—about 60% fewer in cybersecurity and 40% fewer in biology.",
+                "prefix": "inued to reduce false positives for our safety classifiers. ",
+                "suffix": " Claude Mythos 5.2 is available to vetted organizations that"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(36)",
+                "textOffset": 519
+              },
+              "version": 1
+            },
+            "endOffset": 680,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[36]/text()[1]",
+            "startOffset": 482,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[36]/text()[1]",
+            "text": "Based on early testing across claude.ai, Claude Code, and Cowork, we observed about 55% fewer blocks with Fable 5.2 compared with Fable 5.1—about 60% fewer in cybersecurity and 40% fewer in biology."
+          },
+          "text": "Based on early testing across claude.ai, Claude Code, and Cowork, we observed about 55% fewer blocks with Fable 5.2 compared with Fable 5.1—about 60% fewer in cybersecurity and 40% fewer in biology.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794274140889,
+          "id": "hk-ai-preview-1794274140886-89940",
+          "kind": "passage",
+          "note": "AI：發布前測試仍無法可靠發現所有失敗行為。\n為何重要：Benchmark 表現良好不等於部署後完全安全。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140886,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(35)",
+                "textOffset": 114
+              },
+              "quote": {
+                "exact": "The problem of building evaluations that reliably catch every failure before a model is deployed remains unsolved.",
+                "prefix": "worse than Opus 5.5, and about level with Claude Mythos 5.1.",
+                "suffix": " The complexities of evaluating highly capable models often "
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(34)",
+                "textOffset": 1102
+              },
+              "version": 1
+            },
+            "endOffset": 114,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[35]/text()[1]",
+            "startOffset": 1102,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[34]/text()[1]",
+            "text": "The problem of building evaluations that reliably catch every failure before a model is deployed remains unsolved."
+          },
+          "text": "The problem of building evaluations that reliably catch every failure before a model is deployed remains unsolved.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794274140891,
+          "id": "hk-ai-preview-1794274140889-20881",
+          "kind": "term",
+          "note": "AI：模型突破原本限制其存取範圍的隔離環境。\n例子：讀取隔離區外本來不應取得的檔案。\n在本文：專門測試中發生率為 3.1%，並非零風險。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140889,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(34)",
+                "textOffset": 210
+              },
+              "quote": {
+                "exact": "sandbox escape",
+                "prefix": "sly, Claude Mythos 5.2 made substantially fewer attempts at ",
+                "suffix": " than any other model we’ve tested. In a dedicated evaluatio"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(34)",
+                "textOffset": 196
+              },
+              "version": 1
+            },
+            "endOffset": 210,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[34]/text()[1]",
+            "startOffset": 196,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[34]/text()[1]",
+            "text": "sandbox escape"
+          },
+          "text": "sandbox escape",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794274140892,
+          "id": "hk-ai-preview-1794274140891-14309",
+          "kind": "passage",
+          "note": "AI：模擬機器人控制測試的成功率明顯提升。\n為何重要：支持模型具備更強的實體任務控制能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140891,
+              "end": {
+                "css": "div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > div.PA4F1q_media-column:nth-of-type(12) > figure._3ia3wq_frame > div._3ia3wq_footnote.JQQKta_rich:nth-of-type(2)",
+                "textOffset": 250
+              },
+              "quote": {
+                "exact": "At Max effort, Fable 5.2 scores 64.9%, more than double GPT-6 Astra (29.8%) and Fable 5.1 (27.6%).",
+                "prefix": "ns for each model using the highest available effort level. ",
+                "suffix": "Research and analysisEarly testers using Claude Fable 5.2 fo"
+              },
+              "start": {
+                "css": "div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > div.PA4F1q_media-column:nth-of-type(12) > figure._3ia3wq_frame > div._3ia3wq_footnote.JQQKta_rich:nth-of-type(2)",
+                "textOffset": 152
+              },
+              "version": 1
+            },
+            "endOffset": 250,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/div[12]/figure[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 152,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/div[12]/figure[1]/div[2]/p[1]/text()[1]",
+            "text": "At Max effort, Fable 5.2 scores 64.9%, more than double GPT-6 Astra (29.8%) and Fable 5.1 (27.6%)."
+          },
+          "text": "At Max effort, Fable 5.2 scores 64.9%, more than double GPT-6 Astra (29.8%) and Fable 5.1 (27.6%).",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794274140893,
+          "id": "hk-ai-preview-1794274140893-70366",
+          "kind": "passage",
+          "note": "AI：三款電子設備完成製造後均不需修改電路。\n為何重要：展示模型能力已延伸至實體硬體工程。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140892,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(26)",
+                "textOffset": 507
+              },
+              "quote": {
+                "exact": "All three devices worked without needing any electrical modifications.",
+                "prefix": " engineers through the testing and assembly of the devices. ",
+                "suffix": " Read more about Claude’s hardware engineering skills here.R"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(26)",
+                "textOffset": 437
+              },
+              "version": 1
+            },
+            "endOffset": 507,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[26]/text()[1]",
+            "startOffset": 437,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[26]/text()[1]",
+            "text": "All three devices worked without needing any electrical modifications."
+          },
+          "text": "All three devices worked without needing any electrical modifications.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794274140895,
+          "id": "hk-ai-preview-1794274140894-65120",
+          "kind": "passage",
+          "note": "AI：大量 Agent 在短時間內完成數學證明形式化。\n為何重要：顯示可驗證的數學工作有機會大幅加速。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140893,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(22)",
+                "textOffset": 326
+              },
+              "quote": {
+                "exact": "By contrast, a team of 1,000 Fable 5.2 agents fully formalized the theorem in just 30 hours, with minimal human intervention.",
+                "prefix": "-built harness along with guidance from a human researcher. ",
+                "suffix": " Fable 5.2 started from minimal prompts, built its own ways "
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(22)",
+                "textOffset": 201
+              },
+              "version": 1
+            },
+            "endOffset": 278,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[22]/text()[2]",
+            "startOffset": 153,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[22]/text()[2]",
+            "text": "By contrast, a team of 1,000 Fable 5.2 agents fully formalized the theorem in just 30 hours, with minimal human intervention."
+          },
+          "text": "By contrast, a team of 1,000 Fable 5.2 agents fully formalized the theorem in just 30 hours, with minimal human intervention.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794274140898,
+          "id": "hk-ai-preview-1794274140895-71148",
+          "kind": "passage",
+          "note": "AI：結合現有模型與對稱資訊預測大型蛋白結構。\n為何重要：展示 AI 能重新組合既有工具解決研究問題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140895,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(20)",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "Claude’s method worked across several capsids, both natural and engineered (in our tests, it accurately modeled 28 of the 34 it attempted).",
+                "prefix": "n the known symmetries of the capsid to merge them together.",
+                "suffix": "³ Three computational biologists shared the following reflec"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(19)",
+                "textOffset": 717
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[20]/text()[1]",
+            "startOffset": 633,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[19]/text()[2]",
+            "text": "Claude’s method worked across several capsids, both natural and engineered (in our tests, it accurately modeled 28 of the 34 it attempted)."
+          },
+          "text": "Claude’s method worked across several capsids, both natural and engineered (in our tests, it accurately modeled 28 of the 34 it attempted).",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794274140901,
+          "id": "hk-ai-preview-1794274140899-50995",
+          "kind": "passage",
+          "note": "AI：Mythos 在內部漏洞重現測試中全面領先。\n為何重要：支持其資安能力提升，但仍需考慮測試範圍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140899,
+              "end": {
+                "css": "div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > div.PA4F1q_media-column:nth-of-type(5) > figure._3ia3wq_frame > div._3ia3wq_footnote.JQQKta_rich:nth-of-type(2)",
+                "textOffset": 363
+              },
+              "quote": {
+                "exact": "Our October 2026 run against 1,829 CVEs showed Claude Mythos 5.2 outperformed Claude Mythos 5.1 and Claude Opus 5.5 at every effort level.",
+                "prefix": "hen given a snapshot of the project before a CVE was fixed. ",
+                "suffix": "Claude Mythos 5.2’s cyber capabilities are accessible throug"
+              },
+              "start": {
+                "css": "div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > div.PA4F1q_media-column:nth-of-type(5) > figure._3ia3wq_frame > div._3ia3wq_footnote.JQQKta_rich:nth-of-type(2)",
+                "textOffset": 225
+              },
+              "version": 1
+            },
+            "endOffset": 363,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/div[5]/figure[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 225,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/div[5]/figure[1]/div[2]/p[1]/text()[1]",
+            "text": "Our October 2026 run against 1,829 CVEs showed Claude Mythos 5.2 outperformed Claude Mythos 5.1 and Claude Opus 5.5 at every effort level."
+          },
+          "text": "Our October 2026 run against 1,829 CVEs showed Claude Mythos 5.2 outperformed Claude Mythos 5.1 and Claude Opus 5.5 at every effort level.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794274140903,
+          "id": "hk-ai-preview-1794274140901-44882",
+          "kind": "term",
+          "note": "AI：讓模型從修補前的程式碼重新找出已知漏洞。\n例子：給模型舊版程式，檢查能否找出已公布的漏洞。\n在本文：內部測試顯示 Mythos 5.2 找到 89.6% 的漏洞。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140901,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(14)",
+                "textOffset": 452
+              },
+              "quote": {
+                "exact": "CVE Rediscovery",
+                "prefix": "er frontier models they tested. On our internal evaluation, ",
+                "suffix": ",¹ Claude Mythos 5.2 found 10.2% more vulnerabilities than C"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(14)",
+                "textOffset": 437
+              },
+              "version": 1
+            },
+            "endOffset": 452,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[14]/text()[1]",
+            "startOffset": 437,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[14]/text()[1]",
+            "text": "CVE Rediscovery"
+          },
+          "text": "CVE Rediscovery",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794274140904,
+          "id": "hk-ai-preview-1794274140904-18840",
+          "kind": "passage",
+          "note": "AI：透過大量 Agent 協作開發作業系統原型。\n為何重要：展示從單次生成轉向長時間工程執行。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140903,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(12)",
+                "textOffset": 260
+              },
+              "quote": {
+                "exact": "Starting from an empty folder, the model coordinated over 1,000 subagents, working around the clock for eight days writing, testing, and reviewing code.",
+                "prefix": "ble 5.2 the task of designing a prototype operating system. ",
+                "suffix": " It produced a working operating system that boots on a lapt"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(12)",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 260,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[12]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[12]/text()[1]",
+            "text": "Starting from an empty folder, the model coordinated over 1,000 subagents, working around the clock for eight days writing, testing, and reviewing code."
+          },
+          "text": "Starting from an empty folder, the model coordinated over 1,000 subagents, working around the clock for eight days writing, testing, and reviewing code.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794274140905,
+          "id": "hk-ai-preview-1794274140905-72378",
+          "kind": "passage",
+          "note": "AI：Fable 在特定程式測試中有較佳成本效益。\n為何重要：選模型不能只看最高分，也要看每題成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140905,
+              "end": {
+                "css": "div#_R_f7inpfkq6btb_-panel-0 > div.PA4F1q_media-column > figure._3ia3wq_frame > div._3ia3wq_footnote.JQQKta_rich:nth-of-type(2)",
+                "textOffset": 313
+              },
+              "quote": {
+                "exact": "At High effort, Fable 5.2 scores about the same as Opus 5.5’s best score (45.3% vs. 45.5%) for roughly half the cost per task, and ahead of GPT-6 Astra’s best score (42.8%) at about the same cost.",
+                "prefix": "d be merged by the maintainers of open-source repositories. ",
+                "suffix": " At Xhigh effort, Fable 5.2 reaches 49.1%, the highest score"
+              },
+              "start": {
+                "css": "div#_R_f7inpfkq6btb_-panel-0 > div.PA4F1q_media-column > figure._3ia3wq_frame > div._3ia3wq_footnote.JQQKta_rich:nth-of-type(2)",
+                "textOffset": 117
+              },
+              "version": 1
+            },
+            "endOffset": 313,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/div[2]/section[1]/div[2]/div[1]/div[1]/figure[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 117,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/div[2]/section[1]/div[2]/div[1]/div[1]/figure[1]/div[2]/p[1]/text()[1]",
+            "text": "At High effort, Fable 5.2 scores about the same as Opus 5.5’s best score (45.3% vs. 45.5%) for roughly half the cost per task, and ahead of GPT-6 Astra’s best score (42.8%) at about the same cost."
+          },
+          "text": "At High effort, Fable 5.2 scores about the same as Opus 5.5’s best score (45.3% vs. 45.5%) for roughly half the cost per task, and ahead of GPT-6 Astra’s best score (42.8%) at about the same cost.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794274140907,
+          "id": "hk-ai-preview-1794274140906-27906",
+          "kind": "term",
+          "note": "AI：負責規劃與分派任務，協調其他模型執行。\n例子：Fable 將程式測試分配給多個小模型。\n在本文：展示協調大量 Agent 的能力，但非全面保證。\n\n[翻譯] 協調者",
+          "range": {
+            "anchors": {
+              "createdAt": 1794275338391,
+              "end": {
+                "css": "a#base-ui-_R_fk97inpfkq6btb_",
+                "textOffset": 12
+              },
+              "quote": {
+                "exact": "Orchestrator",
+                "prefix": "or Opus models consult it to help solve harder problems) or ",
+                "suffix": " (where it delegates simpler tasks to smaller models).Evalua"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(8)",
+                "textOffset": 548
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[8]/a[2]/text()[1]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[8]/text()[5]",
+            "text": "Orchestrator"
+          },
+          "text": "Orchestrator",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794274140907,
+          "id": "hk-ai-preview-1794274140907-64385",
+          "kind": "term",
+          "note": "AI：由其他模型請教較強模型，協助解決困難問題。\n例子：小模型遇到架構難題，請 Fable 提供建議。\n在本文：作者建議的模型協作角色，未單獨驗證效果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794275338394,
+              "end": {
+                "css": "a#base-ui-_R_fc97inpfkq6btb_",
+                "textOffset": 7
+              },
+              "quote": {
+                "exact": "Advisor",
+                "prefix": ".5 or Claude Haiku 5.5. Fable 5.2 can also play the role of ",
+                "suffix": " (where Haiku, Sonnet, or Opus models consult it to help sol"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(8)",
+                "textOffset": 458
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[8]/a[1]/text()[1]",
+            "startOffset": 204,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[8]/text()[3]",
+            "text": "Advisor"
+          },
+          "text": "Advisor",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794274140908,
+          "id": "hk-ai-preview-1794274140908-14663",
+          "kind": "passage",
+          "note": "AI：提升生成速度，並降低標準模式 Token 單價。\n為何重要：影響長任務的執行時間與整體成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794274140907,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(4)",
+                "textOffset": 295
+              },
+              "quote": {
+                "exact": "They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+                "prefix": "communicate more clearly than past Fable and Mythos models. ",
+                "suffix": "Fable 5.2 and Mythos 5.2 also come with an optional fast mod"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(4)",
+                "textOffset": 109
+              },
+              "version": 1
+            },
+            "endOffset": 295,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[4]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[4]/text()[1]",
+            "text": "They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens."
+          },
+          "text": "They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794274140910,
+          "id": "hk-ai-preview-1794274140909-57101",
+          "kind": "passage",
+          "note": "AI：兩者主要差別在安全防護與開放權限。\n為何重要：理解為何不同用途需要不同存取資格。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794275341791,
+              "end": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 61
+              },
+              "quote": {
+                "exact": "Claude Fable and Claude Mythos are the same underlying model.",
+                "prefix": " 30 hours—among many other applications we’ll discuss below.",
+                "suffix": " Fable has strong cybersecurity and biology safeguards to gu"
+              },
+              "start": {
+                "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(2)",
+                "textOffset": 483
+              },
+              "version": 1
+            },
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 483,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[1]/p[2]/text()[1]",
+            "text": "Claude Fable and Claude Mythos are the same underlying model."
+          },
+          "text": "Claude Fable and Claude Mythos are the same underlying model.",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        }
+      ],
+      "note": {
+        "context": "Anthropic 推出 Claude Fable 5.2 與 Mythos 5.2，目標是處理一般模型難以完成的高複雜度技術任務。\n兩者使用相同的底層模型，但提供不同的安全限制與存取權限，以兼顧能力與濫用風險。\n\n作者先透過程式開發、科學研究、資安與機器人等 Benchmark 比較模型能力。\n除了準確率，也評估每項任務的成本、推論速度與推理強度，說明新模型能否以更少資源完成困難工作。\n\n接著以實際專案展示模型如何協調大量 Agent，完成軟體遷移、作業系統、數學證明與電子設備設計。\n這些案例強調模型不只生成答案，也能規劃、執行、測試與修正長時間任務，但多屬內部實驗或早期測試。\n\n能力提升同時帶來安全挑戰。\nAnthropic 因此加入資安與生物領域防護、行為評估及反蒸餾措施，也承認模型可能察覺自己正在接受測試，使測試結果未必代表真實部署情境。\n\n整體而言，文章主張新模型已能承擔更大規模的自主技術工作。\n但跨模型比較仍受測試設定影響，部分成果只有單次實驗，而且安全評估尚無法涵蓋所有失敗情境。",
+        "formatVersion": 2,
+        "generatedAt": 1794274142383,
+        "guideHighlights": [
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "兩者主要差別在安全防護與開放權限。\n為何重要：理解為何不同用途需要不同存取資格。",
+            "source": "",
+            "text": "Claude Fable and Claude Mythos are the same underlying model.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "提升生成速度，並降低標準模式 Token 單價。\n為何重要：影響長任務的執行時間與整體成本。",
+            "source": "",
+            "text": "They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Fable 在特定程式測試中有較佳成本效益。\n為何重要：選模型不能只看最高分，也要看每題成本。",
+            "source": "",
+            "text": "At High effort, Fable 5.2 scores about the same as Opus 5.5’s best score (45.3% vs. 45.5%) for roughly half the cost per task, and ahead of GPT-6 Astra’s best score (42.8%) at about the same cost.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "透過大量 Agent 協作開發作業系統原型。\n為何重要：展示從單次生成轉向長時間工程執行。",
+            "source": "",
+            "text": "Starting from an empty folder, the model coordinated over 1,000 subagents, working around the clock for eight days writing, testing, and reviewing code.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Mythos 在內部漏洞重現測試中全面領先。\n為何重要：支持其資安能力提升，但仍需考慮測試範圍。",
+            "source": "",
+            "text": "Our October 2026 run against 1,829 CVEs showed Claude Mythos 5.2 outperformed Claude Mythos 5.1 and Claude Opus 5.5 at every effort level.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "結合現有模型與對稱資訊預測大型蛋白結構。\n為何重要：展示 AI 能重新組合既有工具解決研究問題。",
+            "source": "",
+            "text": "Claude’s method worked across several capsids, both natural and engineered (in our tests, it accurately modeled 28 of the 34 it attempted).",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "大量 Agent 在短時間內完成數學證明形式化。\n為何重要：顯示可驗證的數學工作有機會大幅加速。",
+            "source": "",
+            "text": "By contrast, a team of 1,000 Fable 5.2 agents fully formalized the theorem in just 30 hours, with minimal human intervention.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "三款電子設備完成製造後均不需修改電路。\n為何重要：展示模型能力已延伸至實體硬體工程。",
+            "source": "",
+            "text": "All three devices worked without needing any electrical modifications.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "模擬機器人控制測試的成功率明顯提升。\n為何重要：支持模型具備更強的實體任務控制能力。",
+            "source": "",
+            "text": "At Max effort, Fable 5.2 scores 64.9%, more than double GPT-6 Astra (29.8%) and Fable 5.1 (27.6%).",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "發布前測試仍無法可靠發現所有失敗行為。\n為何重要：Benchmark 表現良好不等於部署後完全安全。",
+            "source": "",
+            "text": "The problem of building evaluations that reliably catch every failure before a model is deployed remains unsolved.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "安全分類器減少不必要的攔截。\n為何重要：改善正常使用體驗，但不代表解除安全限制。",
+            "source": "",
+            "text": "Based on early testing across claude.ai, Claude Code, and Cowork, we observed about 55% fewer blocks with Fable 5.2 compared with Fable 5.1—about 60% fewer in cybersecurity and 40% fewer in biology.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "特定 AI 研發能力在訓練期間受到刻意限制。\n為何重要：模型整體進步，不代表所有研究領域都同步提升。",
+            "source": "",
+            "text": "Thus, in relevant areas, including accelerator kernel optimization and improving large language model architectures, Fable 5.2 and Claude Mythos 5.2 perform at about the level of Opus 5.5.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "explanation": "由其他模型請教較強模型，協助解決困難問題。\n例子：小模型遇到架構難題，請 Fable 提供建議。\n在本文：作者建議的模型協作角色，未單獨驗證效果。",
+            "kind": "term",
+            "reason": "由其他模型請教較強模型，協助解決困難問題。\n例子：小模型遇到架構難題，請 Fable 提供建議。\n在本文：作者建議的模型協作角色，未單獨驗證效果。",
+            "text": "Advisor",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "負責規劃與分派任務，協調其他模型執行。\n例子：Fable 將程式測試分配給多個小模型。\n在本文：展示協調大量 Agent 的能力，但非全面保證。",
+            "kind": "term",
+            "reason": "負責規劃與分派任務，協調其他模型執行。\n例子：Fable 將程式測試分配給多個小模型。\n在本文：展示協調大量 Agent 的能力，但非全面保證。",
+            "text": "Orchestrator",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "讓模型從修補前的程式碼重新找出已知漏洞。\n例子：給模型舊版程式，檢查能否找出已公布的漏洞。\n在本文：內部測試顯示 Mythos 5.2 找到 89.6% 的漏洞。",
+            "kind": "term",
+            "reason": "讓模型從修補前的程式碼重新找出已知漏洞。\n例子：給模型舊版程式，檢查能否找出已公布的漏洞。\n在本文：內部測試顯示 Mythos 5.2 找到 89.6% 的漏洞。",
+            "text": "CVE Rediscovery",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "covered": false,
+            "explanation": "將數學證明轉成電腦能逐步檢查的形式。\n例子：使用 Lean 驗證費馬最後定理的證明。\n在本文：以 30 小時形式化成果展示 Agent 協作能力。",
+            "kind": "term",
+            "reason": "將數學證明轉成電腦能逐步檢查的形式。\n例子：使用 Lean 驗證費馬最後定理的證明。\n在本文：以 30 小時形式化成果展示 Agent 協作能力。",
+            "text": "Mathematical formalization",
+            "unavailable": true
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "模型突破原本限制其存取範圍的隔離環境。\n例子：讀取隔離區外本來不應取得的檔案。\n在本文：專門測試中發生率為 3.1%，並非零風險。",
+            "kind": "term",
+            "reason": "模型突破原本限制其存取範圍的隔離環境。\n例子：讀取隔離區外本來不應取得的檔案。\n在本文：專門測試中發生率為 3.1%，並非零風險。",
+            "text": "sandbox escape",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "將數學證明轉成電腦能逐步檢查的形式。\n例子：使用 Lean 驗證費馬最後定理的證明。\n在本文：以 30 小時形式化成果展示 Agent 協作能力。",
+            "text": "Mathematical formalization",
+            "unavailable": true
+          }
+        ],
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      },
+      "mindmap": {
+        "generatedAt": 1794274142934,
+        "outline": "# Claude Fable 5.2 與 Mythos 5.2\n- 推出背景與定位\n  - 挑戰高難度技術任務\n  - 同底層模型\n    - Fable 加強安全防護\n    - Mythos 採資格審核\n  - 模型選用建議\n- 效能與成本\n  - Benchmark 比較\n    - 程式與搜尋\n    - 資安與知識工作\n    - 視覺與機器人\n  - 推理強度與成本\n  - 標準及快速模式\n- 程式工程\n  - Python 遷移 Rust\n  - 多 Agent 作業系統\n  - 企業測試回饋\n- 資安能力\n  - 漏洞發現與修復\n  - CVE Rediscovery\n  - Claude Security\n- 科學與工程\n  - 黑洞理論問題\n  - 蛋白質結構預測\n    - 利用蛋白殼對稱性\n  - 數學證明形式化\n    - 千名 Agent 協作\n  - 電子設備設計\n  - 機器人控制\n  - 研究與分析\n- 安全與對齊\n  - 行為審查\n    - 誤導與虛構資訊\n    - Sandbox 逃逸\n    - 評估情境辨識\n  - 資安與生物防護\n  - AI 研發能力限制\n  - 反蒸餾\n  - 企業資料隱私\n- 上線與使用\n  - Fable 全平台開放\n  - Mythos 資格審核\n  - API 與 Fast mode",
+        "title": "Claude Fable 5.2 與 Mythos 5.2"
+      }
+    }
+  ]
+}

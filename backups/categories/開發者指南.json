@@ -1,907 +1,8 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1793611544892,
   "category": "開發者指南",
   "pages": [
-    {
-      "url": "https://huggingface.co/google/embeddinggemma-2",
-      "title": "google/embeddinggemma-2 · Hugging Face",
-      "tags": [
-        "人工智慧",
-        "多模態模型",
-        "成本控制",
-        "開發者指南",
-        "開源模型",
-        "機器學習"
-      ],
-      "entries": [
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611253874,
-          "id": "hk-1793611253856-12924",
-          "note": "將文字、程式碼、圖片、影片、音訊轉換到同一個 768 維向量空間，適合 RAG、語意搜尋及跨模態檢索",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611253853,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 298
-              },
-              "quote": {
-                "exact": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
-                "prefix": ".0 | Authors: Google DeepMind\n\n\nEmbeddingGemma 2 is an open ",
-                "suffix": "—and combinations thereof—into a single, unified 768-dimensi"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 185
-              },
-              "version": 1
-            },
-            "endOffset": 125,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
-            "startOffset": 12,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
-            "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs"
-          },
-          "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611270487,
-          "id": "hk-1793611270468-16913",
-          "note": "EmbeddingGemma 2 是 Google DeepMind 於 2026 年 10 月推出的輕量級 Multimodal Embedding Model",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611270467,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 172
-              },
-              "quote": {
-                "exact": "EmbeddingGemma ",
-                "prefix": "t\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
-                "suffix": "2 is an open multimodal embedding model built by Google Deep"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 157
-              },
-              "version": 1
-            },
-            "endOffset": 15,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
-            "text": "EmbeddingGemma "
-          },
-          "text": "EmbeddingGemma ",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611306284,
-          "id": "hk-1793611306272-84570",
-          "note": "Context Window\t8,192 Tokens",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611306270,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1633
-              },
-              "quote": {
-                "exact": "Context length",
-                "prefix": "n in vector storage costs with minimal impact on quality.  \n",
-                "suffix": ": 8K token context window, capable of processing minutes of "
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1619
-              },
-              "version": 1
-            },
-            "endOffset": 14,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
-            "text": "Context length"
-          },
-          "text": "Context length",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611319743,
-          "id": "hk-1793611319732-74255",
-          "note": "Text、Code、Image、Video、Audio\n\n例如使用文字「紅色汽車」，就能檢索相關圖片，而不需要先把圖片轉成文字",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611319731,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 482
-              },
-              "quote": {
-                "exact": "Text, Images, Video, Audio",
-                "prefix": "rojection Layer\n512→768\n\n\nInput/Output\nSupported Modalities\n",
-                "suffix": "\n\n\n\nContext Window\n8,192 tokens\n\n\n\nNative Output Dimension\n7"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 456
-              },
-              "version": 1
-            },
-            "endOffset": 26,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
-            "text": "Text, Images, Video, Audio"
-          },
-          "text": "Text, Images, Video, Audio",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611331620,
-          "id": "hk-1793611331603-26714",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611331602,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 513
-              },
-              "quote": {
-                "exact": "8,192 tokens",
-                "prefix": "ted Modalities\nText, Images, Video, Audio\n\n\n\nContext Window\n",
-                "suffix": "\n\n\n\nNative Output Dimension\n768\n\n\n\nMRL Truncation Dimensions"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 501
-              },
-              "version": 1
-            },
-            "endOffset": 12,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
-            "text": "8,192 tokens"
-          },
-          "text": "8,192 tokens",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611368325,
-          "id": "hk-1793611368316-43776",
-          "note": "可以縮短 Embedding 維度，降低向量資料庫的儲存與檢索成本\n維度\t多語 MTEB 分數\t向量儲存量\n768d\t  61.36\t100%\n512d\t  61.17\t66.7%\n256d\t  60.41\t33.3%\n128d\t  57.89\t16.7%\n\nGoogle 官方 Benchmark，儲存量以相同數值精度、僅計向量本體估算",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611368315,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1454
-              },
-              "quote": {
-                "exact": "Matryoshka Representation Learning (MRL)",
-                "prefix": " to load only the modalities required for their use case.  \n",
-                "suffix": ": Native support for truncated embeddings across 128d, 256d,"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1414
-              },
-              "version": 1
-            },
-            "endOffset": 40,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
-            "text": "Matryoshka Representation Learning (MRL)"
-          },
-          "text": "Matryoshka Representation Learning (MRL)",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611417911,
-          "id": "hk-1793611417893-58459",
-          "note": "不需要完整載入 740M 參數\n- Text / Code：270M\n- Text + Image：440M\n- Text + Audio：570M\n- 全模態：740M\n能依照實際 RAG 需求降低記憶體佔用",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611417892,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
-                "textOffset": 40
-              },
-              "quote": {
-                "exact": "Selective Encoder Loading",
-                "prefix": "encode(f\"title: {title} | text: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. ",
-                "suffix": "\n\t\n\nThe vision and audio encoders are independent components"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
-                "textOffset": 15
-              },
-              "version": 1
-            },
-            "endOffset": 31,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
-            "startOffset": 6,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
-            "text": "Selective Encoder Loading"
-          },
-          "text": "Selective Encoder Loading",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        }
-      ],
-      "note": {
-        "generatedAt": 1791790471581,
-        "model": "chatgpt-web",
-        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
-        "provider": "chatgpt",
-        "url": "https://huggingface.co/google/embeddinggemma-2"
-      },
-      "mindmap": null
-    },
-    {
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "tags": [
-        "人工智慧",
-        "多模態模型",
-        "延遲優化",
-        "記憶體快取",
-        "開發者指南",
-        "開源模型"
-      ],
-      "entries": [
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793586210997,
-          "id": "hk-1793586210988-82451",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586210984,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > h1.group.relative",
-                "textOffset": 46
-              },
-              "quote": {
-                "exact": "Mistral Large 4 ",
-                "prefix": "gn Up        Back to Articles \n\t\n\t\t\n\t\n\t\n\t\tWelcome Le Chonk: ",
-                "suffix": "on Hugging Face\n\t\n  Published\n\t\t\t\t\tOctober 29, 2026  Update "
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > h1.group.relative",
-                "textOffset": 30
-              },
-              "version": 1
-            },
-            "endOffset": 37,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/span[1]/text()[1]",
-            "startOffset": 21,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/span[1]/text()[1]",
-            "text": "Mistral Large 4 "
-          },
-          "text": "Mistral Large 4 ",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793586273370,
-          "id": "hk-1793586273365-54989",
-          "note": "總參數量\t\n約 1T（1 兆）\n\nActive Parameters\t\n約 49B\n\nContext Window\t\n1M Tokens\n\n架構\tMoE + MLA + DSA",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586273365,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 485
-              },
-              "quote": {
-                "exact": "It has about 1T total, 49B active parameter, and a context window of 1M tokens.",
-                "prefix": "tral. It takes text and images as input and generates text. ",
-                "suffix": "\nThe model is released in two official variants:\n\nFP8\nNVFP4\n"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 406
-              },
-              "version": 1
-            },
-            "endOffset": 1,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[3]",
-            "startOffset": 161,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
-            "text": "It has about 1T total, 49B active parameter, and a context window of 1M tokens."
-          },
-          "text": "It has about 1T total, 49B active parameter, and a context window of 1M tokens.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793586292334,
-          "id": "hk-1793586292330-88825",
-          "note": "核心特色是結合 \nMoE（混合專家）\nMLA（潛在注意力）\nDSA（稀疏注意力）\n\n降低大型模型處理長上下文的運算與記憶體負擔",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586292329,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 260
-              },
-              "quote": {
-                "exact": "Mistral Large 4",
-                "prefix": "th TRL Inference Endpoints Dell Enterprise Hub Try it out  \n",
-                "suffix": " (aka Le Chonk) is a multimodal, multilingual, Mixture-of-Ex"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 245
-              },
-              "version": 1
-            },
-            "endOffset": 15,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
-            "text": "Mistral Large 4"
-          },
-          "text": "Mistral Large 4",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793586389704,
-          "id": "hk-1793586389697-75843",
-          "note": "MoE 減少模型參數計算量\nDSA 減少 Attention 計算量",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586389696,
-              "end": {
-                "css": "div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6) > h2.relative.group:nth-of-type(2)",
-                "textOffset": 23
-              },
-              "quote": {
-                "exact": "What is new",
-                "prefix": "nce Endpoints\nDell Enterprise Hub\nTry it out\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t",
-                "suffix": " with Mistral Large 4\n\t\n\nMistral Large 4 combines a large po"
-              },
-              "start": {
-                "css": "div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6) > h2.relative.group:nth-of-type(2)",
-                "textOffset": 12
-              },
-              "version": 1
-            },
-            "endOffset": 14,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/h2[2]/span[1]/text()[1]",
-            "startOffset": 3,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/h2[2]/span[1]/text()[1]",
-            "text": "What is new"
-          },
-          "text": "What is new",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793586686774,
-          "id": "hk-ai-preview-1793586686772-19522",
-          "note": "AI：推測解碼可提升生成吞吐",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686767,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 15002
-              },
-              "quote": {
-                "exact": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted.",
-                "prefix": "requests at a time, and we observed the following results:\n\n",
-                "suffix": "  \nLong prompts: 16K-token prompts, four at a time, are pref"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 14811
-              },
-              "version": 1
-            },
-            "endOffset": 191,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/ul[4]/li[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/ul[4]/text()[1]",
-            "text": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted."
-          },
-          "text": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1793586686780,
-          "id": "hk-ai-preview-1793586686779-85169",
-          "note": "AI：單機部署仍需大量記憶體",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686775,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 12113
-              },
-              "quote": {
-                "exact": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference.",
-                "prefix": "2_K, Q4_K_M, NVFP4, Q8_0, and BF16 for further conversions. ",
-                "suffix": " You can also run on multiple NVIDIA or AMD cards.\nRunning Q"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 11982
-              },
-              "version": 1
-            },
-            "endOffset": 157,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[35]/text()[7]",
-            "startOffset": 26,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[35]/text()[7]",
-            "text": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference."
-          },
-          "text": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793586686783,
-          "id": "hk-ai-preview-1793586686781-97306",
-          "note": "AI：發布首日即支援三大推論框架",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686780,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 6913
-              },
-              "quote": {
-                "exact": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp.",
-                "prefix": "detection-rule generation.\n\n\t\n\t\t\n\t\n\t\n\t\tInference Support\n\t\n\n",
-                "suffix": " GGUF quants are available from GGUF and the llama.cpp team."
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 6830
-              },
-              "version": 1
-            },
-            "endOffset": 83,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[23]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[35]",
-            "text": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp."
-          },
-          "text": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793586686787,
-          "id": "hk-ai-preview-1793586686784-83864",
-          "note": "AI：程式代理任務具競爭力",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686784,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 5415
-              },
-              "quote": {
-                "exact": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4.",
-                "prefix": "en weights model on Artificial Analysis Intelligence index.\n",
-                "suffix": " Its combined Coding Agent Index score of 49.8% places it ah"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 5314
-              },
-              "version": 1
-            },
-            "endOffset": 1,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[19]/text()[4]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[29]",
-            "text": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4."
-          },
-          "text": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793586686790,
-          "id": "hk-ai-preview-1793586686788-29573",
-          "note": "AI：以16億參數編碼器處理影像",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686787,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4842
-              },
-              "quote": {
-                "exact": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads.",
-                "prefix": "ed multiplier per frequency.\n\n\n\t\n\t\t\n\t\n\t\n\t\tVision encoder\n\t\n\n",
-                "suffix": " It uses 14 × 14 patches and a patch-merge projector with sp"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4719
-              },
-              "version": 1
-            },
-            "endOffset": 123,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[25]",
-            "text": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads."
-          },
-          "text": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793586686793,
-          "id": "hk-ai-preview-1793586686792-4034",
-          "note": "AI：每個Token啟用五個專家",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686791,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4588
-              },
-              "quote": {
-                "exact": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token.",
-                "prefix": "yer uses NoPE. The model also shares KV state across layers.",
-                "suffix": "\nRegarding RoPE, Mistral uses LeRope, a YaRN-scaled RoPE wit"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4315
-              },
-              "version": 1
-            },
-            "endOffset": 273,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[13]/text()[2]",
-            "startOffset": 173,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[13]/text()[1]",
-            "text": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token."
-          },
-          "text": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793586686795,
-          "id": "hk-ai-preview-1793586686794-16583",
-          "note": "AI：壓縮KV並篩選注意力位置",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686793,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4141
-              },
-              "quote": {
-                "exact": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query.",
-                "prefix": "DSA) indexer (a direction in other models such as GLM 5.3). ",
-                "suffix": "\nFor each decoder block, there’s a 3:1 RoPE to NoPE pattern,"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4042
-              },
-              "version": 1
-            },
-            "endOffset": 16,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[12]/text()[3]",
-            "startOffset": 256,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[12]/text()[2]",
-            "text": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query."
-          },
-          "text": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793586686800,
-          "id": "hk-ai-preview-1793586686797-5673",
-          "note": "AI：資安能力與有害請求拒絕並存",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686796,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 2975
-              },
-              "quote": {
-                "exact": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model.",
-                "prefix": "e usage policy and the deployment under the user’s control. ",
-                "suffix": "\nFor community builders, an open weight model like Mistral L"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 2787
-              },
-              "version": 1
-            },
-            "endOffset": 538,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
-            "startOffset": 350,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
-            "text": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model."
-          },
-          "text": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793586686803,
-          "id": "hk-ai-preview-1793586686802-5045",
-          "note": "AI：開放權重讓使用者掌握部署與政策",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686800,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 2786
-              },
-              "quote": {
-                "exact": "Crucially, open weight models put both the usage policy and the deployment under the user’s control.",
-                "prefix": "n an API can also lose access in the middle of an incident. ",
-                "suffix": " That said, the model still declines harmful requests: on cy"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 2686
-              },
-              "version": 1
-            },
-            "endOffset": 349,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
-            "startOffset": 249,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
-            "text": "Crucially, open weight models put both the usage policy and the deployment under the user’s control."
-          },
-          "text": "Crucially, open weight models put both the usage policy and the deployment under the user’s control.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#ece3fa",
-          "createdAt": 1793586686805,
-          "id": "hk-ai-preview-1793586686804-77469",
-          "note": "AI：封閉API可能阻礙資安應變",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686803,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 2685
-              },
-              "quote": {
-                "exact": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident.",
-                "prefix": "ral mainly positions the model for defensive security work. ",
-                "suffix": " Crucially, open weight models put both the usage policy and"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 2477
-              },
-              "version": 1
-            },
-            "endOffset": 248,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
-            "startOffset": 40,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
-            "text": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident."
-          },
-          "text": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793586686808,
-          "id": "hk-ai-preview-1793586686806-10762",
-          "note": "AI：漏洞重現與修補測試達82%",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686805,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 1977
-              },
-              "quote": {
-                "exact": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software.",
-                "prefix": "rge 4 collection.\n\n\t\n\t\t\n\t\n\t\n\t\tCybersecurity Capabilities\n\t\n\n",
-                "suffix": " Mistral reports that several closed frontier models score n"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 1802
-              },
-              "version": 1
-            },
-            "endOffset": 175,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[7]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[13]",
-            "text": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software."
-          },
-          "text": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software.",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1793586686809,
-          "id": "hk-ai-preview-1793586686809-93615",
-          "note": "AI：開放權重授權限制模型服務用途",
-          "range": {
-            "anchors": {
-              "createdAt": 1793586686808,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 757
-              },
-              "quote": {
-                "exact": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings).",
-                "prefix": "e are also GGUFs created by Unsloth and the llama.cpp team. ",
-                "suffix": "\nMistral Large 4 is particularly strong for cybersecurity, c"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 610
-              },
-              "version": 1
-            },
-            "endOffset": 172,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[3]/text()[3]",
-            "startOffset": 25,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[3]/text()[3]",
-            "text": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings)."
-          },
-          "text": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings).",
-          "url": "https://huggingface.co/blog/mistral-large4"
-        }
-      ],
-      "note": {
-        "formatVersion": 2,
-        "generatedAt": 1793586686812,
-        "model": "chatgpt-web",
-        "note": "Mistral Large 4 是具備多語言與多模態能力的開放權重模型，透過 MoE、MLA 與 DSA 結合專家路由、KV 壓縮及稀疏注意力，支援大型模型的長上下文處理。\n\n文章特別強調資安應用：模型能重現並修補漏洞，而開放權重讓使用者自行控制部署與使用政策，降低封閉 API 對防禦工作的限制，同時仍保留有害請求拒絕機制。\n\n在工程實作上，模型支援 Transformers、vLLM、llama.cpp 與 TRL 微調，並可透過量化及 Speculative Decoding 改善部署效率。\n\n不過，模型龐大的參數量仍帶來硬體門檻，即使採用低位元量化，單機部署依然需要大量記憶體，顯示模型架構效率與實際部署成本仍需分開評估。",
-        "provider": "chatgpt",
-        "url": "https://huggingface.co/blog/mistral-large4"
-      },
-      "mindmap": null
-    },
-    {
-      "url": "https://github.com/tt-a1i/archify",
-      "title": "tt-a1i/archify: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "tags": [
-        "系統設計",
-        "軟體架構",
-        "開發者指南",
-        "圖表自動化",
-        "AI"
-      ],
-      "entries": [
-        {
-          "color": "#fff5b8",
-          "createdAt": 1788142989821,
-          "id": "hk-1788142989813-75484",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1788142989811,
-              "end": {
-                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 272
-              },
-              "quote": {
-                "exact": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode",
-                "prefix": "為一個清晰、交互式的系統圖，直接在聊天中完成。\nArchify is a Node.js rendering and v",
-                "suffix": ". Agents produce typed JSON IR; Archify deterministically co"
-              },
-              "start": {
-                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 207
-              },
-              "version": 1
-            },
-            "endOffset": 101,
-            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[5]/text()[1]",
-            "startOffset": 36,
-            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[5]/text()[1]",
-            "text": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode"
-          },
-          "text": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode",
-          "url": "https://github.com/tt-a1i/archify"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1788142993885,
-          "id": "hk-1788142993878-1642",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1788142993877,
-              "end": {
-                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 116
-              },
-              "quote": {
-                "exact": "into a polished, interactive system map",
-                "prefix": "\n\n\n  \n\n\nArchify  建築設計\nTurn a codebase or system description ",
-                "suffix": " — directly in chat.將代碼庫或系統描述轉化為一個清晰、交互式的系統圖，直接在聊天中完成。\nArchi"
-              },
-              "start": {
-                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 77
-              },
-              "version": 1
-            },
-            "endOffset": 77,
-            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/strong[1]/text()[1]",
-            "startOffset": 38,
-            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/strong[1]/text()[1]",
-            "text": "into a polished, interactive system map"
-          },
-          "text": "into a polished, interactive system map",
-          "url": "https://github.com/tt-a1i/archify"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1788143002647,
-          "id": "hk-1788143002643-25747",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1790067802236,
-              "end": {
-                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 8635
-              },
-              "quote": {
-                "exact": "Before / Delta / After",
-                "prefix": " design or PR review, Architecture Delta compares validated ",
-                "suffix": " snapshots with a machine receipt. Select an authored change"
-              },
-              "start": {
-                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 8613
-              },
-              "version": 1
-            },
-            "endOffset": 85,
-            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
-            "startOffset": 63,
-            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
-            "text": "Before / Delta / After"
-          },
-          "text": "Before / Delta / After",
-          "url": "https://github.com/tt-a1i/archify"
-        }
-      ],
-      "note": {
-        "generatedAt": 1788146585573,
-        "model": "chatgpt-web",
-        "note": "Archify 是一套專為 Cursor、Claude Code、Codex CLI 等 AI Agent 設計的 Node.js 架構圖渲染與驗證系統。傳統的 AI 繪圖往往面臨 layout 錯亂或直接產生無效 SVG 的問題，而 Archify 的核心運作機制是讓 Agent 先輸出帶有強型別的 JSON 中介表示式 (IR)，再透過確定性的編譯器將其轉換為互動式 HTML 或向量圖表。\n\n這套工具強調「真實性」與「嚴謹度」。在產出圖像前，系統會進行嚴格的原子化驗證，包含 Schema、版面配置與路徑間距檢查，若驗證失敗則會傳回結構化的修復憑證，引導 Agent 自動進行修正。除了支援系統架構、工作流程、時序圖、資料流與生命週期等五種圖表外，它還能比較程式碼合併前後的架構快照（Before/Delta/After），並精確顯示元件的增刪與路徑變更。整個系統不需連接實體基礎設施或綁定專案，使用者直接在 Agent 視窗中描述系統即可生成單一且包含互動功能的 HTML 檔案，極大地簡化了技術溝通與架構審查的流程。",
-        "provider": "chatgpt",
-        "url": "https://github.com/tt-a1i/archify"
-      },
-      "mindmap": null
-    },
     {
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "title": "Gemini 3.7 Flash: our most intelligent workhorse model",
@@ -1710,6 +811,904 @@
         "note": "本篇開發者指南主要引導如何建立即時與音訊應用。在選擇技術架構時，如果需要極低延遲的互動，即時工作階段（Realtime sessions）是最佳選擇；若是處理檔案或不需要即時連線的語音，則應採用基於請求的 API。針對即時需求，系統提供了語音助理、即時翻譯與語音轉文字三種主要模式。新推出的 Realtime 2 更為語音流程注入了推理能力。在連接方式上，瀏覽器端建議使用 WebRTC，而伺服器端或電話系統則推薦使用 WebSockets 或 SIP，但使用 SIP 前需注意模型相容性。此外，為了防範濫用並保護組織不被全面停權，開發者應在請求中加入安全識別碼。最後，針對目前仍在使用 Beta 版本的用戶，官方強烈建議盡速遷移至正式發行（GA）版介面，並注意調整標頭、憑證建立路徑及事件格式，以確保系統的穩定與延續。",
         "provider": "chatgpt",
         "url": "https://developers.openai.com/api/docs/guides/realtime"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://github.com/tt-a1i/archify",
+      "title": "tt-a1i/archify: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "tags": [
+        "系統設計",
+        "軟體架構",
+        "開發者指南",
+        "圖表自動化",
+        "AI"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788142989821,
+          "id": "hk-1788142989813-75484",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788142989811,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 272
+              },
+              "quote": {
+                "exact": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode",
+                "prefix": "為一個清晰、交互式的系統圖，直接在聊天中完成。\nArchify is a Node.js rendering and v",
+                "suffix": ". Agents produce typed JSON IR; Archify deterministically co"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 207
+              },
+              "version": 1
+            },
+            "endOffset": 101,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[5]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[5]/text()[1]",
+            "text": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode"
+          },
+          "text": "alidation system for Cursor, Claude Code, Codex CLI, and OpenCode",
+          "url": "https://github.com/tt-a1i/archify"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788142993885,
+          "id": "hk-1788142993878-1642",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1788142993877,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 116
+              },
+              "quote": {
+                "exact": "into a polished, interactive system map",
+                "prefix": "\n\n\n  \n\n\nArchify  建築設計\nTurn a codebase or system description ",
+                "suffix": " — directly in chat.將代碼庫或系統描述轉化為一個清晰、交互式的系統圖，直接在聊天中完成。\nArchi"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 77
+              },
+              "version": 1
+            },
+            "endOffset": 77,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/strong[1]/text()[1]",
+            "text": "into a polished, interactive system map"
+          },
+          "text": "into a polished, interactive system map",
+          "url": "https://github.com/tt-a1i/archify"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1788143002647,
+          "id": "hk-1788143002643-25747",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1790067802236,
+              "end": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 8635
+              },
+              "quote": {
+                "exact": "Before / Delta / After",
+                "prefix": " design or PR review, Architecture Delta compares validated ",
+                "suffix": " snapshots with a machine receipt. Select an authored change"
+              },
+              "start": {
+                "css": "div.OverviewContent-module__Box__PF75K.tmp-pl-lg-3 > div.OverviewContent-module__Box_11__F19kY:nth-of-type(3) > div.OverviewRepoFiles-module__Box_1__OXeac:nth-of-type(2) > div.OverviewRepoFiles-module__Box_2__zsLGk > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module__SharedMarkdownContent__hHXUL:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 8613
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
+            "startOffset": 63,
+            "startXPath": "/html[1]/body[1]/div[1]/div[6]/div[1]/main[1]/turbo-frame[1]/div[1]/react-app[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/details[3]/p[2]/text()[1]",
+            "text": "Before / Delta / After"
+          },
+          "text": "Before / Delta / After",
+          "url": "https://github.com/tt-a1i/archify"
+        }
+      ],
+      "note": {
+        "generatedAt": 1788146585573,
+        "model": "chatgpt-web",
+        "note": "Archify 是一套專為 Cursor、Claude Code、Codex CLI 等 AI Agent 設計的 Node.js 架構圖渲染與驗證系統。傳統的 AI 繪圖往往面臨 layout 錯亂或直接產生無效 SVG 的問題，而 Archify 的核心運作機制是讓 Agent 先輸出帶有強型別的 JSON 中介表示式 (IR)，再透過確定性的編譯器將其轉換為互動式 HTML 或向量圖表。\n\n這套工具強調「真實性」與「嚴謹度」。在產出圖像前，系統會進行嚴格的原子化驗證，包含 Schema、版面配置與路徑間距檢查，若驗證失敗則會傳回結構化的修復憑證，引導 Agent 自動進行修正。除了支援系統架構、工作流程、時序圖、資料流與生命週期等五種圖表外，它還能比較程式碼合併前後的架構快照（Before/Delta/After），並精確顯示元件的增刪與路徑變更。整個系統不需連接實體基礎設施或綁定專案，使用者直接在 Agent 視窗中描述系統即可生成單一且包含互動功能的 HTML 檔案，極大地簡化了技術溝通與架構審查的流程。",
+        "provider": "chatgpt",
+        "url": "https://github.com/tt-a1i/archify"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "延遲優化",
+        "記憶體快取",
+        "開發者指南",
+        "開源模型"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586210997,
+          "id": "hk-1793586210988-82451",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586210984,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > h1.group.relative",
+                "textOffset": 46
+              },
+              "quote": {
+                "exact": "Mistral Large 4 ",
+                "prefix": "gn Up        Back to Articles \n\t\n\t\t\n\t\n\t\n\t\tWelcome Le Chonk: ",
+                "suffix": "on Hugging Face\n\t\n  Published\n\t\t\t\t\tOctober 29, 2026  Update "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > h1.group.relative",
+                "textOffset": 30
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/span[1]/text()[1]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/span[1]/text()[1]",
+            "text": "Mistral Large 4 "
+          },
+          "text": "Mistral Large 4 ",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586273370,
+          "id": "hk-1793586273365-54989",
+          "note": "總參數量\t\n約 1T（1 兆）\n\nActive Parameters\t\n約 49B\n\nContext Window\t\n1M Tokens\n\n架構\tMoE + MLA + DSA",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586273365,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 485
+              },
+              "quote": {
+                "exact": "It has about 1T total, 49B active parameter, and a context window of 1M tokens.",
+                "prefix": "tral. It takes text and images as input and generates text. ",
+                "suffix": "\nThe model is released in two official variants:\n\nFP8\nNVFP4\n"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 406
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[3]",
+            "startOffset": 161,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
+            "text": "It has about 1T total, 49B active parameter, and a context window of 1M tokens."
+          },
+          "text": "It has about 1T total, 49B active parameter, and a context window of 1M tokens.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586292334,
+          "id": "hk-1793586292330-88825",
+          "note": "核心特色是結合 \nMoE（混合專家）\nMLA（潛在注意力）\nDSA（稀疏注意力）\n\n降低大型模型處理長上下文的運算與記憶體負擔",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586292329,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 260
+              },
+              "quote": {
+                "exact": "Mistral Large 4",
+                "prefix": "th TRL Inference Endpoints Dell Enterprise Hub Try it out  \n",
+                "suffix": " (aka Le Chonk) is a multimodal, multilingual, Mixture-of-Ex"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 245
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/text()[1]",
+            "text": "Mistral Large 4"
+          },
+          "text": "Mistral Large 4",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586389704,
+          "id": "hk-1793586389697-75843",
+          "note": "MoE 減少模型參數計算量\nDSA 減少 Attention 計算量",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586389696,
+              "end": {
+                "css": "div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6) > h2.relative.group:nth-of-type(2)",
+                "textOffset": 23
+              },
+              "quote": {
+                "exact": "What is new",
+                "prefix": "nce Endpoints\nDell Enterprise Hub\nTry it out\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t",
+                "suffix": " with Mistral Large 4\n\t\n\nMistral Large 4 combines a large po"
+              },
+              "start": {
+                "css": "div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6) > h2.relative.group:nth-of-type(2)",
+                "textOffset": 12
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/h2[2]/span[1]/text()[1]",
+            "startOffset": 3,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/h2[2]/span[1]/text()[1]",
+            "text": "What is new"
+          },
+          "text": "What is new",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686774,
+          "id": "hk-ai-preview-1793586686772-19522",
+          "note": "AI：推測解碼可提升生成吞吐",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686767,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 15002
+              },
+              "quote": {
+                "exact": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted.",
+                "prefix": "requests at a time, and we observed the following results:\n\n",
+                "suffix": "  \nLong prompts: 16K-token prompts, four at a time, are pref"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 14811
+              },
+              "version": 1
+            },
+            "endOffset": 191,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/ul[4]/li[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/ul[4]/text()[1]",
+            "text": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted."
+          },
+          "text": "Single request: time to first token of about 0.6 seconds for a 1K-token prompt, and a generation speed of ~65 tok/s, reaching 120–138 tok/s on chat prompts where DSpark's drafts are accepted.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793586686780,
+          "id": "hk-ai-preview-1793586686779-85169",
+          "note": "AI：單機部署仍需大量記憶體",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686775,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12113
+              },
+              "quote": {
+                "exact": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference.",
+                "prefix": "2_K, Q4_K_M, NVFP4, Q8_0, and BF16 for further conversions. ",
+                "suffix": " You can also run on multiple NVIDIA or AMD cards.\nRunning Q"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11982
+              },
+              "version": 1
+            },
+            "endOffset": 157,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[35]/text()[7]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[35]/text()[7]",
+            "text": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference."
+          },
+          "text": "The 2-bit quants run on a single Apple Silicon Ultra computer with 512 GB of unified RAM. The others require distributed inference.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686783,
+          "id": "hk-ai-preview-1793586686781-97306",
+          "note": "AI：發布首日即支援三大推論框架",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686780,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 6913
+              },
+              "quote": {
+                "exact": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp.",
+                "prefix": "detection-rule generation.\n\n\t\n\t\t\n\t\n\t\n\t\tInference Support\n\t\n\n",
+                "suffix": " GGUF quants are available from GGUF and the llama.cpp team."
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 6830
+              },
+              "version": 1
+            },
+            "endOffset": 83,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[23]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[35]",
+            "text": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp."
+          },
+          "text": "Mistral Large 4 is shipped with day-0 support for transformers, vLLM and llama.cpp.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586686787,
+          "id": "hk-ai-preview-1793586686784-83864",
+          "note": "AI：程式代理任務具競爭力",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686784,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 5415
+              },
+              "quote": {
+                "exact": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4.",
+                "prefix": "en weights model on Artificial Analysis Intelligence index.\n",
+                "suffix": " Its combined Coding Agent Index score of 49.8% places it ah"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 5314
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[19]/text()[4]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[29]",
+            "text": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4."
+          },
+          "text": "On coding, ML4 achieves 61.7% on DeepSWE v1.1, 59.4% on SWE-Atlas-QnA, and 28.3% on Terminal-Bench 4.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793586686790,
+          "id": "hk-ai-preview-1793586686788-29573",
+          "note": "AI：以16億參數編碼器處理影像",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686787,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4842
+              },
+              "quote": {
+                "exact": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads.",
+                "prefix": "ed multiplier per frequency.\n\n\n\t\n\t\t\n\t\n\t\n\t\tVision encoder\n\t\n\n",
+                "suffix": " It uses 14 × 14 patches and a patch-merge projector with sp"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4719
+              },
+              "version": 1
+            },
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[25]",
+            "text": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads."
+          },
+          "text": "Mistral Large 4 employs a 1.6B Pixtral encoder. Pixtral has 30 layers, a hidden dimension of 2,048, and 16 attention heads.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793586686793,
+          "id": "hk-ai-preview-1793586686792-4034",
+          "note": "AI：每個Token啟用五個專家",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686791,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4588
+              },
+              "quote": {
+                "exact": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token.",
+                "prefix": "yer uses NoPE. The model also shares KV state across layers.",
+                "suffix": "\nRegarding RoPE, Mistral uses LeRope, a YaRN-scaled RoPE wit"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4315
+              },
+              "version": 1
+            },
+            "endOffset": 273,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[13]/text()[2]",
+            "startOffset": 173,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[13]/text()[1]",
+            "text": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token."
+          },
+          "text": "The first decoder layer uses a dense feed-forward network. The other 71 layers use MoE blocks, in which a softmax router selects four of the 128 experts for each token. One shared expert always runs alongside the selected experts, for a total of 5 active experts per token.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793586686795,
+          "id": "hk-ai-preview-1793586686794-16583",
+          "note": "AI：壓縮KV並篩選注意力位置",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686793,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4141
+              },
+              "quote": {
+                "exact": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query.",
+                "prefix": "DSA) indexer (a direction in other models such as GLM 5.3). ",
+                "suffix": "\nFor each decoder block, there’s a 3:1 RoPE to NoPE pattern,"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4042
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[12]/text()[3]",
+            "startOffset": 256,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[12]/text()[2]",
+            "text": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query."
+          },
+          "text": "MLA keeps a compressed KV representation, and DSA selects up to 2,048 key positions for each query.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793586686800,
+          "id": "hk-ai-preview-1793586686797-5673",
+          "note": "AI：資安能力與有害請求拒絕並存",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686796,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2975
+              },
+              "quote": {
+                "exact": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model.",
+                "prefix": "e usage policy and the deployment under the user’s control. ",
+                "suffix": "\nFor community builders, an open weight model like Mistral L"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2787
+              },
+              "version": 1
+            },
+            "endOffset": 538,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "startOffset": 350,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "text": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model."
+          },
+          "text": "That said, the model still declines harmful requests: on cyber prompts from JailbreakBench, StrongREJECT and AgentHarm, its average refusal rate is higher than any other open weight model.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686803,
+          "id": "hk-ai-preview-1793586686802-5045",
+          "note": "AI：開放權重讓使用者掌握部署與政策",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686800,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2786
+              },
+              "quote": {
+                "exact": "Crucially, open weight models put both the usage policy and the deployment under the user’s control.",
+                "prefix": "n an API can also lose access in the middle of an incident. ",
+                "suffix": " That said, the model still declines harmful requests: on cy"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2686
+              },
+              "version": 1
+            },
+            "endOffset": 349,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "startOffset": 249,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "text": "Crucially, open weight models put both the usage policy and the deployment under the user’s control."
+          },
+          "text": "Crucially, open weight models put both the usage policy and the deployment under the user’s control.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793586686805,
+          "id": "hk-ai-preview-1793586686804-77469",
+          "note": "AI：封閉API可能阻礙資安應變",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686803,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2685
+              },
+              "quote": {
+                "exact": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident.",
+                "prefix": "ral mainly positions the model for defensive security work. ",
+                "suffix": " Crucially, open weight models put both the usage policy and"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 2477
+              },
+              "version": 1
+            },
+            "endOffset": 248,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[8]/text()[3]",
+            "text": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident."
+          },
+          "text": "Vulnerability research and incident response often appear like attacks in model input, so closed source filters can block them. A team that depends on an API can also lose access in the middle of an incident.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793586686808,
+          "id": "hk-ai-preview-1793586686806-10762",
+          "note": "AI：漏洞重現與修補測試達82%",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686805,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 1977
+              },
+              "quote": {
+                "exact": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software.",
+                "prefix": "rge 4 collection.\n\n\t\n\t\t\n\t\n\t\n\t\tCybersecurity Capabilities\n\t\n\n",
+                "suffix": " Mistral reports that several closed frontier models score n"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 1802
+              },
+              "version": 1
+            },
+            "endOffset": 175,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[7]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[13]",
+            "text": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software."
+          },
+          "text": "Mistral Large 4 scores 82% on the Artificial Analysis Cyber Index test that asks a model to reproduce a real vulnerability in open-source software and then patch the software.",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793586686809,
+          "id": "hk-ai-preview-1793586686809-93615",
+          "note": "AI：開放權重授權限制模型服務用途",
+          "range": {
+            "anchors": {
+              "createdAt": 1793586686808,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 757
+              },
+              "quote": {
+                "exact": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings).",
+                "prefix": "e are also GGUFs created by Unsloth and the llama.cpp team. ",
+                "suffix": "\nMistral Large 4 is particularly strong for cybersecurity, c"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 610
+              },
+              "version": 1
+            },
+            "endOffset": 172,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[3]/text()[3]",
+            "startOffset": 25,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[3]/text()[3]",
+            "text": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings)."
+          },
+          "text": "It’s distributed under the Mistral Ecosystem Open-Weight License (an MIT derivative that establishes limitations for model-as-a-service offerings).",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        }
+      ],
+      "note": {
+        "formatVersion": 2,
+        "generatedAt": 1793586686812,
+        "model": "chatgpt-web",
+        "note": "Mistral Large 4 是具備多語言與多模態能力的開放權重模型，透過 MoE、MLA 與 DSA 結合專家路由、KV 壓縮及稀疏注意力，支援大型模型的長上下文處理。\n\n文章特別強調資安應用：模型能重現並修補漏洞，而開放權重讓使用者自行控制部署與使用政策，降低封閉 API 對防禦工作的限制，同時仍保留有害請求拒絕機制。\n\n在工程實作上，模型支援 Transformers、vLLM、llama.cpp 與 TRL 微調，並可透過量化及 Speculative Decoding 改善部署效率。\n\n不過，模型龐大的參數量仍帶來硬體門檻，即使採用低位元量化，單機部署依然需要大量記憶體，顯示模型架構效率與實際部署成本仍需分開評估。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/blog/mistral-large4"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "title": "google/embeddinggemma-2 · Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "開發者指南",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611253874,
+          "id": "hk-1793611253856-12924",
+          "note": "將文字、程式碼、圖片、影片、音訊轉換到同一個 768 維向量空間，適合 RAG、語意搜尋及跨模態檢索",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611253853,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 298
+              },
+              "quote": {
+                "exact": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
+                "prefix": ".0 | Authors: Google DeepMind\n\n\nEmbeddingGemma 2 is an open ",
+                "suffix": "—and combinations thereof—into a single, unified 768-dimensi"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 185
+              },
+              "version": 1
+            },
+            "endOffset": 125,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs"
+          },
+          "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611270487,
+          "id": "hk-1793611270468-16913",
+          "note": "EmbeddingGemma 2 是 Google DeepMind 於 2026 年 10 月推出的輕量級 Multimodal Embedding Model",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611270467,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 172
+              },
+              "quote": {
+                "exact": "EmbeddingGemma ",
+                "prefix": "t\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
+                "suffix": "2 is an open multimodal embedding model built by Google Deep"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 157
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
+            "text": "EmbeddingGemma "
+          },
+          "text": "EmbeddingGemma ",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611306284,
+          "id": "hk-1793611306272-84570",
+          "note": "Context Window\t8,192 Tokens",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611306270,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1633
+              },
+              "quote": {
+                "exact": "Context length",
+                "prefix": "n in vector storage costs with minimal impact on quality.  \n",
+                "suffix": ": 8K token context window, capable of processing minutes of "
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1619
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
+            "text": "Context length"
+          },
+          "text": "Context length",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611319743,
+          "id": "hk-1793611319732-74255",
+          "note": "Text、Code、Image、Video、Audio\n\n例如使用文字「紅色汽車」，就能檢索相關圖片，而不需要先把圖片轉成文字",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611319731,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 482
+              },
+              "quote": {
+                "exact": "Text, Images, Video, Audio",
+                "prefix": "rojection Layer\n512→768\n\n\nInput/Output\nSupported Modalities\n",
+                "suffix": "\n\n\n\nContext Window\n8,192 tokens\n\n\n\nNative Output Dimension\n7"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 456
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
+            "text": "Text, Images, Video, Audio"
+          },
+          "text": "Text, Images, Video, Audio",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611331620,
+          "id": "hk-1793611331603-26714",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611331602,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 513
+              },
+              "quote": {
+                "exact": "8,192 tokens",
+                "prefix": "ted Modalities\nText, Images, Video, Audio\n\n\n\nContext Window\n",
+                "suffix": "\n\n\n\nNative Output Dimension\n768\n\n\n\nMRL Truncation Dimensions"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 501
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "text": "8,192 tokens"
+          },
+          "text": "8,192 tokens",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611368325,
+          "id": "hk-1793611368316-43776",
+          "note": "可以縮短 Embedding 維度，降低向量資料庫的儲存與檢索成本\n維度\t多語 MTEB 分數\t向量儲存量\n768d\t  61.36\t100%\n512d\t  61.17\t66.7%\n256d\t  60.41\t33.3%\n128d\t  57.89\t16.7%\n\nGoogle 官方 Benchmark，儲存量以相同數值精度、僅計向量本體估算",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611368315,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1454
+              },
+              "quote": {
+                "exact": "Matryoshka Representation Learning (MRL)",
+                "prefix": " to load only the modalities required for their use case.  \n",
+                "suffix": ": Native support for truncated embeddings across 128d, 256d,"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1414
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
+            "text": "Matryoshka Representation Learning (MRL)"
+          },
+          "text": "Matryoshka Representation Learning (MRL)",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611417911,
+          "id": "hk-1793611417893-58459",
+          "note": "不需要完整載入 740M 參數\n- Text / Code：270M\n- Text + Image：440M\n- Text + Audio：570M\n- 全模態：740M\n能依照實際 RAG 需求降低記憶體佔用",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611417892,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "Selective Encoder Loading",
+                "prefix": "encode(f\"title: {title} | text: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. ",
+                "suffix": "\n\t\n\nThe vision and audio encoders are independent components"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
+            "text": "Selective Encoder Loading"
+          },
+          "text": "Selective Encoder Loading",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        }
+      ],
+      "note": {
+        "generatedAt": 1791790471581,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/google/embeddinggemma-2"
       },
       "mindmap": null
     }

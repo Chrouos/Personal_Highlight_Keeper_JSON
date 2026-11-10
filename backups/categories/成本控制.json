@@ -1,691 +1,792 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1793611544891,
   "category": "成本控制",
   "pages": [
     {
-      "url": "https://huggingface.co/google/embeddinggemma-2",
-      "title": "google/embeddinggemma-2 · Hugging Face",
+      "url": "https://arxiv.org/html/2611.05306v1",
+      "title": "You don’t need long context",
       "tags": [
-        "人工智慧",
-        "多模態模型",
+        "大型語言模型",
         "成本控制",
-        "開發者指南",
-        "開源模型",
-        "機器學習"
+        "系統設計",
+        "延遲優化",
+        "提示詞工程",
+        "智慧體記憶"
       ],
       "entries": [
         {
-          "color": "#fff5b8",
-          "createdAt": 1793611253874,
-          "id": "hk-1793611253856-12924",
-          "note": "將文字、程式碼、圖片、影片、音訊轉換到同一個 768 維向量空間，適合 RAG、語意搜尋及跨模態檢索",
+          "color": "#ffe6cc",
+          "createdAt": 1793935666889,
+          "id": "hk-ai-preview-1793935666886-24232",
+          "kind": "passage",
+          "note": "AI：研究未證明所有任務都適合短 Context。\n為何重要：避免將實驗結果誤解為完全淘汰長上下文。",
           "range": {
             "anchors": {
-              "createdAt": 1793611253853,
+              "createdAt": 1793935666885,
               "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 298
+                "css": "p#S6\\.p3\\.1",
+                "textOffset": 168
               },
               "quote": {
-                "exact": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
-                "prefix": ".0 | Authors: Google DeepMind\n\n\nEmbeddingGemma 2 is an open ",
-                "suffix": "—and combinations thereof—into a single, unified 768-dimensi"
+                "exact": "Our evidence does not rule out the existence of tasks for which long context is beneficial, nor does it prove that every possible task can be solved with short context.",
+                "prefix": " a time and maintaining only a finite state of mind [44].\n\n\n",
+                "suffix": "\nIt does, however, show that the standard arguments in favor"
               },
               "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 185
+                "css": "div#S6\\.p3",
+                "textOffset": 1
               },
               "version": 1
             },
-            "endOffset": 125,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
-            "startOffset": 12,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
-            "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs"
+            "endOffset": 168,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[6]/div[3]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[6]/div[3]/text()[1]",
+            "text": "Our evidence does not rule out the existence of tasks for which long context is beneficial, nor does it prove that every possible task can be solved with short context."
           },
-          "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
+          "text": "Our evidence does not rule out the existence of tasks for which long context is beneficial, nor does it prove that every possible task can be solved with short context.",
+          "url": "https://arxiv.org/html/2611.05306v1"
         },
         {
-          "color": "#fff5b8",
-          "createdAt": 1793611270487,
-          "id": "hk-1793611270468-16913",
-          "note": "EmbeddingGemma 2 是 Google DeepMind 於 2026 年 10 月推出的輕量級 Multimodal Embedding Model",
+          "color": "#dfeefc",
+          "createdAt": 1793935666892,
+          "id": "hk-ai-preview-1793935666890-93522",
+          "kind": "passage",
+          "note": "AI：作者提出以語意狀態延續任務的模型方向。\n為何重要：將外部 Compaction 延伸到模型訓練。\n延伸：本文尚未實作並驗證專門訓練的 SSSM。",
           "range": {
             "anchors": {
-              "createdAt": 1793611270467,
+              "createdAt": 1793935666890,
               "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 172
+                "css": "p#S5\\.SS1\\.p2\\.1",
+                "textOffset": 61
               },
               "quote": {
-                "exact": "EmbeddingGemma ",
-                "prefix": "t\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
-                "suffix": "2 is an open multimodal embedding model built by Google Deep"
+                "exact": "We propose the notion of a Semantic State Space Model (SSSM).",
+                "prefix": "intaining a semantic state across long-context workflows.\n\n\n",
+                "suffix": "\nA SSSM is a model post-trained to (1) comprehend an input l"
               },
               "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 157
+                "css": "div#S5\\.SS1\\.p2",
+                "textOffset": 1
               },
               "version": 1
             },
-            "endOffset": 15,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
-            "text": "EmbeddingGemma "
+            "endOffset": 61,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[1]/div[2]/text()[1]",
+            "text": "We propose the notion of a Semantic State Space Model (SSSM)."
           },
-          "text": "EmbeddingGemma ",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
+          "text": "We propose the notion of a Semantic State Space Model (SSSM).",
+          "url": "https://arxiv.org/html/2611.05306v1"
         },
         {
-          "color": "#fff5b8",
-          "createdAt": 1793611306284,
-          "id": "hk-1793611306272-84570",
-          "note": "Context Window\t8,192 Tokens",
+          "color": "#dff2e0",
+          "createdAt": 1793935666894,
+          "id": "hk-ai-preview-1793935666893-3281",
+          "kind": "passage",
+          "note": "AI：文件變長，不代表解題所需資訊等比例增加。\n為何重要：支持長文件優先採用 Selective Reading。",
           "range": {
             "anchors": {
-              "createdAt": 1793611306270,
+              "createdAt": 1793935666893,
               "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1633
+                "css": "p#S4\\.p7\\.1",
+                "textOffset": 569
               },
               "quote": {
-                "exact": "Context length",
-                "prefix": "n in vector storage costs with minimal impact on quality.  \n",
-                "suffix": ": 8K token context window, capable of processing minutes of "
+                "exact": "The near-zero median number of compactions and the roughly constant conversation lengths as document size grows support the intuition that despite the long inputs provided to tasks, the actual amount of information required to solve those tasks remains low.",
+                "prefix": " peak live context far below baseline conversation lengths.\n",
+                "suffix": "\nThus, the size of a task’s input does not itself establish "
               },
               "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1619
+                "css": "p#S4\\.p7\\.1",
+                "textOffset": 312
+              },
+              "version": 1
+            },
+            "endOffset": 569,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/div[7]/p[1]/text()[1]",
+            "startOffset": 312,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/div[7]/p[1]/text()[1]",
+            "text": "The near-zero median number of compactions and the roughly constant conversation lengths as document size grows support the intuition that despite the long inputs provided to tasks, the actual amount of information required to solve those tasks remains low."
+          },
+          "text": "The near-zero median number of compactions and the roughly constant conversation lengths as document size grows support the intuition that despite the long inputs provided to tasks, the actual amount of information required to solve those tasks remains low.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793935666897,
+          "id": "hk-ai-preview-1793935666894-67020",
+          "kind": "term",
+          "note": "AI：只讀取目前需要的文件內容。\n例子：使用 sed 讀取文件中特定行數。\n在本文：已實驗，多數長輸入測試表現不低於基準。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666894,
+              "end": {
+                "css": "span#S4\\.p1\\.p2\\.1\\.1\\.1\\.1",
+                "textOffset": 36
+              },
+              "quote": {
+                "exact": "Selective input reading",
+                "prefix": " tasks be completed without long contexts?\n\n\n\n\nAnswer: Yes. ",
+                "suffix": " and compaction keep contexts short, maintaining task accura"
+              },
+              "start": {
+                "css": "span#S4\\.p1\\.p2\\.1\\.1\\.1\\.1",
+                "textOffset": 13
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/div[1]/span[1]/span[2]/span[1]/span[1]/span[1]/span[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/div[1]/span[1]/span[2]/span[1]/span[1]/span[1]/span[1]/text()[1]",
+            "text": "Selective input reading"
+          },
+          "text": "Selective input reading",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793935666900,
+          "id": "hk-ai-preview-1793935666898-92163",
+          "kind": "passage",
+          "note": "AI：需要保存的資訊，不一定要全部放進 Context。\n為何重要：外部儲存與按需讀取可以降低輸入負擔。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666897,
+              "end": {
+                "css": "p#S3\\.SS1\\.p5\\.1",
+                "textOffset": 192
+              },
+              "quote": {
+                "exact": "In other words, there is a difference between information that needs to be a part of model context and information that could, in principle, be retrieved selectively on a “need-to-know basis”.",
+                "prefix": "ory then becomes a long-input task, which we tackle in 2.\n\n\n",
+                "suffix": "\n\n\nNote that the findings of our experimentation above are n"
+              },
+              "start": {
+                "css": "div#S3\\.SS1\\.p5",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 192,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[1]/div[5]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[1]/div[5]/text()[1]",
+            "text": "In other words, there is a difference between information that needs to be a part of model context and information that could, in principle, be retrieved selectively on a “need-to-know basis”."
+          },
+          "text": "In other words, there is a difference between information that needs to be a part of model context and information that could, in principle, be retrieved selectively on a “need-to-know basis”.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793935666902,
+          "id": "hk-ai-preview-1793935666900-33000",
+          "kind": "passage",
+          "note": "AI：壓縮一定可能遺失部分歷史資訊。\n為何重要：說明 Accuracy 不可能無條件保證。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666900,
+              "end": {
+                "css": "p#S3\\.SS1\\.p2\\.1",
+                "textOffset": 49
+              },
+              "quote": {
+                "exact": "Compaction is a lossy context compression method.",
+                "prefix": ", but that does not mean that they require long contexts.\n\n\n",
+                "suffix": "\nInformation will be lost as a consequence of compacting a c"
+              },
+              "start": {
+                "css": "div#S3\\.SS1\\.p2",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 49,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[1]/div[2]/text()[1]",
+            "text": "Compaction is a lossy context compression method."
+          },
+          "text": "Compaction is a lossy context compression method.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793935666904,
+          "id": "hk-ai-preview-1793935666903-60113",
+          "kind": "passage",
+          "note": "AI：長流程任務的估計成本節省相當可觀。\n為何重要：EoCC 成本改善約為 2.2～8.8 倍。\n延伸：此為成本模型估計，不是實際 API 帳單。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666903,
+              "end": {
+                "css": "p#S3\\.p4\\.1",
+                "textOffset": 840
+              },
+              "quote": {
+                "exact": "These represent the estimated cost savings as a consequence of serving only shorter context window sizes, and are considerable.",
+                "prefix": "to 8.8x for Opus 4.5 and from 2.4x to 5.0x for GPT 5.6 Sol.\n",
+                "suffix": "\n\n\nOne pathology that could occur due to frequent compaction"
+              },
+              "start": {
+                "css": "p#S3\\.p4\\.1",
+                "textOffset": 713
+              },
+              "version": 1
+            },
+            "endOffset": 840,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/div[4]/p[1]/text()[1]",
+            "startOffset": 713,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/div[4]/p[1]/text()[1]",
+            "text": "These represent the estimated cost savings as a consequence of serving only shorter context window sizes, and are considerable."
+          },
+          "text": "These represent the estimated cost savings as a consequence of serving only shorter context window sizes, and are considerable.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793935666906,
+          "id": "hk-ai-preview-1793935666905-92598",
+          "kind": "passage",
+          "note": "AI：SAC 幾乎不保留完整歷史，只維護語意狀態。\n為何重要：將 Context 管理推向每次動作後壓縮。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666904,
+              "end": {
+                "css": "p#S2\\.SS4\\.SSS1\\.Px3\\.p1\\.1",
+                "textOffset": 89
+              },
+              "quote": {
+                "exact": "This regime maintains a compact semantic state and essentially no conversational history.",
+                "prefix": " threshold” in tokens.\n\n\n\nSingle-Action Compaction (SAC).\n\n\n",
+                "suffix": "\nEach conversation receives the task and current semantic st"
+              },
+              "start": {
+                "css": "div#S2\\.SS4\\.SSS1\\.Px3\\.p1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 89,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[4]/section[3]/section[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[4]/section[3]/section[3]/div[1]/text()[1]",
+            "text": "This regime maintains a compact semantic state and essentially no conversational history."
+          },
+          "text": "This regime maintains a compact semantic state and essentially no conversational history.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793935666907,
+          "id": "hk-ai-preview-1793935666906-15508",
+          "kind": "passage",
+          "note": "AI：EoCC 以原始任務與壓縮狀態重新開始。\n為何重要：不必修改模型，就能避免歷史無限累積。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666906,
+              "end": {
+                "css": "p#S2\\.SS4\\.SSS1\\.Px2\\.p1\\.1",
+                "textOffset": 566
+              },
+              "quote": {
+                "exact": "The harness starts a fresh conversation containing the original task and the compacted state, and execution resumes under the same system prompt.",
+                "prefix": "s the conversation if compaction does not complete in time.\n",
+                "suffix": "\nThis cycle repeats whenever the compaction threshold is cro"
+              },
+              "start": {
+                "css": "p#S2\\.SS4\\.SSS1\\.Px2\\.p1\\.1",
+                "textOffset": 421
+              },
+              "version": 1
+            },
+            "endOffset": 290,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[4]/section[3]/section[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 145,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/section[4]/section[3]/section[2]/div[1]/p[1]/text()[2]",
+            "text": "The harness starts a fresh conversation containing the original task and the compacted state, and execution resumes under the same system prompt."
+          },
+          "text": "The harness starts a fresh conversation containing the original task and the compacted state, and execution resumes under the same system prompt.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793935666909,
+          "id": "hk-ai-preview-1793935666908-6698",
+          "kind": "passage",
+          "note": "AI：作者質疑長上下文是否真的不可或缺。\n為何重要：這是整篇研究要回答的核心問題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666907,
+              "end": {
+                "css": "p#S1\\.I1\\.i0\\.p1\\.1",
+                "textOffset": 28
+              },
+              "quote": {
+                "exact": "Are long contexts necessary?",
+                "prefix": "ught beneficial to model task accuracy, we must ask:\n\nRQ0 \n\n",
+                "suffix": "\n\n\nIf not, let’s do away with long contexts and long-context"
+              },
+              "start": {
+                "css": "div#S1\\.I1\\.i0\\.p1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[6]/ol[1]/li[1]/div[1]/p[1]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[6]/ol[1]/li[1]/div[1]/text()[1]",
+            "text": "Are long contexts necessary?"
+          },
+          "text": "Are long contexts necessary?",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793935666911,
+          "id": "hk-ai-preview-1793935666909-8253",
+          "kind": "passage",
+          "note": "AI：不同位置的 Token，生成成本並不相同。\n為何重要：說明長 Context 為何造成推論負擔。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666909,
+              "end": {
+                "css": "p#S1\\.p1\\.1",
+                "textOffset": 35
+              },
+              "quote": {
+                "exact": "Not all tokens are generated equal.",
+                "prefix": ".6×5.6\\times more for Kimi, and 7×7\\times more for Qwen.\n\n\n\n",
+                "suffix": "\nToken generation latency and memory footprint both grow wit"
+              },
+              "start": {
+                "css": "div#S1\\.p1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[1]/text()[1]",
+            "text": "Not all tokens are generated equal."
+          },
+          "text": "Not all tokens are generated equal.",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793935666914,
+          "id": "hk-ai-preview-1793935666912-40639",
+          "kind": "term",
+          "note": "AI：透過自然語言狀態延續任務的模型構想。\n例子：傳遞目前進度，讓下一次推論繼續工作。\n在本文：提出 Post-training 方向，尚未訓練驗證。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666911,
+              "end": {
+                "css": "ol.ltx_toclist > li.ltx_tocentry.ltx_tocentry_section:nth-of-type(6) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 39
+              },
+              "quote": {
+                "exact": "Semantic State Space Models (SSSMs)",
+                "prefix": "texts\n5 Compaction can be performed after every action\n\n5.1 ",
+                "suffix": ".\n\n6 Conclusion\nReferences\nA What characterizes a good compa"
+              },
+              "start": {
+                "css": "li.ltx_tocentry.ltx_tocentry_section:nth-of-type(6) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection > a.ltx_ref > span.ltx_text.ltx_ref_title > span.ltx_tag.ltx_tag_ref",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 35,
+            "endXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[6]/ol[1]/li[1]/a[1]/span[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[6]/ol[1]/li[1]/a[1]/span[1]/span[1]/text()[1]",
+            "text": "Semantic State Space Models (SSSMs)"
+          },
+          "text": "Semantic State Space Models (SSSMs)",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793935666916,
+          "id": "hk-ai-preview-1793935666914-27192",
+          "kind": "term",
+          "note": "AI：每執行一次 Action，就更新並壓縮狀態。\n例子：修改程式後，只保留修復進度與下一步。\n在本文：已實驗，短 Context 仍能完成長流程任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666914,
+              "end": {
+                "css": "ol.ltx_toclist.ltx_toclist_subsection > li.ltx_tocentry.ltx_tocentry_subsubsection:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_subsubsection > li.ltx_tocentry.ltx_tocentry_paragraph:nth-of-type(3) > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 30
+              },
+              "quote": {
+                "exact": "Single-Action Compaction (SAC)",
+                "prefix": " Accumulation (FHA).\nEnd-of-Conversation Compaction (EoCC).\n",
+                "suffix": ".\nContext length measures.\n\n2.4.2 Accommodations for long in"
+              },
+              "start": {
+                "css": "li.ltx_tocentry.ltx_tocentry_section:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection:nth-of-type(4) > ol.ltx_toclist.ltx_toclist_subsection > li.ltx_tocentry.ltx_tocentry_subsubsection:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_subsubsection",
+                "textOffset": 73
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[3]/ol[1]/li[4]/ol[1]/li[3]/ol[1]/li[3]/a[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[3]/ol[1]/li[4]/ol[1]/li[3]/ol[1]/text()[3]",
+            "text": "Single-Action Compaction (SAC)"
+          },
+          "text": "Single-Action Compaction (SAC)",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793935666919,
+          "id": "hk-ai-preview-1793935666917-8646",
+          "kind": "term",
+          "note": "AI：Context 達到門檻後，壓縮歷史並重新開始。\n例子：累積到 12K Tokens 後產生任務摘要。\n在本文：已實驗，多數任務維持接近原有準確率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666917,
+              "end": {
+                "css": "ol.ltx_toclist.ltx_toclist_subsection > li.ltx_tocentry.ltx_tocentry_subsubsection:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_subsubsection > li.ltx_tocentry.ltx_tocentry_paragraph:nth-of-type(2) > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 37
+              },
+              "quote": {
+                "exact": "End-of-Conversation Compaction (EoCC)",
+                "prefix": "ng conversational context\n\nFull-History Accumulation (FHA).\n",
+                "suffix": ".\nSingle-Action Compaction (SAC).\nContext length measures.\n\n"
+              },
+              "start": {
+                "css": "li.ltx_tocentry.ltx_tocentry_section:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection:nth-of-type(4) > ol.ltx_toclist.ltx_toclist_subsection > li.ltx_tocentry.ltx_tocentry_subsubsection:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_subsubsection",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[3]/ol[1]/li[4]/ol[1]/li[3]/ol[1]/li[2]/a[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[3]/ol[1]/li[4]/ol[1]/li[3]/ol[1]/text()[2]",
+            "text": "End-of-Conversation Compaction (EoCC)"
+          },
+          "text": "End-of-Conversation Compaction (EoCC)",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793935666922,
+          "id": "hk-ai-preview-1793935666920-24403",
+          "kind": "term",
+          "note": "AI：模型單次推論可處理的最大 Token 範圍。\n例子：256K Window 最多容納約 256K Tokens。\n在本文：研究縮小所需 Window 的可行性。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793935666919,
+              "end": {
+                "css": "ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection > ol.ltx_toclist.ltx_toclist_subsection > li.ltx_tocentry.ltx_tocentry_paragraph:nth-of-type(5) > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "Context window",
+                "prefix": "ns\n\nInference step.\nInput context.\nOutput context.\nContext.\n",
+                "suffix": " and context window size.\nLong context.\nShort context.\nLong-"
+              },
+              "start": {
+                "css": "nav.ltx_TOC > ol.ltx_toclist > li.ltx_tocentry.ltx_tocentry_section:nth-of-type(3) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection > ol.ltx_toclist.ltx_toclist_subsection",
+                "textOffset": 57
               },
               "version": 1
             },
             "endOffset": 14,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
-            "text": "Context length"
+            "endXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[3]/ol[1]/li[1]/ol[1]/li[5]/a[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[3]/ol[1]/li[1]/ol[1]/text()[5]",
+            "text": "Context window"
           },
-          "text": "Context length",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
+          "text": "Context window",
+          "url": "https://arxiv.org/html/2611.05306v1"
         },
         {
           "color": "#fff5b8",
-          "createdAt": 1793611319743,
-          "id": "hk-1793611319732-74255",
-          "note": "Text、Code、Image、Video、Audio\n\n例如使用文字「紅色汽車」，就能檢索相關圖片，而不需要先把圖片轉成文字",
+          "createdAt": 1793936342849,
+          "id": "hk-1793936342734-28045",
+          "note": "Context Length ↑ \nDecode Latency ↑ \nMemory Usage ↑",
           "range": {
             "anchors": {
-              "createdAt": 1793611319731,
+              "createdAt": 1793946139283,
               "end": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 482
+                "css": "p#abstract1\\.1",
+                "textOffset": 149
               },
               "quote": {
-                "exact": "Text, Images, Video, Audio",
-                "prefix": "rojection Layer\n512→768\n\n\nInput/Output\nSupported Modalities\n",
-                "suffix": "\n\n\n\nContext Window\n8,192 tokens\n\n\n\nNative Output Dimension\n7"
+                "exact": "Later tokens are costlier to generate than earlier tokens.\nOn frontier open weight models, the disparity in cost may rise to as much as 7x.",
+                "prefix": "Greg Heinrich\n\n  \nPavlo Molchanov\n\n\nAbstract\n    \nAbstract. ",
+                "suffix": "\nThrough frequent compaction, we show across a broad range o"
               },
               "start": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 456
+                "css": "p#abstract1\\.1",
+                "textOffset": 10
               },
               "version": 1
             },
-            "endOffset": 26,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
-            "text": "Text, Images, Video, Audio"
+            "endOffset": 140,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "text": "Later tokens are costlier to generate than earlier tokens.\nOn frontier open weight models, the disparity in cost may rise to as much as 7x."
           },
-          "text": "Text, Images, Video, Audio",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
+          "text": "Later tokens are costlier to generate than earlier tokens.\nOn frontier open weight models, the disparity in cost may rise to as much as 7x.",
+          "url": "https://arxiv.org/html/2611.05306v1"
         },
         {
           "color": "#fff5b8",
-          "createdAt": 1793611331620,
-          "id": "hk-1793611331603-26714",
+          "createdAt": 1793936464602,
+          "id": "hk-1793936464490-61736",
+          "note": "歷史資料改成使用\nState → Action → Observation → Next State  的方式傳入\n\n這樣可以減少很多 Tokens 只傳入\"資訊\"，但是很擔心會刪除掉重要內容",
+          "range": {
+            "anchors": {
+              "createdAt": 1793946139302,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 577
+              },
+              "quote": {
+                "exact": "SSSMs",
+                "prefix": "that we outline the concept of semantic state space models (",
+                "suffix": ").\nOur findings question the need for long-context language "
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 572
+              },
+              "version": 1
+            },
+            "endOffset": 428,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 423,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[2]",
+            "text": "SSSMs"
+          },
+          "text": "SSSMs",
+          "url": "https://arxiv.org/html/2611.05306v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793936912981,
+          "id": "hk-1793936912887-57793",
           "note": "",
           "range": {
             "anchors": {
-              "createdAt": 1793611331602,
+              "createdAt": 1793936912886,
               "end": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 513
+                "css": "span#S1\\.F1\\.3",
+                "textOffset": 24
               },
               "quote": {
-                "exact": "8,192 tokens",
-                "prefix": "ted Modalities\nText, Images, Video, Audio\n\n\n\nContext Window\n",
-                "suffix": "\n\n\n\nNative Output Dimension\n768\n\n\n\nMRL Truncation Dimensions"
+                "exact": "The cost of long context",
+                "prefix": "t: Local Frontier Intelligence\n\n\n1 Introduction\n\n\nFigure 1: ",
+                "suffix": ".\nDollar cost of generating 11M output tokens on an existing"
               },
               "start": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
-                "textOffset": 501
+                "css": "span#S1\\.F1\\.3",
+                "textOffset": 0
               },
               "version": 1
             },
-            "endOffset": 12,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/figure[1]/figcaption[1]/span[2]/text()[1]",
             "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
-            "text": "8,192 tokens"
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/figure[1]/figcaption[1]/span[2]/text()[1]",
+            "text": "The cost of long context"
           },
-          "text": "8,192 tokens",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611368325,
-          "id": "hk-1793611368316-43776",
-          "note": "可以縮短 Embedding 維度，降低向量資料庫的儲存與檢索成本\n維度\t多語 MTEB 分數\t向量儲存量\n768d\t  61.36\t100%\n512d\t  61.17\t66.7%\n256d\t  60.41\t33.3%\n128d\t  57.89\t16.7%\n\nGoogle 官方 Benchmark，儲存量以相同數值精度、僅計向量本體估算",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611368315,
-              "end": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1454
-              },
-              "quote": {
-                "exact": "Matryoshka Representation Learning (MRL)",
-                "prefix": " to load only the modalities required for their use case.  \n",
-                "suffix": ": Native support for truncated embeddings across 128d, 256d,"
-              },
-              "start": {
-                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
-                "textOffset": 1414
-              },
-              "version": 1
-            },
-            "endOffset": 40,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
-            "text": "Matryoshka Representation Learning (MRL)"
-          },
-          "text": "Matryoshka Representation Learning (MRL)",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793611417911,
-          "id": "hk-1793611417893-58459",
-          "note": "不需要完整載入 740M 參數\n- Text / Code：270M\n- Text + Image：440M\n- Text + Audio：570M\n- 全模態：740M\n能依照實際 RAG 需求降低記憶體佔用",
-          "range": {
-            "anchors": {
-              "createdAt": 1793611417892,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
-                "textOffset": 40
-              },
-              "quote": {
-                "exact": "Selective Encoder Loading",
-                "prefix": "encode(f\"title: {title} | text: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. ",
-                "suffix": "\n\t\n\nThe vision and audio encoders are independent components"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
-                "textOffset": 15
-              },
-              "version": 1
-            },
-            "endOffset": 31,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
-            "startOffset": 6,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
-            "text": "Selective Encoder Loading"
-          },
-          "text": "Selective Encoder Loading",
-          "url": "https://huggingface.co/google/embeddinggemma-2"
+          "text": "The cost of long context",
+          "url": "https://arxiv.org/html/2611.05306v1"
         }
       ],
       "note": {
-        "generatedAt": 1791790471581,
-        "model": "chatgpt-web",
-        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
-        "provider": "chatgpt",
-        "url": "https://huggingface.co/google/embeddinggemma-2"
-      },
-      "mindmap": null
-    },
-    {
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "tags": [
-        "成本控制",
-        "自然語言處理",
-        "開源模型",
-        "機器學習"
-      ],
-      "entries": [
-        {
-          "color": "#fff5b8",
-          "createdAt": 1793089103517,
-          "id": "hk-ai-preview-1793089103516-10321",
-          "note": "AI：模型專門化優化應將視角延伸至比資料與權重更早的詞表層",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103514,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 12692
-              },
-              "quote": {
-                "exact": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
-                "prefix": "77%, with the same base model and the same training recipe.\n",
-                "suffix": "\nThe full method, the tables for every experiment and the di"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 12584
-              },
-              "version": 1
-            },
-            "endOffset": 108,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[45]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[53]",
-            "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary."
-          },
-          "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793089103518,
-          "id": "hk-ai-preview-1793089103518-98163",
-          "note": "AI：VocabX 在各領域與模型測試中的壓縮表現均全面領先參照方法",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103517,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 11908
-              },
-              "quote": {
-                "exact": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
-                "prefix": "mining and test documents, and the same vocabulary ceiling.\n",
-                "suffix": " In estimated inference cost, the pruned version of VocabX a"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 11799
-              },
-              "version": 1
-            },
-            "endOffset": 109,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[42]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[49]",
-            "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points."
-          },
-          "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1793089103520,
-          "id": "hk-ai-preview-1793089103520-49633",
-          "note": "AI：過度壓縮決策關鍵區段會對模型輸出品質造成負面影響",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103518,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 11423
-              },
-              "quote": {
-                "exact": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
-                "prefix": "or the fused version.\nThe lesson applies beyond the grader. ",
-                "suffix": "\n\n\t\n\t\t\n\t\n\t\n\t\tBeyond the Grader\n\t\n\nTo find out whether the ga"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 11214
-              },
-              "version": 1
-            },
-            "endOffset": 247,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
-            "startOffset": 38,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
-            "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter."
-          },
-          "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793089103521,
-          "id": "hk-ai-preview-1793089103520-29994",
-          "note": "AI：綜合評分指標是用來衡量批改準確度與篩選能力的標準，在本文中扮演驗證模型優化後品質提升的角色",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103520,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 10769
-              },
-              "quote": {
-                "exact": "bench score",
-                "prefix": "n. It was the most compact option, but quality dropped: its ",
-                "suffix": " was 0.689, below the production grader's 0.703. With the gr"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 10758
-              },
-              "version": 1
-            },
-            "endOffset": 231,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
-            "startOffset": 220,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
-            "text": "bench score"
-          },
-          "text": "bench score",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793089103521,
-          "id": "hk-ai-preview-1793089103521-24275",
-          "note": "AI：巨集 Token 是將重複出現的完整短語或結構合併為單一 Token 的機制，在本文中扮演大幅減少輸出 Token 數的角色",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103521,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 10699
-              },
-              "quote": {
-                "exact": "macro token",
-                "prefix": " competency's grade with the surrounding JSON into a single ",
-                "suffix": ". It was the most compact option, but quality dropped: its b"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 10688
-              },
-              "version": 1
-            },
-            "endOffset": 161,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
-            "startOffset": 150,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
-            "text": "macro token"
-          },
-          "text": "macro token",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793089103524,
-          "id": "hk-ai-preview-1793089103523-61531",
-          "note": "AI：優化詞表使批改器推論成本大降七成七並提升品質",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103521,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 10537
-              },
-              "quote": {
-                "exact": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
-                "prefix": "nce server, and cost was calculated from measured runtime.\n\n",
-                "suffix": "\nGetting there required a course correction. The first versi"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 10293
-              },
-              "version": 1
-            },
-            "endOffset": 244,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[38]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[44]",
-            "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810."
-          },
-          "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793089103526,
-          "id": "hk-ai-preview-1793089103525-74361",
-          "note": "AI：運用統計估算方法補足樣本未覆蓋候選詞的真實增益",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103524,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 9673
-              },
-              "quote": {
-                "exact": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
-                "prefix": "s already chosen, and only that part needs to be estimated. ",
-                "suffix": " A candidate that is rare in the sample but frequent in the "
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 9543
-              },
-              "version": 1
-            },
-            "endOffset": 392,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
-            "startOffset": 262,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
-            "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero."
-          },
-          "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793089103527,
-          "id": "hk-ai-preview-1793089103526-17332",
-          "note": "AI：VocabX 同時在子詞層與多詞層重建詞表以消除冗餘",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103526,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 8115
-              },
-              "quote": {
-                "exact": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
-                "prefix": "week and sending the kit in a single box. VocabX does both. ",
-                "suffix": " Both layers are chosen under the same cost criterion, each "
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 7858
-              },
-              "version": 1
-            },
-            "endOffset": 99,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[3]",
-            "startOffset": 198,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[2]",
-            "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token."
-          },
-          "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793089103528,
-          "id": "hk-ai-preview-1793089103527-23588",
-          "note": "AI：以成本與時間作為詞表優化與候選評估的核心依據",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103527,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 7345
-              },
-              "quote": {
-                "exact": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
-                "prefix": " path to solving the first.\nFirst, we changed the question. ",
-                "suffix": " Each eliminated token is multiplied by the price of the fie"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 7253
-              },
-              "version": 1
-            },
-            "endOffset": 93,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
-            "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves."
-          },
-          "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1793089103528,
-          "id": "hk-ai-preview-1793089103528-82943",
-          "note": "AI：鍵值快取是隨著上下文增長而佔用記憶體頻寬的注意力記憶體，在本文解碼階段扮演推論成本放大的關鍵因素",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103528,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4280
-              },
-              "quote": {
-                "exact": "KV cache",
-                "prefix": "ot solve it. At every decode step, the model also reads the ",
-                "suffix": ", the attention memory that holds the context already proces"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 4272
-              },
-              "version": 1
-            },
-            "endOffset": 249,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
-            "startOffset": 241,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
-            "text": "KV cache"
-          },
-          "text": "KV cache",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793089103528,
-          "id": "hk-ai-preview-1793089103528-4780",
-          "note": "AI：VocabX 是一種基於成本權重的領域特定詞表適應方法，在本文中扮演重構詞表以大幅降低推論成本的核心角色",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103528,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 574
-              },
-              "quote": {
-                "exact": "VocabX",
-                "prefix": "to many tokens. This article previews some results from the ",
-                "suffix": " paper, which we will publish soon: how we specialized the v"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 568
-              },
-              "version": 1
-            },
-            "endOffset": 162,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
-            "startOffset": 156,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
-            "text": "VocabX"
-          },
-          "text": "VocabX",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#ece3fa",
-          "createdAt": 1793089103529,
-          "id": "hk-ai-preview-1793089103529-46746",
-          "note": "AI：生產環境中的作文批改器面臨高頻文本被過度切片的痛點",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103528,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 523
-              },
-              "quote": {
-                "exact": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
-                "prefix": "vocabulary built for many domains and general applications.\n",
-                "suffix": " This article previews some results from the VocabX paper, w"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 412
-              },
-              "version": 1
-            },
-            "endOffset": 111,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[3]",
-            "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens."
-          },
-          "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        },
-        {
-          "color": "#ece3fa",
-          "createdAt": 1793089103529,
-          "id": "hk-ai-preview-1793089103529-74544",
-          "note": "AI：微調後的通用開源模型沿用了涵蓋多領域的既有詞表",
-          "range": {
-            "anchors": {
-              "createdAt": 1793089103529,
-              "end": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 411
-              },
-              "quote": {
-                "exact": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
-                "prefix": "g Only for the Tokens That Matter Sources Further Reading  \n",
-                "suffix": "\nIn an essay grader we run in production, that vocabulary sp"
-              },
-              "start": {
-                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
-                "textOffset": 233
-              },
-              "version": 1
-            },
-            "endOffset": 178,
-            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/em[1]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[2]",
-            "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications."
-          },
-          "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
-        }
-      ],
-      "note": {
+        "context": "大型語言模型的 Context Window 不斷增加，但處理長上下文需要更多運算資源。隨著輸入歷史變長，Token 生成速度下降、記憶體需求增加，雲端部署成本也隨之提高，因此作者開始質疑：完成複雜任務真的需要完整的長上下文嗎？\n\n作者將問題分成 Long-horizon Tasks（長流程任務）與 Long-input Tasks（長輸入任務），分別研究歷史紀錄累積與大量文件輸入的問題。研究比較完整保留歷史、定期壓縮歷史，以及每次執行動作後立即壓縮三種方式，並透過 Selective Input Reading 減少不必要的文件輸入。\n\n實驗顯示，頻繁壓縮通常能維持接近完整上下文的任務準確率。長流程任務的估計成本可降低數倍，而長文件任務透過選擇性讀取，在部分測試中甚至能提高準確率，顯示任務資訊量與實際需要放入 Context 的資訊量並不相同。\n\n然而，Compaction 屬於有損壓縮，可能遺失後續任務需要的資訊。作者因此強調保留任務狀態與提供外部資料存取的重要性，並進一步提出 Semantic State Space Models（SSSMs），希望未來透過 Post-training，讓模型更有效率地維護語意狀態。",
         "formatVersion": 2,
-        "generatedAt": 1793089103531,
+        "generatedAt": 1793935668234,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "不同位置的 Token，生成成本並不相同。\n為何重要：說明長 Context 為何造成推論負擔。",
+            "source": "",
+            "text": "Not all tokens are generated equal.",
+            "unavailable": false
+          },
+          {
+            "color": "#ece3fa",
+            "covered": false,
+            "extra": "",
+            "kind": "passage",
+            "reason": "256K 工作負載的生成成本增加 3.6～7 倍。\n為何重要：量化縮短 Context 可能帶來的成本效益。",
+            "source": "",
+            "text": "Serving at a context window size of 256K rather than 16K costs 3.6× more per generated token for GLM, 5.6× more for Kimi, and 7× more for Qwen.",
+            "unavailable": true
+          },
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "作者質疑長上下文是否真的不可或缺。\n為何重要：這是整篇研究要回答的核心問題。",
+            "source": "",
+            "text": "Are long contexts necessary?",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "EoCC 以原始任務與壓縮狀態重新開始。\n為何重要：不必修改模型，就能避免歷史無限累積。",
+            "source": "",
+            "text": "The harness starts a fresh conversation containing the original task and the compacted state, and execution resumes under the same system prompt.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "SAC 幾乎不保留完整歷史，只維護語意狀態。\n為何重要：將 Context 管理推向每次動作後壓縮。",
+            "source": "",
+            "text": "This regime maintains a compact semantic state and essentially no conversational history.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "此為成本模型估計，不是實際 API 帳單。",
+            "kind": "passage",
+            "reason": "長流程任務的估計成本節省相當可觀。\n為何重要：EoCC 成本改善約為 2.2～8.8 倍。",
+            "source": "",
+            "text": "These represent the estimated cost savings as a consequence of serving only shorter context window sizes, and are considerable.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "壓縮一定可能遺失部分歷史資訊。\n為何重要：說明 Accuracy 不可能無條件保證。",
+            "source": "",
+            "text": "Compaction is a lossy context compression method.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "需要保存的資訊，不一定要全部放進 Context。\n為何重要：外部儲存與按需讀取可以降低輸入負擔。",
+            "source": "",
+            "text": "In other words, there is a difference between information that needs to be a part of model context and information that could, in principle, be retrieved selectively on a “need-to-know basis”.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "文件變長，不代表解題所需資訊等比例增加。\n為何重要：支持長文件優先採用 Selective Reading。",
+            "source": "",
+            "text": "The near-zero median number of compactions and the roughly constant conversation lengths as document size grows support the intuition that despite the long inputs provided to tasks, the actual amount of information required to solve those tasks remains low.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "covered": false,
+            "extra": "SWE-bench 上 Opus 為 70.2%，GPT 為 82.4%。",
+            "kind": "passage",
+            "reason": "SAC 將 Peak Context 中位數維持在 7～9K。\n為何重要：證明單次動作不需要完整歷史。",
+            "source": "",
+            "text": "Meanwhile, across both models and benchmarks, median peak live context under SAC is only 7–9K tokens",
+            "unavailable": true
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "本文尚未實作並驗證專門訓練的 SSSM。",
+            "kind": "passage",
+            "reason": "作者提出以語意狀態延續任務的模型方向。\n為何重要：將外部 Compaction 延伸到模型訓練。",
+            "source": "",
+            "text": "We propose the notion of a Semantic State Space Model (SSSM).",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "研究未證明所有任務都適合短 Context。\n為何重要：避免將實驗結果誤解為完全淘汰長上下文。",
+            "source": "",
+            "text": "Our evidence does not rule out the existence of tasks for which long context is beneficial, nor does it prove that every possible task can be solved with short context.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "explanation": "模型單次推論可處理的最大 Token 範圍。\n例子：256K Window 最多容納約 256K Tokens。\n在本文：研究縮小所需 Window 的可行性。",
+            "kind": "term",
+            "reason": "模型單次推論可處理的最大 Token 範圍。\n例子：256K Window 最多容納約 256K Tokens。\n在本文：研究縮小所需 Window 的可行性。",
+            "text": "Context window",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "Context 達到門檻後，壓縮歷史並重新開始。\n例子：累積到 12K Tokens 後產生任務摘要。\n在本文：已實驗，多數任務維持接近原有準確率。",
+            "kind": "term",
+            "reason": "Context 達到門檻後，壓縮歷史並重新開始。\n例子：累積到 12K Tokens 後產生任務摘要。\n在本文：已實驗，多數任務維持接近原有準確率。",
+            "text": "End-of-Conversation Compaction (EoCC)",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "每執行一次 Action，就更新並壓縮狀態。\n例子：修改程式後，只保留修復進度與下一步。\n在本文：已實驗，短 Context 仍能完成長流程任務。",
+            "kind": "term",
+            "reason": "每執行一次 Action，就更新並壓縮狀態。\n例子：修改程式後，只保留修復進度與下一步。\n在本文：已實驗，短 Context 仍能完成長流程任務。",
+            "text": "Single-Action Compaction (SAC)",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "只讀取目前需要的文件內容。\n例子：使用 sed 讀取文件中特定行數。\n在本文：已實驗，多數長輸入測試表現不低於基準。",
+            "kind": "term",
+            "reason": "只讀取目前需要的文件內容。\n例子：使用 sed 讀取文件中特定行數。\n在本文：已實驗，多數長輸入測試表現不低於基準。",
+            "text": "Selective input reading",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "透過自然語言狀態延續任務的模型構想。\n例子：傳遞目前進度，讓下一次推論繼續工作。\n在本文：提出 Post-training 方向，尚未訓練驗證。",
+            "kind": "term",
+            "reason": "透過自然語言狀態延續任務的模型構想。\n例子：傳遞目前進度，讓下一次推論繼續工作。\n在本文：提出 Post-training 方向，尚未訓練驗證。",
+            "text": "Semantic State Space Models (SSSMs)",
+            "unavailable": false
+          }
+        ],
         "model": "chatgpt-web",
-        "note": "通用開源模型的既有詞表在單一領域應用中常造成 Token 過度切片與未用詞彙的冗餘計算，其中推論階段的解碼成本尤高。為此，本文提出了 VocabX 方法，透過成本權重而非頻率來評估詞表，並同步結合子詞層重構與多詞層巨集 Token 機制。實驗結果表明，該方法在生產環境的作文批改器中成功將推論成本大降 77%，同時提升了評分品質。然而研究也發現，過度壓縮承載關鍵決策的區段會折損表現，證明模型專門化應從詞表層面切入而非僅限於資料與權重。",
         "provider": "chatgpt",
-        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        "unlocatedHighlights": [
+          {
+            "reason": "256K 工作負載的生成成本增加 3.6～7 倍。\n為何重要：量化縮短 Context 可能帶來的成本效益。",
+            "text": "Serving at a context window size of 256K rather than 16K costs 3.6× more per generated token for GLM, 5.6× more for Kimi, and 7× more for Qwen.",
+            "unavailable": true
+          },
+          {
+            "reason": "SAC 將 Peak Context 中位數維持在 7～9K。\n為何重要：證明單次動作不需要完整歷史。",
+            "text": "Meanwhile, across both models and benchmarks, median peak live context under SAC is only 7–9K tokens",
+            "unavailable": true
+          }
+        ],
+        "unlocatedTerms": [],
+        "url": "https://arxiv.org/html/2611.05306v1"
       },
-      "mindmap": null
+      "mindmap": {
+        "generatedAt": 1793935668351,
+        "outline": "# You don’t need long context\n\n- 1. Introduction\n  - 長 Context 的成本\n    - Decode 延遲增加\n    - 記憶體需求增加\n    - 雲端成本增加\n  - 核心研究問題\n    - 長流程需要長歷史嗎\n    - 長輸入需要全讀嗎\n    - 每輪只能做一步嗎\n\n- 2. Methodology\n  - 定義 Context\n    - Input Context\n    - Output Context\n    - Context Window\n  - 評估任務\n    - Long-horizon\n    - Long-input\n  - Context 管理策略\n    - FHA：完整歷史\n    - EoCC：門檻壓縮\n    - SAC：每次動作壓縮\n  - Selective Input Reading\n    - 文件存入環境\n    - 使用 Bash 按需讀取\n  - 成本與延遲測量\n    - H100 雲端部署\n    - DGX Spark 本地測試\n\n- 3. Long-horizon Tasks\n  - 頻繁壓縮\n    - 多數準確率接近基準\n    - 估計成本下降\n  - 歷史資訊遺失\n    - 壓縮屬於有損\n    - 外部歷史按需讀取\n\n- 4. Long-input Tasks\n  - 選擇性讀取\n    - 避免一次輸入全文\n    - 必要時再壓縮\n  - 實驗結果\n    - 多數準確率維持或提升\n    - Context 長度受控制\n\n- 5. Single-Action Compaction\n  - 每輪執行一個 Action\n    - 讀取 Semantic State\n    - 執行並觀察結果\n    - 更新 Semantic State\n  - SAC 實驗\n    - Peak Context 7～9K\n    - 表現接近完整歷史\n  - SSSM\n    - 理解任務狀態\n    - 決定下一步 Action\n    - 更新自然語言狀態\n    - 未來 Post-training\n\n- 6. Conclusion\n  - 長任務不必然需要長 Context\n  - 保留必要資訊更重要\n  - 無法保證所有任務適用\n\n- Appendix\n  - A. 有效壓縮的條件\n    - 保留原始任務\n    - 保留進度與意圖\n    - 保留必要執行產物\n  - B. 成本估計方法\n  - C–F. 詳細實驗結果",
+        "title": "You don’t need long context"
+      }
     },
     {
       "url": "https://blog.bytebytego.com/p/how-smart-model-routing-can-cut-llm",
@@ -2362,379 +2463,6 @@
       "mindmap": null
     },
     {
-      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
-      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
-      "tags": [
-        "人工智慧",
-        "成本控制",
-        "提示詞工程",
-        "機器學習",
-        "OpenAI API"
-      ],
-      "entries": [
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119047,
-          "id": "hk-ai-1783916119046-30444",
-          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
-          "range": {
-            "anchors": {
-              "createdAt": 1784000642421,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
-                "textOffset": 234
-              },
-              "quote": {
-                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
-                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
-                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
-                "textOffset": 184
-              },
-              "version": 1
-            },
-            "endOffset": 86,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
-            "startOffset": 36,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
-            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
-          },
-          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119047,
-          "id": "hk-ai-1783916119047-74884",
-          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022174,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
-                "textOffset": 85
-              },
-              "quote": {
-                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
-                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
-                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
-                "textOffset": 40
-              },
-              "version": 1
-            },
-            "endOffset": 85,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
-            "startOffset": 40,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
-            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
-          },
-          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119048,
-          "id": "hk-ai-1783916119047-39561",
-          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783998347163,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
-                "textOffset": 275
-              },
-              "quote": {
-                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
-                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
-                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
-                "textOffset": 228
-              },
-              "version": 1
-            },
-            "endOffset": 275,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
-            "startOffset": 228,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
-            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
-          },
-          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119048,
-          "id": "hk-ai-1783916119048-35651",
-          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022302,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
-                "textOffset": 48
-              },
-              "quote": {
-                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
-                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
-                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
-                "textOffset": 108
-              },
-              "version": 1
-            },
-            "endOffset": 48,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
-            "startOffset": 108,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
-            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
-          },
-          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119049,
-          "id": "hk-ai-1783916119049-92669",
-          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
-          "range": {
-            "anchors": {
-              "createdAt": 1784000564166,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
-                "textOffset": 209
-              },
-              "quote": {
-                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
-                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
-                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
-                "textOffset": 176
-              },
-              "version": 1
-            },
-            "endOffset": 34,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
-            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
-          },
-          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119049,
-          "id": "hk-ai-1783916119049-68125",
-          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022361,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
-                "textOffset": 106
-              },
-              "quote": {
-                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
-                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
-                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
-                "textOffset": 21
-              },
-              "version": 1
-            },
-            "endOffset": 98,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
-            "startOffset": 13,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
-            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
-          },
-          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119050,
-          "id": "hk-ai-1783916119049-48527",
-          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783998347440,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
-                "textOffset": 60
-              },
-              "quote": {
-                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
-                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
-                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
-              },
-              "start": {
-                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
-                "textOffset": 8
-              },
-              "version": 1
-            },
-            "endOffset": 60,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
-            "startOffset": 8,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
-            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
-          },
-          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119052,
-          "id": "hk-ai-1783916119051-15100",
-          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022492,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
-                "textOffset": 55
-              },
-              "quote": {
-                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
-                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
-                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 55,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
-            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
-          },
-          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119052,
-          "id": "hk-ai-1783916119052-99327",
-          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783998347576,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 207
-              },
-              "quote": {
-                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
-                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
-                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 138
-              },
-              "version": 1
-            },
-            "endOffset": 41,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
-            "startOffset": 138,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
-          },
-          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#f7efa6",
-          "createdAt": 1783916119052,
-          "id": "hk-ai-1783916119052-94048",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022603,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 93
-              },
-              "quote": {
-                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
-                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
-                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 56
-              },
-              "version": 1
-            },
-            "endOffset": 93,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "startOffset": 56,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
-          },
-          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#f7efa6",
-          "createdAt": 1783916119053,
-          "id": "hk-ai-1783916119052-62688",
-          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022638,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
-                "textOffset": 81
-              },
-              "quote": {
-                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
-                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
-                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
-                "textOffset": 34
-              },
-              "version": 1
-            },
-            "endOffset": 4,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
-            "startOffset": 26,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
-            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
-          },
-          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        }
-      ],
-      "note": {
-        "generatedAt": 1783916119321,
-        "model": "chatgpt-web",
-        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
-        "provider": "chatgpt",
-        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-      },
-      "mindmap": null
-    },
-    {
       "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
       "title": "Prompt caching | OpenAI API",
       "tags": [
@@ -3175,6 +2903,1062 @@
         "outline": "# Prompt Caching 提示快取\n\n* 背景／動機\n\n  * Prompt 常重複\n\n    * system prompt\n    * common instructions\n  * 降低成本延遲\n\n    * 延遲最多降 80%\n    * input 成本降 90%\n  * 自動啟用\n\n    * 無需改程式\n    * 無額外費用\n    * GPT-4o 以上支援\n* Prompt 結構\n\n  * 精確前綴匹配\n\n    * prefix 必須相同\n    * 才可能 cache hit\n  * 靜態放前面\n\n    * instructions\n    * examples\n  * 動態放後面\n\n    * user-specific info\n  * 圖片工具一致\n\n    * images 要相同\n    * tools 要相同\n* 運作條件\n\n  * 至少 1024 tokens\n\n    * 才自動啟用\n    * 低於門檻 cached_tokens 為 0\n  * usage 可觀察\n\n    * cached_tokens\n    * prompt_tokens_details\n* 運作流程\n\n  * Cache Routing\n\n    * 依 prefix hash\n\n      * 通常前 256 tokens\n      * 依模型而異\n    * 可用 prompt_cache_key\n\n      * 影響路由\n      * 提高命中率\n    * 避免流量溢出\n\n      * 約 15 req/min\n      * 超過會分流\n      * 降低快取效果\n  * Cache Lookup\n\n    * 查 selected machine\n    * 看 prefix 是否存在\n  * Cache Hit\n\n    * 使用快取結果\n    * 降低延遲\n    * 降低成本\n  * Cache Miss\n\n    * 處理完整 prompt\n    * 之後快取 prefix\n* 快取保留策略\n\n  * 兩種策略\n\n    * in-memory\n    * extended retention\n  * 定價相同\n\n    * 兩者無差異\n  * 可逐請求設定\n\n    * prompt_cache_retention\n    * Responses.create\n    * chat.completions.create\n* In-memory retention\n\n  * 支援多數模型\n\n    * 不含 gpt-5.5\n    * 不含 gpt-5.5-pro\n    * 不含未來模型\n  * 保留時間短\n\n    * 無活動 5-10 分鐘\n    * 最長 1 小時\n  * 儲存在 GPU 記憶體\n\n    * volatile memory\n    * 不寫入磁碟\n* Extended retention\n\n  * 支援指定模型\n\n    * gpt-5.5\n    * gpt-5.5-pro\n    * gpt-5 系列\n    * gpt-4.1\n  * 保留更久\n\n    * 最長 24 小時\n  * gpt-5.5 限制\n\n    * 只支援 24h\n    * 未來模型同樣如此\n  * 使用 KV tensors\n\n    * 來自 attention prefill\n    * 可轉存 GPU-local storage\n    * 原始 prompt 僅在記憶體\n* 可被快取內容\n\n  * Messages\n\n    * system\n    * user\n    * assistant\n  * Images\n\n    * links\n    * base64\n    * detail 要一致\n  * Tool use\n\n    * messages array\n    * available tools\n  * Structured outputs\n\n    * schema 作為 prefix\n    * 可被快取\n* 最佳實務\n\n  * 固定內容前置\n\n    * 靜態 instructions\n    * 重複 examples\n  * 動態內容後置\n\n    * 使用者資料\n    * 變動資訊\n  * 穩定使用 cache key\n\n    * 共用 prefix\n    * 控制粒度\n    * 低於 15 req/min\n  * 監控快取表現\n\n    * cache hit rate\n    * latency\n    * cached tokens 比例\n  * 維持穩定請求\n\n    * 相同 prefix\n    * 減少 eviction\n* 隱私與安全\n\n  * 組織隔離\n\n    * 不跨組織共享\n    * 同組織可用相同快取\n  * Extended 上限\n\n    * KV tensors 最長 24 小時\n  * ZDR 相容\n\n    * in-memory 不寫磁碟\n    * extended 暫存 KV tensors\n    * 過期後不保留\n  * Data Residency\n\n    * in-memory 不影響\n    * regional inference 才區域保留\n* 行為限制\n\n  * 不影響輸出\n\n    * 不改 output tokens\n    * 不改 final response\n    * 回答仍重新計算\n  * 無法手動清除\n\n    * 目前不支援\n    * 未使用會自動清除\n  * 仍計入 TPM\n\n    * 快取不影響 rate limits\n  * 不額外收費\n\n    * 自動發生\n    * 無需手動寫入\n* 結論／影響\n\n  * 適合長 prompt\n\n    * 重複 prefix 越多越有效\n  * 核心價值\n\n    * 降低延遲\n    * 降低 input 成本\n  * 設計重點\n\n    * 固定前綴\n    * 穩定 routing\n    * 選對 retention",
         "title": "Prompt Caching 提示快取"
       }
+    },
+    {
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "tags": [
+        "成本控制",
+        "自然語言處理",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793089103517,
+          "id": "hk-ai-preview-1793089103516-10321",
+          "note": "AI：模型專門化優化應將視角延伸至比資料與權重更早的詞表層",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103514,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12692
+              },
+              "quote": {
+                "exact": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
+                "prefix": "77%, with the same base model and the same training recipe.\n",
+                "suffix": "\nThe full method, the tables for every experiment and the di"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 12584
+              },
+              "version": 1
+            },
+            "endOffset": 108,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[45]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[53]",
+            "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary."
+          },
+          "text": "Specialization usually starts with data and weights. It can also start one layer earlier, in the vocabulary.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103518,
+          "id": "hk-ai-preview-1793089103518-98163",
+          "note": "AI：VocabX 在各領域與模型測試中的壓縮表現均全面領先參照方法",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103517,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11908
+              },
+              "quote": {
+                "exact": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
+                "prefix": "mining and test documents, and the same vocabulary ceiling.\n",
+                "suffix": " In estimated inference cost, the pruned version of VocabX a"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11799
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[42]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[49]",
+            "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points."
+          },
+          "text": "VocabX compressed more than the strongest reference method in all fifteen combinations, by 1.2 to 9.3 points.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793089103520,
+          "id": "hk-ai-preview-1793089103520-49633",
+          "note": "AI：過度壓縮決策關鍵區段會對模型輸出品質造成負面影響",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103518,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11423
+              },
+              "quote": {
+                "exact": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
+                "prefix": "or the fused version.\nThe lesson applies beyond the grader. ",
+                "suffix": "\n\n\t\n\t\t\n\t\n\t\n\t\tBeyond the Grader\n\t\n\nTo find out whether the ga"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 11214
+              },
+              "version": 1
+            },
+            "endOffset": 247,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[40]/text()[1]",
+            "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter."
+          },
+          "text": "Compression has a cost when the compressed span carries the very decision the model exists to make. The goal is not the cheapest possible vocabulary, but the cheapest one that preserves the tokens that matter.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103521,
+          "id": "hk-ai-preview-1793089103520-29994",
+          "note": "AI：綜合評分指標是用來衡量批改準確度與篩選能力的標準，在本文中扮演驗證模型優化後品質提升的角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103520,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10769
+              },
+              "quote": {
+                "exact": "bench score",
+                "prefix": "n. It was the most compact option, but quality dropped: its ",
+                "suffix": " was 0.689, below the production grader's 0.703. With the gr"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10758
+              },
+              "version": 1
+            },
+            "endOffset": 231,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "startOffset": 220,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "text": "bench score"
+          },
+          "text": "bench score",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103521,
+          "id": "hk-ai-preview-1793089103521-24275",
+          "note": "AI：巨集 Token 是將重複出現的完整短語或結構合併為單一 Token 的機制，在本文中扮演大幅減少輸出 Token 數的角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103521,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10699
+              },
+              "quote": {
+                "exact": "macro token",
+                "prefix": " competency's grade with the surrounding JSON into a single ",
+                "suffix": ". It was the most compact option, but quality dropped: its b"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10688
+              },
+              "version": 1
+            },
+            "endOffset": 161,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "startOffset": 150,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[39]/text()[1]",
+            "text": "macro token"
+          },
+          "text": "macro token",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793089103524,
+          "id": "hk-ai-preview-1793089103523-61531",
+          "note": "AI：優化詞表使批改器推論成本大降七成七並提升品質",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103521,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10537
+              },
+              "quote": {
+                "exact": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
+                "prefix": "nce server, and cost was calculated from measured runtime.\n\n",
+                "suffix": "\nGetting there required a course correction. The first versi"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 10293
+              },
+              "version": 1
+            },
+            "endOffset": 244,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[38]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[44]",
+            "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810."
+          },
+          "text": "The model's response dropped from 350 to 101 tokens on average. Cost dropped 77.0%. Quality, measured by the bench score, which combines grading accuracy and the accuracy of screening off-topic or rule-breaking essays, rose from 0.703 to 0.810.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103526,
+          "id": "hk-ai-preview-1793089103525-74361",
+          "note": "AI：運用統計估算方法補足樣本未覆蓋候選詞的真實增益",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103524,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 9673
+              },
+              "quote": {
+                "exact": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
+                "prefix": "s already chosen, and only that part needs to be estimated. ",
+                "suffix": " A candidate that is rare in the sample but frequent in the "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 9543
+              },
+              "version": 1
+            },
+            "endOffset": 392,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
+            "startOffset": 262,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[33]/text()[1]",
+            "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero."
+          },
+          "text": "For candidates the sample cannot see, we use a statistical estimate based on the behavior of the ones it can see, instead of zero.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103527,
+          "id": "hk-ai-preview-1793089103526-17332",
+          "note": "AI：VocabX 同時在子詞層與多詞層重建詞表以消除冗餘",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103526,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 8115
+              },
+              "quote": {
+                "exact": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
+                "prefix": "week and sending the kit in a single box. VocabX does both. ",
+                "suffix": " Both layers are chosen under the same cost criterion, each "
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7858
+              },
+              "version": 1
+            },
+            "endOffset": 99,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[3]",
+            "startOffset": 198,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[26]/text()[2]",
+            "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token."
+          },
+          "text": "At the sub-word layer, it rebuilds how domain words are cut into pieces. At the multi-word layer, it looks for whole spans that repeat, from short expressions to full lines and JSON envelopes, and turns each into a single token, which we call a macro token.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103527-23588",
+          "note": "AI：以成本與時間作為詞表優化與候選評估的核心依據",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103527,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7345
+              },
+              "quote": {
+                "exact": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
+                "prefix": " path to solving the first.\nFirst, we changed the question. ",
+                "suffix": " Each eliminated token is multiplied by the price of the fie"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 7253
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[25]/text()[1]",
+            "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves."
+          },
+          "text": "Instead of asking how many tokens a candidate saves, we ask how much cost and time it saves.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103528-82943",
+          "note": "AI：鍵值快取是隨著上下文增長而佔用記憶體頻寬的注意力記憶體，在本文解碼階段扮演推論成本放大的關鍵因素",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4280
+              },
+              "quote": {
+                "exact": "KV cache",
+                "prefix": "ot solve it. At every decode step, the model also reads the ",
+                "suffix": ", the attention memory that holds the context already proces"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 4272
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "startOffset": 241,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[16]/text()[1]",
+            "text": "KV cache"
+          },
+          "text": "KV cache",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793089103528,
+          "id": "hk-ai-preview-1793089103528-4780",
+          "note": "AI：VocabX 是一種基於成本權重的領域特定詞表適應方法，在本文中扮演重構詞表以大幅降低推論成本的核心角色",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 574
+              },
+              "quote": {
+                "exact": "VocabX",
+                "prefix": "to many tokens. This article previews some results from the ",
+                "suffix": " paper, which we will publish soon: how we specialized the v"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 568
+              },
+              "version": 1
+            },
+            "endOffset": 162,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "startOffset": 156,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "text": "VocabX"
+          },
+          "text": "VocabX",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793089103529,
+          "id": "hk-ai-preview-1793089103529-46746",
+          "note": "AI：生產環境中的作文批改器面臨高頻文本被過度切片的痛點",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103528,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 523
+              },
+              "quote": {
+                "exact": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
+                "prefix": "vocabulary built for many domains and general applications.\n",
+                "suffix": " This article previews some results from the VocabX paper, w"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 412
+              },
+              "version": 1
+            },
+            "endOffset": 111,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[2]/em[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[3]",
+            "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens."
+          },
+          "text": "In an essay grader we run in production, that vocabulary split the text the model writes most into many tokens.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793089103529,
+          "id": "hk-ai-preview-1793089103529-74544",
+          "note": "AI：微調後的通用開源模型沿用了涵蓋多領域的既有詞表",
+          "range": {
+            "anchors": {
+              "createdAt": 1793089103529,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 411
+              },
+              "quote": {
+                "exact": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
+                "prefix": "g Only for the Tokens That Matter Sources Further Reading  \n",
+                "suffix": "\nIn an essay grader we run in production, that vocabulary sp"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative > div.max-w-full.pb-16 > div.max-lg\\:overflow-hidden > div.blog-content.copiable-code-container > div.relative.overflow-clip:nth-of-type(6)",
+                "textOffset": 233
+              },
+              "version": 1
+            },
+            "endOffset": 178,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/p[1]/em[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[6]/text()[2]",
+            "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications."
+          },
+          "text": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications.",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        }
+      ],
+      "note": {
+        "formatVersion": 2,
+        "generatedAt": 1793089103531,
+        "model": "chatgpt-web",
+        "note": "通用開源模型的既有詞表在單一領域應用中常造成 Token 過度切片與未用詞彙的冗餘計算，其中推論階段的解碼成本尤高。為此，本文提出了 VocabX 方法，透過成本權重而非頻率來評估詞表，並同步結合子詞層重構與多詞層巨集 Token 機制。實驗結果表明，該方法在生產環境的作文批改器中成功將推論成本大降 77%，同時提升了評分品質。然而研究也發現，過度壓縮承載關鍵決策的區段會折損表現，證明模型專門化應從詞表層面切入而非僅限於資料與權重。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "title": "google/embeddinggemma-2 · Hugging Face",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "成本控制",
+        "開發者指南",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611253874,
+          "id": "hk-1793611253856-12924",
+          "note": "將文字、程式碼、圖片、影片、音訊轉換到同一個 768 維向量空間，適合 RAG、語意搜尋及跨模態檢索",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611253853,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 298
+              },
+              "quote": {
+                "exact": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
+                "prefix": ".0 | Authors: Google DeepMind\n\n\nEmbeddingGemma 2 is an open ",
+                "suffix": "—and combinations thereof—into a single, unified 768-dimensi"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 185
+              },
+              "version": 1
+            },
+            "endOffset": 125,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/text()[1]",
+            "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs"
+          },
+          "text": "multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611270487,
+          "id": "hk-1793611270468-16913",
+          "note": "EmbeddingGemma 2 是 Google DeepMind 於 2026 年 10 月推出的輕量級 Multimodal Embedding Model",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611270467,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 172
+              },
+              "quote": {
+                "exact": "EmbeddingGemma ",
+                "prefix": "t\n    \n    License: Apache 2.0 | Authors: Google DeepMind\n\n\n",
+                "suffix": "2 is an open multimodal embedding model built by Google Deep"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 157
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/p[2]/strong[1]/text()[1]",
+            "text": "EmbeddingGemma "
+          },
+          "text": "EmbeddingGemma ",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611306284,
+          "id": "hk-1793611306272-84570",
+          "note": "Context Window\t8,192 Tokens",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611306270,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1633
+              },
+              "quote": {
+                "exact": "Context length",
+                "prefix": "n in vector storage costs with minimal impact on quality.  \n",
+                "suffix": ": 8K token context window, capable of processing minutes of "
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1619
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[5]/strong[1]/text()[1]",
+            "text": "Context length"
+          },
+          "text": "Context length",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611319743,
+          "id": "hk-1793611319732-74255",
+          "note": "Text、Code、Image、Video、Audio\n\n例如使用文字「紅色汽車」，就能檢索相關圖片，而不需要先把圖片轉成文字",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611319731,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 482
+              },
+              "quote": {
+                "exact": "Text, Images, Video, Audio",
+                "prefix": "rojection Layer\n512→768\n\n\nInput/Output\nSupported Modalities\n",
+                "suffix": "\n\n\n\nContext Window\n8,192 tokens\n\n\n\nNative Output Dimension\n7"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 456
+              },
+              "version": 1
+            },
+            "endOffset": 26,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[3]/text()[1]",
+            "text": "Text, Images, Video, Audio"
+          },
+          "text": "Text, Images, Video, Audio",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611331620,
+          "id": "hk-1793611331603-26714",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611331602,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 513
+              },
+              "quote": {
+                "exact": "8,192 tokens",
+                "prefix": "ted Modalities\nText, Images, Video, Audio\n\n\n\nContext Window\n",
+                "suffix": "\n\n\n\nNative Output Dimension\n768\n\n\n\nMRL Truncation Dimensions"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > div.max-w-full.overflow-auto:nth-of-type(2)",
+                "textOffset": 501
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[18]/td[3]/text()[1]",
+            "text": "8,192 tokens"
+          },
+          "text": "8,192 tokens",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611368325,
+          "id": "hk-1793611368316-43776",
+          "note": "可以縮短 Embedding 維度，降低向量資料庫的儲存與檢索成本\n維度\t多語 MTEB 分數\t向量儲存量\n768d\t  61.36\t100%\n512d\t  61.17\t66.7%\n256d\t  60.41\t33.3%\n128d\t  57.89\t16.7%\n\nGoogle 官方 Benchmark，儲存量以相同數值精度、僅計向量本體估算",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611368315,
+              "end": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1454
+              },
+              "quote": {
+                "exact": "Matryoshka Representation Learning (MRL)",
+                "prefix": " to load only the modalities required for their use case.  \n",
+                "suffix": ": Native support for truncated embeddings across 128d, 256d,"
+              },
+              "start": {
+                "css": "div.flex.min-h-dvh > main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3)",
+                "textOffset": 1414
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/ul[1]/li[4]/strong[1]/text()[1]",
+            "text": "Matryoshka Representation Learning (MRL)"
+          },
+          "text": "Matryoshka Representation Learning (MRL)",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1793611417911,
+          "id": "hk-1793611417893-58459",
+          "note": "不需要完整載入 740M 參數\n- Text / Code：270M\n- Text + Image：440M\n- Text + Audio：570M\n- 全模態：740M\n能依照實際 RAG 需求降低記憶體佔用",
+          "range": {
+            "anchors": {
+              "createdAt": 1793611417892,
+              "end": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
+                "textOffset": 40
+              },
+              "quote": {
+                "exact": "Selective Encoder Loading",
+                "prefix": "encode(f\"title: {title} | text: {document}\")\n\n\t\n\t\t\n\t\n\t\n\t\t2. ",
+                "suffix": "\n\t\n\nThe vision and audio encoders are independent components"
+              },
+              "start": {
+                "css": "main.flex.flex-1 > div.container.relative:nth-of-type(2) > section.pt-8.border-gray-100 > div.relative.md\\:mt-2:nth-of-type(3) > div.model-card-content.prose:nth-of-type(3) > h3.relative.group:nth-of-type(5)",
+                "textOffset": 15
+              },
+              "version": 1
+            },
+            "endOffset": 31,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[2]/section[1]/div[3]/div[3]/h3[5]/span[1]/text()[1]",
+            "text": "Selective Encoder Loading"
+          },
+          "text": "Selective Encoder Loading",
+          "url": "https://huggingface.co/google/embeddinggemma-2"
+        }
+      ],
+      "note": {
+        "generatedAt": 1791790471581,
+        "model": "chatgpt-web",
+        "note": "Google DeepMind 推出的 EmbeddingGemma 2 是一款參數量小於 1B（總計 740M）的開源多模態嵌入模型，專為行動裝置與筆電等消費級硬體所設計。它能夠將文字、程式碼、圖片、影片及音訊等四種模態統一對應至單一的 768 維向量空間中，並支援超過 100 種語言與程式碼任務。\n\n在架構設計上，該模型展現了高度的彈性與效率。它結合了 270M 的文字主幹與可選擇性載入的視覺（170M）與音訊（300M）編碼器，讓開發者能依據需求僅載入所需模態。同時，它原生支援巢狀表徵學習（MRL），允許將向量截斷至 512d、256d 或 128d，在幾乎不損及模型表現的情況下，最高可減少 6 倍的向量儲存成本。此外，它支援 8K 的長上下文視窗，可處理長達數分鐘的影音內容。\n\n不過，開發者在實際部署時也需要注意特定限制。例如在數值精度上應避免使用容易產生 NaN 的 float16，而建議採用 bfloat16；在進行向量維度截斷後，也必須手動執行 L2 正規化以確保餘弦相似度計算的正確性。由於它僅屬於未經過後訓練對齊的預訓練嵌入模型，開發者在下游應用時仍須自行建立完善的安全過濾與防護機制。",
+        "provider": "chatgpt",
+        "url": "https://huggingface.co/google/embeddinggemma-2"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
+      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
+      "tags": [
+        "人工智慧",
+        "成本控制",
+        "提示詞工程",
+        "機器學習",
+        "OpenAI API"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119046-30444",
+          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000642421,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 234
+              },
+              "quote": {
+                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
+                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 184
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
+          },
+          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119047-74884",
+          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022174,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
+                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
+          },
+          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119047-39561",
+          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347163,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 275
+              },
+              "quote": {
+                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
+                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 228
+              },
+              "version": 1
+            },
+            "endOffset": 275,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "startOffset": 228,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
+          },
+          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119048-35651",
+          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022302,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
+                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
+          },
+          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-92669",
+          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000564166,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 209
+              },
+              "quote": {
+                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
+                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 176
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
+          },
+          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-68125",
+          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022361,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
+                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
+          },
+          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119050,
+          "id": "hk-ai-1783916119049-48527",
+          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347440,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
+                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
+              },
+              "start": {
+                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
+          },
+          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119051-15100",
+          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022492,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
+                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
+          },
+          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-99327",
+          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347576,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
+                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 138
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
+          },
+          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-94048",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022603,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
+                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 56
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
+          },
+          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119053,
+          "id": "hk-ai-1783916119052-62688",
+          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022638,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 81
+              },
+              "quote": {
+                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
+                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
+            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
+          },
+          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783916119321,
+        "model": "chatgpt-web",
+        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+      },
+      "mindmap": null
     }
   ]
 }
