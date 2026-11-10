@@ -4,277 +4,6 @@
   "category": "軟體工程",
   "pages": [
     {
-      "url": "https://ai.kitmori.com/zh/daily",
-      "title": "AI 日報 — 今日 AI 重點 | Aivora",
-      "tags": [
-        "人工智慧",
-        "人工智慧對齊",
-        "大型語言模型",
-        "具身智能",
-        "延遲優化",
-        "軟體工程"
-      ],
-      "entries": [
-        {
-          "color": "#ffe6cc",
-          "createdAt": 1793785906300,
-          "id": "hk-ai-preview-1793785906292-6870",
-          "kind": "passage",
-          "note": "AI：高風險能力受到存取資格與安全政策限制。\n為何重要：區分模型展示的能力與實際可用範圍。",
-          "range": {
-            "anchors": {
-              "createdAt": 1793785906289,
-              "end": {
-                "css": "section#limitations > ul.space-y-2\\.5.rounded-2xl > li.flex.gap-3:nth-of-type(2)",
-                "textOffset": 43
-              },
-              "quote": {
-                "exact": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
-                "prefix": "制與注意事項深度多 Agent 與專屬技能調用需依賴 Google Antigravity 或特定 API 延續協定設定",
-                "suffix": "#Agent#AI Safety#Google DeepMind#LLM#Robotics#Gemini#vLLM原文來"
-              },
-              "start": {
-                "css": "section#limitations > ul.space-y-2\\.5.rounded-2xl > li.flex.gap-3",
-                "textOffset": 54
-              },
-              "version": 1
-            },
-            "endOffset": 43,
-            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[6]/ul[1]/li[2]/span[1]/text()[1]",
-            "startOffset": 54,
-            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[6]/ul[1]/li[1]/span[1]/text()[1]",
-            "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴"
-          },
-          "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
-          "url": "https://ai.kitmori.com/zh/daily"
-        },
-        {
-          "color": "#dfeefc",
-          "createdAt": 1793785906303,
-          "id": "hk-ai-preview-1793785906301-54577",
-          "kind": "passage",
-          "note": "AI：將視覺理解、程式生成與實體控制串接。\n為何重要：展示 AI 能將推理結果轉為物理世界的行動。",
-          "range": {
-            "anchors": {
-              "createdAt": 1793785906300,
-              "end": {
-                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > p.text-sm.leading-relaxed",
-                "textOffset": 60
-              },
-              "quote": {
-                "exact": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
-                "prefix": "數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全新酵素。03機器人 Video-to-Sim-to-Real",
-                "suffix": "04主動資安防禦與嚴格安全對齊協助修復政府與醫療系統防護缺口，將間接提示注入攻擊成功率降至 0.7%，並使模型偏離規則的"
-              },
-              "start": {
-                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
-                "textOffset": 24
-              },
-              "version": 1
-            },
-            "endOffset": 60,
-            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/p[1]/text()[1]",
-            "startOffset": 24,
-            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
-            "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。"
-          },
-          "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
-          "url": "https://ai.kitmori.com/zh/daily"
-        },
-        {
-          "color": "#ffeb3b",
-          "createdAt": 1793785906305,
-          "id": "hk-ai-preview-1793785906304-89077",
-          "kind": "term",
-          "note": "AI：從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
-          "range": {
-            "anchors": {
-              "createdAt": 1793785906303,
-              "end": {
-                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
-                "textOffset": 24
-              },
-              "quote": {
-                "exact": "Video-to-Sim-to-Real",
-                "prefix": "療研究輔助發現核融合 Grad 猜想的新數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全新酵素。03機器人 ",
-                "suffix": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。"
-              },
-              "start": {
-                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
-                "textOffset": 4
-              },
-              "version": 1
-            },
-            "endOffset": 24,
-            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
-            "startOffset": 4,
-            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
-            "text": "Video-to-Sim-to-Real"
-          },
-          "text": "Video-to-Sim-to-Real",
-          "url": "https://ai.kitmori.com/zh/daily"
-        },
-        {
-          "color": "#dff2e0",
-          "createdAt": 1793785906308,
-          "id": "hk-ai-preview-1793785906306-82429",
-          "kind": "passage",
-          "note": "AI：展示大型工程維護與推論最佳化能力。\n為何重要：提供 AI 參與實際工程任務的具體成果。",
-          "range": {
-            "anchors": {
-              "createdAt": 1793785906305,
-              "end": {
-                "css": "section#key-points > div.grid.gap-4 > div.group.relative > p.text-sm.leading-relaxed",
-                "textOffset": 68
-              },
-              "quote": {
-                "exact": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
-                "prefix": " 美元（快取輸入享 95% 折扣），並支援 100 萬 Token 的統一上下文長度。核心重點01大型程式碼重構與最佳化",
-                "suffix": "02賦能前沿科學與醫療研究輔助發現核融合 Grad 猜想的新數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全"
-              },
-              "start": {
-                "css": "section#key-points > div.grid.gap-4 > div.group.relative > h3.text-base.font-semibold",
-                "textOffset": 11
-              },
-              "version": 1
-            },
-            "endOffset": 68,
-            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[1]/p[1]/text()[1]",
-            "startOffset": 11,
-            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[1]/h3[1]/text()[1]",
-            "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。"
-          },
-          "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
-          "url": "https://ai.kitmori.com/zh/daily"
-        },
-        {
-          "color": "#ece3fa",
-          "createdAt": 1793785906309,
-          "id": "hk-ai-preview-1793785906308-26773",
-          "kind": "passage",
-          "note": "AI：模型定位從一般問答延伸至專業實務任務。\n為何重要：建立全文評估模型能力的核心方向。",
-          "range": {
-            "anchors": {
-              "createdAt": 1793785906308,
-              "end": {
-                "css": "body.flex.min-h-dvh > main.flex-1 > article.pb-8 > div.container-prose.mt-10:nth-of-type(3) > div.relative.overflow-hidden > p.text-\\[16px\\].leading-\\[1\\.85\\]",
-                "textOffset": 53
-              },
-              "quote": {
-                "exact": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
-                "prefix": " Science, and Security Tasks2026/10/14·2 分鐘閱讀中文English30 秒看懂",
-                "suffix": "Argon 在測量關鍵經濟領域表現的 Vals Index 獲得第一名，並已取得多項成果：完成 Chrome 瀏覽器數百"
-              },
-              "start": {
-                "css": "body.flex.min-h-dvh > main.flex-1 > article.pb-8 > div.container-prose.mt-10:nth-of-type(3) > div.relative.overflow-hidden > div.mb-3.flex",
-                "textOffset": 6
-              },
-              "version": 1
-            },
-            "endOffset": 53,
-            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/div[1]/p[1]/text()[1]",
-            "startOffset": 6,
-            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/div[1]/div[1]/text()[1]",
-            "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。"
-          },
-          "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
-          "url": "https://ai.kitmori.com/zh/daily"
-        }
-      ],
-      "note": {
-        "context": "大型語言模型過去主要用來回答問題與輔助寫程式，但跨越數百個檔案的工程重構、科學研究及實體機器人控制，需要更長時間的推理與執行能力。本文介紹 Google DeepMind 推出的 Gemini 4 Argon，強調 AI 從對話工具走向複雜實務任務。\n\n作者透過四個領域展示模型能力：軟體工程、科學與醫療、機器人及資訊安全。其中包括大型程式碼重構、推論效能最佳化、科學發現，以及將人類動作影片轉換成機器人可執行的模擬程式碼。\n\n文章列出多項成果，例如推論吞吐量提升至 2.85 倍、物理推理測試達到 87%，以及間接提示注入攻擊成功率降至 0.7%。這些數據支持模型在特定任務中的表現，但文章未提供完整實驗條件，因此無法直接推論其在所有場景都能達到相同效果。\n\n實際應用仍存在部署與存取限制。深度多 Agent 工作流程需要特定平台或 API 設定，高風險資安及生物防衛能力也僅開放審核通過的合作夥伴，因此模型能力不等於所有使用者都能直接使用。",
-        "formatVersion": 2,
-        "generatedAt": 1793785906604,
-        "guideHighlights": [
-          {
-            "color": "#ece3fa",
-            "extra": "",
-            "kind": "passage",
-            "reason": "模型定位從一般問答延伸至專業實務任務。\n為何重要：建立全文評估模型能力的核心方向。",
-            "source": "",
-            "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
-            "unavailable": false
-          },
-          {
-            "color": "#dff2e0",
-            "extra": "",
-            "kind": "passage",
-            "reason": "展示大型工程維護與推論最佳化能力。\n為何重要：提供 AI 參與實際工程任務的具體成果。",
-            "source": "",
-            "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
-            "unavailable": false
-          },
-          {
-            "color": "#dfeefc",
-            "extra": "",
-            "kind": "passage",
-            "reason": "將視覺理解、程式生成與實體控制串接。\n為何重要：展示 AI 能將推理結果轉為物理世界的行動。",
-            "source": "",
-            "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
-            "unavailable": false
-          },
-          {
-            "color": "#ffe6cc",
-            "extra": "",
-            "kind": "passage",
-            "reason": "高風險能力受到存取資格與安全政策限制。\n為何重要：區分模型展示的能力與實際可用範圍。",
-            "source": "",
-            "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
-            "unavailable": false
-          }
-        ],
-        "guideTerms": [
-          {
-            "color": "#ffeb3b",
-            "covered": false,
-            "explanation": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
-            "kind": "term",
-            "reason": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
-            "text": "推論吞吐量（Inference Throughput）",
-            "unavailable": true
-          },
-          {
-            "color": "#ffeb3b",
-            "explanation": "從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
-            "kind": "term",
-            "reason": "從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
-            "text": "Video-to-Sim-to-Real",
-            "unavailable": false
-          },
-          {
-            "color": "#ffeb3b",
-            "covered": false,
-            "explanation": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
-            "kind": "term",
-            "reason": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
-            "text": "間接提示注入（Indirect Prompt Injection）",
-            "unavailable": true
-          }
-        ],
-        "model": "chatgpt-web",
-        "provider": "chatgpt",
-        "unlocatedHighlights": [],
-        "unlocatedTerms": [
-          {
-            "explanation": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
-            "text": "間接提示注入（Indirect Prompt Injection）",
-            "unavailable": true
-          },
-          {
-            "explanation": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
-            "text": "推論吞吐量（Inference Throughput）",
-            "unavailable": true
-          }
-        ],
-        "url": "https://ai.kitmori.com/zh/daily"
-      },
-      "mindmap": {
-        "generatedAt": 1793785906719,
-        "outline": "# Gemini 4 Argon\n- 模型定位\n  - 解決高難度實務問題\n  - Vals Index 第一名\n  - 100 萬 Token 上下文\n- 核心能力\n  - 軟體工程\n    - Chrome 大規模重構\n    - vLLM 吞吐量提升\n  - 科學與醫療\n    - 核融合數學反例\n    - 罕見疾病基因診斷\n    - 全新酵素設計\n  - 機器人控制\n    - 觀看人類動作影片\n      - 計算關節軌跡\n      - 生成模擬程式碼\n      - 部署實體機器人\n    - ERQA 物理推理測試\n  - 資訊安全\n    - 修復系統防護缺口\n    - 降低提示注入成功率\n    - 降低偏離規則的嘗試\n- 實際應用\n  - 軟體重構與效能調校\n  - 資安漏洞稽核\n  - 機器人動作部署\n  - 生醫研究與數據分析\n- 使用成本\n  - 輸入每百萬 Token 2 美元\n  - 輸出每百萬 Token 10 美元\n  - 快取輸入折扣 95%\n- 限制與注意事項\n  - 依賴特定平台與 API\n  - 高風險能力限制存取",
-        "title": "Gemini 4 Argon"
-      }
-    },
-    {
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
       "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 \\ Anthropic",
       "tags": [
@@ -988,6 +717,277 @@
         "generatedAt": 1794274142934,
         "outline": "# Claude Fable 5.2 與 Mythos 5.2\n- 推出背景與定位\n  - 挑戰高難度技術任務\n  - 同底層模型\n    - Fable 加強安全防護\n    - Mythos 採資格審核\n  - 模型選用建議\n- 效能與成本\n  - Benchmark 比較\n    - 程式與搜尋\n    - 資安與知識工作\n    - 視覺與機器人\n  - 推理強度與成本\n  - 標準及快速模式\n- 程式工程\n  - Python 遷移 Rust\n  - 多 Agent 作業系統\n  - 企業測試回饋\n- 資安能力\n  - 漏洞發現與修復\n  - CVE Rediscovery\n  - Claude Security\n- 科學與工程\n  - 黑洞理論問題\n  - 蛋白質結構預測\n    - 利用蛋白殼對稱性\n  - 數學證明形式化\n    - 千名 Agent 協作\n  - 電子設備設計\n  - 機器人控制\n  - 研究與分析\n- 安全與對齊\n  - 行為審查\n    - 誤導與虛構資訊\n    - Sandbox 逃逸\n    - 評估情境辨識\n  - 資安與生物防護\n  - AI 研發能力限制\n  - 反蒸餾\n  - 企業資料隱私\n- 上線與使用\n  - Fable 全平台開放\n  - Mythos 資格審核\n  - API 與 Fast mode",
         "title": "Claude Fable 5.2 與 Mythos 5.2"
+      }
+    },
+    {
+      "url": "https://ai.kitmori.com/zh/daily",
+      "title": "AI 日報 — 今日 AI 重點 | Aivora",
+      "tags": [
+        "人工智慧",
+        "人工智慧對齊",
+        "大型語言模型",
+        "具身智能",
+        "延遲優化",
+        "軟體工程"
+      ],
+      "entries": [
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1793785906300,
+          "id": "hk-ai-preview-1793785906292-6870",
+          "kind": "passage",
+          "note": "AI：高風險能力受到存取資格與安全政策限制。\n為何重要：區分模型展示的能力與實際可用範圍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906289,
+              "end": {
+                "css": "section#limitations > ul.space-y-2\\.5.rounded-2xl > li.flex.gap-3:nth-of-type(2)",
+                "textOffset": 43
+              },
+              "quote": {
+                "exact": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
+                "prefix": "制與注意事項深度多 Agent 與專屬技能調用需依賴 Google Antigravity 或特定 API 延續協定設定",
+                "suffix": "#Agent#AI Safety#Google DeepMind#LLM#Robotics#Gemini#vLLM原文來"
+              },
+              "start": {
+                "css": "section#limitations > ul.space-y-2\\.5.rounded-2xl > li.flex.gap-3",
+                "textOffset": 54
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[6]/ul[1]/li[2]/span[1]/text()[1]",
+            "startOffset": 54,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[6]/ul[1]/li[1]/span[1]/text()[1]",
+            "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴"
+          },
+          "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1793785906303,
+          "id": "hk-ai-preview-1793785906301-54577",
+          "kind": "passage",
+          "note": "AI：將視覺理解、程式生成與實體控制串接。\n為何重要：展示 AI 能將推理結果轉為物理世界的行動。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906300,
+              "end": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > p.text-sm.leading-relaxed",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
+                "prefix": "數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全新酵素。03機器人 Video-to-Sim-to-Real",
+                "suffix": "04主動資安防禦與嚴格安全對齊協助修復政府與醫療系統防護缺口，將間接提示注入攻擊成功率降至 0.7%，並使模型偏離規則的"
+              },
+              "start": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
+                "textOffset": 24
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/p[1]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
+            "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。"
+          },
+          "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1793785906305,
+          "id": "hk-ai-preview-1793785906304-89077",
+          "kind": "term",
+          "note": "AI：從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906303,
+              "end": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
+                "textOffset": 24
+              },
+              "quote": {
+                "exact": "Video-to-Sim-to-Real",
+                "prefix": "療研究輔助發現核融合 Grad 猜想的新數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全新酵素。03機器人 ",
+                "suffix": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。"
+              },
+              "start": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative:nth-of-type(3) > h3.text-base.font-semibold",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[3]/h3[1]/text()[1]",
+            "text": "Video-to-Sim-to-Real"
+          },
+          "text": "Video-to-Sim-to-Real",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1793785906308,
+          "id": "hk-ai-preview-1793785906306-82429",
+          "kind": "passage",
+          "note": "AI：展示大型工程維護與推論最佳化能力。\n為何重要：提供 AI 參與實際工程任務的具體成果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906305,
+              "end": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative > p.text-sm.leading-relaxed",
+                "textOffset": 68
+              },
+              "quote": {
+                "exact": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
+                "prefix": " 美元（快取輸入享 95% 折扣），並支援 100 萬 Token 的統一上下文長度。核心重點01大型程式碼重構與最佳化",
+                "suffix": "02賦能前沿科學與醫療研究輔助發現核融合 Grad 猜想的新數學解、協助罕見疾病基因診斷，並在數小時內設計出具高效能的全"
+              },
+              "start": {
+                "css": "section#key-points > div.grid.gap-4 > div.group.relative > h3.text-base.font-semibold",
+                "textOffset": 11
+              },
+              "version": 1
+            },
+            "endOffset": 68,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 11,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/section[1]/div[1]/div[1]/h3[1]/text()[1]",
+            "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。"
+          },
+          "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
+          "url": "https://ai.kitmori.com/zh/daily"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1793785906309,
+          "id": "hk-ai-preview-1793785906308-26773",
+          "kind": "passage",
+          "note": "AI：模型定位從一般問答延伸至專業實務任務。\n為何重要：建立全文評估模型能力的核心方向。",
+          "range": {
+            "anchors": {
+              "createdAt": 1793785906308,
+              "end": {
+                "css": "body.flex.min-h-dvh > main.flex-1 > article.pb-8 > div.container-prose.mt-10:nth-of-type(3) > div.relative.overflow-hidden > p.text-\\[16px\\].leading-\\[1\\.85\\]",
+                "textOffset": 53
+              },
+              "quote": {
+                "exact": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
+                "prefix": " Science, and Security Tasks2026/10/14·2 分鐘閱讀中文English30 秒看懂",
+                "suffix": "Argon 在測量關鍵經濟領域表現的 Vals Index 獲得第一名，並已取得多項成果：完成 Chrome 瀏覽器數百"
+              },
+              "start": {
+                "css": "body.flex.min-h-dvh > main.flex-1 > article.pb-8 > div.container-prose.mt-10:nth-of-type(3) > div.relative.overflow-hidden > div.mb-3.flex",
+                "textOffset": 6
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 6,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/div[3]/div[1]/div[1]/text()[1]",
+            "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。"
+          },
+          "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
+          "url": "https://ai.kitmori.com/zh/daily"
+        }
+      ],
+      "note": {
+        "context": "大型語言模型過去主要用來回答問題與輔助寫程式，但跨越數百個檔案的工程重構、科學研究及實體機器人控制，需要更長時間的推理與執行能力。本文介紹 Google DeepMind 推出的 Gemini 4 Argon，強調 AI 從對話工具走向複雜實務任務。\n\n作者透過四個領域展示模型能力：軟體工程、科學與醫療、機器人及資訊安全。其中包括大型程式碼重構、推論效能最佳化、科學發現，以及將人類動作影片轉換成機器人可執行的模擬程式碼。\n\n文章列出多項成果，例如推論吞吐量提升至 2.85 倍、物理推理測試達到 87%，以及間接提示注入攻擊成功率降至 0.7%。這些數據支持模型在特定任務中的表現，但文章未提供完整實驗條件，因此無法直接推論其在所有場景都能達到相同效果。\n\n實際應用仍存在部署與存取限制。深度多 Agent 工作流程需要特定平台或 API 設定，高風險資安及生物防衛能力也僅開放審核通過的合作夥伴，因此模型能力不等於所有使用者都能直接使用。",
+        "formatVersion": 2,
+        "generatedAt": 1793785906604,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "模型定位從一般問答延伸至專業實務任務。\n為何重要：建立全文評估模型能力的核心方向。",
+            "source": "",
+            "text": "Google DeepMind 正式推出 Gemini 4 Argon，定位於解決跨領域的高難度實務問題。",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "展示大型工程維護與推論最佳化能力。\n為何重要：提供 AI 參與實際工程任務的具體成果。",
+            "source": "",
+            "text": "協助 Chrome 團隊解開 600 萬行舊版程式碼，並將 Gemma 4 E2B 模型在 vLLM 的推論吞吐量提升至 2.85 倍。",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "將視覺理解、程式生成與實體控制串接。\n為何重要：展示 AI 能將推理結果轉為物理世界的行動。",
+            "source": "",
+            "text": "僅憑觀看人類動作影片即可自主生成模擬程式碼，順利部署至實體人形機器人，並在 ERQA 物理推理測試取得 87% 的成績。",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "高風險能力受到存取資格與安全政策限制。\n為何重要：區分模型展示的能力與實際可用範圍。",
+            "source": "",
+            "text": "無安全限制的高級資安與生物防衛能力僅開放給 Fairwind 計畫等審核通過的合作夥伴",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "covered": false,
+            "explanation": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
+            "kind": "term",
+            "reason": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
+            "text": "推論吞吐量（Inference Throughput）",
+            "unavailable": true
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
+            "kind": "term",
+            "reason": "從影片建立模擬，再轉移到實體機器人。\n例子：觀看人類動作後，生成機器人控制程式。\n在本文：展示影片理解與實體部署的整合成果。",
+            "text": "Video-to-Sim-to-Real",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "covered": false,
+            "explanation": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
+            "kind": "term",
+            "reason": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
+            "text": "間接提示注入（Indirect Prompt Injection）",
+            "unavailable": true
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "利用外部內容誘導 AI 違反原有指令。\n例子：在網頁中藏入要求 AI 洩漏資料的指令。\n在本文：報告攻擊成功率降至 0.7%。\n補充：成功率仍取決於攻擊方法與測試條件。",
+            "text": "間接提示注入（Indirect Prompt Injection）",
+            "unavailable": true
+          },
+          {
+            "explanation": "模型在單位時間內能處理的工作量。\n例子：相同時間產生更多 Token。\n在本文：報告 Gemma 4 E2B 吞吐量提升至 2.85 倍。",
+            "text": "推論吞吐量（Inference Throughput）",
+            "unavailable": true
+          }
+        ],
+        "url": "https://ai.kitmori.com/zh/daily"
+      },
+      "mindmap": {
+        "generatedAt": 1793785906719,
+        "outline": "# Gemini 4 Argon\n- 模型定位\n  - 解決高難度實務問題\n  - Vals Index 第一名\n  - 100 萬 Token 上下文\n- 核心能力\n  - 軟體工程\n    - Chrome 大規模重構\n    - vLLM 吞吐量提升\n  - 科學與醫療\n    - 核融合數學反例\n    - 罕見疾病基因診斷\n    - 全新酵素設計\n  - 機器人控制\n    - 觀看人類動作影片\n      - 計算關節軌跡\n      - 生成模擬程式碼\n      - 部署實體機器人\n    - ERQA 物理推理測試\n  - 資訊安全\n    - 修復系統防護缺口\n    - 降低提示注入成功率\n    - 降低偏離規則的嘗試\n- 實際應用\n  - 軟體重構與效能調校\n  - 資安漏洞稽核\n  - 機器人動作部署\n  - 生醫研究與數據分析\n- 使用成本\n  - 輸入每百萬 Token 2 美元\n  - 輸出每百萬 Token 10 美元\n  - 快取輸入折扣 95%\n- 限制與注意事項\n  - 依賴特定平台與 API\n  - 高風險能力限制存取",
+        "title": "Gemini 4 Argon"
       }
     }
   ]
