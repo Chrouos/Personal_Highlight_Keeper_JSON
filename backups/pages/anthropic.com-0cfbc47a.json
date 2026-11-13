@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1794390026347,
+  "exportedAt": 1794564085438,
   "shared": true,
   "pages": [
     {
@@ -420,9 +420,9 @@
           "note": "AI：負責規劃與分派任務，協調其他模型執行。\n例子：Fable 將程式測試分配給多個小模型。\n在本文：展示協調大量 Agent 的能力，但非全面保證。\n\n[翻譯] 協調者",
           "range": {
             "anchors": {
-              "createdAt": 1794390021199,
+              "createdAt": 1794563637647,
               "end": {
-                "css": "a#base-ui-_R_fk97inpfkq6btb_",
+                "css": "a#base-ui-_R_v8if5fiv9kcnnb_",
                 "textOffset": 12
               },
               "quote": {
@@ -453,9 +453,9 @@
           "note": "AI：由其他模型請教較強模型，協助解決困難問題。\n例子：小模型遇到架構難題，請 Fable 提供建議。\n在本文：作者建議的模型協作角色，未單獨驗證效果。",
           "range": {
             "anchors": {
-              "createdAt": 1794390021202,
+              "createdAt": 1794563637656,
               "end": {
-                "css": "a#base-ui-_R_fc97inpfkq6btb_",
+                "css": "a#base-ui-_R_uoif5fiv9kcnnb_",
                 "textOffset": 7
               },
               "quote": {
@@ -519,7 +519,7 @@
           "note": "AI：兩者主要差別在安全防護與開放權限。\n為何重要：理解為何不同用途需要不同存取資格。",
           "range": {
             "anchors": {
-              "createdAt": 1794390021203,
+              "createdAt": 1794275341791,
               "end": {
                 "css": "main#main-content > div.lWsDcW_page.theme-ivory > article.lWsDcW_article > div.PA4F1q_body.JsRY2q_launch-body > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
                 "textOffset": 61
