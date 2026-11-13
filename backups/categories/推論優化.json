@@ -1,0 +1,749 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "category": "推論優化",
+  "pages": [
+    {
+      "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
+      "title": "Can LLMs redesign themselves as they train?",
+      "tags": [
+        "人工智慧",
+        "大型語言模型",
+        "機器學習",
+        "系統設計",
+        "人工智慧對齊",
+        "推論優化"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794303695803,
+          "id": "hk-ai-preview-1794303695803-52750",
+          "kind": "passage",
+          "note": "AI：作者展望模型能持續改進自身訓練工具。\n為何重要：這是未來願景，並非本文已完整證實。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695803,
+              "end": {
+                "css": "div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose > ul.list-bullet:nth-of-type(3)",
+                "textOffset": 1849
+              },
+              "quote": {
+                "exact": "A model that keeps improving both how it trains and the tools it trains with is on a direct path to recursive self-improvement.",
+                "prefix": " an ever growing library of mechanistic intervention tools. ",
+                "suffix": "Today, a transformer still transforms everything but itself."
+              },
+              "start": {
+                "css": "div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose > ul.list-bullet:nth-of-type(3)",
+                "textOffset": 1722
+              },
+              "version": 1
+            },
+            "endOffset": 340,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[5]/text()[3]",
+            "startOffset": 213,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[5]/text()[3]",
+            "text": "A model that keeps improving both how it trains and the tools it trains with is on a direct path to recursive self-improvement."
+          },
+          "text": "A model that keeps improving both how it trains and the tools it trains with is on a direct path to recursive self-improvement.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794303695804,
+          "id": "hk-ai-preview-1794303695804-41841",
+          "kind": "passage",
+          "note": "AI：現有工具較會定位問題，較難指出解法。\n為何重要：自動架構設計仍依賴實驗驗證。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695804,
+              "end": {
+                "css": "div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose > ul.list-bullet:nth-of-type(3)",
+                "textOffset": 699
+              },
+              "quote": {
+                "exact": "The tools we have are still noisy. The phantom gradient is better at showing where a network needs help than what it needs.",
+                "prefix": "n act on what it finds while the network is still learning. ",
+                "suffix": " We hope the community will help build better ones.Performan"
+              },
+              "start": {
+                "css": "div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose > ul.list-bullet:nth-of-type(3)",
+                "textOffset": 576
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[2]/text()[3]",
+            "startOffset": 152,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[3]/li[2]/text()[1]",
+            "text": "The tools we have are still noisy. The phantom gradient is better at showing where a network needs help than what it needs."
+          },
+          "text": "The tools we have are still noisy. The phantom gradient is better at showing where a network needs help than what it needs.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794303695806,
+          "id": "hk-ai-preview-1794303695805-23612",
+          "kind": "passage",
+          "note": "AI：Qwen 自行撰寫推論控制策略並改善準確率。\n為何重要：小模型也能參與設計自己的決策規則。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695804,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 23821
+              },
+              "quote": {
+                "exact": "Out of the box, when measured on the same contests (AIME and HMMT), Qwen3-8B answers 59% of these problems correctly. With the policy it wrote for itself, it answers 66%.",
+                "prefix": "te that policy itself, in Python, with no gradient training.",
+                "suffix": "Fig. 11Qwen3-8B on AIME and HMMT 2026, with thinking. Its po"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 23651
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[67]/text()[3]",
+            "startOffset": 166,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[66]/text()[1]",
+            "text": "Out of the box, when measured on the same contests (AIME and HMMT), Qwen3-8B answers 59% of these problems correctly. With the policy it wrote for itself, it answers 66%."
+          },
+          "text": "Out of the box, when measured on the same contests (AIME and HMMT), Qwen3-8B answers 59% of these problems correctly. With the policy it wrote for itself, it answers 66%.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794303695807,
+          "id": "hk-ai-preview-1794303695807-71368",
+          "kind": "passage",
+          "note": "AI：模型利用自身狀態判斷答案並重新取樣。\n為何重要：展示模型可以參與改善自身推論流程。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695806,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 20494
+              },
+              "quote": {
+                "exact": "Out of the box, DeepSeek answers 64% of these problems correctly. After operating on itself, it answers 71%.",
+                "prefix": ", taken from MathArena and hidden from the model throughout.",
+                "suffix": "Fig. 10DeepSeek-V4.1-Flash on AIME and HMMT 2026, without th"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 20386
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[60]/text()[3]",
+            "startOffset": 38,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[59]/text()[5]",
+            "text": "Out of the box, DeepSeek answers 64% of these problems correctly. After operating on itself, it answers 71%."
+          },
+          "text": "Out of the box, DeepSeek answers 64% of these problems correctly. After operating on itself, it answers 71%.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794303695808,
+          "id": "hk-ai-preview-1794303695808-49399",
+          "kind": "term",
+          "note": "AI：線性探針，讀取隱藏狀態中的特定資訊。\n例子：判斷模型剛寫出的答案是否正確。\n在本文：用於定位資訊與偵測錯誤。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695807,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 19387
+              },
+              "quote": {
+                "exact": "linear probes",
+                "prefix": "e agent reached for a new tool of mechanistic intervention, ",
+                "suffix": " [Alain and Bengio, 2016], borrowed from interpretability. I"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 19374
+              },
+              "version": 1
+            },
+            "endOffset": 13,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[57]/strong[1]/text()[1]",
+            "startOffset": 277,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[57]/text()[1]",
+            "text": "linear probes"
+          },
+          "text": "linear probes",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794303695809,
+          "id": "hk-ai-preview-1794303695809-19893",
+          "kind": "passage",
+          "note": "AI：CLRS-Text 整體準確率提高 29 個百分點。\n為何重要：證明程式層能改善演算法任務表現。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695808,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 17819
+              },
+              "quote": {
+                "exact": "Overall, the code layer run reaches 84% accuracy, versus just 55% for ordinary training.",
+                "prefix": " this time the agent inserts ten code layers along the way. ",
+                "suffix": "More training doesn't close the gap. Trained for twice as ma"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 17731
+              },
+              "version": 1
+            },
+            "endOffset": 23,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[52]/text()[4]",
+            "startOffset": 16,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[52]/text()[2]",
+            "text": "Overall, the code layer run reaches 84% accuracy, versus just 55% for ordinary training."
+          },
+          "text": "Overall, the code layer run reaches 84% accuracy, versus just 55% for ordinary training.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794303695810,
+          "id": "hk-ai-preview-1794303695810-82031",
+          "kind": "passage",
+          "note": "AI：未見過的中間輸入長度準確率大幅改善。\n為何重要：顯示方法不只是記住訓練案例。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695809,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 17005
+              },
+              "quote": {
+                "exact": "Code layers grown during training raise that third to 79%.",
+                "prefix": "w in training, but only a third of the problems in between. ",
+                "suffix": "Fig. 07Plain training solves the lengths it saw and fails be"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 16947
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[50]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[50]/text()[3]",
+            "text": "Code layers grown during training raise that third to 79%."
+          },
+          "text": "Code layers grown during training raise that third to 79%.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794303695810,
+          "id": "hk-ai-preview-1794303695810-71063",
+          "kind": "term",
+          "note": "AI：捷徑學習，模型學到容易但不可靠的規律。\n例子：只會處理訓練出現過的輸入長度。\n在本文：解釋泛化缺口及介入時機的可能原因。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695810,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 15158
+              },
+              "quote": {
+                "exact": "shortcut learning",
+                "prefix": "red to 55%, a 17-point difference.We believe it's a form of ",
+                "suffix": " [Geirhos et al., 2020]. With the layer present from the sta"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 15141
+              },
+              "version": 1
+            },
+            "endOffset": 43,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[46]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[46]/text()[1]",
+            "text": "shortcut learning"
+          },
+          "text": "shortcut learning",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794303695811,
+          "id": "hk-ai-preview-1794303695811-29456",
+          "kind": "passage",
+          "note": "AI：相同模組在訓練中途加入效果更好。\n為何重要：顯示架構演化時機會影響最終能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695810,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 15115
+              },
+              "quote": {
+                "exact": "Yet despite near-identical loss curves, the network with the layer inserted halfway recalls far more than the one with the layer present from the start: 72% compared to 55%, a 17-point difference.",
+                "prefix": "variable is out of sight.Inserting the layer raises recall. ",
+                "suffix": "We believe it's a form of shortcut learning [Geirhos et al.,"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 14919
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[45]/text()[2]",
+            "startOffset": 35,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[45]/text()[1]",
+            "text": "Yet despite near-identical loss curves, the network with the layer inserted halfway recalls far more than the one with the layer present from the start: 72% compared to 55%, a 17-point difference."
+          },
+          "text": "Yet despite near-identical loss curves, the network with the layer inserted halfway recalls far more than the one with the layer present from the start: 72% compared to 55%, a 17-point difference.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794303695812,
+          "id": "hk-ai-preview-1794303695811-40496",
+          "kind": "passage",
+          "note": "AI：梯度訊號不能可靠預測新模組成效。\n為何重要：最終仍需要實際訓練與對照實驗。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695811,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 11844
+              },
+              "quote": {
+                "exact": "The phantom gradient narrows the field but does not predict reliably how a code candidate will perform once trained",
+                "prefix": "t matches the demand token by token.Integrating a code layer",
+                "suffix": "3, so the final decision is left to ordinary training: if de"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 11729
+              },
+              "version": 1
+            },
+            "endOffset": 115,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[32]/text()[1]",
+            "startOffset": 24,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/h3[4]/text()[1]",
+            "text": "The phantom gradient narrows the field but does not predict reliably how a code candidate will perform once trained"
+          },
+          "text": "The phantom gradient narrows the field but does not predict reliably how a code candidate will perform once trained",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794303695812,
+          "id": "hk-ai-preview-1794303695812-95811",
+          "kind": "passage",
+          "note": "AI：以隱藏表示的梯度觀察模型能力缺口。\n為何重要：幫助 Agent 判斷介入位置與時機。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695812,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 7804
+              },
+              "quote": {
+                "exact": "The phantom gradient at layer",
+                "prefix": "ions in each, and an embedding of width D at every position.",
+                "suffix": " ℓ\\ellℓ is ∂L/∂hℓ\\partial L/\\partial h_\\ell∂L/∂hℓ​, the grad"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 7775
+              },
+              "version": 1
+            },
+            "endOffset": 29,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[22]/text()[1]",
+            "startOffset": 106,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[3]",
+            "text": "The phantom gradient at layer"
+          },
+          "text": "The phantom gradient at layer",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794303695812,
+          "id": "hk-ai-preview-1794303695812-53015",
+          "kind": "passage",
+          "note": "AI：Nanochat 插入三個程式層後持續降低 Loss。\n為何重要：初步驗證訓練期間修改架構的價值。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695812,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 5399
+              },
+              "quote": {
+                "exact": "After each insertion, the loss dropped further below ordinary training, and the gap persisted to the end of training.",
+                "prefix": "iment, the agent inserted three code layers, one at a time. ",
+                "suffix": "Fig. 02Validation loss with and without the agent. The agent"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 5282
+              },
+              "version": 1
+            },
+            "endOffset": 204,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[1]",
+            "startOffset": 87,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[13]/text()[1]",
+            "text": "After each insertion, the loss dropped further below ordinary training, and the gap persisted to the end of training."
+          },
+          "text": "After each insertion, the loss dropped further below ordinary training, and the gap persisted to the end of training.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794303695813,
+          "id": "hk-ai-preview-1794303695813-62870",
+          "kind": "passage",
+          "note": "AI：讓 Agent 用程式補足梯度下降的不足。\n為何重要：將連續權重學習與明確演算法結合。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695813,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 2105
+              },
+              "quote": {
+                "exact": "Coding agents can cover for gradient descent.",
+                "prefix": "ciple [Rissanen, 1978] [Shalev-Shwartz and Ben-David, 2014].",
+                "suffix": " When placed inside the training loop, the agents can find w"
+              },
+              "start": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 2060
+              },
+              "version": 1
+            },
+            "endOffset": 45,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[6]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/text()[6]",
+            "text": "Coding agents can cover for gradient descent."
+          },
+          "text": "Coding agents can cover for gradient descent.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1794303695814,
+          "id": "hk-ai-preview-1794303695813-31985",
+          "kind": "passage",
+          "note": "AI：傳統訓練不會自主重新設計網路架構。\n為何重要：指出研究想打破的核心限制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695813,
+              "end": {
+                "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
+                "textOffset": 291
+              },
+              "quote": {
+                "exact": "However long you train a neural network, only its weights change. Every other component, from the optimiser to the data mix and the architecture, remains static.",
+                "prefix": "ndidates against it and grows the best one into the network.",
+                "suffix": " What if, instead, we made everything learnable, including t"
+              },
+              "start": {
+                "css": "div.article-prose > div.article-embed:nth-of-type(2) > figure.flex.flex-col > figcaption.flex.gap-4 > span.flex.flex-col:nth-of-type(2) > span.text-sm.leading-\\[1\\.55\\]",
+                "textOffset": 123
+              },
+              "version": 1
+            },
+            "endOffset": 161,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 123,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/figure[1]/figcaption[1]/span[2]/span[1]/text()[1]",
+            "text": "However long you train a neural network, only its weights change. Every other component, from the optimiser to the data mix and the architecture, remains static."
+          },
+          "text": "However long you train a neural network, only its weights change. Every other component, from the optimiser to the data mix and the architecture, remains static.",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794303695814,
+          "id": "hk-ai-preview-1794303695814-11855",
+          "kind": "term",
+          "note": "AI：程式層，把明確演算法加入神經網路。\n例子：用程式計算序列的累積最大值。\n在本文：主要介入手段，實驗顯示有效。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695814,
+              "end": {
+                "css": "section#summary > div.article-prose.article-summary",
+                "textOffset": 771
+              },
+              "quote": {
+                "exact": "code layers",
+                "prefix": "nt writes small programs and grows them into the network as ",
+                "suffix": ". The code layers are often “alien”. For example, one such l"
+              },
+              "start": {
+                "css": "section#summary > div.article-prose.article-summary",
+                "textOffset": 760
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/section[1]/div[1]/p[4]/strong[1]/text()[1]",
+            "startOffset": 67,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/section[1]/div[1]/p[4]/text()[1]",
+            "text": "code layers"
+          },
+          "text": "code layers",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794303695814,
+          "id": "hk-ai-preview-1794303695814-75375",
+          "kind": "term",
+          "note": "AI：虛擬梯度，量測隱藏表示需要如何改變。\n例子：觀察某層錯誤 Token 的梯度方向。\n在本文：協助定位缺口，尚難預測最終效益。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695814,
+              "end": {
+                "css": "section#summary > div.article-prose.article-summary",
+                "textOffset": 664
+              },
+              "quote": {
+                "exact": "phantom gradient",
+                "prefix": "t discovered one of its main instruments, which we call the ",
+                "suffix": ": a measure of unmet demands.The agent writes small programs"
+              },
+              "start": {
+                "css": "section#summary > div.article-prose.article-summary",
+                "textOffset": 648
+              },
+              "version": 1
+            },
+            "endOffset": 16,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/section[1]/div[1]/p[3]/strong[4]/text()[1]",
+            "startOffset": 70,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/section[1]/div[1]/p[3]/text()[4]",
+            "text": "phantom gradient"
+          },
+          "text": "phantom gradient",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794303695815,
+          "id": "hk-ai-preview-1794303695814-32971",
+          "kind": "term",
+          "note": "AI：機制介入，分析模型內部並直接修改運算。\n例子：發現某層學不好，再插入補強程式。\n在本文：核心方法，已展示特定任務上的改善。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794303695814,
+              "end": {
+                "css": "section#summary > div.article-prose.article-summary",
+                "textOffset": 153
+              },
+              "quote": {
+                "exact": "mechanistic intervention",
+                "prefix": "edesigns the network on the fly.The agent does what we call ",
+                "suffix": ". It reads the network's internal state, much as mechanistic"
+              },
+              "start": {
+                "css": "section#summary > div.article-prose.article-summary",
+                "textOffset": 129
+              },
+              "version": 1
+            },
+            "endOffset": 24,
+            "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/section[1]/div[1]/p[2]/strong[1]/text()[1]",
+            "startOffset": 28,
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/section[1]/div[1]/p[2]/text()[1]",
+            "text": "mechanistic intervention"
+          },
+          "text": "mechanistic intervention",
+          "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+        }
+      ],
+      "note": {
+        "context": "傳統神經網路訓練主要更新權重，模型架構通常由研究人員事先決定\n但 Transformer 仍有泛化能力不足、容易學到捷徑等問題，單純增加訓練時間不一定能解決\n\ndoubleAI 提出讓 Coding Agent 參與訓練\nAgent 觀察模型內部狀態，找出梯度下降難以改善的能力缺口，再撰寫程式並插入模型，形成 Code Layers\n\n研究透過四組主要實驗驗證這個方向\n其中 CLRS-Text 的整體準確率從 55% 提升至 84%，未見過的中間輸入長度則從約 33% 提升至 79%\n實驗也發現，訓練中途加入相同模組，可能比一開始就加入更有效\n\n研究進一步讓 DeepSeek 檢查自身運算狀態，並控制錯誤答案的重新生成，數學題準確率從 64% 提升至 71%\n不過，這主要驗證特定任務上的架構介入與推論控制\n距離模型能完全自主改造整套訓練系統，仍有工具準確性、效能與泛化能力需要驗證",
+        "formatVersion": 2,
+        "generatedAt": 1794303696383,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "傳統訓練不會自主重新設計網路架構。\n為何重要：指出研究想打破的核心限制。",
+            "source": "",
+            "text": "However long you train a neural network, only its weights change. Every other component, from the optimiser to the data mix and the architecture, remains static.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "讓 Agent 用程式補足梯度下降的不足。\n為何重要：將連續權重學習與明確演算法結合。",
+            "source": "",
+            "text": "Coding agents can cover for gradient descent.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "以隱藏表示的梯度觀察模型能力缺口。\n為何重要：幫助 Agent 判斷介入位置與時機。",
+            "source": "",
+            "text": "The phantom gradient at layer",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "梯度訊號不能可靠預測新模組成效。\n為何重要：最終仍需要實際訓練與對照實驗。",
+            "source": "",
+            "text": "The phantom gradient narrows the field but does not predict reliably how a code candidate will perform once trained",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Nanochat 插入三個程式層後持續降低 Loss。\n為何重要：初步驗證訓練期間修改架構的價值。",
+            "source": "",
+            "text": "After each insertion, the loss dropped further below ordinary training, and the gap persisted to the end of training.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "相同模組在訓練中途加入效果更好。\n為何重要：顯示架構演化時機會影響最終能力。",
+            "source": "",
+            "text": "Yet despite near-identical loss curves, the network with the layer inserted halfway recalls far more than the one with the layer present from the start: 72% compared to 55%, a 17-point difference.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "CLRS-Text 整體準確率提高 29 個百分點。\n為何重要：證明程式層能改善演算法任務表現。",
+            "source": "",
+            "text": "Overall, the code layer run reaches 84% accuracy, versus just 55% for ordinary training.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "未見過的中間輸入長度準確率大幅改善。\n為何重要：顯示方法不只是記住訓練案例。",
+            "source": "",
+            "text": "Code layers grown during training raise that third to 79%.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "模型利用自身狀態判斷答案並重新取樣。\n為何重要：展示模型可以參與改善自身推論流程。",
+            "source": "",
+            "text": "Out of the box, DeepSeek answers 64% of these problems correctly. After operating on itself, it answers 71%.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Qwen 自行撰寫推論控制策略並改善準確率。\n為何重要：小模型也能參與設計自己的決策規則。",
+            "source": "",
+            "text": "Out of the box, when measured on the same contests (AIME and HMMT), Qwen3-8B answers 59% of these problems correctly. With the policy it wrote for itself, it answers 66%.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "現有工具較會定位問題，較難指出解法。\n為何重要：自動架構設計仍依賴實驗驗證。",
+            "source": "",
+            "text": "The tools we have are still noisy. The phantom gradient is better at showing where a network needs help than what it needs.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "作者展望模型能持續改進自身訓練工具。\n為何重要：這是未來願景，並非本文已完整證實。",
+            "source": "",
+            "text": "A model that keeps improving both how it trains and the tools it trains with is on a direct path to recursive self-improvement.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "explanation": "機制介入，分析模型內部並直接修改運算。\n例子：發現某層學不好，再插入補強程式。\n在本文：核心方法，已展示特定任務上的改善。",
+            "kind": "term",
+            "reason": "機制介入，分析模型內部並直接修改運算。\n例子：發現某層學不好，再插入補強程式。\n在本文：核心方法，已展示特定任務上的改善。",
+            "text": "mechanistic intervention",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "虛擬梯度，量測隱藏表示需要如何改變。\n例子：觀察某層錯誤 Token 的梯度方向。\n在本文：協助定位缺口，尚難預測最終效益。",
+            "kind": "term",
+            "reason": "虛擬梯度，量測隱藏表示需要如何改變。\n例子：觀察某層錯誤 Token 的梯度方向。\n在本文：協助定位缺口，尚難預測最終效益。",
+            "text": "phantom gradient",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "程式層，把明確演算法加入神經網路。\n例子：用程式計算序列的累積最大值。\n在本文：主要介入手段，實驗顯示有效。",
+            "kind": "term",
+            "reason": "程式層，把明確演算法加入神經網路。\n例子：用程式計算序列的累積最大值。\n在本文：主要介入手段，實驗顯示有效。",
+            "text": "code layers",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "線性探針，讀取隱藏狀態中的特定資訊。\n例子：判斷模型剛寫出的答案是否正確。\n在本文：用於定位資訊與偵測錯誤。",
+            "kind": "term",
+            "reason": "線性探針，讀取隱藏狀態中的特定資訊。\n例子：判斷模型剛寫出的答案是否正確。\n在本文：用於定位資訊與偵測錯誤。",
+            "text": "linear probes",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "捷徑學習，模型學到容易但不可靠的規律。\n例子：只會處理訓練出現過的輸入長度。\n在本文：解釋泛化缺口及介入時機的可能原因。",
+            "kind": "term",
+            "reason": "捷徑學習，模型學到容易但不可靠的規律。\n例子：只會處理訓練出現過的輸入長度。\n在本文：解釋泛化缺口及介入時機的可能原因。",
+            "text": "shortcut learning",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train"
+      },
+      "mindmap": {
+        "generatedAt": 1794303696448,
+        "outline": "# 訓練中的模型自我改造\n- 研究背景\n  - 傳統架構固定\n  - 梯度下降的限制\n    - 捷徑學習\n    - 長度泛化不足\n  - Agent 參與訓練\n- 核心方法\n  - 機制介入\n    - 觀察隱藏狀態\n    - 虛擬梯度定位\n    - 錯誤樣本分群\n  - 產生程式層\n    - 候選程式評分\n    - 零值閘門插入\n    - 對照實驗篩選\n- 實驗一：Nanochat\n  - 插入三個程式層\n  - 驗證 Loss 下降\n- 實驗二：演化時機\n  - 擴展注意力範圍\n  - 比較插入時間\n    - 起始加入：55%\n    - 中途加入：72%\n- 實驗三：CLRS-Text\n  - 演算法任務\n  - 修補長度缺口\n  - 整體準確率達84%\n  - 探針定位內部數值\n- 實驗四：模型改進自身\n  - DeepSeek\n    - 讀取隱藏狀態\n    - 判斷答案正誤\n    - 重新生成答案\n    - 準確率達71%\n  - Qwen\n    - 自行撰寫策略\n    - 停止或重新推理\n    - 準確率達66%\n    - 額外推理成本\n- 未來方向與限制\n  - 可讀程式與對齊\n  - 介入工具仍不成熟\n  - 程式層效能優化\n  - 超越固定架構\n  - 遞迴自我改進",
+        "title": "訓練中的模型自我改造"
+      }
+    }
+  ]
+}

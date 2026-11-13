@@ -4,6 +4,471 @@
   "category": "成本控制",
   "pages": [
     {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title": "Gemini Decisions API: Fast multimodal decisions",
+      "tags": [
+        "人工智慧",
+        "大型語言模型",
+        "多模態模型",
+        "延遲優化",
+        "成本控制",
+        "系統設計"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794446092105,
+          "id": "hk-ai-preview-1794446092101-52654",
+          "kind": "passage",
+          "note": "AI：API 正逐步整合既有開發框架與工具。\n為何重要：降低導入門檻，但部分整合尚未完成。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092099,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 897
+              },
+              "quote": {
+                "exact": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+                "prefix": "aScript, and REST guides in the Decisions API documentation.",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n          \n       "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 683
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[3]/text()[11]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[2]/text()[6]",
+            "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud."
+          },
+          "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794446092107,
+          "id": "hk-ai-preview-1794446092106-66028",
+          "kind": "passage",
+          "note": "AI：共用輸入只計費一次，問題指令仍計入成本。\n為何重要：多題共用上下文時，有利於控制費用。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092105,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 443
+              },
+              "quote": {
+                "exact": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+                "prefix": "-cost tier you can use in Google AI Studio for prototyping. ",
+                "suffix": "You can start building today by grabbing an API key in Googl"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 177
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "text": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs."
+          },
+          "text": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794446092109,
+          "id": "hk-ai-preview-1794446092108-26269",
+          "kind": "passage",
+          "note": "AI：開發者可定義選項，不必先訓練專用分類器。\n為何重要：展示 API 如何成為應用中的即時決策層。\n延伸：後續案例涵蓋路由、設計、Emoji 與安全檢查。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092107,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(7) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 249
+              },
+              "quote": {
+                "exact": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+                "prefix": "\n    \n\n\n  \n    How teams are building with the Decisions API",
+                "suffix": "Dynamic model routing in Gemini Notebook: Gemini Notebook us"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(7) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 45
+              },
+              "version": 1
+            },
+            "endOffset": 204,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[7]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[7]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:"
+          },
+          "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794446092110,
+          "id": "hk-ai-preview-1794446092109-74183",
+          "kind": "passage",
+          "note": "AI：同一份輸入可混合三種判斷並取得信心分數。\n為何重要：讓程式能依信心決定是否交給備援處理。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092109,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1156
+              },
+              "quote": {
+                "exact": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+                "prefix": "ge and video inputs to control visual detail and token cost.",
+                "suffix": "noul (Yes/No): Estimates the probability that a yes/no condi"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 889
+              },
+              "version": 1
+            },
+            "endOffset": 267,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 384,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:"
+          },
+          "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794446092111,
+          "id": "hk-ai-preview-1794446092110-43218",
+          "kind": "term",
+          "note": "AI：模型一次前向運算就計算候選答案的分數。\n例子：一次運算評估圖片是否有污漬及嚴重程度。\n在本文：降低延遲的主要設計，並提供效能數據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092110,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 655
+              },
+              "quote": {
+                "exact": "single forward pass",
+                "prefix": " process text, images, audio, video, and PDFs directly in a ",
+                "suffix": ". You can combine modalities in one shared input, such as pa"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 636
+              },
+              "version": 1
+            },
+            "endOffset": 150,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 131,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "single forward pass"
+          },
+          "text": "single forward pass",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794446092112,
+          "id": "hk-ai-preview-1794446092111-69486",
+          "kind": "passage",
+          "note": "AI：測試中增加問題數量，延遲仍大致穩定。\n為何重要：多個判斷可共用輸入，避免逐題呼叫。\n延伸：此效能數據限於文中指定的測試範圍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092111,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 255
+              },
+              "quote": {
+                "exact": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request.",
+                "prefix": "    \n      \n    \n  \n        \n       \n\n\n  \n\n  \n    \n\n\n  \n    ",
+                "suffix": " With zero output tokens billed, Gemini Decision 1 with the "
+              },
+              "start": {
+                "css": "main#jump-content > article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 255,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/text()[1]",
+            "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request."
+          },
+          "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794446092113,
+          "id": "hk-ai-preview-1794446092112-85228",
+          "kind": "passage",
+          "note": "AI：官方評測涵蓋路由、推理、排序與多模態理解。\n為何重要：強調不只速度快，也重視判斷品質。\n延伸：未提供各項完整分數，無法獨立驗證排名。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092112,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 198
+              },
+              "quote": {
+                "exact": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+                "prefix": "  \n\n\n  \n\n  \n    \n\n\n  \n    Strong performance and calibration",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 164,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error."
+          },
+          "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794446092114,
+          "id": "hk-ai-preview-1794446092113-33491",
+          "kind": "passage",
+          "note": "AI：直接評估候選答案，省去逐 Token 生成。\n為何重要：解釋 API 為何能降低決策延遲與成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092113,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 767
+              },
+              "quote": {
+                "exact": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+                "prefix": " 256K tokens) along with up to 1,000 independent questions. ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 503
+              },
+              "version": 1
+            },
+            "endOffset": 553,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 289,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed."
+          },
+          "text": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794446092114,
+          "id": "hk-ai-preview-1794446092114-96355",
+          "kind": "term",
+          "note": "AI：依照任務需求，選擇不同模型處理。\n例子：簡單問題用小模型，複雜問題用推理模型。\n在本文：Notebook 的實際用途，宣稱延遲最多降 40%。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092114,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 336
+              },
+              "quote": {
+                "exact": "model routing",
+                "prefix": "ves for bounded choices like tool selection, policy checks, ",
+                "suffix": ", and context grading. You can pass one multimodal input acr"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 323
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "model routing"
+          },
+          "text": "model routing",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794446092115,
+          "id": "hk-ai-preview-1794446092115-60866",
+          "kind": "term",
+          "note": "AI：在事先定義的選項中做判斷，而非自由生成。\n例子：從三個模型中選擇適合處理問題的模型。\n在本文：API 的核心任務形式，支援三種決策類型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092114,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 96
+              },
+              "quote": {
+                "exact": "closed-set decisions",
+                "prefix": "roducing the Gemini Decisions API, a new endpoint for fast, ",
+                "suffix": " powered by our new Gemini Decision 1 model (gemini-decision"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 76
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "closed-set decisions"
+          },
+          "text": "closed-set decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        }
+      ],
+      "note": {
+        "context": "傳統生成式 LLM 即使只需回答「是否符合條件」或「該選哪個工具」，通常仍透過逐 Token 生成答案\n對需要大量即時判斷的系統而言，這種做法可能增加延遲與成本\nGoogle 因此推出 Gemini Decisions API，專門處理答案範圍已知的決策任務\n\n核心方法是讓 Gemini Decision 1 直接對候選答案評分，而非逐字生成結果\n開發者可以提供一份多模態輸入，並在同一次請求中設定最多 1,000 個獨立問題\n系統支援是非判斷、多選與等級評分，並回傳機率及信心分數\n\nGoogle 公布的評測顯示，模型在多種決策任務上具有領先表現與最低的校準誤差\n在指定測試條件下，端到端延遲約 150–250 ms，共同比較基準的成本接近降低五倍\nGemini Notebook、Stitch 和 Google Search 等內部產品也已採用，展示模型路由、介面設計與安全檢查等用途\n\n這套 API 的定位不是取代生成式 LLM，而是承擔選項明確、需要快速回應的決策環節\n不過，效能與成本優勢主要來自 Google 公布的測試，尚不能直接推論所有實際工作負載\n此外，信心分數仍可能出錯，模糊或高風險案例需要備援模型或人工審查",
+        "formatVersion": 2,
+        "generatedAt": 1794446092830,
+        "guideHighlights": [
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "直接評估候選答案，省去逐 Token 生成。\n為何重要：解釋 API 為何能降低決策延遲與成本。",
+            "source": "",
+            "text": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "未提供各項完整分數，無法獨立驗證排名。",
+            "kind": "passage",
+            "reason": "官方評測涵蓋路由、推理、排序與多模態理解。\n為何重要：強調不只速度快，也重視判斷品質。",
+            "source": "",
+            "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "此效能數據限於文中指定的測試範圍。",
+            "kind": "passage",
+            "reason": "測試中增加問題數量，延遲仍大致穩定。\n為何重要：多個判斷可共用輸入，避免逐題呼叫。",
+            "source": "",
+            "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "同一份輸入可混合三種判斷並取得信心分數。\n為何重要：讓程式能依信心決定是否交給備援處理。",
+            "source": "",
+            "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "後續案例涵蓋路由、設計、Emoji 與安全檢查。",
+            "kind": "passage",
+            "reason": "開發者可定義選項，不必先訓練專用分類器。\n為何重要：展示 API 如何成為應用中的即時決策層。",
+            "source": "",
+            "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "共用輸入只計費一次，問題指令仍計入成本。\n為何重要：多題共用上下文時，有利於控制費用。",
+            "source": "",
+            "text": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "API 正逐步整合既有開發框架與工具。\n為何重要：降低導入門檻，但部分整合尚未完成。",
+            "source": "",
+            "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "explanation": "在事先定義的選項中做判斷，而非自由生成。\n例子：從三個模型中選擇適合處理問題的模型。\n在本文：API 的核心任務形式，支援三種決策類型。",
+            "kind": "term",
+            "reason": "在事先定義的選項中做判斷，而非自由生成。\n例子：從三個模型中選擇適合處理問題的模型。\n在本文：API 的核心任務形式，支援三種決策類型。",
+            "text": "closed-set decisions",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "模型一次前向運算就計算候選答案的分數。\n例子：一次運算評估圖片是否有污漬及嚴重程度。\n在本文：降低延遲的主要設計，並提供效能數據。",
+            "kind": "term",
+            "reason": "模型一次前向運算就計算候選答案的分數。\n例子：一次運算評估圖片是否有污漬及嚴重程度。\n在本文：降低延遲的主要設計，並提供效能數據。",
+            "text": "single forward pass",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "covered": true,
+            "explanation": "預測信心與實際正確率之間的落差。\n例子：信心為 80% 的預測，理想上約八成正確。\n在本文：Google 宣稱誤差最低，未列出具體數值。",
+            "kind": "term",
+            "reason": "預測信心與實際正確率之間的落差。\n例子：信心為 80% 的預測，理想上約八成正確。\n在本文：Google 宣稱誤差最低，未列出具體數值。",
+            "text": "calibration error",
+            "unavailable": true
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "依照任務需求，選擇不同模型處理。\n例子：簡單問題用小模型，複雜問題用推理模型。\n在本文：Notebook 的實際用途，宣稱延遲最多降 40%。",
+            "kind": "term",
+            "reason": "依照任務需求，選擇不同模型處理。\n例子：簡單問題用小模型，複雜問題用推理模型。\n在本文：Notebook 的實際用途，宣稱延遲最多降 40%。",
+            "text": "model routing",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "預測信心與實際正確率之間的落差。\n例子：信心為 80% 的預測，理想上約八成正確。\n在本文：Google 宣稱誤差最低，未列出具體數值。",
+            "text": "calibration error",
+            "unavailable": true
+          }
+        ],
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      },
+      "mindmap": {
+        "generatedAt": 1794446092935,
+        "outline": "# Gemini Decisions API\n- 背景與問題\n  - 傳統逐 Token 生成\n  - 決策需要低延遲\n  - 答案範圍已知\n- 核心解法\n  - Gemini Decision 1\n    - 單次前向運算\n    - 候選答案評分\n    - 回傳機率與信心\n  - 共用多模態輸入\n    - 文字與圖片\n    - 音訊、影片、PDF\n    - 最多 256K Tokens\n  - 最多 1,000 個問題\n- 效能與評測\n  - 多類決策任務評測\n    - 路由與推理\n    - 排序與多模態理解\n    - 校準誤差\n  - 延遲表現\n    - 模型運算 50–100 ms\n    - 端到端 150–250 ms\n    - 1 至 100 題近乎持平\n  - 成本比較\n    - 比 Flash-Lite 近五倍便宜\n- 三種決策類型\n  - noul\n    - 是非判斷\n  - choice\n    - 2 至 255 個選項\n  - score\n    - 分級與加權評分\n  - 信心分數\n    - 備援或人工審查\n- Google 內部應用\n  - Gemini Notebook\n    - 動態模型路由\n    - 延遲最多降 40%\n  - Stitch\n    - 快速設計流程\n  - CC\n    - 即時 Emoji 選擇\n  - Google Search\n    - MCP 工具安全檢查\n- 定價與導入\n  - 每百萬輸入 $0.10\n  - 輸出 Token 免費\n  - 共用輸入計費一次\n  - Google AI Studio\n    - 免費原型額度\n    - Python、JS、REST\n  - 生態系整合逐步推出",
+        "title": "Gemini Decisions API"
+      }
+    },
+    {
       "url": "https://arxiv.org/html/2611.05306v1",
       "title": "You don’t need long context",
       "tags": [

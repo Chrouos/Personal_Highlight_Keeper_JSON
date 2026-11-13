@@ -4,6 +4,47 @@
   "category": null,
   "pages": [
     {
+      "url": "https://github.com/CityPulso/PulsoIcon",
+      "title": "CityPulso/PulsoIcon: Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794366791825,
+          "id": "hk-1794366791814-83525",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1794366791808,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 122
+              },
+              "quote": {
+                "exact": "React, Vue, Svelte, Jetpack Compose and SwiftUI",
+                "prefix": "\n  9955 animated icons. Every one has its own motion.\n  For ",
+                "suffix": ". Icons come alive on hover; in React they replace lucide-re"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 75
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[2]",
+            "startOffset": 7,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[2]",
+            "text": "React, Vue, Svelte, Jetpack Compose and SwiftUI"
+          },
+          "text": "React, Vue, Svelte, Jetpack Compose and SwiftUI",
+          "url": "https://github.com/CityPulso/PulsoIcon"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
       "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "title": "LLM 的重量-空間編程：LLM 能夠原生地讀取和寫入神經網絡的權重 --- Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
       "tags": [],
@@ -133259,6 +133300,14 @@
     {
       "url": "https://blog.bytebytego.com/p/token-spend-out-of-control-the-case",
       "title": "Token Spend Out of Control? The Case for Smarter Routing",
+      "tags": [],
+      "entries": [],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://chatgpt.com/",
+      "title": "介紹 Gemma2 Embedding",
       "tags": [],
       "entries": [],
       "note": null,

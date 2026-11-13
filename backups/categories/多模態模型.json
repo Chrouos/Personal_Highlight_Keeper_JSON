@@ -4,6 +4,1309 @@
   "category": "多模態模型",
   "pages": [
     {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "title": "Gemini Decisions API: Fast multimodal decisions",
+      "tags": [
+        "人工智慧",
+        "大型語言模型",
+        "多模態模型",
+        "延遲優化",
+        "成本控制",
+        "系統設計"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794446092105,
+          "id": "hk-ai-preview-1794446092101-52654",
+          "kind": "passage",
+          "note": "AI：API 正逐步整合既有開發框架與工具。\n為何重要：降低導入門檻，但部分整合尚未完成。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092099,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 897
+              },
+              "quote": {
+                "exact": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+                "prefix": "aScript, and REST guides in the Decisions API documentation.",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n          \n       "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 683
+              },
+              "version": 1
+            },
+            "endOffset": 27,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[3]/text()[11]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[2]/text()[6]",
+            "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud."
+          },
+          "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794446092107,
+          "id": "hk-ai-preview-1794446092106-66028",
+          "kind": "passage",
+          "note": "AI：共用輸入只計費一次，問題指令仍計入成本。\n為何重要：多題共用上下文時，有利於控制費用。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092105,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 443
+              },
+              "quote": {
+                "exact": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+                "prefix": "-cost tier you can use in Google AI Studio for prototyping. ",
+                "suffix": "You can start building today by grabbing an API key in Googl"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 177
+              },
+              "version": 1
+            },
+            "endOffset": 249,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 18,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[9]/uni-article-paragraph[1]/div[1]/p[1]/text()[2]",
+            "text": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs."
+          },
+          "text": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794446092109,
+          "id": "hk-ai-preview-1794446092108-26269",
+          "kind": "passage",
+          "note": "AI：開發者可定義選項，不必先訓練專用分類器。\n為何重要：展示 API 如何成為應用中的即時決策層。\n延伸：後續案例涵蓋路由、設計、Emoji 與安全檢查。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092107,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(7) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 249
+              },
+              "quote": {
+                "exact": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+                "prefix": "\n    \n\n\n  \n    How teams are building with the Decisions API",
+                "suffix": "Dynamic model routing in Gemini Notebook: Gemini Notebook us"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(7) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 45
+              },
+              "version": 1
+            },
+            "endOffset": 204,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[7]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[7]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:"
+          },
+          "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794446092110,
+          "id": "hk-ai-preview-1794446092109-74183",
+          "kind": "passage",
+          "note": "AI：同一份輸入可混合三種判斷並取得信心分數。\n為何重要：讓程式能依信心決定是否交給備援處理。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092109,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1156
+              },
+              "quote": {
+                "exact": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+                "prefix": "ge and video inputs to control visual detail and token cost.",
+                "suffix": "noul (Yes/No): Estimates the probability that a yes/no condi"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 889
+              },
+              "version": 1
+            },
+            "endOffset": 267,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 384,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:"
+          },
+          "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794446092111,
+          "id": "hk-ai-preview-1794446092110-43218",
+          "kind": "term",
+          "note": "AI：模型一次前向運算就計算候選答案的分數。\n例子：一次運算評估圖片是否有污漬及嚴重程度。\n在本文：降低延遲的主要設計，並提供效能數據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092110,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 655
+              },
+              "quote": {
+                "exact": "single forward pass",
+                "prefix": " process text, images, audio, video, and PDFs directly in a ",
+                "suffix": ". You can combine modalities in one shared input, such as pa"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 636
+              },
+              "version": 1
+            },
+            "endOffset": 150,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 131,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "single forward pass"
+          },
+          "text": "single forward pass",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794446092112,
+          "id": "hk-ai-preview-1794446092111-69486",
+          "kind": "passage",
+          "note": "AI：測試中增加問題數量，延遲仍大致穩定。\n為何重要：多個判斷可共用輸入，避免逐題呼叫。\n延伸：此效能數據限於文中指定的測試範圍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092111,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 255
+              },
+              "quote": {
+                "exact": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request.",
+                "prefix": "    \n      \n    \n  \n        \n       \n\n\n  \n\n  \n    \n\n\n  \n    ",
+                "suffix": " With zero output tokens billed, Gemini Decision 1 with the "
+              },
+              "start": {
+                "css": "main#jump-content > article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(5) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 255,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[5]/uni-article-paragraph[1]/text()[1]",
+            "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request."
+          },
+          "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794446092113,
+          "id": "hk-ai-preview-1794446092112-85228",
+          "kind": "passage",
+          "note": "AI：官方評測涵蓋路由、推理、排序與多模態理解。\n為何重要：強調不只速度快，也重視判斷品質。\n延伸：未提供各項完整分數，無法獨立驗證排名。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092112,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 198
+              },
+              "quote": {
+                "exact": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+                "prefix": "  \n\n\n  \n\n  \n    \n\n\n  \n    Strong performance and calibration",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(3) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 164,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 34,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[3]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error."
+          },
+          "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794446092114,
+          "id": "hk-ai-preview-1794446092113-33491",
+          "kind": "passage",
+          "note": "AI：直接評估候選答案，省去逐 Token 生成。\n為何重要：解釋 API 為何能降低決策延遲與成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092113,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 767
+              },
+              "quote": {
+                "exact": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+                "prefix": " 256K tokens) along with up to 1,000 independent questions. ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 503
+              },
+              "version": 1
+            },
+            "endOffset": 553,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 289,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed."
+          },
+          "text": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794446092114,
+          "id": "hk-ai-preview-1794446092114-96355",
+          "kind": "term",
+          "note": "AI：依照任務需求，選擇不同模型處理。\n例子：簡單問題用小模型，複雜問題用推理模型。\n在本文：Notebook 的實際用途，宣稱延遲最多降 40%。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092114,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 336
+              },
+              "quote": {
+                "exact": "model routing",
+                "prefix": "ves for bounded choices like tool selection, policy checks, ",
+                "suffix": ", and context grading. You can pass one multimodal input acr"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 323
+              },
+              "version": 1
+            },
+            "endOffset": 122,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "model routing"
+          },
+          "text": "model routing",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794446092115,
+          "id": "hk-ai-preview-1794446092115-60866",
+          "kind": "term",
+          "note": "AI：在事先定義的選項中做判斷，而非自由生成。\n例子：從三個模型中選擇適合處理問題的模型。\n在本文：API 的核心任務形式，支援三種決策類型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794446092114,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 96
+              },
+              "quote": {
+                "exact": "closed-set decisions",
+                "prefix": "roducing the Gemini Decisions API, a new endpoint for fast, ",
+                "suffix": " powered by our new Gemini Decision 1 model (gemini-decision"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 76
+              },
+              "version": 1
+            },
+            "endOffset": 96,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 76,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "closed-set decisions"
+          },
+          "text": "closed-set decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        }
+      ],
+      "note": {
+        "context": "傳統生成式 LLM 即使只需回答「是否符合條件」或「該選哪個工具」，通常仍透過逐 Token 生成答案\n對需要大量即時判斷的系統而言，這種做法可能增加延遲與成本\nGoogle 因此推出 Gemini Decisions API，專門處理答案範圍已知的決策任務\n\n核心方法是讓 Gemini Decision 1 直接對候選答案評分，而非逐字生成結果\n開發者可以提供一份多模態輸入，並在同一次請求中設定最多 1,000 個獨立問題\n系統支援是非判斷、多選與等級評分，並回傳機率及信心分數\n\nGoogle 公布的評測顯示，模型在多種決策任務上具有領先表現與最低的校準誤差\n在指定測試條件下，端到端延遲約 150–250 ms，共同比較基準的成本接近降低五倍\nGemini Notebook、Stitch 和 Google Search 等內部產品也已採用，展示模型路由、介面設計與安全檢查等用途\n\n這套 API 的定位不是取代生成式 LLM，而是承擔選項明確、需要快速回應的決策環節\n不過，效能與成本優勢主要來自 Google 公布的測試，尚不能直接推論所有實際工作負載\n此外，信心分數仍可能出錯，模糊或高風險案例需要備援模型或人工審查",
+        "formatVersion": 2,
+        "generatedAt": 1794446092830,
+        "guideHighlights": [
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "直接評估候選答案，省去逐 Token 生成。\n為何重要：解釋 API 為何能降低決策延遲與成本。",
+            "source": "",
+            "text": "Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "未提供各項完整分數，無法獨立驗證排名。",
+            "kind": "passage",
+            "reason": "官方評測涵蓋路由、推理、排序與多模態理解。\n為何重要：強調不只速度快，也重視判斷品質。",
+            "source": "",
+            "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "此效能數據限於文中指定的測試範圍。",
+            "kind": "passage",
+            "reason": "測試中增加問題數量，延遲仍大致穩定。\n為何重要：多個判斷可共用輸入，避免逐題呼叫。",
+            "source": "",
+            "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "同一份輸入可混合三種判斷並取得信心分數。\n為何重要：讓程式能依信心決定是否交給備援處理。",
+            "source": "",
+            "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "後續案例涵蓋路由、設計、Emoji 與安全檢查。",
+            "kind": "passage",
+            "reason": "開發者可定義選項，不必先訓練專用分類器。\n為何重要：展示 API 如何成為應用中的即時決策層。",
+            "source": "",
+            "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "共用輸入只計費一次，問題指令仍計入成本。\n為何重要：多題共用上下文時，有利於控制費用。",
+            "source": "",
+            "text": "Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "API 正逐步整合既有開發框架與工具。\n為何重要：降低導入門檻，但部分整合尚未完成。",
+            "source": "",
+            "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "explanation": "在事先定義的選項中做判斷，而非自由生成。\n例子：從三個模型中選擇適合處理問題的模型。\n在本文：API 的核心任務形式，支援三種決策類型。",
+            "kind": "term",
+            "reason": "在事先定義的選項中做判斷，而非自由生成。\n例子：從三個模型中選擇適合處理問題的模型。\n在本文：API 的核心任務形式，支援三種決策類型。",
+            "text": "closed-set decisions",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "模型一次前向運算就計算候選答案的分數。\n例子：一次運算評估圖片是否有污漬及嚴重程度。\n在本文：降低延遲的主要設計，並提供效能數據。",
+            "kind": "term",
+            "reason": "模型一次前向運算就計算候選答案的分數。\n例子：一次運算評估圖片是否有污漬及嚴重程度。\n在本文：降低延遲的主要設計，並提供效能數據。",
+            "text": "single forward pass",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "covered": true,
+            "explanation": "預測信心與實際正確率之間的落差。\n例子：信心為 80% 的預測，理想上約八成正確。\n在本文：Google 宣稱誤差最低，未列出具體數值。",
+            "kind": "term",
+            "reason": "預測信心與實際正確率之間的落差。\n例子：信心為 80% 的預測，理想上約八成正確。\n在本文：Google 宣稱誤差最低，未列出具體數值。",
+            "text": "calibration error",
+            "unavailable": true
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "依照任務需求，選擇不同模型處理。\n例子：簡單問題用小模型，複雜問題用推理模型。\n在本文：Notebook 的實際用途，宣稱延遲最多降 40%。",
+            "kind": "term",
+            "reason": "依照任務需求，選擇不同模型處理。\n例子：簡單問題用小模型，複雜問題用推理模型。\n在本文：Notebook 的實際用途，宣稱延遲最多降 40%。",
+            "text": "model routing",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "預測信心與實際正確率之間的落差。\n例子：信心為 80% 的預測，理想上約八成正確。\n在本文：Google 宣稱誤差最低，未列出具體數值。",
+            "text": "calibration error",
+            "unavailable": true
+          }
+        ],
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      },
+      "mindmap": {
+        "generatedAt": 1794446092935,
+        "outline": "# Gemini Decisions API\n- 背景與問題\n  - 傳統逐 Token 生成\n  - 決策需要低延遲\n  - 答案範圍已知\n- 核心解法\n  - Gemini Decision 1\n    - 單次前向運算\n    - 候選答案評分\n    - 回傳機率與信心\n  - 共用多模態輸入\n    - 文字與圖片\n    - 音訊、影片、PDF\n    - 最多 256K Tokens\n  - 最多 1,000 個問題\n- 效能與評測\n  - 多類決策任務評測\n    - 路由與推理\n    - 排序與多模態理解\n    - 校準誤差\n  - 延遲表現\n    - 模型運算 50–100 ms\n    - 端到端 150–250 ms\n    - 1 至 100 題近乎持平\n  - 成本比較\n    - 比 Flash-Lite 近五倍便宜\n- 三種決策類型\n  - noul\n    - 是非判斷\n  - choice\n    - 2 至 255 個選項\n  - score\n    - 分級與加權評分\n  - 信心分數\n    - 備援或人工審查\n- Google 內部應用\n  - Gemini Notebook\n    - 動態模型路由\n    - 延遲最多降 40%\n  - Stitch\n    - 快速設計流程\n  - CC\n    - 即時 Emoji 選擇\n  - Google Search\n    - MCP 工具安全檢查\n- 定價與導入\n  - 每百萬輸入 $0.10\n  - 輸出 Token 免費\n  - 共用輸入計費一次\n  - Google AI Studio\n    - 免費原型額度\n    - Python、JS、REST\n  - 生態系整合逐步推出",
+        "title": "Gemini Decisions API"
+      }
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "title": "Gemini 4 Carbon 現已上市 --- Gemini 4 Carbon is now available",
+      "tags": [
+        "人工智慧",
+        "大型語言模型",
+        "多智能體系統",
+        "多模態模型",
+        "軟體工程",
+        "人工智慧對齊"
+      ],
+      "entries": [
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794361719840,
+          "id": "hk-ai-preview-1794361719839-87309",
+          "kind": "passage",
+          "note": "AI：特定測試攻擊成功率為零，仍有其他風險。\n為何重要：單一基準的安全成績不能代表全面防護。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719838,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(14) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 335
+              },
+              "quote": {
+                "exact": "At the same time, we know that prompt injection robustness remains an area for continued improvement.",
+                "prefix": "k — marking the first time that milestone has been reached. ",
+                "suffix": " Our advanced automated red teaming continues to push the li"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(14) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 234
+              },
+              "version": 1
+            },
+            "endOffset": 279,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[14]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 178,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[14]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "At the same time, we know that prompt injection robustness remains an area for continued improvement."
+          },
+          "text": "At the same time, we know that prompt injection robustness remains an area for continued improvement.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1794361719841,
+          "id": "hk-ai-preview-1794361719840-80643",
+          "kind": "passage",
+          "note": "AI：誠實性評測提升，較少自行補造實驗資料。\n為何重要：高自主性 Agent 必須能辨識資訊不足。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719840,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(12) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1612
+              },
+              "quote": {
+                "exact": "New results show that on our 375-task agentic honesty benchmark, it passed 92% of tasks (compared to 70% for Argon) — declining to fill in missing experimental data 98% of the time and flagging methodological flaws 68% of the time.",
+                "prefix": "del’s lifecycle, as well as reductions in data fabrication. ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(12) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1381
+              },
+              "version": 1
+            },
+            "endOffset": 417,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[12]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 186,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[12]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "New results show that on our 375-task agentic honesty benchmark, it passed 92% of tasks (compared to 70% for Argon) — declining to fill in missing experimental data 98% of the time and flagging methodological flaws 68% of the time."
+          },
+          "text": "New results show that on our 375-task agentic honesty benchmark, it passed 92% of tasks (compared to 70% for Argon) — declining to fill in missing experimental data 98% of the time and flagging methodological flaws 68% of the time.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794361719842,
+          "id": "hk-ai-preview-1794361719841-75902",
+          "kind": "term",
+          "note": "AI：惡意內容誘導 AI 偏離原本指令。\n例子：文件暗藏指令，要求 AI 洩漏機密。\n在本文：指定評測攻擊成功率為零，但風險未消失。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719841,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(12) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 398
+              },
+              "quote": {
+                "exact": "prompt injection",
+                "prefix": "fety and security stack to fortify robustness to misuse and ",
+                "suffix": ".Mitigating frontier safety misuse risks: We’ve strengthened"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(12) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 382
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[12]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 37,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[12]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "text": "prompt injection"
+          },
+          "text": "prompt injection",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794361719842,
+          "id": "hk-ai-preview-1794361719842-84366",
+          "kind": "passage",
+          "note": "AI：蛋白質研究成果仍需要更廣泛的評測。\n為何重要：搜尋改善不等於已全面證實預測效果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719842,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2991
+              },
+              "quote": {
+                "exact": "While broader benchmarking is still underway, addressing this upstream search bottleneck potentially offers a promising path toward modeling hard-to-characterize regions of the proteome.",
+                "prefix": "to structure prediction models without need for retraining. ",
+                "suffix": "Four weeks ago, we opened applications to give 10,000 scient"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2805
+              },
+              "version": 1
+            },
+            "endOffset": 976,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 790,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "While broader benchmarking is still underway, addressing this upstream search bottleneck potentially offers a promising path toward modeling hard-to-characterize regions of the proteome."
+          },
+          "text": "While broader benchmarking is still underway, addressing this upstream search bottleneck potentially offers a promising path toward modeling hard-to-characterize regions of the proteome.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794361719843,
+          "id": "hk-ai-preview-1794361719843-28387",
+          "kind": "passage",
+          "note": "AI：七個蛋白質家族平均找到 40 倍同源序列。\n為何重要：改善上游資料搜尋，不必重新訓練預測模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719842,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2804
+              },
+              "quote": {
+                "exact": "Carbon increased the number of homologs retrieved by 40-fold on average, greatly increasing the information available to structure prediction models without need for retraining.",
+                "prefix": "ow-homolog protein families from the CASP17 blind test set, ",
+                "suffix": " While broader benchmarking is still underway, addressing th"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2627
+              },
+              "version": 1
+            },
+            "endOffset": 789,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 612,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "Carbon increased the number of homologs retrieved by 40-fold on average, greatly increasing the information available to structure prediction models without need for retraining."
+          },
+          "text": "Carbon increased the number of homologs retrieved by 40-fold on average, greatly increasing the information available to structure prediction models without need for retraining.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794361719844,
+          "id": "hk-ai-preview-1794361719843-34438",
+          "kind": "passage",
+          "note": "AI：Carbon 協助產生大量形式化證明程式碼。\n為何重要：展示 AI 加速複雜軟體安全驗證的潛力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719843,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1263
+              },
+              "quote": {
+                "exact": "AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, a computer language for writing mathematical proofs, helping them prove key security properties in weeks — a task that historically takes expert teams years.",
+                "prefix": "archers translated security goals to mathematical theorems. ",
+                "suffix": " The result indicates Carbon’s potential to unlock scalable "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1019
+              },
+              "version": 1
+            },
+            "endOffset": 351,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "startOffset": 107,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[2]",
+            "text": "AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, a computer language for writing mathematical proofs, helping them prove key security properties in weeks — a task that historically takes expert teams years."
+          },
+          "text": "AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, a computer language for writing mathematical proofs, helping them prove key security properties in weeks — a task that historically takes expert teams years.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794361719844,
+          "id": "hk-ai-preview-1794361719844-48000",
+          "kind": "term",
+          "note": "AI：補充：透過數學證明確認系統符合特定性質。\n例子：證明加密協定的程式碼滿足安全條件。\n在本文：Carbon 輔助產生 Lean 證明程式碼。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719844,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 752
+              },
+              "quote": {
+                "exact": "formal verification",
+                "prefix": "verification: Researchers built a new agentic framework for ",
+                "suffix": " called AlphaProof Code and put it to work on a major securi"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(11) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 733
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 47,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[11]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "formal verification"
+          },
+          "text": "formal verification",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794361719846,
+          "id": "hk-ai-preview-1794361719845-79250",
+          "kind": "passage",
+          "note": "AI：內部資安評測兼具高召回率與高精確率。\n為何重要：不只發現漏洞，也要有效篩選可疑結果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719845,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 804
+              },
+              "quote": {
+                "exact": "In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark.",
+                "prefix": "ady seeing strong results with Carbon for cyber in practice.",
+                "suffix": " On Open Source code repository testing we see an over 25% r"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(9) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 623
+              },
+              "version": 1
+            },
+            "endOffset": 163,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[9]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 111,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[9]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark."
+          },
+          "text": "In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794361719846,
+          "id": "hk-ai-preview-1794361719846-25969",
+          "kind": "passage",
+          "note": "AI：開發過程會檢查程式與實際渲染畫面。\n為何重要：驗證範圍從程式碼延伸到使用者介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719846,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 441
+              },
+              "quote": {
+                "exact": "For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications.",
+                "prefix": "-cause investigations, and complex architectural redesigns. ",
+                "suffix": " Stronger visual design, spatial reasoning, and attention to"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 275
+              },
+              "version": 1
+            },
+            "endOffset": 372,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 206,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications."
+          },
+          "text": "For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794361719847,
+          "id": "hk-ai-preview-1794361719846-11626",
+          "kind": "passage",
+          "note": "AI：MKA 評測中排名第二，但任務成本更低。\n為何重要：多模態文件任務也需要比較成本效益。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719846,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 830
+              },
+              "quote": {
+                "exact": "Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model.",
+                "prefix": "ests a model’s multimodal performance in agentic workflows. ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n\n    \n  \n      \n      "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 721
+              },
+              "version": 1
+            },
+            "endOffset": 192,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 83,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "text": "Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model."
+          },
+          "text": "Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794361719847,
+          "id": "hk-ai-preview-1794361719847-94422",
+          "kind": "term",
+          "note": "AI：評估 AI 在工作流程中理解多模態資料的基準。\n例子：同時分析文件內的文字、表格與工程圖。\n在本文：Carbon 排名第二，平均任務成本較第一名低逾六倍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719847,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 644
+              },
+              "quote": {
+                "exact": "Multimodal Knowledge Agent (MKA)",
+                "prefix": " so we partnered with Artificial Analysis to launch the new ",
+                "suffix": " benchmark that tests a model’s multimodal performance in ag"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 612
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 205,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "Multimodal Knowledge Agent (MKA)"
+          },
+          "text": "Multimodal Knowledge Agent (MKA)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794361719847,
+          "id": "hk-ai-preview-1794361719847-69725",
+          "kind": "passage",
+          "note": "AI：Carbon 負責深度推理，輕量模型處理其他工作。\n為何重要：多模型分工可兼顧任務能力與運算成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719847,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1625
+              },
+              "quote": {
+                "exact": "Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change.",
+                "prefix": "to a coordinated team of agents you can track in real time. ",
+                "suffix": "Gemini 4 Carbon is available via the API in Google AI Studio"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1367
+              },
+              "version": 1
+            },
+            "endOffset": 368,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[3]",
+            "startOffset": 110,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[3]",
+            "text": "Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change."
+          },
+          "text": "Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794361719848,
+          "id": "hk-ai-preview-1794361719848-22618",
+          "kind": "term",
+          "note": "AI：Antigravity 的多 Agent 協作功能。\n例子：不同 Agent 分別開發前端、3D 模型與測試。\n在本文：用來展示大型專案的分工與協調能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719847,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1257
+              },
+              "quote": {
+                "exact": "/swarm",
+                "prefix": "es to work on larger and complex projects, we’re previewing ",
+                "suffix": " in Google Antigravity, turning a single prompt into a coord"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1251
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/code[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[2]",
+            "text": "/swarm"
+          },
+          "text": "/swarm",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794361719848,
+          "id": "hk-ai-preview-1794361719848-97564",
+          "kind": "passage",
+          "note": "AI：三項工作流程評測排名第一且成本較低。\n為何重要：評估的是任務成果與成本，而非只看 Token 價格。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719848,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1165
+              },
+              "quote": {
+                "exact": "It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model.",
+                "prefix": "airs frontier accuracy with practical production economics. ",
+                "suffix": "To put Carbon’s capabilities to work on larger and complex p"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1007
+              },
+              "version": 1
+            },
+            "endOffset": 78,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 152,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "text": "It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model."
+          },
+          "text": "It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794361719849,
+          "id": "hk-ai-preview-1794361719848-7208",
+          "kind": "passage",
+          "note": "AI：Carbon 透過更多推理與驗證處理難題。\n為何重要：說明能力提升伴隨更多計算投入。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719848,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 855
+              },
+              "quote": {
+                "exact": "using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops.",
+                "prefix": "ebugging and open-ended scientific research and discovery — ",
+                "suffix": "Across independent benchmarks designed to test model perform"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 752
+              },
+              "version": 1
+            },
+            "endOffset": 324,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[7]",
+            "startOffset": 221,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[7]",
+            "text": "using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops."
+          },
+          "text": "using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1794361719849,
+          "id": "hk-ai-preview-1794361719849-48528",
+          "kind": "passage",
+          "note": "AI：Carbon 與 Argon 的定位不同。\n為何重要：高難度任務才是 Carbon 的主要使用場景。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719849,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 654
+              },
+              "quote": {
+                "exact": "Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence",
+                "prefix": "of Gemini 4 Argon, Carbon pushes the frontier even further. ",
+                "suffix": " like complex, multi-step coding and debugging and open-ende"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 484
+              },
+              "version": 1
+            },
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[7]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[5]",
+            "text": "Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence"
+          },
+          "text": "Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffeb3b",
+          "createdAt": 1794361719849,
+          "id": "hk-ai-preview-1794361719849-42763",
+          "kind": "term",
+          "note": "AI：AI 長時間自主執行多步驟任務的流程。\n例子：分析專案、修改程式，再執行測試與修正。\n在本文：Carbon 的核心定位，並以多項評測展示。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794361719849,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 221
+              },
+              "quote": {
+                "exact": "long-horizon agentic workflows",
+                "prefix": "with frontier performance in cybersecurity capabilities and ",
+                "suffix": " across complex knowledge work, software engineering, and sc"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 191
+              },
+              "version": 1
+            },
+            "endOffset": 221,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 191,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "long-horizon agentic workflows"
+          },
+          "text": "long-horizon agentic workflows",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1794364186733,
+          "id": "hk-1794364186720-80883",
+          "note": "Gemini 4 Carbon 是 Google 針對高難度推理、長時間 Agent 工作流程、程式開發與科學研究推出的 Frontier Model",
+          "range": {
+            "anchors": {
+              "createdAt": 1794364186720,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 130
+              },
+              "quote": {
+                "exact": "Carbon is our strongest model",
+                "prefix": "able to developers, enterprises, scientists, and consumers. ",
+                "suffix": " with frontier performance in cybersecurity capabilities and"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 101
+              },
+              "version": 1
+            },
+            "endOffset": 130,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 101,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Carbon is our strongest model"
+          },
+          "text": "Carbon is our strongest model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794364573796,
+          "id": "hk-1794364573787-12166",
+          "note": "Argon：適合一般開發、知識工作，兼顧效率\n\nCarbon：適合複雜任務，願意消耗更多 Token 進行推理、反覆驗證與修正",
+          "range": {
+            "anchors": {
+              "createdAt": 1794364573786,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 434
+              },
+              "quote": {
+                "exact": "Carbon ",
+                "prefix": "能力和複雜知識工作、軟件工程以及科學推理等領域，都具有領先的性能。Two weeks ago, we released ",
+                "suffix": "to a set of cybersecurity defenders via our Fairwind Program"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 427
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 14,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "Carbon "
+          },
+          "text": "Carbon ",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794364614309,
+          "id": "hk-1794364614299-1407",
+          "note": "傳統 LLM：\nPrompt → Reasoning → Answer\n\nCarbon 強調的工作模式：\nPrompt → Plan → Execute → Verify → Fix → Repeat",
+          "range": {
+            "anchors": {
+              "createdAt": 1794364614299,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 251
+              },
+              "quote": {
+                "exact": "complex knowledge work",
+                "prefix": "rity capabilities and long-horizon agentic workflows across ",
+                "suffix": ", software engineering, and scientific reasoning.今天，我們將 Gemi"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 229
+              },
+              "version": 1
+            },
+            "endOffset": 30,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[3]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[3]",
+            "text": "complex knowledge work"
+          },
+          "text": "complex knowledge work",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+        }
+      ],
+      "note": {
+        "context": "Google 推出 Gemini 4 Carbon，定位為處理高難度、長時間任務的 Frontier Model（前沿模型）。\n相較於適合多數日常開發工作的 Argon，Carbon 願意使用更多 Token 進行深入推理、反覆驗證與多步驟工作。\n\n為了讓模型完成大型專案，Google 同時預覽 Antigravity 的 /swarm 功能。\n它可以把單一需求拆給多個 Agent，分別負責架構設計、程式開發與結果驗證，並讓不同模型合作。\n\nGoogle 以程式開發、文件分析、資安與科學研究的評測展示 Carbon 的能力。\n例如多項工作流程評測排名第一、資安漏洞掃描 Recall 達 100%，以及蛋白質研究中平均找出 40 倍的同源序列。\n\n但不同數據來自不同評測條件，不能直接推論所有真實任務都有相同提升。\n部分結果屬於 Google 內部評測或早期合作案例，科學研究的部分成果也仍在擴大驗證中。\n\nCarbon 已開始提供付費開發者及企業使用，API 初期價格與 Argon 相同。\n它的核心取捨是用更多推理計算換取更複雜的任務處理能力，而非單純追求最快回應。",
+        "formatVersion": 2,
+        "generatedAt": 1794361720269,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Carbon 與 Argon 的定位不同。\n為何重要：高難度任務才是 Carbon 的主要使用場景。",
+            "source": "",
+            "text": "Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Carbon 透過更多推理與驗證處理難題。\n為何重要：說明能力提升伴隨更多計算投入。",
+            "source": "",
+            "text": "using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "三項工作流程評測排名第一且成本較低。\n為何重要：評估的是任務成果與成本，而非只看 Token 價格。",
+            "source": "",
+            "text": "It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Carbon 負責深度推理，輕量模型處理其他工作。\n為何重要：多模型分工可兼顧任務能力與運算成本。",
+            "source": "",
+            "text": "Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "MKA 評測中排名第二，但任務成本更低。\n為何重要：多模態文件任務也需要比較成本效益。",
+            "source": "",
+            "text": "Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "開發過程會檢查程式與實際渲染畫面。\n為何重要：驗證範圍從程式碼延伸到使用者介面。",
+            "source": "",
+            "text": "For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "內部資安評測兼具高召回率與高精確率。\n為何重要：不只發現漏洞，也要有效篩選可疑結果。",
+            "source": "",
+            "text": "In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Carbon 協助產生大量形式化證明程式碼。\n為何重要：展示 AI 加速複雜軟體安全驗證的潛力。",
+            "source": "",
+            "text": "AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, a computer language for writing mathematical proofs, helping them prove key security properties in weeks — a task that historically takes expert teams years.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "七個蛋白質家族平均找到 40 倍同源序列。\n為何重要：改善上游資料搜尋，不必重新訓練預測模型。",
+            "source": "",
+            "text": "Carbon increased the number of homologs retrieved by 40-fold on average, greatly increasing the information available to structure prediction models without need for retraining.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "蛋白質研究成果仍需要更廣泛的評測。\n為何重要：搜尋改善不等於已全面證實預測效果。",
+            "source": "",
+            "text": "While broader benchmarking is still underway, addressing this upstream search bottleneck potentially offers a promising path toward modeling hard-to-characterize regions of the proteome.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "誠實性評測提升，較少自行補造實驗資料。\n為何重要：高自主性 Agent 必須能辨識資訊不足。",
+            "source": "",
+            "text": "New results show that on our 375-task agentic honesty benchmark, it passed 92% of tasks (compared to 70% for Argon) — declining to fill in missing experimental data 98% of the time and flagging methodological flaws 68% of the time.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "特定測試攻擊成功率為零，仍有其他風險。\n為何重要：單一基準的安全成績不能代表全面防護。",
+            "source": "",
+            "text": "At the same time, we know that prompt injection robustness remains an area for continued improvement.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#ffeb3b",
+            "explanation": "AI 長時間自主執行多步驟任務的流程。\n例子：分析專案、修改程式，再執行測試與修正。\n在本文：Carbon 的核心定位，並以多項評測展示。",
+            "kind": "term",
+            "reason": "AI 長時間自主執行多步驟任務的流程。\n例子：分析專案、修改程式，再執行測試與修正。\n在本文：Carbon 的核心定位，並以多項評測展示。",
+            "text": "long-horizon agentic workflows",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "Antigravity 的多 Agent 協作功能。\n例子：不同 Agent 分別開發前端、3D 模型與測試。\n在本文：用來展示大型專案的分工與協調能力。",
+            "kind": "term",
+            "reason": "Antigravity 的多 Agent 協作功能。\n例子：不同 Agent 分別開發前端、3D 模型與測試。\n在本文：用來展示大型專案的分工與協調能力。",
+            "text": "/swarm",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "評估 AI 在工作流程中理解多模態資料的基準。\n例子：同時分析文件內的文字、表格與工程圖。\n在本文：Carbon 排名第二，平均任務成本較第一名低逾六倍。",
+            "kind": "term",
+            "reason": "評估 AI 在工作流程中理解多模態資料的基準。\n例子：同時分析文件內的文字、表格與工程圖。\n在本文：Carbon 排名第二，平均任務成本較第一名低逾六倍。",
+            "text": "Multimodal Knowledge Agent (MKA)",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "補充：透過數學證明確認系統符合特定性質。\n例子：證明加密協定的程式碼滿足安全條件。\n在本文：Carbon 輔助產生 Lean 證明程式碼。",
+            "kind": "term",
+            "reason": "補充：透過數學證明確認系統符合特定性質。\n例子：證明加密協定的程式碼滿足安全條件。\n在本文：Carbon 輔助產生 Lean 證明程式碼。",
+            "text": "formal verification",
+            "unavailable": false
+          },
+          {
+            "color": "#ffeb3b",
+            "explanation": "惡意內容誘導 AI 偏離原本指令。\n例子：文件暗藏指令，要求 AI 洩漏機密。\n在本文：指定評測攻擊成功率為零，但風險未消失。",
+            "kind": "term",
+            "reason": "惡意內容誘導 AI 偏離原本指令。\n例子：文件暗藏指令，要求 AI 洩漏機密。\n在本文：指定評測攻擊成功率為零，但風險未消失。",
+            "text": "prompt injection",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+      },
+      "mindmap": {
+        "generatedAt": 1794361720346,
+        "outline": "# Gemini 4 Carbon is now available\n\n- 模型定位\n  - Argon 處理一般任務\n  - Carbon 處理高難度任務\n    - 更多推理 Token\n    - 延長驗證循環\n  - API 初期同價\n- 多 Agent 協作\n  - Antigravity /swarm\n    - 架構設計與協調\n    - 輕量模型平行執行\n    - 對抗式驗證\n- 知識工作與多模態\n  - 文件與資料分析\n  - MKA 評測\n    - 排名第二\n    - 任務成本低逾六倍\n  - 3D 重建與視覺化\n- 軟體開發\n  - 複雜架構重設\n  - 建置與驗證循環\n  - 程式與 UI 檢查\n- 資安能力\n  - 漏洞搜尋與修補\n  - Project Fortify\n    - 掃描召回率 100%\n    - 分流精確率 95%\n  - 真實漏洞研究案例\n- 科學研究\n  - 數學與物理推理\n  - AlphaProof Code\n    - Lean 形式化證明\n  - 實驗異常分析\n  - 蛋白質同源序列搜尋\n    - 平均增加 40 倍\n    - 仍需擴大評測\n- 安全與對齊\n  - 降低資安濫用風險\n  - Agent 誠實性改善\n  - Prompt Injection 防護\n    - 指定評測成功率零\n    - 仍需持續改善\n- 開放使用\n  - 開發者與企業\n  - Google AI Ultra\n  - 科學研究者\n  - Fairwind 資安計畫",
+        "title": "Gemini 4 Carbon is now available"
+      }
+    },
+    {
       "url": "https://huggingface.co/google/embeddinggemma-2",
       "title": "google/embeddinggemma-2 · Hugging Face",
       "tags": [
