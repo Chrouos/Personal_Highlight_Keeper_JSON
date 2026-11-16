@@ -1,14 +1,14 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 696,
+  "totalPages": 690,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 666
+      "pageCount": 660
     },
     {
       "tag": "人工智慧",
@@ -18,7 +18,7 @@
     {
       "tag": "多模態模型",
       "file": "categories/多模態模型.json",
-      "pageCount": 10
+      "pageCount": 11
     },
     {
       "tag": "系統設計",
@@ -33,7 +33,7 @@
     {
       "tag": "成本控制",
       "file": "categories/成本控制.json",
-      "pageCount": 8
+      "pageCount": 9
     },
     {
       "tag": "延遲優化",
@@ -53,7 +53,7 @@
     {
       "tag": "人工智慧對齊",
       "file": "categories/人工智慧對齊.json",
-      "pageCount": 6
+      "pageCount": 5
     },
     {
       "tag": "開發者指南",
@@ -81,13 +81,8 @@
       "pageCount": 4
     },
     {
-      "tag": "具身智能",
-      "file": "categories/具身智能.json",
-      "pageCount": 3
-    },
-    {
-      "tag": "軟體工程",
-      "file": "categories/軟體工程.json",
+      "tag": "多智能體系統",
+      "file": "categories/多智能體系統.json",
       "pageCount": 3
     },
     {
@@ -96,13 +91,18 @@
       "pageCount": 3
     },
     {
-      "tag": "多智能體系統",
-      "file": "categories/多智能體系統.json",
+      "tag": "即時語音",
+      "file": "categories/即時語音.json",
       "pageCount": 2
     },
     {
-      "tag": "即時語音",
-      "file": "categories/即時語音.json",
+      "tag": "具身智能",
+      "file": "categories/具身智能.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "軟體工程",
+      "file": "categories/軟體工程.json",
       "pageCount": 2
     },
     {
