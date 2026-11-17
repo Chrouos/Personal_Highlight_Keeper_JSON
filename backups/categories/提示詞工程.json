@@ -4,219 +4,6 @@
   "category": "提示詞工程",
   "pages": [
     {
-      "url": "https://arxiv.org/html/2610.14224v1",
-      "title": "Harness2: Recursive Agent Harnessing foran Open World",
-      "tags": [
-        "人工智慧",
-        "系統設計",
-        "提示詞工程",
-        "開源模型",
-        "機器學習"
-      ],
-      "entries": [
-        {
-          "color": "#fff5b8",
-          "createdAt": 1792114838093,
-          "id": "hk-1792114838070-75349",
-          "note": "RSI（Recursive Self-Improvement，遞迴式自我改進）\n\n指 AI 系統不只完成任務，還能根據執行結果持續改善自己，並利用改善後的能力進一步改善自己",
-          "range": {
-            "anchors": {
-              "createdAt": 1792114838068,
-              "end": {
-                "css": "p#abstract1\\.1",
-                "textOffset": 139
-              },
-              "quote": {
-                "exact": "Recursive self-improvement (RSI)",
-                "prefix": "ir underlying models but also on their execution harnesses. ",
-                "suffix": " offers a promising approach to automatically evolve these h"
-              },
-              "start": {
-                "css": "p#abstract1\\.1",
-                "textOffset": 107
-              },
-              "version": 1
-            },
-            "endOffset": 139,
-            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
-            "startOffset": 107,
-            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
-            "text": "Recursive self-improvement (RSI)"
-          },
-          "text": "Recursive self-improvement (RSI)",
-          "url": "https://arxiv.org/html/2610.14224v1"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1792131729236,
-          "id": "hk-1792131729219-65889",
-          "note": "Propose（提出修改）→ Probe（對比測試）→ Compose（整合改善）",
-          "range": {
-            "anchors": {
-              "createdAt": 1792137352186,
-              "end": {
-                "css": "p#abstract1\\.1",
-                "textOffset": 941
-              },
-              "quote": {
-                "exact": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
-                "prefix": "these challenges through two connected levels of recursion. ",
-                "suffix": " Harnessing-level recursion then extracts experience from th"
-              },
-              "start": {
-                "css": "em#abstract1\\.1\\.3",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 205,
-            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/em[2]/text()[1]",
-            "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion."
-          },
-          "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
-          "url": "https://arxiv.org/html/2610.14224v1"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1792132229894,
-          "id": "hk-1792132229879-43324",
-          "note": "研究要解決的兩個問題\n問題一：缺少 Ground Truth（標準答案）\nOpen-world Task（開放世界任務）往往是第一次遇到的任務\n沒有標準答案可以驗證 Harness 修改後是否真的更好\n\n問題二：RSI 缺乏泛化能力\n傳統 Recursive Self-Improvement（遞迴自我改善）通常只針對當前任務優化\n換一個任務時，過去的改善經驗難以重複利用",
-          "range": {
-            "anchors": {
-              "createdAt": 1792465925026,
-              "end": {
-                "css": "p#abstract1\\.1",
-                "textOffset": 290
-              },
-              "quote": {
-                "exact": "two critical challenges",
-                "prefix": ". However, deploying RSI in open-world settings still faces ",
-                "suffix": ". First, open-world tasks are typically unseen during the ha"
-              },
-              "start": {
-                "css": "p#abstract1\\.1",
-                "textOffset": 267
-              },
-              "version": 1
-            },
-            "endOffset": 151,
-            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
-            "startOffset": 128,
-            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
-            "text": "two critical challenges"
-          },
-          "text": "two critical challenges",
-          "url": "https://arxiv.org/html/2610.14224v1"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1792134508846,
-          "id": "hk-1792134508830-11526",
-          "note": "[翻譯] 任務級遞歸完善了目前任務的執行工具。",
-          "range": {
-            "anchors": {
-              "createdAt": 1792134508829,
-              "end": {
-                "css": "p#S1\\.p5\\.1",
-                "textOffset": 517
-              },
-              "quote": {
-                "exact": " Task-level recursion refines the current task’s execution harness.",
-                "prefix": "nts these updates through two coupled levels of recursion: ❶",
-                "suffix": " To overcome the absence of ground-truth feedback, we introd"
-              },
-              "start": {
-                "css": "p#S1\\.p5\\.1",
-                "textOffset": 450
-              },
-              "version": 1
-            },
-            "endOffset": 1,
-            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[7]",
-            "startOffset": 180,
-            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[5]",
-            "text": " Task-level recursion refines the current task’s execution harness."
-          },
-          "text": " Task-level recursion refines the current task’s execution harness.",
-          "url": "https://arxiv.org/html/2610.14224v1"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1792134527467,
-          "id": "hk-1792134527453-84350",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1792134527453,
-              "end": {
-                "css": "p#S1\\.p5\\.1",
-                "textOffset": 1067
-              },
-              "quote": {
-                "exact": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
-                "prefix": "ential recursion builds successive revisions iteratively. ❷ ",
-                "suffix": " Instead of inheriting the previous execution harness, this "
-              },
-              "start": {
-                "css": "span#S1\\.p5\\.1\\.10",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 1,
-            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[11]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/span[3]/text()[1]",
-            "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness."
-          },
-          "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
-          "url": "https://arxiv.org/html/2610.14224v1"
-        },
-        {
-          "color": "#fff5b8",
-          "createdAt": 1792137365820,
-          "id": "hk-1792137365784-13128",
-          "note": "問題： 這種方式容易對已知任務最佳化\n當 Agent 遇到全新的任務、工具或環境時，原本的 Harness 未必還有效",
-          "range": {
-            "anchors": {
-              "createdAt": 1792379003565,
-              "end": {
-                "css": "p#S1\\.p2\\.1",
-                "textOffset": 221
-              },
-              "quote": {
-                "exact": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
-                "prefix": "e generated, evaluated, and retained (Duan et al., 2026).\n\n\n",
-                "suffix": ". However, a static harness selected beforehand often fails "
-              },
-              "start": {
-                "css": "p#S1\\.p2\\.1",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 158,
-            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[1]",
-            "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment"
-          },
-          "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
-          "url": "https://arxiv.org/html/2610.14224v1"
-        }
-      ],
-      "note": {
-        "generatedAt": 1792114953109,
-        "model": "chatgpt-web",
-        "note": "在開源與智慧體技術快速發展的背景下，大型語言模型代理程式的效能不僅取決於底層模型本身，更受到其外在執行環境（即 harness，包含提示詞、記憶、技能與工具編排等）的深遠影響。然而，在開放世界中部署代理程式時，往往面臨缺乏真實標籤驗證器以及改進過程高度任務專一、難以泛化至新情境的兩大挑戰。為此，研究團隊推出了 Harness2 框架，透過「任務層級遞迴」與「harnessing 層級遞迴」兩個相連的層級來實現遞迴自我改進。任務層級採用創新的「提出－探測－組合」對比式步驟，在沒有正確答案的情況下透過行為對比來安全地編輯與合併 harness 修改；harnessing 層級則會萃取每次改進的經驗並存入持續改進庫中，供後續任務適應與重複利用。實驗證明，這套方法無論在辦公、程式開發或法律代理等專業基準測試中，皆能顯著提升各類模型的表現，甚至讓較弱的模型超越原本未經優化的強大模型，為線上測試時期的自主調校開闢了強大且可持續的技術路徑。",
-        "provider": "chatgpt",
-        "url": "https://arxiv.org/html/2610.14224v1"
-      },
-      "mindmap": null
-    },
-    {
       "url": "https://arxiv.org/html/2611.05306v1",
       "title": "You don’t need long context",
       "tags": [
@@ -1002,6 +789,592 @@
       }
     },
     {
+      "url": "https://arxiv.org/html/2610.14224v1",
+      "title": "Harness2: Recursive Agent Harnessing foran Open World",
+      "tags": [
+        "人工智慧",
+        "系統設計",
+        "提示詞工程",
+        "開源模型",
+        "機器學習"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792114838093,
+          "id": "hk-1792114838070-75349",
+          "note": "RSI（Recursive Self-Improvement，遞迴式自我改進）\n\n指 AI 系統不只完成任務，還能根據執行結果持續改善自己，並利用改善後的能力進一步改善自己",
+          "range": {
+            "anchors": {
+              "createdAt": 1792114838068,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 139
+              },
+              "quote": {
+                "exact": "Recursive self-improvement (RSI)",
+                "prefix": "ir underlying models but also on their execution harnesses. ",
+                "suffix": " offers a promising approach to automatically evolve these h"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 107
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 107,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "Recursive self-improvement (RSI)"
+          },
+          "text": "Recursive self-improvement (RSI)",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792131729236,
+          "id": "hk-1792131729219-65889",
+          "note": "Propose（提出修改）→ Probe（對比測試）→ Compose（整合改善）",
+          "range": {
+            "anchors": {
+              "createdAt": 1792137352186,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 941
+              },
+              "quote": {
+                "exact": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
+                "prefix": "these challenges through two connected levels of recursion. ",
+                "suffix": " Harnessing-level recursion then extracts experience from th"
+              },
+              "start": {
+                "css": "em#abstract1\\.1\\.3",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 205,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[5]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/em[2]/text()[1]",
+            "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion."
+          },
+          "text": "Task-level recursion refines the current task’s harness using a contrastive Propose–Probe–Compose step that reliably guides edits without ground-truth verifiers, and can be scaled further via parallel or sequential recursion.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792132229894,
+          "id": "hk-1792132229879-43324",
+          "note": "研究要解決的兩個問題\n問題一：缺少 Ground Truth（標準答案）\nOpen-world Task（開放世界任務）往往是第一次遇到的任務\n沒有標準答案可以驗證 Harness 修改後是否真的更好\n\n問題二：RSI 缺乏泛化能力\n傳統 Recursive Self-Improvement（遞迴自我改善）通常只針對當前任務優化\n換一個任務時，過去的改善經驗難以重複利用",
+          "range": {
+            "anchors": {
+              "createdAt": 1792465925026,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 290
+              },
+              "quote": {
+                "exact": "two critical challenges",
+                "prefix": ". However, deploying RSI in open-world settings still faces ",
+                "suffix": ". First, open-world tasks are typically unseen during the ha"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 267
+              },
+              "version": 1
+            },
+            "endOffset": 151,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 128,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[3]/p[1]/text()[2]",
+            "text": "two critical challenges"
+          },
+          "text": "two critical challenges",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792134508846,
+          "id": "hk-1792134508830-11526",
+          "note": "[翻譯] 任務級遞歸完善了目前任務的執行工具。",
+          "range": {
+            "anchors": {
+              "createdAt": 1792134508829,
+              "end": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 517
+              },
+              "quote": {
+                "exact": " Task-level recursion refines the current task’s execution harness.",
+                "prefix": "nts these updates through two coupled levels of recursion: ❶",
+                "suffix": " To overcome the absence of ground-truth feedback, we introd"
+              },
+              "start": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 450
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[7]",
+            "startOffset": 180,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[5]",
+            "text": " Task-level recursion refines the current task’s execution harness."
+          },
+          "text": " Task-level recursion refines the current task’s execution harness.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792134527467,
+          "id": "hk-1792134527453-84350",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1792134527453,
+              "end": {
+                "css": "p#S1\\.p5\\.1",
+                "textOffset": 1067
+              },
+              "quote": {
+                "exact": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
+                "prefix": "ential recursion builds successive revisions iteratively. ❷ ",
+                "suffix": " Instead of inheriting the previous execution harness, this "
+              },
+              "start": {
+                "css": "span#S1\\.p5\\.1\\.10",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/text()[11]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[5]/p[1]/span[3]/text()[1]",
+            "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness."
+          },
+          "text": "Harnessing-level recursion uses the resulting task-level explorations to update a continual improvement harness.",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1792137365820,
+          "id": "hk-1792137365784-13128",
+          "note": "問題： 這種方式容易對已知任務最佳化\n當 Agent 遇到全新的任務、工具或環境時，原本的 Harness 未必還有效",
+          "range": {
+            "anchors": {
+              "createdAt": 1792379003565,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 221
+              },
+              "quote": {
+                "exact": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
+                "prefix": "e generated, evaluated, and retained (Duan et al., 2026).\n\n\n",
+                "suffix": ". However, a static harness selected beforehand often fails "
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 158,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[1]",
+            "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment"
+          },
+          "text": "Early harness RSI methods (Lee et al., 2026b; Lin et al., 2026) focus on optimizing candidate components against fixed training tasks, unit tests, or validation feedback, selecting the best configuration before deployment",
+          "url": "https://arxiv.org/html/2610.14224v1"
+        }
+      ],
+      "note": {
+        "generatedAt": 1792114953109,
+        "model": "chatgpt-web",
+        "note": "在開源與智慧體技術快速發展的背景下，大型語言模型代理程式的效能不僅取決於底層模型本身，更受到其外在執行環境（即 harness，包含提示詞、記憶、技能與工具編排等）的深遠影響。然而，在開放世界中部署代理程式時，往往面臨缺乏真實標籤驗證器以及改進過程高度任務專一、難以泛化至新情境的兩大挑戰。為此，研究團隊推出了 Harness2 框架，透過「任務層級遞迴」與「harnessing 層級遞迴」兩個相連的層級來實現遞迴自我改進。任務層級採用創新的「提出－探測－組合」對比式步驟，在沒有正確答案的情況下透過行為對比來安全地編輯與合併 harness 修改；harnessing 層級則會萃取每次改進的經驗並存入持續改進庫中，供後續任務適應與重複利用。實驗證明，這套方法無論在辦公、程式開發或法律代理等專業基準測試中，皆能顯著提升各類模型的表現，甚至讓較弱的模型超越原本未經優化的強大模型，為線上測試時期的自主調校開闢了強大且可持續的技術路徑。",
+        "provider": "chatgpt",
+        "url": "https://arxiv.org/html/2610.14224v1"
+      },
+      "mindmap": null
+    },
+    {
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
+      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
+      "tags": [
+        "人工智慧",
+        "成本控制",
+        "提示詞工程",
+        "機器學習",
+        "OpenAI API"
+      ],
+      "entries": [
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119046-30444",
+          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000642421,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 234
+              },
+              "quote": {
+                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
+                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
+                "textOffset": 184
+              },
+              "version": 1
+            },
+            "endOffset": 86,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
+            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
+          },
+          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119047,
+          "id": "hk-ai-1783916119047-74884",
+          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022174,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 85
+              },
+              "quote": {
+                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
+                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
+                "textOffset": 40
+              },
+              "version": 1
+            },
+            "endOffset": 85,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "startOffset": 40,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
+            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
+          },
+          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119047-39561",
+          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347163,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 275
+              },
+              "quote": {
+                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
+                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
+                "textOffset": 228
+              },
+              "version": 1
+            },
+            "endOffset": 275,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "startOffset": 228,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
+            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
+          },
+          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119048,
+          "id": "hk-ai-1783916119048-35651",
+          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022302,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
+                "textOffset": 48
+              },
+              "quote": {
+                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
+                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
+          },
+          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-92669",
+          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
+          "range": {
+            "anchors": {
+              "createdAt": 1784000564166,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 209
+              },
+              "quote": {
+                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
+                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
+                "textOffset": 176
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
+            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
+          },
+          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119049,
+          "id": "hk-ai-1783916119049-68125",
+          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022361,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
+                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
+                "textOffset": 21
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "startOffset": 13,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
+            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
+          },
+          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119050,
+          "id": "hk-ai-1783916119049-48527",
+          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347440,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
+                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
+              },
+              "start": {
+                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
+                "textOffset": 8
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
+          },
+          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119051-15100",
+          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022492,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 55
+              },
+              "quote": {
+                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
+                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
+            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
+          },
+          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#c5f7c8",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-99327",
+          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
+          "range": {
+            "anchors": {
+              "createdAt": 1783998347576,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 207
+              },
+              "quote": {
+                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
+                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 138
+              },
+              "version": 1
+            },
+            "endOffset": 41,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
+          },
+          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119052,
+          "id": "hk-ai-1783916119052-94048",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022603,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 93
+              },
+              "quote": {
+                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
+                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
+                "textOffset": 56
+              },
+              "version": 1
+            },
+            "endOffset": 93,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
+            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
+          },
+          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        },
+        {
+          "color": "#f7efa6",
+          "createdAt": 1783916119053,
+          "id": "hk-ai-1783916119052-62688",
+          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
+          "range": {
+            "anchors": {
+              "createdAt": 1783995022638,
+              "end": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 81
+              },
+              "quote": {
+                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
+                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
+              },
+              "start": {
+                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
+                "textOffset": 34
+              },
+              "version": 1
+            },
+            "endOffset": 4,
+            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
+            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
+          },
+          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
+          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+        }
+      ],
+      "note": {
+        "generatedAt": 1783916119321,
+        "model": "chatgpt-web",
+        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
+        "provider": "chatgpt",
+        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
+      },
+      "mindmap": null
+    },
+    {
       "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
       "title": "Prompt caching | OpenAI API",
       "tags": [
@@ -1442,379 +1815,6 @@
         "outline": "# Prompt Caching 提示快取\n\n* 背景／動機\n\n  * Prompt 常重複\n\n    * system prompt\n    * common instructions\n  * 降低成本延遲\n\n    * 延遲最多降 80%\n    * input 成本降 90%\n  * 自動啟用\n\n    * 無需改程式\n    * 無額外費用\n    * GPT-4o 以上支援\n* Prompt 結構\n\n  * 精確前綴匹配\n\n    * prefix 必須相同\n    * 才可能 cache hit\n  * 靜態放前面\n\n    * instructions\n    * examples\n  * 動態放後面\n\n    * user-specific info\n  * 圖片工具一致\n\n    * images 要相同\n    * tools 要相同\n* 運作條件\n\n  * 至少 1024 tokens\n\n    * 才自動啟用\n    * 低於門檻 cached_tokens 為 0\n  * usage 可觀察\n\n    * cached_tokens\n    * prompt_tokens_details\n* 運作流程\n\n  * Cache Routing\n\n    * 依 prefix hash\n\n      * 通常前 256 tokens\n      * 依模型而異\n    * 可用 prompt_cache_key\n\n      * 影響路由\n      * 提高命中率\n    * 避免流量溢出\n\n      * 約 15 req/min\n      * 超過會分流\n      * 降低快取效果\n  * Cache Lookup\n\n    * 查 selected machine\n    * 看 prefix 是否存在\n  * Cache Hit\n\n    * 使用快取結果\n    * 降低延遲\n    * 降低成本\n  * Cache Miss\n\n    * 處理完整 prompt\n    * 之後快取 prefix\n* 快取保留策略\n\n  * 兩種策略\n\n    * in-memory\n    * extended retention\n  * 定價相同\n\n    * 兩者無差異\n  * 可逐請求設定\n\n    * prompt_cache_retention\n    * Responses.create\n    * chat.completions.create\n* In-memory retention\n\n  * 支援多數模型\n\n    * 不含 gpt-5.5\n    * 不含 gpt-5.5-pro\n    * 不含未來模型\n  * 保留時間短\n\n    * 無活動 5-10 分鐘\n    * 最長 1 小時\n  * 儲存在 GPU 記憶體\n\n    * volatile memory\n    * 不寫入磁碟\n* Extended retention\n\n  * 支援指定模型\n\n    * gpt-5.5\n    * gpt-5.5-pro\n    * gpt-5 系列\n    * gpt-4.1\n  * 保留更久\n\n    * 最長 24 小時\n  * gpt-5.5 限制\n\n    * 只支援 24h\n    * 未來模型同樣如此\n  * 使用 KV tensors\n\n    * 來自 attention prefill\n    * 可轉存 GPU-local storage\n    * 原始 prompt 僅在記憶體\n* 可被快取內容\n\n  * Messages\n\n    * system\n    * user\n    * assistant\n  * Images\n\n    * links\n    * base64\n    * detail 要一致\n  * Tool use\n\n    * messages array\n    * available tools\n  * Structured outputs\n\n    * schema 作為 prefix\n    * 可被快取\n* 最佳實務\n\n  * 固定內容前置\n\n    * 靜態 instructions\n    * 重複 examples\n  * 動態內容後置\n\n    * 使用者資料\n    * 變動資訊\n  * 穩定使用 cache key\n\n    * 共用 prefix\n    * 控制粒度\n    * 低於 15 req/min\n  * 監控快取表現\n\n    * cache hit rate\n    * latency\n    * cached tokens 比例\n  * 維持穩定請求\n\n    * 相同 prefix\n    * 減少 eviction\n* 隱私與安全\n\n  * 組織隔離\n\n    * 不跨組織共享\n    * 同組織可用相同快取\n  * Extended 上限\n\n    * KV tensors 最長 24 小時\n  * ZDR 相容\n\n    * in-memory 不寫磁碟\n    * extended 暫存 KV tensors\n    * 過期後不保留\n  * Data Residency\n\n    * in-memory 不影響\n    * regional inference 才區域保留\n* 行為限制\n\n  * 不影響輸出\n\n    * 不改 output tokens\n    * 不改 final response\n    * 回答仍重新計算\n  * 無法手動清除\n\n    * 目前不支援\n    * 未使用會自動清除\n  * 仍計入 TPM\n\n    * 快取不影響 rate limits\n  * 不額外收費\n\n    * 自動發生\n    * 無需手動寫入\n* 結論／影響\n\n  * 適合長 prompt\n\n    * 重複 prefix 越多越有效\n  * 核心價值\n\n    * 降低延遲\n    * 降低 input 成本\n  * 設計重點\n\n    * 固定前綴\n    * 穩定 routing\n    * 選對 retention",
         "title": "Prompt Caching 提示快取"
       }
-    },
-    {
-      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
-      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧 | OpenAI",
-      "tags": [
-        "人工智慧",
-        "成本控制",
-        "提示詞工程",
-        "機器學習",
-        "OpenAI API"
-      ],
-      "entries": [
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119047,
-          "id": "hk-ai-1783916119046-30444",
-          "note": "AI：AI：API 定價引入了全新的提示詞快取計費機制，寫入需額外計費，而讀取則享有高達九成的折扣優惠。",
-          "range": {
-            "anchors": {
-              "createdAt": 1784000642421,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
-                "textOffset": 234
-              },
-              "quote": {
-                "exact": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
-                "prefix": "快取，包括支援明確快取中斷點⁠(在新視窗中開啟)，以及至少 30 分鐘的快取生命週期。對於 GPT‑5.6 及後續模型，",
-                "suffix": "專業評估GPT‑5.6 SolGPT‑5.6 TerraGPT‑5.6 LunaGPT‑5.5Claude Fable "
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(59) > p.mb-6.last\\:mb-0",
-                "textOffset": 184
-              },
-              "version": 1
-            },
-            "endOffset": 86,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
-            "startOffset": 36,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[59]/p[1]/span[2]/text()[1]",
-            "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。"
-          },
-          "text": "快取寫入會按模型未快取輸入費率的 1.25 倍計費，而快取讀取則會繼續享有 90% 的快取輸入折扣。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119047,
-          "id": "hk-ai-1783916119047-74884",
-          "note": "AI：AI：為防範潛在的惡意活動，新模型在網路安全上採取了比以往嚴格十倍的防護阻擋措施。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022174,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
-                "textOffset": 85
-              },
-              "quote": {
-                "exact": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
-                "prefix": "措施以彌補缺口，不必從頭重新訓練分類器。我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。",
-                "suffix": "由於這些措施可能對善意使用造成不便，我們在 ChatGPT 和 Codex 中提供選項，讓使用者可以輕鬆改用能力較低的模"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(51) > p.mb-6.last\\:mb-0",
-                "textOffset": 40
-              },
-              "version": 1
-            },
-            "endOffset": 85,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
-            "startOffset": 40,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[51]/p[1]/span[1]/text()[1]",
-            "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。"
-          },
-          "text": "相較於先前模型，GPT‑5.6 Sol 的網路安全防護措施阻擋的潛在有害活動約為十倍之多。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119048,
-          "id": "hk-ai-1783916119047-39561",
-          "note": "AI：AI：採用測試時推理的防護設計讓 OpenAI 能夠迅速更新系統以應對新威脅，而無需重新訓練模型。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783998347163,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
-                "textOffset": 275
-              },
-              "quote": {
-                "exact": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
-                "prefix": "可能造成危害。這項設計既能支援防禦工作，也能阻止嚴重濫用，並透過「網路可信存取」機制，僅向已驗證使用者提供最敏感的能力。",
-                "suffix": "我們正採取更保守的做法，同時持續強化系統，藉此抵禦會因應防護措施調整手法的攻擊。相較於先前模型，GPT‑5.6 Sol "
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(50) > p.mb-6.last\\:mb-0",
-                "textOffset": 228
-              },
-              "version": 1
-            },
-            "endOffset": 275,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
-            "startOffset": 228,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[50]/p[1]/span[1]/text()[1]",
-            "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。"
-          },
-          "text": "由於部分防護措施會使用測試時推理，我們可以迅速更新這些措施以彌補缺口，不必從頭重新訓練分類器。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119048,
-          "id": "hk-ai-1783916119048-35651",
-          "note": "AI：AI：新模型在生物學與網路安全能力上雖有顯著進步，但經過測試皆尚未達到關鍵的安全威脅門檻。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022302,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(48) > p.mb-6.last\\:mb-0",
-                "textOffset": 48
-              },
-              "quote": {
-                "exact": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
-                "prefix": "格的審查。針對 GPT‑5.6，我們打造了迄今最穩健的安全系統，依各模型的能力調整防護措施，並投入比以往更多的運算資源。",
-                "suffix": "在網路安全領域，我們的測試顯示，GPT‑5.6 更擅長找出並修補漏洞，還無法穩定地對經過強化防護的目標自主執行端對端攻擊"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(47) > p.mb-6.last\\:mb-0",
-                "textOffset": 108
-              },
-              "version": 1
-            },
-            "endOffset": 48,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[48]/p[1]/span[1]/text()[1]",
-            "startOffset": 108,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[47]/p[1]/span[1]/text()[1]",
-            "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。"
-          },
-          "text": "GPT‑5.6 模型在生物學和網路安全方面的能力都超越先前模型，但這兩個類別都未達「關鍵」門檻。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119049,
-          "id": "hk-ai-1783916119049-92669",
-          "note": "AI：AI：OpenAI 官方會限制高風險實體及高風險司法管轄區對新模型的存取權限。",
-          "range": {
-            "anchors": {
-              "createdAt": 1784000564166,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
-                "textOffset": 209
-              },
-              "quote": {
-                "exact": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
-                "prefix": "者將恢復為預設存取權。若尚未擁有硬體支援通行密鑰，可透過我們的合作夥伴 Yubico 享有優惠價格⁠(在新視窗中開啟)。",
-                "suffix": "ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag 資安攻防競賽Ex"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(37) > p.mb-6.last\\:mb-0",
-                "textOffset": 176
-              },
-              "version": 1
-            },
-            "endOffset": 34,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
-            "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[37]/p[1]/span[5]/text()[1]",
-            "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。"
-          },
-          "text": "我們也正採取額外措施，限制高風險實體及高風險司法管轄區的存取權限。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119049,
-          "id": "hk-ai-1783916119049-68125",
-          "note": "AI：AI：新模型能整合日常辦公軟體中的零散脈絡資訊，自動生成專家級的專業工作成品。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022361,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
-                "textOffset": 106
-              },
-              "quote": {
-                "exact": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
-                "prefix": "rograph to explain how it works.全流程知識工作GPT‑5.6 能為專業任務帶來更佳成果。",
-                "suffix": "GPT‑5.6 在知識工作方面的實力，體現在長時程的專業分析、瀏覽、工具使用與電腦操作等各項評估中。GPT‑5.6 So"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(20) > p.mb-6.last\\:mb-0",
-                "textOffset": 21
-              },
-              "version": 1
-            },
-            "endOffset": 98,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
-            "startOffset": 13,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[20]/p[1]/span[1]/text()[1]",
-            "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。"
-          },
-          "text": "它會從你的文件，以及 Slack、Notion、Microsoft 365 和 Google 雲端硬碟等日常工作流程中擷取零散雜亂的脈絡資訊，轉換成專家級、可分享的成品。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119050,
-          "id": "hk-ai-1783916119049-48527",
-          "note": "AI：AI：新模型的設計能力大幅提升，能根據大方向指引直接打造出高品質的互動介面。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783998347440,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(15) > p.mb-6.last\\:mb-0",
-                "textOffset": 60
-              },
-              "quote": {
-                "exact": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
-                "prefix": "goRampShopifyCiscoClioBalyasny Asset ManagementBasis設計能力大幅躍升",
-                "suffix": "更強大的電腦操作能力讓它能檢查並精修實際呈現的成果，而不只是產生底層程式碼或內容，因此可以在交付成果前找出視覺與功能問題"
-              },
-              "start": {
-                "css": "div#she-ji-neng-li-da-fu-yue-sheng > div.full-grid-content\\:\\@md\\:col-span-full.full-grid-content\\:\\@md\\:col-start-1 > h2.text-h3.scroll-mt-\\[calc\\(var\\(--page-top-space\\,var\\(--header-h\\)\\)\\+var\\(--toc-button-h\\)\\)\\]",
-                "textOffset": 8
-              },
-              "version": 1
-            },
-            "endOffset": 60,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[15]/p[1]/span[1]/text()[1]",
-            "startOffset": 8,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[14]/div[1]/div[1]/h2[1]/span[1]/text()[1]",
-            "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。"
-          },
-          "text": "GPT‑5.6 的設計判斷力有了顯著提升。只需使用者指引大方向，GPT‑5.6 就能打造兼具美感、易用性與功能性的介面。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119052,
-          "id": "hk-ai-1783916119051-15100",
-          "note": "AI：AI：新模型具備自主撰寫與執行輕量級程式的能力，可有效協調工具並持續推進大量使用工具的任務。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022492,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
-                "textOffset": 55
-              },
-              "quote": {
-                "exact": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
-                "prefix": "s Coding Agent Index：這項獨立指數評估程式碼編寫智慧體在實際執行、終端機使用及真實程式碼庫中的表現。",
-                "suffix": "如此一來，大量使用工具的任務就能以更少的 Token、更少的模型往返次數和更少的指引持續推進。開發人員不必為每個步驟撰寫"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(10) > p.mb-6.last\\:mb-0",
-                "textOffset": 0
-              },
-              "version": 1
-            },
-            "endOffset": 55,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
-            "startOffset": 0,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[10]/p[1]/span[1]/text()[1]",
-            "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。"
-          },
-          "text": "GPT‑5.6 可以撰寫並執行輕量級程式，在工作進行過程中協調工具、處理中間結果、監控進度，並決定下一步行動。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#c5f7c8",
-          "createdAt": 1783916119052,
-          "id": "hk-ai-1783916119052-99327",
-          "note": "AI：AI：全新的 ultra 設定能透過多個智慧體平行協調處理，加速完成高難度的複雜任務。",
-          "range": {
-            "anchors": {
-              "createdAt": 1783998347576,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 207
-              },
-              "quote": {
-                "exact": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
-                "prefix": "先前的前沿模型和其他競爭模型。這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。",
-                "suffix": "更強大的電腦操作能力與設計判斷力，讓 GPT‑5.6 Sol 成為我們迄今最成熟完善的協作夥伴，能夠檢查、精修並交付可立"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 138
-              },
-              "version": 1
-            },
-            "endOffset": 41,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[3]/text()[1]",
-            "startOffset": 138,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。"
-          },
-          "text": "我們也推出一種加速處理最高難度工作的全新方式：ultra 是我們能力最高的設定，會協調多個智慧體平行處理不同工作流程，以更快完成複雜任務。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#f7efa6",
-          "createdAt": 1783916119052,
-          "id": "hk-ai-1783916119052-94048",
-          "note": "",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022603,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 93
-              },
-              "quote": {
-                "exact": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
-                "prefix": "una。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更",
-                "suffix": "這代表每一美元都能換取更高效能：相同支出可成功完成更多工作，或以更低的總成本取得相當成果。我們也推出一種加速處理最高難度"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(3) > p.mb-6.last\\:mb-0",
-                "textOffset": 56
-              },
-              "version": 1
-            },
-            "endOffset": 93,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "startOffset": 56,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[3]/p[1]/span[1]/text()[1]",
-            "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。"
-          },
-          "text": "以更少的 Token 和更低的預估成本，超越先前的前沿模型和其他競爭模型。",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        },
-        {
-          "color": "#f7efa6",
-          "createdAt": 1783916119053,
-          "id": "hk-ai-1783916119052-62688",
-          "note": "AI：OpenAI 把 GPT-5.6 分成三個版本：\n Sol：旗艦模型 \nTerra：較低成本、能力也強 \nLuna：最快、最省成本",
-          "range": {
-            "anchors": {
-              "createdAt": 1783995022638,
-              "end": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
-                "textOffset": 81
-              },
-              "quote": {
-                "exact": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
-                "prefix": "I能力越強，安全與資安防護也要同步升級適用情況與定價我們在有限預覽⁠後，正式全面開放使用 GPT‑5.6 模型系列，包括",
-                "suffix": "。GPT‑5.6 Sol 在智慧與效率方面樹立了新標準，不僅在寫程式、知識工作、資安和科學等領域達到最先進水準，更以更少"
-              },
-              "start": {
-                "css": "main#main > article.flex.min-w-0 > div.max-w-container.\\@container:nth-of-type(2) > div.max-w-container.\\@container > div.col-span-full.toc-visible\\:\\@md\\:col-start-2:nth-of-type(2) > p.mb-6.last\\:mb-0",
-                "textOffset": 34
-              },
-              "version": 1
-            },
-            "endOffset": 4,
-            "endXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/b[3]/span[1]/text()[1]",
-            "startOffset": 26,
-            "startXPath": "/html[1]/body[1]/div[2]/div[1]/main[1]/article[1]/div[2]/div[1]/div[2]/p[1]/span[2]/text()[1]",
-            "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna"
-          },
-          "text": "全新旗艦模型 Sol、兼顧各方面表現且適合日常工作的 Terra，以及成本效益最高的 Luna",
-          "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-        }
-      ],
-      "note": {
-        "generatedAt": 1783916119321,
-        "model": "chatgpt-web",
-        "note": "OpenAI 正式全面開放全新 GPT-5.6 模型系列，這場AI技術的躍進，核心圍繞在旗艦款 Sol、平衡款 Terra 與最具性價比的 Luna 三大模型。GPT-5.6 的誕生為企業與開發者帶來了「每一美元換取更高效能」的巨大經濟效益，不僅大幅降低 Token 消耗與預估成本，在程式編寫、知識工作與科學推理等跨領域測試中均樹立新標竿。\n\n在功能上，新模型展現出卓越的智慧體協調能力。透過全新的 ultra 設定，它能同時調度多個智慧體並行處理複雜流程，還能直接自主撰寫並執行輕量級程式以精簡工具呼叫次數。此外，其設計判斷力與前端操作能力大幅躍升，僅需大方向指引便能生成精緻的互動式介面，並能整合辦公生態系的零散文件，自動轉化為高度精準的專業簡報與財務模型。\n\n然而，強大能力背後亦伴隨著全面的資安防護升級。雖然 GPT-5.6 在網路安全與生物科學的表現接近翻倍，但皆未跨越高度危險的關鍵門檻。為了防範惡意濫用，OpenAI 引入了嚴格十倍的網路安全防護措施，並推出「網路可信存取」計畫。使用者必須在 9 月 1 日前啟用基於硬體通行密鑰的進階帳戶安全性，才能持續使用這套前沿智慧。",
-        "provider": "chatgpt",
-        "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-      },
-      "mindmap": null
     }
   ]
 }
