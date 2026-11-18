@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1794988478333,
+  "exportedAt": 1794992345025,
   "pages": [
     {
       "url": "http://10.166.57.21:47194/workflow",
@@ -74440,26 +74440,26 @@
           "note": "AI：溫度縮放是一種單參數後處理方法，在本文中扮演修復模型部署時過度自信與校準誤差的角色。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534254,
+              "createdAt": 1794989077903,
               "end": {
-                "css": "main#content > section.sh-section.sh-band-alt:nth-of-type(2) > div.container-wide > div.mt-8.grid > a.sh-card.sh-card-hover:nth-of-type(4) > span.mt-4.block:nth-of-type(2)",
+                "css": "div.ruled_rails__gBqs0 > div.content_grid__ah2kG:nth-of-type(2) > ul.content_gridList__6Ip3g > li:nth-of-type(4) > a.ruled_story__5VYqV.content_card__LnE3J > span.mt-4.block:nth-of-type(2)",
                 "textOffset": 19
               },
               "quote": {
                 "exact": "Temperature scaling",
-                "prefix": "on pitfalls, and what Laya's ECE figures mean.Read Explainer",
+                "prefix": " common pitfalls, and what Laya's ECE figures mean.Explainer",
                 "suffix": ": the one-parameter fix for over-confidenceWhat temperature "
               },
               "start": {
-                "css": "section.sh-section.sh-band-alt:nth-of-type(2) > div.container-wide > div.mt-8.grid > a.sh-card.sh-card-hover:nth-of-type(4) > span.flex.items-center > span.ml-auto.text-\\[11px\\]",
+                "css": "div.content_grid__ah2kG:nth-of-type(2) > ul.content_gridList__6Ip3g > li:nth-of-type(4) > a.ruled_story__5VYqV.content_card__LnE3J > span.ruled_label__HIDvz.flex > span.shrink-0",
                 "textOffset": 9
               },
               "version": 1
             },
             "endOffset": 19,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/a[4]/span[2]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[3]/div[1]/div[2]/ul[1]/li[4]/a[1]/span[2]/text()[1]",
             "startOffset": 9,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/a[4]/span[1]/span[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[3]/div[1]/div[2]/ul[1]/li[4]/a[1]/span[1]/span[1]/text()[1]",
             "text": "Temperature scaling"
           },
           "text": "Temperature scaling",
@@ -74473,14 +74473,14 @@
           "note": "AI：透過標記樣本與適當評分規則可實際評估模型返回機率分佈的好壞。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534259,
+              "createdAt": 1794989077904,
               "end": {
-                "css": "article#article-body > section.mt-14:nth-of-type(7) > div.mt-6:nth-of-type(2) > div.measure-wide > p.text-\\[16px\\].leading-relaxed",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(7) > div.mt-6 > div.measure-wide > p.text-\\[16px\\].leading-relaxed",
                 "textOffset": 144
               },
               "quote": {
                 "exact": "The practical use of all this is evaluation. Send a labelled sample through Laya Studio and score the returned distributions with a proper rule:",
-                "prefix": " gamed.Scoring Laya Studio responses against your own labels",
+                "prefix": "07 / 08Scoring Laya Studio responses against your own labels",
                 "suffix": "\nShow technical detailsHide technical details· bash sampleba"
               },
               "start": {
@@ -74490,9 +74490,9 @@
               "version": 1
             },
             "endOffset": 144,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[7]/div[2]/div[1]/p[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[7]/div[1]/div[1]/p[1]/text()[1]",
             "startOffset": 53,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[7]/h2[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[7]/h2[1]/text()[1]",
             "text": "The practical use of all this is evaluation. Send a labelled sample through Laya Studio and score the returned distributions with a proper rule:"
           },
           "text": "The practical use of all this is evaluation. Send a labelled sample through Laya Studio and score the returned distributions with a proper rule:",
@@ -74506,14 +74506,14 @@
           "note": "AI：嚴格適當目標雖使誠實為最佳期望，但未能保證有限模型在實際資料上完全校準。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534260,
+              "createdAt": 1794989077904,
               "end": {
-                "css": "div.mt-6:nth-of-type(2) > div.measure-wide > ol.text-\\[16px\\].leading-relaxed > li.flex.gap-2\\.5 > span:nth-of-type(2) > strong.font-semibold.text-ink",
+                "css": "div.mt-6 > div.measure-wide > ol.text-\\[16px\\].leading-relaxed > li.flex.gap-2\\.5 > span:nth-of-type(2) > strong.font-medium.text-\\[\\#202124\\]",
                 "textOffset": 33
               },
               "quote": {
                 "exact": "A strictly proper objective makes honesty optimal in expectation. It does not make a finite model perfectly calibrated on your data. Three gaps remain, and the model card is candid about them:\n\nOver-confidence at shipping time.",
-                "prefix": "s are covered in RLCD.What proper scoring does not guarantee",
+                "prefix": "overed in RLCD.06 / 08What proper scoring does not guarantee",
                 "suffix": " Refitting one temperature per (question type, option count)"
               },
               "start": {
@@ -74523,9 +74523,9 @@
               "version": 1
             },
             "endOffset": 33,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[6]/div[2]/div[1]/ol[1]/li[1]/span[2]/strong[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[6]/div[1]/div[1]/ol[1]/li[1]/span[2]/strong[1]/text()[1]",
             "startOffset": 38,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[6]/h2[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[6]/h2[1]/text()[1]",
             "text": "A strictly proper objective makes honesty optimal in expectation. It does not make a finite model perfectly calibrated on your data. Three gaps remain, and the model card is candid about them:\n\nOver-confidence at shipping time."
           },
           "text": "A strictly proper objective makes honesty optimal in expectation. It does not make a finite model perfectly calibrated on your data. Three gaps remain, and the model card is candid about them:\n\nOver-confidence at shipping time.",
@@ -74539,14 +74539,14 @@
           "note": "AI：Laya 透過結合嚴格適當規則的強化學習進行訓練以確保機率可用。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534262,
+              "createdAt": 1794989077905,
               "end": {
-                "css": "article#article-body > section.mt-14:nth-of-type(5) > div.mt-6:nth-of-type(2) > div.measure-wide > p.text-\\[16px\\].leading-relaxed",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(5) > div.mt-6 > div.measure-wide > p.text-\\[16px\\].leading-relaxed",
                 "textOffset": 163
               },
               "quote": {
                 "exact": "Laya is trained with RLCD (reinforcement learning for calibrated decisions), where the reward for each reported distribution is a mixture of strictly proper rules.",
-                "prefix": "ule learns not to do that.How Laya uses proper scoring rules",
+                "prefix": "rns not to do that.05 / 08How Laya uses proper scoring rules",
                 "suffix": " From the package source (proper_reward in common.py):\nShow "
               },
               "start": {
@@ -74556,9 +74556,9 @@
               "version": 1
             },
             "endOffset": 138,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[5]/div[2]/div[1]/p[1]/text()[2]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[5]/div[1]/div[1]/p[1]/text()[2]",
             "startOffset": 34,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[5]/h2[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[5]/h2[1]/text()[1]",
             "text": "Laya is trained with RLCD (reinforcement learning for calibrated decisions), where the reward for each reported distribution is a mixture of strictly proper rules."
           },
           "text": "Laya is trained with RLCD (reinforcement learning for calibrated decisions), where the reward for each reported distribution is a mixture of strictly proper rules.",
@@ -74572,9 +74572,9 @@
           "note": "AI：排名機率分數適用於有序結果，透過比較預測與真實值的累積分佈來運作。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534263,
+              "createdAt": 1794989077906,
               "end": {
-                "css": "article#article-body > section.mt-14:nth-of-type(3) > div.mt-6:nth-of-type(2) > div.measure-wide > p.text-\\[16px\\].leading-relaxed:nth-of-type(5)",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(3) > div.mt-6 > div.measure-wide > p.text-\\[16px\\].leading-relaxed:nth-of-type(5)",
                 "textOffset": 135
               },
               "quote": {
@@ -74583,15 +74583,15 @@
                 "suffix": " If the truth is level 1 on a 0 to 3 scale, putting mass on "
               },
               "start": {
-                "css": "article#article-body > section.mt-14:nth-of-type(3) > div.mt-6:nth-of-type(2) > div.measure-wide",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(3) > div.mt-6 > div.measure-wide",
                 "textOffset": 1517
               },
               "version": 1
             },
             "endOffset": 132,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[3]/div[2]/div[1]/p[5]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[3]/div[1]/div[1]/p[5]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[3]/div[2]/div[1]/text()[5]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[3]/div[1]/div[1]/text()[5]",
             "text": "RPS applies to ordinal outcomes. It compares the cumulative distribution of the forecast with the cumulative distribution of the truth."
           },
           "text": "RPS applies to ordinal outcomes. It compares the cumulative distribution of the forecast with the cumulative distribution of the truth.",
@@ -74605,9 +74605,9 @@
           "note": "AI：對數分數即為負交叉熵，其無界性既是優點也是弱點。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534264,
+              "createdAt": 1794989077906,
               "end": {
-                "css": "article#article-body > section.mt-14:nth-of-type(3) > div.mt-6:nth-of-type(2) > div.measure-wide > p.text-\\[16px\\].leading-relaxed:nth-of-type(2)",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(3) > div.mt-6 > div.measure-wide > p.text-\\[16px\\].leading-relaxed:nth-of-type(2)",
                 "textOffset": 152
               },
               "quote": {
@@ -74616,15 +74616,15 @@
                 "suffix": " A forecast that puts probability zero on what happened scor"
               },
               "start": {
-                "css": "article#article-body > section.mt-14:nth-of-type(3) > div.mt-6:nth-of-type(2) > div.measure-wide",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(3) > div.mt-6 > div.measure-wide",
                 "textOffset": 664
               },
               "version": 1
             },
             "endOffset": 143,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[3]/div[2]/div[1]/p[2]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[3]/div[1]/div[1]/p[2]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[3]/div[2]/div[1]/text()[2]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[3]/div[1]/div[1]/text()[2]",
             "text": "Log score is the same thing as negative cross-entropy, the usual training loss for classifiers. Its unboundedness is both its strength and its weakness."
           },
           "text": "Log score is the same thing as negative cross-entropy, the usual training loss for classifiers. Its unboundedness is both its strength and its weakness.",
@@ -74638,9 +74638,9 @@
           "note": "AI：當回報真實機率能最大化期望分數時即為適當評分規則，唯一最大化時則為嚴格適當。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534265,
+              "createdAt": 1794989077907,
               "end": {
-                "css": "article#article-body > section.mt-14:nth-of-type(2) > div.mt-6:nth-of-type(2) > div.measure-wide > p.text-\\[16px\\].leading-relaxed:nth-of-type(2)",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(2) > div.mt-6 > div.measure-wide > p.text-\\[16px\\].leading-relaxed:nth-of-type(2)",
                 "textOffset": 125
               },
               "quote": {
@@ -74649,15 +74649,15 @@
                 "suffix": " In words: under a strictly proper rule, any distortion of y"
               },
               "start": {
-                "css": "article#article-body > section.mt-14:nth-of-type(2) > div.mt-6:nth-of-type(2) > div.measure-wide",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\]:nth-of-type(2) > div.mt-6 > div.measure-wide",
                 "textOffset": 200
               },
               "version": 1
             },
             "endOffset": 11,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[2]/div[2]/div[1]/p[2]/text()[4]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[2]/div[1]/div[1]/p[2]/text()[4]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[2]/div[2]/div[1]/text()[2]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[2]/div[1]/div[1]/text()[2]",
             "text": "A scoring rule is proper if reporting q = p maximises that expectation, and strictly proper if q = p is the unique maximiser."
           },
           "text": "A scoring rule is proper if reporting q = p maximises that expectation, and strictly proper if q = p is the unique maximiser.",
@@ -74671,14 +74671,14 @@
           "note": "AI：適當評分規則能透過對比實際結果來評分，使據實報告獲得最佳期望分數。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534266,
+              "createdAt": 1794989077907,
               "end": {
-                "css": "article#article-body > section.mt-14 > div.mt-6:nth-of-type(2) > div.measure-wide > p.text-\\[16px\\].leading-relaxed",
+                "css": "article#article-body > section.border-t.border-\\[\\#e3e6e8\\] > div.mt-6 > div.measure-wide > p.text-\\[16px\\].leading-relaxed",
                 "textOffset": 218
               },
               "quote": {
                 "exact": "A proper scoring rule grades a probabilistic forecast against the actual outcome so that reporting your true beliefs earns the best expected score; it is strictly proper when that honest report is the only best choice.",
-                "prefix": "y. Open any of them on demand.What is a proper scoring rule?",
+                "prefix": " any of them on demand.01 / 08What is a proper scoring rule?",
                 "suffix": " Log loss, the Brier score, the spherical score and the rank"
               },
               "start": {
@@ -74687,10 +74687,10 @@
               },
               "version": 1
             },
-            "endOffset": 157,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[1]/div[2]/div[1]/p[1]/text()[3]",
+            "endOffset": 218,
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[1]/div[1]/div[1]/p[1]/text()[1]",
             "startOffset": 30,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/section[1]/h2[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/section[1]/h2[1]/text()[1]",
             "text": "A proper scoring rule grades a probabilistic forecast against the actual outcome so that reporting your true beliefs earns the best expected score; it is strictly proper when that honest report is the only best choice."
           },
           "text": "A proper scoring rule grades a probabilistic forecast against the actual outcome so that reporting your true beliefs earns the best expected score; it is strictly proper when that honest report is the only best choice.",
@@ -74704,26 +74704,26 @@
           "note": "AI：布里爾分數是一種有界的平均平方誤差評分規則，在本文中扮演抗拒過度自信錯誤並可分解為校準與精細度項的角色。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534267,
+              "createdAt": 1794989077907,
               "end": {
-                "css": "article#article-body > div.grid.items-start > div.rounded-2xl.border > ul.mt-3.space-y-2\\.5 > li.flex.gap-3:nth-of-type(3)",
-                "textOffset": 41
+                "css": "div.px-5.py-10 > div.ruled_paper__7vbO7.ruled_frame__yp3OK > div.ruled_window__L_rjf.xl\\:grid > div.min-w-0.px-5 > ul.mt-3 > li.flex.gap-4:nth-of-type(3)",
+                "textOffset": 43
               },
               "quote": {
                 "exact": "Brier score",
-                "prefix": "ating confidence costs points.Common ones are log loss, the ",
+                "prefix": "ing confidence costs points.03Common ones are log loss, the ",
                 "suffix": ", the spherical score and the ranked probability score (RPS)"
               },
               "start": {
-                "css": "article#article-body > div.grid.items-start > div.rounded-2xl.border > ul.mt-3.space-y-2\\.5 > li.flex.gap-3:nth-of-type(3)",
-                "textOffset": 30
+                "css": "div.px-5.py-10 > div.ruled_paper__7vbO7.ruled_frame__yp3OK > div.ruled_window__L_rjf.xl\\:grid > div.min-w-0.px-5 > ul.mt-3 > li.flex.gap-4:nth-of-type(3)",
+                "textOffset": 32
               },
               "version": 1
             },
             "endOffset": 41,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/div[1]/div[1]/ul[1]/li[3]/span[2]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/span[2]/text()[1]",
             "startOffset": 30,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/div[1]/div[1]/ul[1]/li[3]/span[2]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/span[2]/text()[1]",
             "text": "Brier score"
           },
           "text": "Brier score",
@@ -74737,26 +74737,26 @@
           "note": "AI：準確率僅檢查最高答案對錯，無法分辨信心程度的差異。",
           "range": {
             "anchors": {
-              "createdAt": 1793260534268,
+              "createdAt": 1794989077908,
               "end": {
-                "css": "article#article-body > div.grid.items-start > div.rounded-2xl.border > ul.mt-3.space-y-2\\.5 > li.flex.gap-3",
-                "textOffset": 97
+                "css": "div.px-5.py-10 > div.ruled_paper__7vbO7.ruled_frame__yp3OK > div.ruled_window__L_rjf.xl\\:grid > div.min-w-0.px-5 > ul.mt-3 > li.flex.gap-4",
+                "textOffset": 99
               },
               "quote": {
                 "exact": "Accuracy only checks whether the top answer was right; it cannot tell \"51% sure\" from \"99% sure\".",
-                "prefix": "ya Studio responses against your own labelsFAQ In 30 seconds",
-                "suffix": "A proper scoring rule grades the whole forecast, so overstat"
+                "prefix": "a Studio responses against your own labelsFAQIn 30 seconds01",
+                "suffix": "02A proper scoring rule grades the whole forecast, so overst"
               },
               "start": {
-                "css": "article#article-body > div.grid.items-start > div.rounded-2xl.border > p.flex.items-center",
-                "textOffset": 14
+                "css": "div.ruled_paper__7vbO7.ruled_frame__yp3OK > div.ruled_window__L_rjf.xl\\:grid > div.min-w-0.px-5 > ul.mt-3 > li.flex.gap-4 > span.ruled_mono___1ycz.shrink-0",
+                "textOffset": 2
               },
               "version": 1
             },
             "endOffset": 97,
-            "endXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/div[1]/div[1]/ul[1]/li[1]/span[2]/text()[1]",
-            "startOffset": 14,
-            "startXPath": "/html[1]/body[1]/div[2]/main[1]/div[3]/article[1]/div[1]/div[1]/p[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/span[2]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[1]/article[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/span[1]/text()[1]",
             "text": "Accuracy only checks whether the top answer was right; it cannot tell \"51% sure\" from \"99% sure\"."
           },
           "text": "Accuracy only checks whether the top answer was right; it cannot tell \"51% sure\" from \"99% sure\".",
