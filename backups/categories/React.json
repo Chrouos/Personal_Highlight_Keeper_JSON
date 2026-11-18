@@ -1,0 +1,476 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "category": "React",
+  "pages": [
+    {
+      "url": "https://github.com/open-slide/open-slide",
+      "title": "open-slide/open-slide: A slide framework built for agents.",
+      "tags": [
+        "AI 代理人",
+        "軟體工程",
+        "React",
+        "簡報生成",
+        "開發工具"
+      ],
+      "entries": [
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794988212349,
+          "id": "hk-ai-preview-1794988212348-23439",
+          "kind": "passage",
+          "note": "AI：支援網頁、文件與 PowerPoint 格式匯出。\n為何重要：擴展簡報的交付方式，不限於框架內部使用。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212348,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1690
+              },
+              "quote": {
+                "exact": "Export to static HTML, PDF, and PPTX",
+                "prefix": "ts manager with brand logo search via svgl and Google Fonts\n",
+                "suffix": "\nStatic build that deploys to Vercel, Cloudflare Pages, Netl"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1654
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/text()[4]",
+            "text": "Export to static HTML, PDF, and PPTX"
+          },
+          "text": "Export to static HTML, PDF, and PPTX",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794988212349,
+          "id": "hk-ai-preview-1794988212349-50203",
+          "kind": "term",
+          "note": "AI：讓不同頁面的對應元素產生連續變形動畫。\n例子：圖片從第一頁左側平滑移動到第二頁中央。\n在本文：屬於框架內建的動畫功能，未展示實作品質。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212349,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1589
+              },
+              "quote": {
+                "exact": "shared-element morphs",
+                "prefix": "editing\nThemes, page transitions, step-by-step reveals, and ",
+                "suffix": "\nAssets manager with brand logo search via svgl and Google F"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1568
+              },
+              "version": 1
+            },
+            "endOffset": 73,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[2]/text()[1]",
+            "startOffset": 52,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[2]/text()[1]",
+            "text": "shared-element morphs"
+          },
+          "text": "shared-element morphs",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794988212349,
+          "id": "hk-ai-preview-1794988212349-49568",
+          "kind": "passage",
+          "note": "AI：提供全螢幕播放與專用的簡報者介面。\n為何重要：讓生成的簡報能直接進入正式展示流程。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212349,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1424
+              },
+              "quote": {
+                "exact": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer.",
+                "prefix": ", and the agent applies them all in one pass.\n\nPresent mode\n",
+                "suffix": "\n\nAlso included\n\nVisual editor with drag, resize, alignment "
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1309
+              },
+              "version": 1
+            },
+            "endOffset": 115,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[9]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[15]",
+            "text": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer."
+          },
+          "text": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer.",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794988212350,
+          "id": "hk-ai-preview-1794988212350-80904",
+          "kind": "passage",
+          "note": "AI：將修改註解寫入原始碼，再由代理人批次處理。\n為何重要：建立視覺化審閱與程式碼修改之間的橋梁。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212349,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1294
+              },
+              "quote": {
+                "exact": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass.",
+                "prefix": "click an element or drag across a region, and leave a note. ",
+                "suffix": "\n\nPresent mode\nFullscreen playback with keyboard navigation,"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1194
+              },
+              "version": 1
+            },
+            "endOffset": 67,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[3]",
+            "startOffset": 62,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "text": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass."
+          },
+          "text": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass.",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794988212350,
+          "id": "hk-ai-preview-1794988212350-7445",
+          "kind": "passage",
+          "note": "AI：提供跨代理人使用的簡報操作 Skills。\n為何重要：工作流程不完全依賴特定代理人或瀏覽器面板。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212350,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1111
+              },
+              "quote": {
+                "exact": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others.",
+                "prefix": " the panel. No API keys to configure.\n\nPrefer the terminal? ",
+                "suffix": "\nComment mode\nPress C, click an element or drag across a reg"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 967
+              },
+              "version": 1
+            },
+            "endOffset": 79,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[4]",
+            "startOffset": 21,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[1]",
+            "text": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others."
+          },
+          "text": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others.",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1794988212350,
+          "id": "hk-ai-preview-1794988212350-6284",
+          "kind": "passage",
+          "note": "AI：沿用既有登入方式，無須另外設定 API Key。\n為何重要：降低整合既有程式碼代理人的設定成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212350,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 944
+              },
+              "quote": {
+                "exact": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure.",
+                "prefix": " works.\nApply comments with one click from the comment bar.\n",
+                "suffix": "\n\nPrefer the terminal? The bundled skills (/create-slide, /a"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 822
+              },
+              "version": 1
+            },
+            "endOffset": 97,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[4]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/text()[4]",
+            "text": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure."
+          },
+          "text": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure.",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794988212350,
+          "id": "hk-ai-preview-1794988212350-49040",
+          "kind": "passage",
+          "note": "AI：每次指令都會附帶目前的頁面與元素資訊。\n為何重要：讓代理人理解指令所指向的具體修改對象。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212350,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 769
+              },
+              "quote": {
+                "exact": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works.",
+                "prefix": " by page while the canvas follows along.\nEdit what you see. ",
+                "suffix": "\nApply comments with one click from the comment bar.\nUses yo"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 661
+              },
+              "version": 1
+            },
+            "endOffset": 109,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "text": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works."
+          },
+          "text": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works.",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794988212351,
+          "id": "hk-ai-preview-1794988212351-93236",
+          "kind": "term",
+          "note": "AI：讓使用者在簡報介面中操作程式碼代理人的面板。\n例子：選取標題後，直接要求代理人放大文字。\n在本文：提供具備頁面與元素資訊的編輯介面。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212350,
+              "end": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(3) > h2.heading-element",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "Agent panel",
+                "prefix": "npm run devCopy code to clipboard\nDocumentation · Changelog\n",
+                "suffix": "\nConnect the Claude Code or Codex CLI you already use and dr"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 376
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[3]/h2[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[6]",
+            "text": "Agent panel"
+          },
+          "text": "Agent panel",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794988212351,
+          "id": "hk-ai-preview-1794988212351-34964",
+          "kind": "passage",
+          "note": "AI：每張投影片都是固定畫布上的獨立元件。\n為何重要：建立代理人能直接操作的簡報程式碼結構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212351,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 271
+              },
+              "quote": {
+                "exact": "Every page is a React component rendered on a fixed 1920 × 1080 canvas.",
+                "prefix": "scaling, navigation, hot reload, editing, and present mode.\n",
+                "suffix": "\nnpx @open-slide/cli init my-deck\ncd my-deck\nnpm run devCopy"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 200
+              },
+              "version": 1
+            },
+            "endOffset": 71,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[3]",
+            "text": "Every page is a React component rendered on a fixed 1920 × 1080 canvas."
+          },
+          "text": "Every page is a React component rendered on a fixed 1920 × 1080 canvas.",
+          "url": "https://github.com/open-slide/open-slide"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1794988212351,
+          "id": "hk-ai-preview-1794988212351-59206",
+          "kind": "term",
+          "note": "AI：修改原始碼後，自動更新目前顯示的畫面。\n例子：代理人修改文字大小後，畫布立即更新。\n在本文：支援即時預覽，但未提供更新速度數據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1794988212351,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 171
+              },
+              "quote": {
+                "exact": "hot reload",
+                "prefix": " React. open-slide handles the canvas, scaling, navigation, ",
+                "suffix": ", editing, and present mode.\nEvery page is a React component"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 161
+              },
+              "version": 1
+            },
+            "endOffset": 159,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 149,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "hot reload"
+          },
+          "text": "hot reload",
+          "url": "https://github.com/open-slide/open-slide"
+        }
+      ],
+      "note": {
+        "context": "傳統簡報通常透過圖形介面逐頁編輯，而 open-slide 將簡報轉換為程式碼，讓 Coding Agent 能直接參與簡報的生成與修改。\n\n框架將每張投影片視為獨立的 React Component，並統一處理畫布尺寸、縮放、頁面切換與即時預覽。\n\n使用者可以透過瀏覽器操作既有的 Claude Code 或 Codex，代理人會取得目前頁面與選取元素的資訊，理解使用者想修改的位置。\n\n除了自然語言操作，框架也提供註解模式、視覺化編輯器、主題動畫、簡報播放與多種格式匯出，形成從生成到展示的完整工作流程。\n\n本文主要介紹框架的功能與使用方式，但未提供生成品質、執行效能或匯出保真度的比較數據，因此無法判斷實際表現是否優於其他簡報工具。",
+        "formatVersion": 2,
+        "generatedAt": 1794988212371,
+        "guideHighlights": [
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "每張投影片都是固定畫布上的獨立元件。\n為何重要：建立代理人能直接操作的簡報程式碼結構。",
+            "source": "",
+            "text": "Every page is a React component rendered on a fixed 1920 × 1080 canvas.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "每次指令都會附帶目前的頁面與元素資訊。\n為何重要：讓代理人理解指令所指向的具體修改對象。",
+            "source": "",
+            "text": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "沿用既有登入方式，無須另外設定 API Key。\n為何重要：降低整合既有程式碼代理人的設定成本。",
+            "source": "",
+            "text": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "提供跨代理人使用的簡報操作 Skills。\n為何重要：工作流程不完全依賴特定代理人或瀏覽器面板。",
+            "source": "",
+            "text": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "將修改註解寫入原始碼，再由代理人批次處理。\n為何重要：建立視覺化審閱與程式碼修改之間的橋梁。",
+            "source": "",
+            "text": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "提供全螢幕播放與專用的簡報者介面。\n為何重要：讓生成的簡報能直接進入正式展示流程。",
+            "source": "",
+            "text": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "支援網頁、文件與 PowerPoint 格式匯出。\n為何重要：擴展簡報的交付方式，不限於框架內部使用。",
+            "source": "",
+            "text": "Export to static HTML, PDF, and PPTX",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "讓使用者在簡報介面中操作程式碼代理人的面板。\n例子：選取標題後，直接要求代理人放大文字。\n在本文：提供具備頁面與元素資訊的編輯介面。",
+            "kind": "term",
+            "reason": "讓使用者在簡報介面中操作程式碼代理人的面板。\n例子：選取標題後，直接要求代理人放大文字。\n在本文：提供具備頁面與元素資訊的編輯介面。",
+            "text": "Agent panel",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "修改原始碼後，自動更新目前顯示的畫面。\n例子：代理人修改文字大小後，畫布立即更新。\n在本文：支援即時預覽，但未提供更新速度數據。",
+            "kind": "term",
+            "reason": "修改原始碼後，自動更新目前顯示的畫面。\n例子：代理人修改文字大小後，畫布立即更新。\n在本文：支援即時預覽，但未提供更新速度數據。",
+            "text": "hot reload",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "covered": true,
+            "explanation": "儲存在投影片原始碼中的修改註解標記。\n例子：標記某個元素需要調整位置或顏色。\n在本文：讓代理人集中處理使用者留下的修改需求。",
+            "kind": "term",
+            "reason": "儲存在投影片原始碼中的修改註解標記。\n例子：標記某個元素需要調整位置或顏色。\n在本文：讓代理人集中處理使用者留下的修改需求。",
+            "text": "@slide-comment",
+            "unavailable": true
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "讓不同頁面的對應元素產生連續變形動畫。\n例子：圖片從第一頁左側平滑移動到第二頁中央。\n在本文：屬於框架內建的動畫功能，未展示實作品質。",
+            "kind": "term",
+            "reason": "讓不同頁面的對應元素產生連續變形動畫。\n例子：圖片從第一頁左側平滑移動到第二頁中央。\n在本文：屬於框架內建的動畫功能，未展示實作品質。",
+            "text": "shared-element morphs",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "儲存在投影片原始碼中的修改註解標記。\n例子：標記某個元素需要調整位置或顏色。\n在本文：讓代理人集中處理使用者留下的修改需求。",
+            "text": "@slide-comment",
+            "unavailable": true
+          }
+        ],
+        "url": "https://github.com/open-slide/open-slide"
+      },
+      "mindmap": {
+        "generatedAt": 1794988212394,
+        "outline": "# open-slide\n- 核心架構\n  - 簡報即程式碼\n    - React Component\n    - 固定畫布\n  - 框架執行環境\n    - 縮放與導覽\n    - 即時預覽\n- Agent panel\n  - 簡報生成\n    - 自然語言描述\n    - 逐頁生成\n  - 上下文感知編輯\n    - 當前頁面\n    - 選取元素\n  - 既有代理人整合\n    - Claude Code\n    - Codex\n    - 沿用登入方式\n  - 終端機 Skills\n    - 建立投影片\n    - 套用註解\n    - 建立主題\n- 註解模式\n  - 選取元素或區域\n  - 保存原始碼標記\n  - 代理人批次修改\n- 簡報播放\n  - 全螢幕播放\n  - 簡報者介面\n    - 下一張預覽\n    - 講者備註\n    - 計時器\n- 其他內建功能\n  - 視覺化編輯\n    - 拖曳與縮放\n    - 對齊與文字編輯\n  - 主題與動畫\n    - 頁面轉場\n    - 逐步揭露\n    - 元素變形\n  - 素材管理\n    - 品牌標誌\n    - Google Fonts\n  - 多格式匯出\n    - HTML\n    - PDF\n    - PPTX\n  - 靜態網站部署\n- 專案結構\n  - 核心執行框架\n  - CLI 與專案模板\n  - 開發與測試\n  - MIT 授權",
+        "title": "open-slide"
+      },
+      "readingDesk": {
+        "cards": [],
+        "updatedAt": 1794988316932,
+        "version": 1
+      }
+    }
+  ]
+}

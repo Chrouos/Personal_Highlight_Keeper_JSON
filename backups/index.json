@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 690,
+  "totalPages": 691,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
@@ -91,6 +91,16 @@
       "pageCount": 3
     },
     {
+      "tag": "軟體工程",
+      "file": "categories/軟體工程.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "AI 代理人",
+      "file": "categories/AI 代理人.json",
+      "pageCount": 2
+    },
+    {
       "tag": "具身智能",
       "file": "categories/具身智能.json",
       "pageCount": 2
@@ -101,18 +111,8 @@
       "pageCount": 2
     },
     {
-      "tag": "軟體工程",
-      "file": "categories/軟體工程.json",
-      "pageCount": 2
-    },
-    {
       "tag": "64位元運算",
       "file": "categories/64位元運算.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "AI 代理人",
-      "file": "categories/AI 代理人.json",
       "pageCount": 1
     },
     {
@@ -208,6 +208,11 @@
     {
       "tag": "RAG優化",
       "file": "categories/RAG優化.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "React",
+      "file": "categories/React.json",
       "pageCount": 1
     },
     {
@@ -316,6 +321,11 @@
       "pageCount": 1
     },
     {
+      "tag": "簡報生成",
+      "file": "categories/簡報生成.json",
+      "pageCount": 1
+    },
+    {
       "tag": "索尼互動娛樂",
       "file": "categories/索尼互動娛樂.json",
       "pageCount": 1
@@ -353,6 +363,11 @@
     {
       "tag": "長文本檢索",
       "file": "categories/長文本檢索.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "開發工具",
+      "file": "categories/開發工具.json",
       "pageCount": 1
     },
     {

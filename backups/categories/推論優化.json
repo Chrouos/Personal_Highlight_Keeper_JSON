@@ -5,7 +5,7 @@
   "pages": [
     {
       "url": "https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train",
-      "title": "Can LLMs redesign themselves as they train?",
+      "title": "Can LLMs redesign themselves as they train? | doubleAI",
       "tags": [
         "人工智慧",
         "人工智慧對齊",
@@ -353,26 +353,26 @@
           "note": "AI：以隱藏表示的梯度觀察模型能力缺口。\n為何重要：幫助 Agent 判斷介入位置與時機。",
           "range": {
             "anchors": {
-              "createdAt": 1794303695812,
+              "createdAt": 1794988405575,
               "end": {
                 "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
-                "textOffset": 7804
+                "textOffset": 7713
               },
               "quote": {
                 "exact": "The phantom gradient at layer",
                 "prefix": "ions in each, and an embedding of width D at every position.",
-                "suffix": " ℓ\\ellℓ is ∂L/∂hℓ\\partial L/\\partial h_\\ell∂L/∂hℓ​, the grad"
+                "suffix": " $\\ell$ is $\\partial L/\\partial h_\\ell$, the gradient of the"
               },
               "start": {
                 "css": "section.relative.pb-12:nth-of-type(2) > div.relative:nth-of-type(2) > div.mx-auto.flex > div.flex.w-full:nth-of-type(2) > div.pt-9.md\\:pt-12 > div.article-prose",
-                "textOffset": 7775
+                "textOffset": 7684
               },
               "version": 1
             },
             "endOffset": 29,
             "endXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[22]/text()[1]",
             "startOffset": 106,
-            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[3]",
+            "startXPath": "/html[1]/body[1]/main[1]/section[2]/div[2]/div[1]/div[2]/div[1]/div[1]/p[21]/text()[2]",
             "text": "The phantom gradient at layer"
           },
           "text": "The phantom gradient at layer",
