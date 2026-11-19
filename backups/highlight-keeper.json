@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1795055345019,
+  "exportedAt": 1795056064074,
   "pages": [
     {
       "url": "http://10.166.57.21:47194/workflow",
@@ -49390,7 +49390,7 @@
     },
     {
       "url": "https://discord.com/channels/1362241582702526615/1362245292493373571",
-      "title": "(1571) Discord | #poc | TV Digital Affairs",
+      "title": "(1571) Discord | #隨便亂打 | DiuDiu 的伺服器",
       "tags": [],
       "entries": [
         {
@@ -56349,11 +56349,6 @@
         "generatedAt": 1795055248300,
         "outline": "# DocParsingBench\n- 背景與問題\n  - 統一評測標準\n  - 提升模型相容性\n  - 改善評測速度\n  - 定位解析錯誤\n- 資料集\n  - 1,400 頁真實文件\n    - 五大產業\n      - 金融、法律、科研\n      - 製造、教育\n    - 14 種文件類型\n  - 真實文件雜訊\n    - 掃描模糊\n    - 印章遮擋\n  - 中英文混合\n  - 多欄排版\n- 評測效能\n  - Benchmark 比較\n    - OmniDocBench\n    - olmOCR-bench\n    - DocParsingBench\n  - 公式評測加速\n    - CDM\n      - TeX Live\n      - ImageMagick\n    - FastCDM\n      - Chrome\n      - KaTeX\n- 視覺化分析\n  - 原始文件\n  - 標準答案\n  - 模型預測\n  - 評測分數\n- 評測方法\n  - Markdown 區塊切割\n    - 文字\n    - 獨立公式\n    - 表格\n    - 圖片不計分\n  - Hungarian matching\n    - 同類區塊配對\n    - 未匹配計零分\n  - 評測指標\n    - 文字\n      - NED\n      - CDM\n    - 公式\n      - CDM\n    - 表格\n      - TEDS\n      - TEDS-S\n  - DPB 綜合分數\n    - 文字 50%\n    - 公式 30%\n    - 表格 20%\n- 模型排行榜\n  - OXR-1.0\n  - PaddleOCR-VL-1.6\n  - jina-ocr-v1\n- 工具使用\n  - Python 安裝\n  - YAML 設定\n  - CLI 批次評測\n  - 區塊切割測試\n  - 互動式排行榜\n- 模型整合\n  - BaseModelRunner\n    - 掃描圖片\n    - 呼叫模型\n    - 後處理\n    - 輸出 Markdown\n- 效能統計\n  - 區塊切割時間\n  - 匹配時間\n  - 指標計算時間\n  - 文件吞吐量\n  - 不包含模型推論",
         "title": "DocParsingBench"
-      },
-      "readingDesk": {
-        "cards": [],
-        "updatedAt": 1795055126142,
-        "version": 1
       }
     },
     {
