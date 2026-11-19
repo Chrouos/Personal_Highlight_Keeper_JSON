@@ -1303,11 +1303,6 @@
         "generatedAt": 1794988212394,
         "outline": "# open-slide\n- 核心架構\n  - 簡報即程式碼\n    - React Component\n    - 固定畫布\n  - 框架執行環境\n    - 縮放與導覽\n    - 即時預覽\n- Agent panel\n  - 簡報生成\n    - 自然語言描述\n    - 逐頁生成\n  - 上下文感知編輯\n    - 當前頁面\n    - 選取元素\n  - 既有代理人整合\n    - Claude Code\n    - Codex\n    - 沿用登入方式\n  - 終端機 Skills\n    - 建立投影片\n    - 套用註解\n    - 建立主題\n- 註解模式\n  - 選取元素或區域\n  - 保存原始碼標記\n  - 代理人批次修改\n- 簡報播放\n  - 全螢幕播放\n  - 簡報者介面\n    - 下一張預覽\n    - 講者備註\n    - 計時器\n- 其他內建功能\n  - 視覺化編輯\n    - 拖曳與縮放\n    - 對齊與文字編輯\n  - 主題與動畫\n    - 頁面轉場\n    - 逐步揭露\n    - 元素變形\n  - 素材管理\n    - 品牌標誌\n    - Google Fonts\n  - 多格式匯出\n    - HTML\n    - PDF\n    - PPTX\n  - 靜態網站部署\n- 專案結構\n  - 核心執行框架\n  - CLI 與專案模板\n  - 開發與測試\n  - MIT 授權",
         "title": "open-slide"
-      },
-      "readingDesk": {
-        "cards": [],
-        "updatedAt": 1794988316932,
-        "version": 1
       }
     },
     {
