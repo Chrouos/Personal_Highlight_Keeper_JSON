@@ -45452,6 +45452,143 @@
       "mindmap": null
     },
     {
+      "url": "https://github.com/DRCKnowledgeTeam/DRCD",
+      "title": "DRCKnowledgeTeam/DRCD: A 30000+ Chinese MRC dataset - Delta Reading Comprehension Dataset",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795058984377,
+          "id": "hk-1795058984374-94256",
+          "note": "由台達研究院於 2018 年提出，是一套繁體中文機器閱讀理解（Machine Reading Comprehension, MRC）資料集",
+          "range": {
+            "anchors": {
+              "createdAt": 1795058984373,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 89
+              },
+              "quote": {
+                "exact": "台達閱讀理解資料集 Delta Reading Comprehension Dataset (DRCD) ",
+                "prefix": "this repositoryEdit fileDelta Reading Comprehension Dataset\n",
+                "suffix": "屬於通用領域繁體中文機器閱讀理解資料集。\n本資料集期望成為適用於遷移學習之標準中文閱讀理解資料集。\n本資料集從2,108"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 36
+              },
+              "version": 1
+            },
+            "endOffset": 53,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "台達閱讀理解資料集 Delta Reading Comprehension Dataset (DRCD) "
+          },
+          "text": "台達閱讀理解資料集 Delta Reading Comprehension Dataset (DRCD) ",
+          "url": "https://github.com/DRCKnowledgeTeam/DRCD"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795059144211,
+          "id": "hk-1795059144209-71432",
+          "note": "任務類型\t\nExtractive QA（抽取式問答）",
+          "range": {
+            "anchors": {
+              "createdAt": 1795059515670,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 186
+              },
+              "quote": {
+                "exact": "本資料集從2,108篇維基條目中整理出10,014篇段落，並從段落中標註出30,000多個問題",
+                "prefix": "et (DRCD) 屬於通用領域繁體中文機器閱讀理解資料集。\n本資料集期望成為適用於遷移學習之標準中文閱讀理解資料集。\n",
+                "suffix": "\n關於資料集之更詳細資訊請洽詢論文：\nFor more information please refer to Pape"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 139
+              },
+              "version": 1
+            },
+            "endOffset": 98,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[2]",
+            "startOffset": 51,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[2]",
+            "text": "本資料集從2,108篇維基條目中整理出10,014篇段落，並從段落中標註出30,000多個問題"
+          },
+          "text": "本資料集從2,108篇維基條目中整理出10,014篇段落，並從段落中標註出30,000多個問題",
+          "url": "https://github.com/DRCKnowledgeTeam/DRCD"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795059182829,
+          "id": "hk-1795059182827-24492",
+          "note": "context：提供答案的原始段落\nquestion：人工標註的問題\nanswers：正確答案及其在文章中的字元位置",
+          "range": {
+            "anchors": {
+              "createdAt": 1795059515672,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 299
+              },
+              "quote": {
+                "exact": "Data format 資料格式\n\n",
+                "prefix": "tion please refer to Paper https://arxiv.org/abs/1806.00920\n",
+                "suffix": "version :  資料集版本\ndata : \n\ntitle :  : 文章標題\nid :  : 文章編號\nparag"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 281
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[3]",
+            "text": "Data format 資料格式\n\n"
+          },
+          "text": "Data format 資料格式\n\n",
+          "url": "https://github.com/DRCKnowledgeTeam/DRCD"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795059212666,
+          "id": "hk-1795059212664-61596",
+          "note": "Question → Embedding → Top-K Retrieval\n                          ↓\n                  是否命中正確段落",
+          "range": {
+            "anchors": {
+              "createdAt": 1795059515672,
+              "end": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(2) > h2.heading-element",
+                "textOffset": 7
+              },
+              "quote": {
+                "exact": "Example",
+                "prefix": "id :  : \"1\"表示為人工標註的答案，\"2\"以上為人工答題的答案\ntext :  : 答案內容\n\n\n\n\n\n\n\n\n\n",
+                "suffix": "\n{\n\"version\": \"1.3\",\n\"data\": [\n  {\n    \"title\": \"基督新教\",\n    "
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 552
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[2]/h2[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[4]",
+            "text": "Example"
+          },
+          "text": "Example",
+          "url": "https://github.com/DRCKnowledgeTeam/DRCD"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
       "url": "https://github.com/guardrails-ai/guardrails",
       "title": "guardrails-ai/guardrails: Adding guardrails to large language models.",
       "tags": [],
