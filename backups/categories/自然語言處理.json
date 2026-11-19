@@ -4,6 +4,759 @@
   "category": "自然語言處理",
   "pages": [
     {
+      "url": "https://arxiv.org/html/2602.22225v1",
+      "title": "SmartChunk 檢索：基於查詢感知的區塊壓縮，並規劃以實現高效的文件 RAG 分類",
+      "tags": [
+        "RAG",
+        "資訊檢索",
+        "Embedding",
+        "強化學習",
+        "成本控制",
+        "自然語言處理"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795074019076,
+          "id": "hk-ai-preview-1795074019075-57119",
+          "kind": "passage",
+          "note": "AI：SmartChunk 可與 Late Chunking、Hybrid Search 結合。\n=> 動態粒度選擇不必取代既有檢索優化方法。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019075,
+              "end": {
+                "css": "p#S5\\.SS3\\.p6\\.1",
+                "textOffset": 576
+              },
+              "quote": {
+                "exact": "This indicates that SmartChunk can complement complementary improvements in chunking and retrieval, amplifying their effectiveness when combined.",
+                "prefix": "Chunk with these methods gets further gains in QA accuracy. ",
+                "suffix": "\n\n\n\n\n6 Conclusions\n\n\nWe introduced SmartChunk Retrieval, a q"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.p6\\.1",
+                "textOffset": 431
+              },
+              "version": 1
+            },
+            "endOffset": 115,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[6]/p[1]/text()[8]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[6]/p[1]/text()[7]",
+            "text": "This indicates that SmartChunk can complement complementary improvements in chunking and retrieval, amplifying their effectiveness when combined."
+          },
+          "text": "This indicates that SmartChunk can complement complementary improvements in chunking and retrieval, amplifying their effectiveness when combined.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795074019077,
+          "id": "hk-ai-preview-1795074019076-74492",
+          "kind": "passage",
+          "note": "AI：STITCH 使用較少監督資料，取得更高規劃準確率。\n=> 驗證交替訓練策略的資料使用效率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019076,
+              "end": {
+                "css": "p#S5\\.SS3\\.p5\\.1",
+                "textOffset": 228
+              },
+              "quote": {
+                "exact": "STITCH achieves nearly 5% higher accuracy than the strongest SFT+RL baseline while using only half the supervised tokens.",
+                "prefix": "uate the effectiveness and efficiency of STITCH in Table 5. ",
+                "suffix": " This is an important advantage given the high cost of label"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.p5\\.1",
+                "textOffset": 107
+              },
+              "version": 1
+            },
+            "endOffset": 123,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[5]/p[1]/text()[2]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[5]/p[1]/text()[2]",
+            "text": "STITCH achieves nearly 5% higher accuracy than the strongest SFT+RL baseline while using only half the supervised tokens."
+          },
+          "text": "STITCH achieves nearly 5% higher accuracy than the strongest SFT+RL baseline while using only half the supervised tokens.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795074019077,
+          "id": "hk-ai-preview-1795074019077-190",
+          "kind": "passage",
+          "note": "AI：故事理解偏向大 Chunk，學術問答偏向小 Chunk。\n=> 實驗支持 Planner 能適應不同資訊需求。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019077,
+              "end": {
+                "css": "p#S5\\.SS3\\.p2\\.1",
+                "textOffset": 706
+              },
+              "quote": {
+                "exact": "For instance, in NarrativeQA, which features long-form fictional stories paired with abstractive narrative comprehension questions, the planner selects larger chunks (avg. size: 1725) to capture broader contextual arcs necessary for narrative understanding. In contrast, on scientific datasets like QASPER, which require factual multi-hop reasoning over dense, technical papers, STITCH favors smaller chunks (avg. size: 230) to maintain precision and avoid context dilution.",
+                "prefix": " adjusts chunk sizes based on both document and query type. ",
+                "suffix": " As shown in Figure 5, this adaptive behavior also manifests"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.p2\\.1",
+                "textOffset": 232
+              },
+              "version": 1
+            },
+            "endOffset": 554,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[2]/p[1]/text()[2]",
+            "startOffset": 80,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/div[2]/p[1]/text()[2]",
+            "text": "For instance, in NarrativeQA, which features long-form fictional stories paired with abstractive narrative comprehension questions, the planner selects larger chunks (avg. size: 1725) to capture broader contextual arcs necessary for narrative understanding. In contrast, on scientific datasets like QASPER, which require factual multi-hop reasoning over dense, technical papers, STITCH favors smaller chunks (avg. size: 230) to maintain precision and avoid context dilution."
+          },
+          "text": "For instance, in NarrativeQA, which features long-form fictional stories paired with abstractive narrative comprehension questions, the planner selects larger chunks (avg. size: 1725) to capture broader contextual arcs necessary for narrative understanding. In contrast, on scientific datasets like QASPER, which require factual multi-hop reasoning over dense, technical papers, STITCH favors smaller chunks (avg. size: 230) to maintain precision and avoid context dilution.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795074019077,
+          "id": "hk-ai-preview-1795074019077-28775",
+          "kind": "passage",
+          "note": "AI：SmartChunk 需要額外的前期模型訓練成本。\n=> 約兩千次查詢後，累積成本低於 MAL RAG。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019077,
+              "end": {
+                "css": "p#S5\\.SS2\\.p3\\.1",
+                "textOffset": 1153
+              },
+              "quote": {
+                "exact": "While SmartChunk incurs a small fixed cost upfront due to planner and encoder training, its test-time cost grows very slowly.",
+                "prefix": "raining cost of compressor and planner) and test-time cost. ",
+                "suffix": " In contrast, MAL RAG begins at zero but scales fasr with th"
+              },
+              "start": {
+                "css": "p#S5\\.SS2\\.p3\\.1",
+                "textOffset": 1028
+              },
+              "version": 1
+            },
+            "endOffset": 352,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/div[3]/p[1]/text()[3]",
+            "startOffset": 227,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/div[3]/p[1]/text()[3]",
+            "text": "While SmartChunk incurs a small fixed cost upfront due to planner and encoder training, its test-time cost grows very slowly."
+          },
+          "text": "While SmartChunk incurs a small fixed cost upfront due to planner and encoder training, its test-time cost grows very slowly.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795074019078,
+          "id": "hk-ai-preview-1795074019078-19372",
+          "kind": "passage",
+          "note": "AI：QA 準確率與 Recall 接近階層式 RAG。\n=> 相較 MAL RAG，金錢成本降低約 74%。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019077,
+              "end": {
+                "css": "figure#S5\\.T2 > figcaption.ltx_caption.ltx_centering",
+                "textOffset": 188
+              },
+              "quote": {
+                "exact": "Our method achieves competitive QA accuracy and retrieval recall while significantly reducing monetary cost and latency.",
+                "prefix": " Comparison of different chunking and retrieval strategies. ",
+                "suffix": "\n\n\nThe main results are presented in Table 2, with per-datas"
+              },
+              "start": {
+                "css": "figure#S5\\.T2 > figcaption.ltx_caption.ltx_centering",
+                "textOffset": 68
+              },
+              "version": 1
+            },
+            "endOffset": 179,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/figure[1]/figcaption[1]/text()[1]",
+            "startOffset": 59,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[2]/figure[1]/figcaption[1]/text()[1]",
+            "text": "Our method achieves competitive QA accuracy and retrieval recall while significantly reducing monetary cost and latency."
+          },
+          "text": "Our method achieves competitive QA accuracy and retrieval recall while significantly reducing monetary cost and latency.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019078,
+          "id": "hk-ai-preview-1795074019078-48317",
+          "kind": "passage",
+          "note": "AI：從成功的 QA 結果反推 Chunk 層級標籤。\n=> 解決缺少 Planner 訓練資料的問題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019078,
+              "end": {
+                "css": "p#S4\\.I2\\.i3\\.p1\\.1",
+                "textOffset": 226
+              },
+              "quote": {
+                "exact": "If the generated answer is correct, we record the smallest and largest chunk levels among the retrieved chunks as a pseudo-label. We emphasize that these pseudo-labels are not guaranteed to be optimal.",
+                "prefix": "nswer with a backbone model.\n\n3. \n\nPseudo-Label Assignment.\n",
+                "suffix": " If the answer is incorrect, we expand retrieval with additi"
+              },
+              "start": {
+                "css": "p#S4\\.I2\\.i3\\.p1\\.1",
+                "textOffset": 25
+              },
+              "version": 1
+            },
+            "endOffset": 202,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[5]/ol[1]/li[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[5]/ol[1]/li[3]/div[1]/p[1]/text()[1]",
+            "text": "If the generated answer is correct, we record the smallest and largest chunk levels among the retrieved chunks as a pseudo-label. We emphasize that these pseudo-labels are not guaranteed to be optimal."
+          },
+          "text": "If the generated answer is correct, we record the smallest and largest chunk levels among the retrieved chunks as a pseudo-label. We emphasize that these pseudo-labels are not guaranteed to be optimal.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019079,
+          "id": "hk-ai-preview-1795074019078-36317",
+          "kind": "term",
+          "note": "AI：透過自動化流程產生的近似正確標籤。\n例子：答對問題後，記錄使用過的 Chunk 層級。\n在本文：作為 Planner 的訓練訊號，但不保證最佳。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019078,
+              "end": {
+                "css": "span#S4\\.I2\\.i3\\.p1\\.1\\.1",
+                "textOffset": 12
+              },
+              "quote": {
+                "exact": "Pseudo-Label",
+                "prefix": "d chunks to generate an answer with a backbone model.\n\n3. \n\n",
+                "suffix": " Assignment.\nIf the generated answer is correct, we record t"
+              },
+              "start": {
+                "css": "div#S4\\.I2\\.i3\\.p1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 12,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[5]/ol[1]/li[3]/div[1]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[5]/ol[1]/li[3]/div[1]/text()[1]",
+            "text": "Pseudo-Label"
+          },
+          "text": "Pseudo-Label",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019079,
+          "id": "hk-ai-preview-1795074019079-83241",
+          "kind": "passage",
+          "note": "AI：STITCH 將強化學習無法解決的案例交給 SFT。\n=> 將昂貴的監督資料集中用於困難案例。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019079,
+              "end": {
+                "css": "p#S4\\.I1\\.i3\\.p1\\.1",
+                "textOffset": 255
+              },
+              "quote": {
+                "exact": "These examples are stored and periodically used to fine-tune the model via supervised learning, using full expert traces and answers.",
+                "prefix": "ed even with hints, we move to Step 3 (imitation learning). ",
+                "suffix": "\n\n\nThis training loop continues, alternating between RL and "
+              },
+              "start": {
+                "css": "p#S4\\.I1\\.i3\\.p1\\.1",
+                "textOffset": 122
+              },
+              "version": 1
+            },
+            "endOffset": 236,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[2]/ol[1]/li[3]/div[1]/p[1]/text()[1]",
+            "startOffset": 103,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/div[2]/ol[1]/li[3]/div[1]/p[1]/text()[1]",
+            "text": "These examples are stored and periodically used to fine-tune the model via supervised learning, using full expert traces and answers."
+          },
+          "text": "These examples are stored and periodically used to fine-tune the model via supervised learning, using full expert traces and answers.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1795074019079,
+          "id": "hk-ai-preview-1795074019079-86226",
+          "kind": "passage",
+          "note": "AI：細粒度保留細節，粗粒度保留整體語意。\n=> 混合不同粒度，而非尋找唯一最佳切分大小。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019079,
+              "end": {
+                "css": "p#S4\\.SS1\\.p2\\.1",
+                "textOffset": 703
+              },
+              "quote": {
+                "exact": "While raw fine-grained chunks preserve full semantic fidelity, they may fragment higher-level structure. Conversely, compressed chunks capture compact semantic summaries but may lose fine-grained details.",
+                "prefix": "o generate summarized text that forms a higher-level chunk. ",
+                "suffix": " This design enables the system to balance accuracy versus e"
+              },
+              "start": {
+                "css": "p#S4\\.SS1\\.p2\\.1",
+                "textOffset": 499
+              },
+              "version": 1
+            },
+            "endOffset": 266,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[1]/div[2]/p[1]/text()[4]",
+            "startOffset": 62,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[1]/div[2]/p[1]/text()[4]",
+            "text": "While raw fine-grained chunks preserve full semantic fidelity, they may fragment higher-level structure. Conversely, compressed chunks capture compact semantic summaries but may lose fine-grained details."
+          },
+          "text": "While raw fine-grained chunks preserve full semantic fidelity, they may fragment higher-level structure. Conversely, compressed chunks capture compact semantic summaries but may lose fine-grained details.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019080,
+          "id": "hk-ai-preview-1795074019079-98689",
+          "kind": "term",
+          "note": "AI：將文件表示成不同大小與抽象程度的 Chunk。\n例子：句子 → 段落 → 章節 → 完整文件。\n在本文：提供不同粒度的檢索候選範圍。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019079,
+              "end": {
+                "css": "span#S4\\.SS1\\.p2\\.1\\.1",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "Multi-level Chunking",
+                "prefix": "ollow the vanilla RAG system (Liu & contributors (2022)).\n\n\n",
+                "suffix": " We assume a multi-level chunk hierarchy ℋ⁡(D)\\mathcal{H}(D)"
+              },
+              "start": {
+                "css": "div#S4\\.SS1\\.p2",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[1]/div[2]/p[1]/span[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[1]/div[2]/text()[1]",
+            "text": "Multi-level Chunking"
+          },
+          "text": "Multi-level Chunking",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019080,
+          "id": "hk-ai-preview-1795074019080-21928",
+          "kind": "term",
+          "note": "AI：將多個低層 Chunk 壓縮成單一高層語意向量。\n例子：將四個段落的向量轉成一個摘要語意向量。\n在本文：取代檢索階段反覆生成文字摘要的操作。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019080,
+              "end": {
+                "css": "figure#S4\\.F2 > figcaption.ltx_caption.ltx_centering",
+                "textOffset": 330
+              },
+              "quote": {
+                "exact": "Chunk Compression Encoder",
+                "prefix": "r query, enabling adaptive multi-level retrieval, and (2) a ",
+                "suffix": " ℰ\\mathcal{E} that produces compact, high-level embeddings f"
+              },
+              "start": {
+                "css": "figure#S4\\.F2 > figcaption.ltx_caption.ltx_centering",
+                "textOffset": 305
+              },
+              "version": 1
+            },
+            "endOffset": 139,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[1]/figure[1]/figcaption[1]/text()[3]",
+            "startOffset": 114,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[1]/figure[1]/figcaption[1]/text()[3]",
+            "text": "Chunk Compression Encoder"
+          },
+          "text": "Chunk Compression Encoder",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795074019080,
+          "id": "hk-ai-preview-1795074019080-3105",
+          "kind": "passage",
+          "note": "AI：階層式 RAG 能保留結構，但建構成本較高。\n=> 作者希望保留階層檢索能力，同時降低成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019080,
+              "end": {
+                "css": "p#S2\\.p2\\.1",
+                "textOffset": 824
+              },
+              "quote": {
+                "exact": "While tree & graph-based RAG effectively models hierarchical logic, they often incur higher cost, complexity, and reliance on structure rather than plain text.",
+                "prefix": " (2023a)) prompts LLMs to organize knowledge into mindmaps. ",
+                "suffix": " These trade-offs motivate lighter-weight, query-adaptive al"
+              },
+              "start": {
+                "css": "p#S2\\.p2\\.1",
+                "textOffset": 665
+              },
+              "version": 1
+            },
+            "endOffset": 211,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/div[2]/p[1]/text()[10]",
+            "startOffset": 52,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[2]/div[2]/p[1]/text()[10]",
+            "text": "While tree & graph-based RAG effectively models hierarchical logic, they often incur higher cost, complexity, and reliance on structure rather than plain text."
+          },
+          "text": "While tree & graph-based RAG effectively models hierarchical logic, they often incur higher cost, complexity, and reliance on structure rather than plain text.",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1795074019080,
+          "id": "hk-ai-preview-1795074019080-67892",
+          "kind": "passage",
+          "note": "AI：不存在適合所有問題與文件的固定 Chunk Size。\n=> 將研究焦點從固定切分轉向動態檢索粒度。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019080,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 515
+              },
+              "quote": {
+                "exact": "Controlled experiments indicate that this static chunking–retrieval design is the primary bottleneck as retrieval quality is highly sensitive to chunk size, and no single granularity works well across heterogeneous queries and document structures",
+                "prefix": "trieval), and the top-kk chunks are then passed to the LLM. ",
+                "suffix": " (Bhat et al. (2025)).\nRecent work attempts to improve chunk"
+              },
+              "start": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 269
+              },
+              "version": 1
+            },
+            "endOffset": 282,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 36,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[2]",
+            "text": "Controlled experiments indicate that this static chunking–retrieval design is the primary bottleneck as retrieval quality is highly sensitive to chunk size, and no single granularity works well across heterogeneous queries and document structures"
+          },
+          "text": "Controlled experiments indicate that this static chunking–retrieval design is the primary bottleneck as retrieval quality is highly sensitive to chunk size, and no single granularity works well across heterogeneous queries and document structures",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019081,
+          "id": "hk-ai-preview-1795074019081-78707",
+          "kind": "term",
+          "note": "AI：交替使用強化學習與模仿學習的訓練方法。\n例子：先讓模型自行解題，失敗後才提供專家示範。\n在本文：提升 Planner 的準確率與監督資料使用效率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019080,
+              "end": {
+                "css": "ol.ltx_toclist > li.ltx_tocentry.ltx_tocentry_section:nth-of-type(5) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection:nth-of-type(2) > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 58
+              },
+              "quote": {
+                "exact": "STITCH",
+                "prefix": "trieval\n4.2 Planner: Trained with synthetic data pipeline + ",
+                "suffix": "\n4.3 compressor\n\n5 Experiments\n\n5.1 Experimental setting\n5.2"
+              },
+              "start": {
+                "css": "ol.ltx_toclist > li.ltx_tocentry.ltx_tocentry_section:nth-of-type(5) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection:nth-of-type(2) > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 52
+              },
+              "version": 1
+            },
+            "endOffset": 54,
+            "endXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[5]/ol[1]/li[2]/a[1]/span[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[5]/ol[1]/li[2]/a[1]/span[1]/text()[1]",
+            "text": "STITCH"
+          },
+          "text": "STITCH",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795074019081,
+          "id": "hk-ai-preview-1795074019081-7650",
+          "kind": "term",
+          "note": "AI：根據問題與文件資訊決定適合的 Chunk 層級。\n例子：查詢特定日期時使用較小的 Chunk。\n在本文：預測最小與最大檢索層級，準確率達 82%。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074019081,
+              "end": {
+                "css": "ol.ltx_toclist > li.ltx_tocentry.ltx_tocentry_section:nth-of-type(5) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection:nth-of-type(2) > a.ltx_ref > span.ltx_text.ltx_ref_title",
+                "textOffset": 11
+              },
+              "quote": {
+                "exact": "Planner",
+                "prefix": "rtChunk Retrieval\n\n4.1 Overview of SmartChunk Retrieval\n4.2 ",
+                "suffix": ": Trained with synthetic data pipeline + STITCH\n4.3 compress"
+              },
+              "start": {
+                "css": "li.ltx_tocentry.ltx_tocentry_section:nth-of-type(5) > ol.ltx_toclist.ltx_toclist_section > li.ltx_tocentry.ltx_tocentry_subsection:nth-of-type(2) > a.ltx_ref > span.ltx_text.ltx_ref_title > span.ltx_tag.ltx_tag_ref",
+                "textOffset": 4
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[5]/ol[1]/li[2]/a[1]/span[1]/text()[1]",
+            "startOffset": 4,
+            "startXPath": "/html[1]/body[1]/nav[1]/nav[1]/ol[1]/li[5]/ol[1]/li[2]/a[1]/span[1]/span[1]/text()[1]",
+            "text": "Planner"
+          },
+          "text": "Planner",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795074029611,
+          "id": "hk-1795074029591-80211",
+          "note": "沒有完美的 chunks size\n是預設、短的、被切割的\n甚至可能沒有意義的",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074029591,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 261
+              },
+              "quote": {
+                "exact": "current pipelines are limited by static chunking and flat retrieval",
+                "prefix": ") with evidence retrieved from large text corpora.\nHowever, ",
+                "suffix": ": documents are split into short, predetermined, fixed-size "
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 194
+              },
+              "version": 1
+            },
+            "endOffset": 261,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 194,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "text": "current pipelines are limited by static chunking and flat retrieval"
+          },
+          "text": "current pipelines are limited by static chunking and flat retrieval",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795074426566,
+          "id": "hk-1795074426545-88924",
+          "note": "Chunk Size 不應只是 RAG 的固定超參數\n而應該是可以根據問題進行決策的變數",
+          "range": {
+            "anchors": {
+              "createdAt": 1795074426544,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 738
+              },
+              "quote": {
+                "exact": "SmartChunk",
+                "prefix": "efficient and robust long-document question answering (QA). ",
+                "suffix": " uses (i) a planner that predicts the optimal chunk abstract"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 728
+              },
+              "version": 1
+            },
+            "endOffset": 477,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[2]",
+            "startOffset": 467,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[2]",
+            "text": "SmartChunk"
+          },
+          "text": "SmartChunk",
+          "url": "https://arxiv.org/html/2602.22225v1"
+        }
+      ],
+      "note": {
+        "context": "傳統 RAG 通常在建立索引時就決定 Chunk Size，但不同問題需要的資訊粒度並不相同。細粒度的 Chunk 容易造成上下文碎片化，粗粒度的 Chunk 則可能引入過多無關資訊。\n\n過去的研究透過 Semantic Chunking、Contextual Retrieval 或階層式結構改善檢索品質，但仍存在靜態切分、建構成本過高等問題。\n\n作者提出 SmartChunk，透過 Planner 根據 Query 與文件 Metadata 決定檢索粒度，再透過 Compressor 將多個低層 Chunk 的 Embedding 壓縮成高層語意表示，避免反覆呼叫 LLM 生成摘要。\n\n為了訓練 Planner，作者提出 STITCH，結合強化學習、提示式強化學習與模仿學習，讓模型在答案正確率、檢索成本與推理延遲之間取得平衡。\n\n實驗顯示 SmartChunk 的 QA Accuracy 達到 56.4%，相較階層式 RAG 大幅降低金錢成本，但並非所有指標皆最佳。其核心價值在於動態調整檢索粒度，以及降低階層式 Chunk 的建構成本。",
+        "formatVersion": 2,
+        "generatedAt": 1795074019133,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "不存在適合所有問題與文件的固定 Chunk Size。\n=> 將研究焦點從固定切分轉向動態檢索粒度。",
+            "source": "",
+            "text": "Controlled experiments indicate that this static chunking–retrieval design is the primary bottleneck as retrieval quality is highly sensitive to chunk size, and no single granularity works well across heterogeneous queries and document structures",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "階層式 RAG 能保留結構，但建構成本較高。\n=> 作者希望保留階層檢索能力，同時降低成本。",
+            "source": "",
+            "text": "While tree & graph-based RAG effectively models hierarchical logic, they often incur higher cost, complexity, and reliance on structure rather than plain text.",
+            "unavailable": false
+          },
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "細粒度保留細節，粗粒度保留整體語意。\n=> 混合不同粒度，而非尋找唯一最佳切分大小。",
+            "source": "",
+            "text": "While raw fine-grained chunks preserve full semantic fidelity, they may fragment higher-level structure. Conversely, compressed chunks capture compact semantic summaries but may lose fine-grained details.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "covered": false,
+            "extra": "",
+            "kind": "passage",
+            "reason": "Planner 根據 Query 決定檢索粒度。\n=> 將 Chunk 層級選擇轉換成模型的決策問題。",
+            "source": "",
+            "text": "The planner is a model that predicts the appropriate chunking granularity for a given query.",
+            "unavailable": true
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "從成功的 QA 結果反推 Chunk 層級標籤。\n=> 解決缺少 Planner 訓練資料的問題。",
+            "source": "",
+            "text": "If the generated answer is correct, we record the smallest and largest chunk levels among the retrieved chunks as a pseudo-label. We emphasize that these pseudo-labels are not guaranteed to be optimal.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "STITCH 將強化學習無法解決的案例交給 SFT。\n=> 將昂貴的監督資料集中用於困難案例。",
+            "source": "",
+            "text": "These examples are stored and periodically used to fine-tune the model via supervised learning, using full expert traces and answers.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "covered": false,
+            "extra": "",
+            "kind": "passage",
+            "reason": "Compressor 學習近似文字摘要的 Embedding。\n=> 將反覆生成摘要改成輕量級向量壓縮。",
+            "source": "",
+            "text": "Once trained, can directly produce high-level embeddings without requiring LLM summarization, yielding comparable retrieval accuracy at much lower cost in both compute and latency.",
+            "unavailable": true
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "QA 準確率與 Recall 接近階層式 RAG。\n=> 相較 MAL RAG，金錢成本降低約 74%。",
+            "source": "",
+            "text": "Our method achieves competitive QA accuracy and retrieval recall while significantly reducing monetary cost and latency.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "故事理解偏向大 Chunk，學術問答偏向小 Chunk。\n=> 實驗支持 Planner 能適應不同資訊需求。",
+            "source": "",
+            "text": "For instance, in NarrativeQA, which features long-form fictional stories paired with abstractive narrative comprehension questions, the planner selects larger chunks (avg. size: 1725) to capture broader contextual arcs necessary for narrative understanding. In contrast, on scientific datasets like QASPER, which require factual multi-hop reasoning over dense, technical papers, STITCH favors smaller chunks (avg. size: 230) to maintain precision and avoid context dilution.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "STITCH 使用較少監督資料，取得更高規劃準確率。\n=> 驗證交替訓練策略的資料使用效率。",
+            "source": "",
+            "text": "STITCH achieves nearly 5% higher accuracy than the strongest SFT+RL baseline while using only half the supervised tokens.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "SmartChunk 需要額外的前期模型訓練成本。\n=> 約兩千次查詢後，累積成本低於 MAL RAG。",
+            "source": "",
+            "text": "While SmartChunk incurs a small fixed cost upfront due to planner and encoder training, its test-time cost grows very slowly.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "SmartChunk 可與 Late Chunking、Hybrid Search 結合。\n=> 動態粒度選擇不必取代既有檢索優化方法。",
+            "source": "",
+            "text": "This indicates that SmartChunk can complement complementary improvements in chunking and retrieval, amplifying their effectiveness when combined.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "將文件表示成不同大小與抽象程度的 Chunk。\n例子：句子 → 段落 → 章節 → 完整文件。\n在本文：提供不同粒度的檢索候選範圍。",
+            "kind": "term",
+            "reason": "將文件表示成不同大小與抽象程度的 Chunk。\n例子：句子 → 段落 → 章節 → 完整文件。\n在本文：提供不同粒度的檢索候選範圍。",
+            "text": "Multi-level Chunking",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "根據問題與文件資訊決定適合的 Chunk 層級。\n例子：查詢特定日期時使用較小的 Chunk。\n在本文：預測最小與最大檢索層級，準確率達 82%。",
+            "kind": "term",
+            "reason": "根據問題與文件資訊決定適合的 Chunk 層級。\n例子：查詢特定日期時使用較小的 Chunk。\n在本文：預測最小與最大檢索層級，準確率達 82%。",
+            "text": "Planner",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "將多個低層 Chunk 壓縮成單一高層語意向量。\n例子：將四個段落的向量轉成一個摘要語意向量。\n在本文：取代檢索階段反覆生成文字摘要的操作。",
+            "kind": "term",
+            "reason": "將多個低層 Chunk 壓縮成單一高層語意向量。\n例子：將四個段落的向量轉成一個摘要語意向量。\n在本文：取代檢索階段反覆生成文字摘要的操作。",
+            "text": "Chunk Compression Encoder",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "交替使用強化學習與模仿學習的訓練方法。\n例子：先讓模型自行解題，失敗後才提供專家示範。\n在本文：提升 Planner 的準確率與監督資料使用效率。",
+            "kind": "term",
+            "reason": "交替使用強化學習與模仿學習的訓練方法。\n例子：先讓模型自行解題，失敗後才提供專家示範。\n在本文：提升 Planner 的準確率與監督資料使用效率。",
+            "text": "STITCH",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "透過自動化流程產生的近似正確標籤。\n例子：答對問題後，記錄使用過的 Chunk 層級。\n在本文：作為 Planner 的訓練訊號，但不保證最佳。",
+            "kind": "term",
+            "reason": "透過自動化流程產生的近似正確標籤。\n例子：答對問題後，記錄使用過的 Chunk 層級。\n在本文：作為 Planner 的訓練訊號，但不保證最佳。",
+            "text": "Pseudo-Label",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [
+          {
+            "reason": "Compressor 學習近似文字摘要的 Embedding。\n=> 將反覆生成摘要改成輕量級向量壓縮。",
+            "text": "Once trained, can directly produce high-level embeddings without requiring LLM summarization, yielding comparable retrieval accuracy at much lower cost in both compute and latency.",
+            "unavailable": true
+          },
+          {
+            "reason": "Planner 根據 Query 決定檢索粒度。\n=> 將 Chunk 層級選擇轉換成模型的決策問題。",
+            "text": "The planner is a model that predicts the appropriate chunking granularity for a given query.",
+            "unavailable": true
+          }
+        ],
+        "unlocatedTerms": [],
+        "url": "https://arxiv.org/html/2602.22225v1"
+      },
+      "mindmap": {
+        "generatedAt": 1795074019206,
+        "outline": "# SmartChunk Retrieval\n- 背景與問題\n  - 靜態 Chunking\n    - 上下文碎片化\n    - 檢索雜訊\n    - 固定粒度限制\n  - 階層式 RAG\n    - 摘要生成成本\n    - 結構建構成本\n- 問題定義\n  - 最大化答案正確率\n  - 最小化系統成本\n    - Token 成本\n    - 推理延遲\n- SmartChunk 架構\n  - Multi-level Chunking\n    - 細粒度保留細節\n    - 粗粒度保留語意\n  - Planner\n    - 輸入\n      - Query\n      - 文件 Metadata\n    - 輸出\n      - 最小 Chunk 層級\n      - 最大 Chunk 層級\n  - Compressor\n    - 訓練階段\n      - LLM 生成摘要\n      - 摘要向量作為目標\n      - MSE Loss\n    - 推論階段\n      - 輸入低層向量\n      - 輸出高層向量\n- Planner 訓練\n  - 合成訓練資料\n    - 建立完整階層\n    - 執行檢索問答\n    - 產生偽標籤\n    - 生成推理軌跡\n  - STITCH\n    - Vanilla RL\n    - Hinted RL\n    - Imitation Learning\n  - 多目標獎勵\n    - 答案正確性\n    - Chunk 使用量\n    - 推理長度\n    - 輸出格式\n    - 偽標籤對齊\n- 實驗結果\n  - 整體檢索表現\n    - QA Accuracy 56.4%\n    - Recall@5 82.9%\n    - 單次成本 $0.078\n    - 延遲 3.62 秒\n  - 消融實驗\n    - 移除 Planner\n    - 直接編碼長文本\n    - 使用 LLM 摘要\n  - 自適應檢索\n    - 故事理解：1725 Tokens\n    - 學術問答：230 Tokens\n  - 跨領域泛化\n    - NewsQA\n    - Few-shot Prompting\n  - STITCH 訓練效率\n    - 規劃準確率 82%\n    - 監督 Tokens 418k\n  - 其他方法結合\n    - Late Chunking\n    - Hybrid Search\n- 結論與限制\n  - 準確率與成本平衡\n  - 前期模型訓練成本\n  - 壓縮可能遺失細節\n  - 未來研究\n    - Deep Research\n    - 多模態文件檢索",
+        "title": "SmartChunk Retrieval"
+      }
+    },
+    {
       "url": "https://ckip.iis.sinica.edu.tw/project/coref",
       "title": "CKIP Lab 中文詞知識庫小組 | 指代消解",
       "tags": [

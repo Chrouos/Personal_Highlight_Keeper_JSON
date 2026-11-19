@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 695,
+  "totalPages": 696,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
@@ -23,7 +23,7 @@
     {
       "tag": "成本控制",
       "file": "categories/成本控制.json",
-      "pageCount": 10
+      "pageCount": 11
     },
     {
       "tag": "機器學習",
@@ -51,6 +51,11 @@
       "pageCount": 7
     },
     {
+      "tag": "自然語言處理",
+      "file": "categories/自然語言處理.json",
+      "pageCount": 6
+    },
+    {
       "tag": "人工智慧對齊",
       "file": "categories/人工智慧對齊.json",
       "pageCount": 5
@@ -58,11 +63,6 @@
     {
       "tag": "提示詞工程",
       "file": "categories/提示詞工程.json",
-      "pageCount": 5
-    },
-    {
-      "tag": "自然語言處理",
-      "file": "categories/自然語言處理.json",
       "pageCount": 5
     },
     {
@@ -86,8 +86,18 @@
       "pageCount": 3
     },
     {
+      "tag": "RAG",
+      "file": "categories/RAG.json",
+      "pageCount": 3
+    },
+    {
       "tag": "多智能體系統",
       "file": "categories/多智能體系統.json",
+      "pageCount": 3
+    },
+    {
+      "tag": "資訊檢索",
+      "file": "categories/資訊檢索.json",
       "pageCount": 3
     },
     {
@@ -101,8 +111,8 @@
       "pageCount": 2
     },
     {
-      "tag": "RAG",
-      "file": "categories/RAG.json",
+      "tag": "Embedding",
+      "file": "categories/Embedding.json",
       "pageCount": 2
     },
     {
@@ -118,11 +128,6 @@
     {
       "tag": "模型評測",
       "file": "categories/模型評測.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "資訊檢索",
-      "file": "categories/資訊檢索.json",
       "pageCount": 2
     },
     {
@@ -168,11 +173,6 @@
     {
       "tag": "CKIP Lab",
       "file": "categories/CKIP Lab.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "Embedding",
-      "file": "categories/Embedding.json",
       "pageCount": 1
     },
     {
@@ -288,6 +288,11 @@
     {
       "tag": "工作轉型",
       "file": "categories/工作轉型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "強化學習",
+      "file": "categories/強化學習.json",
       "pageCount": 1
     },
     {
