@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1795074848797,
+  "exportedAt": 1795076648769,
   "pages": [
     {
       "url": "http://10.166.57.21:47194/workflow",
@@ -137207,6 +137207,111 @@
           },
           "text": "雖然整個模型有 1,200 億（120B）個參數，但實際推論時只會啟用其中的 120 億（12B）個參數",
           "url": "https://www.koc.com.tw/archives/636686"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://www.kocpc.com.tw/archives/704039",
+      "title": "Google 又有新模型！Gemini 4 Neon 正式亮相，對標 Claude Opus 5.5、GPT-6.2 Sol - 電腦王阿達",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795075477558,
+          "id": "hk-1795075477557-83992",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1795075477556,
+              "end": {
+                "css": "div.row:nth-of-type(2) > div.jeg_main_content.col-md-8 > div.jeg_inner_content > div.entry-content.no-share:nth-of-type(6) > div.content-inner.jeg_link_underline:nth-of-type(2) > div.Zi_ad_ar_iR:nth-of-type(2)",
+                "textOffset": 402
+              },
+              "quote": {
+                "exact": "Carbon 負責最困難、最長時間的複雜專案",
+                "prefix": "%\nGoogle 稍早宣布推出 Gemini 4 Neon，成為 Gemini 4 系列的新成員。\n目前這系列的分工是：",
+                "suffix": "。Hydrogen 則是負責快速的日常執行。而最新推出的 Neon 介於 Carbon 與 Hydrogen 之間，主打"
+              },
+              "start": {
+                "css": "div.row:nth-of-type(2) > div.jeg_main_content.col-md-8 > div.jeg_inner_content > div.entry-content.no-share:nth-of-type(6) > div.content-inner.jeg_link_underline:nth-of-type(2) > div.Zi_ad_ar_iR:nth-of-type(2)",
+                "textOffset": 380
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[2]/div[2]/p[6]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[2]/div[2]/p[6]/text()[1]",
+            "text": "Carbon 負責最困難、最長時間的複雜專案"
+          },
+          "text": "Carbon 負責最困難、最長時間的複雜專案",
+          "url": "https://www.kocpc.com.tw/archives/704039"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795075479941,
+          "id": "hk-1795075479939-81320",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1795075479939,
+              "end": {
+                "css": "div.row:nth-of-type(2) > div.jeg_main_content.col-md-8 > div.jeg_inner_content > div.entry-content.no-share:nth-of-type(6) > div.content-inner.jeg_link_underline:nth-of-type(2) > div.Zi_ad_ar_iR:nth-of-type(2)",
+                "textOffset": 423
+              },
+              "quote": {
+                "exact": "Hydrogen 則是負責快速的日常執行",
+                "prefix": "4 Neon，成為 Gemini 4 系列的新成員。\n目前這系列的分工是：Carbon 負責最困難、最長時間的複雜專案。",
+                "suffix": "。而最新推出的 Neon 介於 Carbon 與 Hydrogen 之間，主打兼顧效能與效率的複雜軟體工程、知識工作和科"
+              },
+              "start": {
+                "css": "div.row:nth-of-type(2) > div.jeg_main_content.col-md-8 > div.jeg_inner_content > div.entry-content.no-share:nth-of-type(6) > div.content-inner.jeg_link_underline:nth-of-type(2) > div.Zi_ad_ar_iR:nth-of-type(2)",
+                "textOffset": 403
+              },
+              "version": 1
+            },
+            "endOffset": 21,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[2]/div[2]/p[6]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[2]/div[2]/p[6]/text()[2]",
+            "text": "Hydrogen 則是負責快速的日常執行"
+          },
+          "text": "Hydrogen 則是負責快速的日常執行",
+          "url": "https://www.kocpc.com.tw/archives/704039"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795075482449,
+          "id": "hk-1795075482447-85719",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1795075482447,
+              "end": {
+                "css": "div.row:nth-of-type(2) > div.jeg_main_content.col-md-8 > div.jeg_inner_content > div.entry-content.no-share:nth-of-type(6) > div.content-inner.jeg_link_underline:nth-of-type(2) > div.Zi_ad_ar_iR:nth-of-type(2)",
+                "textOffset": 459
+              },
+              "quote": {
+                "exact": "Neon 介於 Carbon 與 Hydrogen 之間",
+                "prefix": "前這系列的分工是：Carbon 負責最困難、最長時間的複雜專案。Hydrogen 則是負責快速的日常執行。而最新推出的 ",
+                "suffix": "，主打兼顧效能與效率的複雜軟體工程、知識工作和科學研究流程，支援 100 萬 Token 上下文：\n\n至於最早推出的 A"
+              },
+              "start": {
+                "css": "div.row:nth-of-type(2) > div.jeg_main_content.col-md-8 > div.jeg_inner_content > div.entry-content.no-share:nth-of-type(6) > div.content-inner.jeg_link_underline:nth-of-type(2) > div.Zi_ad_ar_iR:nth-of-type(2)",
+                "textOffset": 431
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[2]/div[2]/p[6]/text()[3]",
+            "startOffset": 8,
+            "startXPath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[2]/div[2]/p[6]/text()[3]",
+            "text": "Neon 介於 Carbon 與 Hydrogen 之間"
+          },
+          "text": "Neon 介於 Carbon 與 Hydrogen 之間",
+          "url": "https://www.kocpc.com.tw/archives/704039"
         }
       ],
       "note": null,

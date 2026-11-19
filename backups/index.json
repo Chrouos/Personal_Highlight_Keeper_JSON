@@ -1,14 +1,14 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 696,
+  "totalPages": 697,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 662
+      "pageCount": 663
     },
     {
       "tag": "人工智慧",
