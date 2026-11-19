@@ -1,0 +1,850 @@
+{
+  "type": "highlight-keeper-bulk",
+  "version": 2,
+  "category": "Benchmark",
+  "pages": [
+    {
+      "url": "https://github.com/SoMarkAI/DocParsingBench",
+      "title": "SoMarkAI/DocParsingBench: An benchmark toolkit for intelligent document parsing products",
+      "tags": [
+        "人工智慧",
+        "多模態模型",
+        "文件解析",
+        "OCR",
+        "Benchmark",
+        "模型評測"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795054938971,
+          "id": "hk-1795054938968-43841",
+          "note": "針對真實商業場景設計的 Document Parsing（文件解析）評測框架\n\n於 2026 年 4 月發布評測工具，採用 Apache 2.0 授權。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795054938967,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 146
+              },
+              "quote": {
+                "exact": "DocParsingBench is an evaluation toolkit purpose-built for intelligent document parsing products. ",
+                "prefix": "oryEdit file\n\n  \n\n\n\n\n\n\n\nEnglish | 中文\n\n\nWhy DocParsingBench?\n",
+                "suffix": "We open-source the evaluation dataset, complete evaluation m"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 2,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[2]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "text": "DocParsingBench is an evaluation toolkit purpose-built for intelligent document parsing products. "
+          },
+          "text": "DocParsingBench is an evaluation toolkit purpose-built for intelligent document parsing products. ",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795055071748,
+          "id": "hk-1795055071745-83907",
+          "note": "領域\t文件類型\n金融\t財報、研究報告、招股書\n法律\t合約、法規、產業標準\n科研\t論文、專利、程式教材\n製造\tSOP、表單、發票\n教育\t英文、化學、數學教材",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055071745,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 373
+              },
+              "quote": {
+                "exact": "Data from real production scenarios:",
+                "prefix": "ng models in a unified, reproducible, and diagnosable way.\n\n",
+                "suffix": " All evaluation data is collected from real business scenari"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 337
+              },
+              "version": 1
+            },
+            "endOffset": 36,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "text": "Data from real production scenarios:"
+          },
+          "text": "Data from real production scenarios:",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795055101534,
+          "id": "hk-1795055101531-26130",
+          "note": "Document Image → OCR / VLM → Markdown\n                                ↓\nGround Truth Markdown ───→ Segment Matching\n                                ↓\n                           Metric Score\n\n透過 Hungarian Algorithm（匈牙利演算法），將預測結果與標準答案進行一對一的區塊配對，再分別計算相似度。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055101531,
+              "end": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(5) > h2.heading-element",
+                "textOffset": 10
+              },
+              "quote": {
+                "exact": "Evaluation",
+                "prefix": "-column, double-column, triple-column, and mixed layouts\n\n\n\n",
+                "suffix": " Performance\nDocParsingBench significantly reduces overall e"
+              },
+              "start": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(5) > h2.heading-element",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[5]/h2[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[5]/h2[1]/text()[1]",
+            "text": "Evaluation"
+          },
+          "text": "Evaluation",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795055248250,
+          "id": "hk-ai-preview-1795055248249-52139",
+          "kind": "passage",
+          "note": "AI：評測效能統計不包含模型生成延遲。\n為何重要：評測框架更快不代表文件解析模型更快。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248248,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 15113
+              },
+              "quote": {
+                "exact": "Benchmark speed reporting should use evaluation-phase runtime + document throughput, excluding external model generation latency.",
+                "prefix": "tion marker (empty by default or filled by upper layers)\n\n\n\n",
+                "suffix": " External model latency should be recorded by upper-layer sy"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 14984
+              },
+              "version": 1
+            },
+            "endOffset": 129,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[23]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[81]",
+            "text": "Benchmark speed reporting should use evaluation-phase runtime + document throughput, excluding external model generation latency."
+          },
+          "text": "Benchmark speed reporting should use evaluation-phase runtime + document throughput, excluding external model generation latency.",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248252,
+          "id": "hk-ai-preview-1795055248251-47885",
+          "kind": "passage",
+          "note": "AI：提供統一的 OCR 模型執行與輸出流程。\n為何重要：方便整合新模型並建立可重複的評測實驗。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248250,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 13424
+              },
+              "quote": {
+                "exact": "The scripts/ directory provides OCR model runner scaffolding with a unified pipeline:\nscan image directory -> call model -> post-process -> output Markdown.",
+                "prefix": ") can define different weight presets.\nModel Runner Scripts\n",
+                "suffix": "\nUsage\n# Deepseek-OCR example\npython -m scripts.deepseek_ocr"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 13268
+              },
+              "version": 1
+            },
+            "endOffset": 144,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[19]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[69]",
+            "text": "The scripts/ directory provides OCR model runner scaffolding with a unified pipeline:\nscan image directory -> call model -> post-process -> output Markdown."
+          },
+          "text": "The scripts/ directory provides OCR model runner scaffolding with a unified pipeline:\nscan image directory -> call model -> post-process -> output Markdown.",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248253,
+          "id": "hk-ai-preview-1795055248253-54392",
+          "kind": "passage",
+          "note": "AI：同類區塊進行一對一配對，未匹配者計零分。\n為何重要：容許區塊順序差異，同時處罰缺漏與多餘內容。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248252,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 12924
+              },
+              "quote": {
+                "exact": "Hungarian matching: one-to-one matching within each segment category; unmatched pairs are scored as 0 similarity",
+                "prefix": "ilarity (greater is better); TEDS-S compares structure only\n",
+                "suffix": "\n\nDPB Calculation\n\nText: text_score = α * avg(1 - NED) + (1 "
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 12812
+              },
+              "version": 1
+            },
+            "endOffset": 112,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[9]/li[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[9]/text()[5]",
+            "text": "Hungarian matching: one-to-one matching within each segment category; unmatched pairs are scored as 0 similarity"
+          },
+          "text": "Hungarian matching: one-to-one matching within each segment category; unmatched pairs are scored as 0 similarity",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795055248254,
+          "id": "hk-ai-preview-1795055248253-50939",
+          "kind": "passage",
+          "note": "AI：OXR-1.0 在本文排行榜取得最高綜合分數。\n為何重要：提供文件解析模型的選型比較基準。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248253,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 7763
+              },
+              "quote": {
+                "exact": "1\nOXR-1.0\n0.8776\n0.9060\n0.8576\n0.8004",
+                "prefix": "tion Leaderboard\n\n\n\nRank\nMethods\nDPB\nText\nFormula\nTable\n\n\n\n\n",
+                "suffix": "\n\n\n2\nPaddleOCR-VL-1.6\n0.8517\n0.8886\n0.7559\n0.7495\n\n\n3\njina-o"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 7726
+              },
+              "version": 1
+            },
+            "endOffset": 6,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[4]/table[1]/tbody[1]/tr[1]/td[6]/strong[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[4]/table[1]/tbody[1]/tr[1]/text()[1]",
+            "text": "1\nOXR-1.0\n0.8776\n0.9060\n0.8576\n0.8004"
+          },
+          "text": "1\nOXR-1.0\n0.8776\n0.9060\n0.8576\n0.8004",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248255,
+          "id": "hk-ai-preview-1795055248254-28745",
+          "kind": "term",
+          "note": "AI：將文字、公式及表格分數加權後的綜合指標。\n例子：預設權重分別為 50%、30%、20%。\n在本文：作為模型排名依據，並允許依領域調整權重。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248254,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 7702
+              },
+              "quote": {
+                "exact": "DPB",
+                "prefix": "    \n      \n    \n  \n\nEvaluation Leaderboard\n\n\n\nRank\nMethods\n",
+                "suffix": "\nText\nFormula\nTable\n\n\n\n\n1\nOXR-1.0\n0.8776\n0.9060\n0.8576\n0.800"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 7699
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[4]/table[1]/thead[1]/tr[1]/th[3]/strong[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[4]/table[1]/thead[1]/tr[1]/text()[3]",
+            "text": "DPB"
+          },
+          "text": "DPB",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248255,
+          "id": "hk-ai-preview-1795055248255-2770",
+          "kind": "passage",
+          "note": "AI：將文字、公式及表格分數加權整合。\n為何重要：綜合分數會受到不同評測項目權重影響。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248255,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5726
+              },
+              "quote": {
+                "exact": "Overall metric: DPB (Document Parsing Benchmark), a weighted average with default weights α=0.5, β=0.3, γ=0.2",
+                "prefix": "(NED, CDM, TEDS)\nMetric wrappers: NED/CER, CDM, TEDS/TEDS-S\n",
+                "suffix": "\n\n\n  \n    \n      \n        t\n        e\n        x\n        t\n  "
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5617
+              },
+              "version": 1
+            },
+            "endOffset": 19,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[5]/code[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/text()[5]",
+            "text": "Overall metric: DPB (Document Parsing Benchmark), a weighted average with default weights α=0.5, β=0.3, γ=0.2"
+          },
+          "text": "Overall metric: DPB (Document Parsing Benchmark), a weighted average with default weights α=0.5, β=0.3, γ=0.2",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248256,
+          "id": "hk-ai-preview-1795055248256-25354",
+          "kind": "term",
+          "note": "AI：透過樹狀結構的編輯距離衡量表格相似度。\n例子：補充：比較表格的儲存格、合併欄位與排列。\n在本文：評估表格解析品質，TEDS-S 僅比較結構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248255,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5616
+              },
+              "quote": {
+                "exact": "TEDS/TEDS-S",
+                "prefix": "ing metrics (NED, CDM, TEDS)\nMetric wrappers: NED/CER, CDM, ",
+                "suffix": "\nOverall metric: DPB (Document Parsing Benchmark), a weighte"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5605
+              },
+              "version": 1
+            },
+            "endOffset": 11,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/code[3]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/text()[3]",
+            "text": "TEDS/TEDS-S"
+          },
+          "text": "TEDS/TEDS-S",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248256,
+          "id": "hk-ai-preview-1795055248256-40127",
+          "kind": "term",
+          "note": "AI：正規化編輯距離，衡量兩段文字的差異程度。\n例子：補充：文字辨識錯誤越多，通常距離越大。\n在本文：用於衡量文字解析結果與標準答案的差異。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248256,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5561
+              },
+              "quote": {
+                "exact": "NED",
+                "prefix": "ied within each category using configured matching metrics (",
+                "suffix": ", CDM, TEDS)\nMetric wrappers: NED/CER, CDM, TEDS/TEDS-S\nOver"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5558
+              },
+              "version": 1
+            },
+            "endOffset": 3,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[3]/code[1]/text()[1]",
+            "startOffset": 96,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[3]/text()[1]",
+            "text": "NED"
+          },
+          "text": "NED",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248256,
+          "id": "hk-ai-preview-1795055248256-81252",
+          "kind": "term",
+          "note": "AI：尋找整體配對分數最佳的一對一匹配方法。\n例子：補充：將順序不同的文字區塊配對至正確答案。\n在本文：降低合理閱讀順序差異造成的扣分。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248256,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5490
+              },
+              "quote": {
+                "exact": "Hungarian matching",
+                "prefix": "aries; tables are bounded by <table> ... </table>\nMatching: ",
+                "suffix": " is applied within each category using configured matching m"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5472
+              },
+              "version": 1
+            },
+            "endOffset": 28,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[3]/text()[1]",
+            "startOffset": 10,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[3]/text()[1]",
+            "text": "Hungarian matching"
+          },
+          "text": "Hungarian matching",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795055248257,
+          "id": "hk-ai-preview-1795055248257-73103",
+          "kind": "passage",
+          "note": "AI：區分文字、獨立公式、表格，但不評估圖片。\n為何重要：高分不代表具備完整的圖文理解能力。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248256,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5348
+              },
+              "quote": {
+                "exact": "Segment categories: text (with inline formulas), display_formula, table, image (currently dropped in evaluation)",
+                "prefix": "res with reusable metric wrappers and visualization tools.\n\n",
+                "suffix": "\nSegmentation: text and display formulas are split by line b"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 5236
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[1]/text()[5]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/text()[1]",
+            "text": "Segment categories: text (with inline formulas), display_formula, table, image (currently dropped in evaluation)"
+          },
+          "text": "Segment categories: text (with inline formulas), display_formula, table, image (currently dropped in evaluation)",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795055248258,
+          "id": "hk-ai-preview-1795055248257-11220",
+          "kind": "passage",
+          "note": "AI：在同一介面比較原始文件、答案與預測結果。\n為何重要：除了分數，也能定位模型實際解析錯誤。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248257,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4827
+              },
+              "quote": {
+                "exact": "DocParsingBench provides a per-sample visual analysis interface that places the original page, ground-truth Markdown, predicted Markdown, and evaluation metrics in one view.",
+                "prefix": "DMChrome + KaTeX1,0009710.290.0976.26x\nVisual Analysis Tool\n",
+                "suffix": " Developers can filter results by industry, sub-industry, an"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4654
+              },
+              "version": 1
+            },
+            "endOffset": 173,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[19]",
+            "text": "DocParsingBench provides a per-sample visual analysis interface that places the original page, ground-truth Markdown, predicted Markdown, and evaluation metrics in one view."
+          },
+          "text": "DocParsingBench provides a per-sample visual analysis interface that places the original page, ground-truth Markdown, predicted Markdown, and evaluation metrics in one view.",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795055248258,
+          "id": "hk-ai-preview-1795055248258-55822",
+          "kind": "passage",
+          "note": "AI：FastCDM 將公式評測速度提升至 6.26 倍。\n為何重要：透過較輕量的渲染流程降低評測成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248258,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4632
+              },
+              "quote": {
+                "exact": "FastCDMChrome + KaTeX1,0009710.290.0976.26x",
+                "prefix": "r Item (s)SpeedupCDMTeX Live + ImageMagick1,0006081.640.611x",
+                "suffix": "\nVisual Analysis Tool\nDocParsingBench provides a per-sample "
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4589
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[3]/table[1]/tbody[1]/tr[3]/td[7]/text()[1]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[3]/table[1]/tbody[1]/tr[2]/td[7]/text()[1]",
+            "text": "FastCDMChrome + KaTeX1,0009710.290.0976.26x"
+          },
+          "text": "FastCDMChrome + KaTeX1,0009710.290.0976.26x",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795055248258,
+          "id": "hk-ai-preview-1795055248258-6630",
+          "kind": "passage",
+          "note": "AI：單項評測速度約為 OmniDocBench 的 7.54 倍。\n為何重要：有利於頻繁實驗，但各框架評測項目不同。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248258,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4427
+              },
+              "quote": {
+                "exact": "DocParsingBenchText NED + Formula CDM + Table TEDS1,342 files106.20.0797.54x",
+                "prefix": "ath + Absent + Present + Order + Table1,403 files7030.51.19x",
+                "suffix": "\n2. CDM vs FastCDM Speed Comparison\nMethodRendering EngineFo"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4351
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[2]/table[1]/tbody[1]/tr[4]/td[6]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[2]/table[1]/tbody[1]/tr[3]/td[6]/text()[1]",
+            "text": "DocParsingBenchText NED + Formula CDM + Table TEDS1,342 files106.20.0797.54x"
+          },
+          "text": "DocParsingBenchText NED + Formula CDM + Table TEDS1,342 files106.20.0797.54x",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248259,
+          "id": "hk-ai-preview-1795055248259-34318",
+          "kind": "term",
+          "note": "AI：比較數學公式渲染後的相似程度。\n例子：補充：不同 LaTeX 寫法可能呈現相同公式。\n在本文：用於評估公式解析品質，以 F1 作為預設分數。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248258,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4246
+              },
+              "quote": {
+                "exact": "CDM",
+                "prefix": "e (s)Time per Item (s)Speed RatioOmniDocBenchText + Formula ",
+                "suffix": " + Table TEDS1,638 files9770.61xolmOCR-benchMath + Absent + "
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 4243
+              },
+              "version": 1
+            },
+            "endOffset": 18,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[2]/table[1]/tbody[1]/tr[2]/td[2]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/markdown-accessiblity-table[2]/table[1]/tbody[1]/tr[2]/td[2]/text()[1]",
+            "text": "CDM"
+          },
+          "text": "CDM",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795055248259,
+          "id": "hk-ai-preview-1795055248259-67877",
+          "kind": "passage",
+          "note": "AI：涵蓋多語言及多種複雜文件排版。\n為何重要：避免僅以單一語言或簡單版面評估模型。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248259,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2675
+              },
+              "quote": {
+                "exact": "The dataset contains 1400 pages, covering Chinese, English, and mixed Chinese-English documents; layouts include single-column, double-column, triple-column, and mixed layouts.",
+                "prefix": " as scan artifacts, stamp occlusion, and blurry characters. ",
+                "suffix": " Annotations use Markdown, and chemical structures follow th"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2499
+              },
+              "version": 1
+            },
+            "endOffset": 145,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[3]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[2]",
+            "text": "The dataset contains 1400 pages, covering Chinese, English, and mixed Chinese-English documents; layouts include single-column, double-column, triple-column, and mixed layouts."
+          },
+          "text": "The dataset contains 1400 pages, covering Chinese, English, and mixed Chinese-English documents; layouts include single-column, double-column, triple-column, and mixed layouts.",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795055248260,
+          "id": "hk-ai-preview-1795055248259-2175",
+          "kind": "passage",
+          "note": "AI：資料集保留真實商業文件的各種雜訊。\n為何重要：讓評測更貼近實際部署環境。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248259,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2498
+              },
+              "quote": {
+                "exact": "We systematically collected and annotated document samples from real business workflows, preserving real-world noise such as scan artifacts, stamp occlusion, and blurry characters.",
+                "prefix": "on. Now available on Hugging Face、ModelScope！🔥🔥🔥\nDataset\n",
+                "suffix": " The dataset contains 1400 pages, covering Chinese, English,"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 2318
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[4]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[10]",
+            "text": "We systematically collected and annotated document samples from real business workflows, preserving real-world noise such as scan artifacts, stamp occlusion, and blurry characters."
+          },
+          "text": "We systematically collected and annotated document samples from real business workflows, preserving real-world noise such as scan artifacts, stamp occlusion, and blurry characters.",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795055248260,
+          "id": "hk-ai-preview-1795055248260-41080",
+          "kind": "passage",
+          "note": "AI：直接評估最終 Markdown，不限制中間格式。\n為何重要：降低不同架構模型接入評測框架的門檻。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795055248260,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1409
+              },
+              "quote": {
+                "exact": "Higher model compatibility: DocParsingBench evaluates the final Markdown output end to end without relying on any specific intermediate format, so most document parsing models can be plugged into the benchmark.",
+                "prefix": " better suited for frequent iteration and batch comparison.\n",
+                "suffix": "\nMore flexible scoring logic: Segment matching and the Hunga"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 1199
+              },
+              "version": 1
+            },
+            "endOffset": 183,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[5]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/text()[5]",
+            "text": "Higher model compatibility: DocParsingBench evaluates the final Markdown output end to end without relying on any specific intermediate format, so most document parsing models can be plugged into the benchmark."
+          },
+          "text": "Higher model compatibility: DocParsingBench evaluates the final Markdown output end to end without relying on any specific intermediate format, so most document parsing models can be plugged into the benchmark.",
+          "url": "https://github.com/SoMarkAI/DocParsingBench"
+        }
+      ],
+      "note": {
+        "context": "不同文件解析模型使用的輸出格式與評測方式不一致，使開發者難以公平比較模型能力，也難以定位解析失敗的原因。\n\nDocParsingBench 因此建立包含 1,400 頁真實商業文件的資料集，涵蓋五大產業，並保留掃描模糊、印章遮擋等實際文件雜訊。\n\n作者將模型輸出的 Markdown 拆成不同類型的區塊，透過匈牙利演算法配對預測結果與標準答案，再分別評估文字、公式及表格的解析品質。\n\n實驗顯示，其單項評測速度約為 OmniDocBench 的 7.54 倍，並提供視覺化分析工具、產業分類評分及模型排行榜，方便開發者比較與診斷模型。\n\n不過，各 Benchmark 的評測項目並不完全相同，且評測時間不包含模型推論時間。目前也未將圖片納入評分，因此不能直接代表完整的多模態文件理解能力。",
+        "formatVersion": 2,
+        "generatedAt": 1795055248277,
+        "guideHighlights": [
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "直接評估最終 Markdown，不限制中間格式。\n為何重要：降低不同架構模型接入評測框架的門檻。",
+            "source": "",
+            "text": "Higher model compatibility: DocParsingBench evaluates the final Markdown output end to end without relying on any specific intermediate format, so most document parsing models can be plugged into the benchmark.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "資料集保留真實商業文件的各種雜訊。\n為何重要：讓評測更貼近實際部署環境。",
+            "source": "",
+            "text": "We systematically collected and annotated document samples from real business workflows, preserving real-world noise such as scan artifacts, stamp occlusion, and blurry characters.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "涵蓋多語言及多種複雜文件排版。\n為何重要：避免僅以單一語言或簡單版面評估模型。",
+            "source": "",
+            "text": "The dataset contains 1400 pages, covering Chinese, English, and mixed Chinese-English documents; layouts include single-column, double-column, triple-column, and mixed layouts.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "單項評測速度約為 OmniDocBench 的 7.54 倍。\n為何重要：有利於頻繁實驗，但各框架評測項目不同。",
+            "source": "",
+            "text": "DocParsingBench Text NED + Formula CDM + Table TEDS 1,342 files 106.2 0.079 7.54x",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "FastCDM 將公式評測速度提升至 6.26 倍。\n為何重要：透過較輕量的渲染流程降低評測成本。",
+            "source": "",
+            "text": "FastCDM Chrome + KaTeX 1,000 97 10.29 0.097 6.26x",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "在同一介面比較原始文件、答案與預測結果。\n為何重要：除了分數，也能定位模型實際解析錯誤。",
+            "source": "",
+            "text": "DocParsingBench provides a per-sample visual analysis interface that places the original page, ground-truth Markdown, predicted Markdown, and evaluation metrics in one view.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "區分文字、獨立公式、表格，但不評估圖片。\n為何重要：高分不代表具備完整的圖文理解能力。",
+            "source": "",
+            "text": "Segment categories: text (with inline formulas), display_formula, table, image (currently dropped in evaluation)",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "將文字、公式及表格分數加權整合。\n為何重要：綜合分數會受到不同評測項目權重影響。",
+            "source": "",
+            "text": "Overall metric: DPB (Document Parsing Benchmark), a weighted average with default weights α=0.5, β=0.3, γ=0.2",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "OXR-1.0 在本文排行榜取得最高綜合分數。\n為何重要：提供文件解析模型的選型比較基準。",
+            "source": "",
+            "text": "1 OXR-1.0 0.8776 0.9060 0.8576 0.8004",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "同類區塊進行一對一配對，未匹配者計零分。\n為何重要：容許區塊順序差異，同時處罰缺漏與多餘內容。",
+            "source": "",
+            "text": "Hungarian matching: one-to-one matching within each segment category; unmatched pairs are scored as 0 similarity",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "提供統一的 OCR 模型執行與輸出流程。\n為何重要：方便整合新模型並建立可重複的評測實驗。",
+            "source": "",
+            "text": "The scripts/ directory provides OCR model runner scaffolding with a unified pipeline: scan image directory -> call model -> post-process -> output Markdown.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "評測效能統計不包含模型生成延遲。\n為何重要：評測框架更快不代表文件解析模型更快。",
+            "source": "",
+            "text": "Benchmark speed reporting should use evaluation-phase runtime + document throughput, excluding external model generation latency.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "正規化編輯距離，衡量兩段文字的差異程度。\n例子：補充：文字辨識錯誤越多，通常距離越大。\n在本文：用於衡量文字解析結果與標準答案的差異。",
+            "kind": "term",
+            "reason": "正規化編輯距離，衡量兩段文字的差異程度。\n例子：補充：文字辨識錯誤越多，通常距離越大。\n在本文：用於衡量文字解析結果與標準答案的差異。",
+            "text": "NED",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "比較數學公式渲染後的相似程度。\n例子：補充：不同 LaTeX 寫法可能呈現相同公式。\n在本文：用於評估公式解析品質，以 F1 作為預設分數。",
+            "kind": "term",
+            "reason": "比較數學公式渲染後的相似程度。\n例子：補充：不同 LaTeX 寫法可能呈現相同公式。\n在本文：用於評估公式解析品質，以 F1 作為預設分數。",
+            "text": "CDM",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "透過樹狀結構的編輯距離衡量表格相似度。\n例子：補充：比較表格的儲存格、合併欄位與排列。\n在本文：評估表格解析品質，TEDS-S 僅比較結構。",
+            "kind": "term",
+            "reason": "透過樹狀結構的編輯距離衡量表格相似度。\n例子：補充：比較表格的儲存格、合併欄位與排列。\n在本文：評估表格解析品質，TEDS-S 僅比較結構。",
+            "text": "TEDS/TEDS-S",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "尋找整體配對分數最佳的一對一匹配方法。\n例子：補充：將順序不同的文字區塊配對至正確答案。\n在本文：降低合理閱讀順序差異造成的扣分。",
+            "kind": "term",
+            "reason": "尋找整體配對分數最佳的一對一匹配方法。\n例子：補充：將順序不同的文字區塊配對至正確答案。\n在本文：降低合理閱讀順序差異造成的扣分。",
+            "text": "Hungarian matching",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "將文字、公式及表格分數加權後的綜合指標。\n例子：預設權重分別為 50%、30%、20%。\n在本文：作為模型排名依據，並允許依領域調整權重。",
+            "kind": "term",
+            "reason": "將文字、公式及表格分數加權後的綜合指標。\n例子：預設權重分別為 50%、30%、20%。\n在本文：作為模型排名依據，並允許依領域調整權重。",
+            "text": "DPB",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://github.com/SoMarkAI/DocParsingBench"
+      },
+      "mindmap": {
+        "generatedAt": 1795055248300,
+        "outline": "# DocParsingBench\n- 背景與問題\n  - 統一評測標準\n  - 提升模型相容性\n  - 改善評測速度\n  - 定位解析錯誤\n- 資料集\n  - 1,400 頁真實文件\n    - 五大產業\n      - 金融、法律、科研\n      - 製造、教育\n    - 14 種文件類型\n  - 真實文件雜訊\n    - 掃描模糊\n    - 印章遮擋\n  - 中英文混合\n  - 多欄排版\n- 評測效能\n  - Benchmark 比較\n    - OmniDocBench\n    - olmOCR-bench\n    - DocParsingBench\n  - 公式評測加速\n    - CDM\n      - TeX Live\n      - ImageMagick\n    - FastCDM\n      - Chrome\n      - KaTeX\n- 視覺化分析\n  - 原始文件\n  - 標準答案\n  - 模型預測\n  - 評測分數\n- 評測方法\n  - Markdown 區塊切割\n    - 文字\n    - 獨立公式\n    - 表格\n    - 圖片不計分\n  - Hungarian matching\n    - 同類區塊配對\n    - 未匹配計零分\n  - 評測指標\n    - 文字\n      - NED\n      - CDM\n    - 公式\n      - CDM\n    - 表格\n      - TEDS\n      - TEDS-S\n  - DPB 綜合分數\n    - 文字 50%\n    - 公式 30%\n    - 表格 20%\n- 模型排行榜\n  - OXR-1.0\n  - PaddleOCR-VL-1.6\n  - jina-ocr-v1\n- 工具使用\n  - Python 安裝\n  - YAML 設定\n  - CLI 批次評測\n  - 區塊切割測試\n  - 互動式排行榜\n- 模型整合\n  - BaseModelRunner\n    - 掃描圖片\n    - 呼叫模型\n    - 後處理\n    - 輸出 Markdown\n- 效能統計\n  - 區塊切割時間\n  - 匹配時間\n  - 指標計算時間\n  - 文件吞吐量\n  - 不包含模型推論",
+        "title": "DocParsingBench"
+      },
+      "readingDesk": {
+        "cards": [],
+        "updatedAt": 1795055126142,
+        "version": 1
+      }
+    }
+  ]
+}
