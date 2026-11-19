@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1795056064074,
+  "exportedAt": 1795057249630,
   "pages": [
     {
       "url": "http://10.166.57.21:47194/workflow",
@@ -55302,6 +55302,111 @@
         "outline": "# open-slide\n- 核心架構\n  - 簡報即程式碼\n    - React Component\n    - 固定畫布\n  - 框架執行環境\n    - 縮放與導覽\n    - 即時預覽\n- Agent panel\n  - 簡報生成\n    - 自然語言描述\n    - 逐頁生成\n  - 上下文感知編輯\n    - 當前頁面\n    - 選取元素\n  - 既有代理人整合\n    - Claude Code\n    - Codex\n    - 沿用登入方式\n  - 終端機 Skills\n    - 建立投影片\n    - 套用註解\n    - 建立主題\n- 註解模式\n  - 選取元素或區域\n  - 保存原始碼標記\n  - 代理人批次修改\n- 簡報播放\n  - 全螢幕播放\n  - 簡報者介面\n    - 下一張預覽\n    - 講者備註\n    - 計時器\n- 其他內建功能\n  - 視覺化編輯\n    - 拖曳與縮放\n    - 對齊與文字編輯\n  - 主題與動畫\n    - 頁面轉場\n    - 逐步揭露\n    - 元素變形\n  - 素材管理\n    - 品牌標誌\n    - Google Fonts\n  - 多格式匯出\n    - HTML\n    - PDF\n    - PPTX\n  - 靜態網站部署\n- 專案結構\n  - 核心執行框架\n  - CLI 與專案模板\n  - 開發與測試\n  - MIT 授權",
         "title": "open-slide"
       }
+    },
+    {
+      "url": "https://github.com/opendatalab/OmniDocBench",
+      "title": "opendatalab/OmniDocBench: [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795056363752,
+          "id": "hk-1795056363742-58174",
+          "note": "用來評估 Document Parsing（文件解析）能力的 Benchmark\n\n\n由 OpenDataLab 推出，論文收錄於 CVPR 2025。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795056363741,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 15
+              },
+              "quote": {
+                "exact": "OmniDocBench\n\n",
+                "prefix": "licenseMore itemsAsk Copilot about this repositoryEdit file\n",
+                "suffix": "\nEnglish | 简体中文\n[📜 arXiv] | [Dataset (🤗Hugging Face)] | [D"
+              },
+              "start": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading > h1.heading-element",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 0,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[1]/h1[1]/text()[1]",
+            "text": "OmniDocBench\n\n"
+          },
+          "text": "OmniDocBench\n\n",
+          "url": "https://github.com/opendatalab/OmniDocBench"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795056407212,
+          "id": "hk-1795056407208-39709",
+          "note": "包含學術論文、財務報告、教科書、報紙、手寫筆記、考卷等不同文件。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795056407208,
+              "end": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 287
+              },
+              "quote": {
+                "exact": "Diverse Document Types",
+                "prefix": "-world scenarios, featuring the following characteristics:\n\n",
+                "suffix": ": This benchmark includes 1651 PDF pages, covering 10 docume"
+              },
+              "start": {
+                "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
+                "textOffset": 265
+              },
+              "version": 1
+            },
+            "endOffset": 22,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[1]/strong[1]/text()[1]",
+            "text": "Diverse Document Types"
+          },
+          "text": "Diverse Document Types",
+          "url": "https://github.com/opendatalab/OmniDocBench"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795056435017,
+          "id": "hk-1795056435013-90221",
+          "note": "PDF Page Image\n    ↓\nDocument Parsing Model\n    ↓\nMarkdown / Structured JSON\n    ↓\n與 Ground Truth 比對\n    ↓\nEvaluation Metrics",
+          "range": {
+            "anchors": {
+              "createdAt": 1795056435013,
+              "end": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(6) > h2.heading-element",
+                "textOffset": 10
+              },
+              "quote": {
+                "exact": "Evaluation",
+                "prefix": "# English\n    equation_ch # Chinese\nCopy code to clipboard\n\n",
+                "suffix": "\nOmniDocBench has developed an evaluation methodology based "
+              },
+              "start": {
+                "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(6) > h2.heading-element",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 10,
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[6]/h2[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[6]/h2[1]/text()[1]",
+            "text": "Evaluation"
+          },
+          "text": "Evaluation",
+          "url": "https://github.com/opendatalab/OmniDocBench"
+        }
+      ],
+      "note": null,
+      "mindmap": null
     },
     {
       "url": "https://github.com/RUC-NLPIR/LLM4IR-Survey?utm_source=chatgpt.com",

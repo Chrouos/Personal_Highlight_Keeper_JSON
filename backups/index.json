@@ -1,14 +1,14 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 692,
+  "totalPages": 693,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
       "tag": null,
       "untagged": true,
       "file": "categories/_untagged.json",
-      "pageCount": 660
+      "pageCount": 661
     },
     {
       "tag": "人工智慧",
@@ -21,13 +21,13 @@
       "pageCount": 12
     },
     {
-      "tag": "系統設計",
-      "file": "categories/系統設計.json",
+      "tag": "機器學習",
+      "file": "categories/機器學習.json",
       "pageCount": 10
     },
     {
-      "tag": "機器學習",
-      "file": "categories/機器學習.json",
+      "tag": "系統設計",
+      "file": "categories/系統設計.json",
       "pageCount": 10
     },
     {
@@ -61,6 +61,16 @@
       "pageCount": 5
     },
     {
+      "tag": "提示詞工程",
+      "file": "categories/提示詞工程.json",
+      "pageCount": 4
+    },
+    {
+      "tag": "智慧體記憶",
+      "file": "categories/智慧體記憶.json",
+      "pageCount": 4
+    },
+    {
       "tag": "自然語言處理",
       "file": "categories/自然語言處理.json",
       "pageCount": 4
@@ -71,14 +81,9 @@
       "pageCount": 4
     },
     {
-      "tag": "提示詞工程",
-      "file": "categories/提示詞工程.json",
-      "pageCount": 4
-    },
-    {
-      "tag": "智慧體記憶",
-      "file": "categories/智慧體記憶.json",
-      "pageCount": 4
+      "tag": "OpenAI API",
+      "file": "categories/OpenAI API.json",
+      "pageCount": 3
     },
     {
       "tag": "多智能體系統",
@@ -91,13 +96,8 @@
       "pageCount": 3
     },
     {
-      "tag": "OpenAI API",
-      "file": "categories/OpenAI API.json",
-      "pageCount": 3
-    },
-    {
-      "tag": "即時語音",
-      "file": "categories/即時語音.json",
+      "tag": "AI 代理人",
+      "file": "categories/AI 代理人.json",
       "pageCount": 2
     },
     {
@@ -106,168 +106,18 @@
       "pageCount": 2
     },
     {
+      "tag": "即時語音",
+      "file": "categories/即時語音.json",
+      "pageCount": 2
+    },
+    {
       "tag": "模型評測",
       "file": "categories/模型評測.json",
       "pageCount": 2
     },
     {
-      "tag": "AI 代理人",
-      "file": "categories/AI 代理人.json",
-      "pageCount": 2
-    },
-    {
       "tag": "64位元運算",
       "file": "categories/64位元運算.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "工作轉型",
-      "file": "categories/工作轉型.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "文件解析",
-      "file": "categories/文件解析.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "多媒體模型",
-      "file": "categories/多媒體模型.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "作業系統相容性",
-      "file": "categories/作業系統相容性.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "長文本檢索",
-      "file": "categories/長文本檢索.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "思考模式",
-      "file": "categories/思考模式.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "思維鏈監控",
-      "file": "categories/思維鏈監控.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "指代消解",
-      "file": "categories/指代消解.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "指數型成長",
-      "file": "categories/指數型成長.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "計算語言學",
-      "file": "categories/計算語言學.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "索尼互動娛樂",
-      "file": "categories/索尼互動娛樂.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "動態嵌入",
-      "file": "categories/動態嵌入.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "推論優化",
-      "file": "categories/推論優化.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "軟體架構",
-      "file": "categories/軟體架構.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "測試金字塔",
-      "file": "categories/測試金字塔.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "開發工具",
-      "file": "categories/開發工具.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "資訊檢索",
-      "file": "categories/資訊檢索.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "電玩產業趨勢",
-      "file": "categories/電玩產業趨勢.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "圖表自動化",
-      "file": "categories/圖表自動化.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "圖像生成",
-      "file": "categories/圖像生成.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "實體光碟停產",
-      "file": "categories/實體光碟停產.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "網路安全",
-      "file": "categories/網路安全.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "語音轉文字",
-      "file": "categories/語音轉文字.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "影片生成",
-      "file": "categories/影片生成.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "數位化轉型",
-      "file": "categories/數位化轉型.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "暫存器寬度",
-      "file": "categories/暫存器寬度.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "模型安全",
-      "file": "categories/模型安全.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "隱形浮水印",
-      "file": "categories/隱形浮水印.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "簡報生成",
-      "file": "categories/簡報生成.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "職涯發展",
-      "file": "categories/職涯發展.json",
       "pageCount": 1
     },
     {
@@ -393,6 +243,156 @@
     {
       "tag": "x86架構",
       "file": "categories/x86架構.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "作業系統相容性",
+      "file": "categories/作業系統相容性.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "動態嵌入",
+      "file": "categories/動態嵌入.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "圖像生成",
+      "file": "categories/圖像生成.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "圖表自動化",
+      "file": "categories/圖表自動化.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "多媒體模型",
+      "file": "categories/多媒體模型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "實體光碟停產",
+      "file": "categories/實體光碟停產.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "工作轉型",
+      "file": "categories/工作轉型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "影片生成",
+      "file": "categories/影片生成.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "思維鏈監控",
+      "file": "categories/思維鏈監控.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "思考模式",
+      "file": "categories/思考模式.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "指代消解",
+      "file": "categories/指代消解.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "指數型成長",
+      "file": "categories/指數型成長.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "推論優化",
+      "file": "categories/推論優化.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "數位化轉型",
+      "file": "categories/數位化轉型.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "文件解析",
+      "file": "categories/文件解析.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "暫存器寬度",
+      "file": "categories/暫存器寬度.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "模型安全",
+      "file": "categories/模型安全.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "測試金字塔",
+      "file": "categories/測試金字塔.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "簡報生成",
+      "file": "categories/簡報生成.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "索尼互動娛樂",
+      "file": "categories/索尼互動娛樂.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "網路安全",
+      "file": "categories/網路安全.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "職涯發展",
+      "file": "categories/職涯發展.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "計算語言學",
+      "file": "categories/計算語言學.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "語音轉文字",
+      "file": "categories/語音轉文字.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "資訊檢索",
+      "file": "categories/資訊檢索.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "軟體架構",
+      "file": "categories/軟體架構.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "長文本檢索",
+      "file": "categories/長文本檢索.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "開發工具",
+      "file": "categories/開發工具.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "隱形浮水印",
+      "file": "categories/隱形浮水印.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "電玩產業趨勢",
+      "file": "categories/電玩產業趨勢.json",
       "pageCount": 1
     }
   ]
