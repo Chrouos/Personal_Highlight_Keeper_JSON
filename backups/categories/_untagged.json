@@ -45586,7 +45586,12 @@
         }
       ],
       "note": null,
-      "mindmap": null
+      "mindmap": null,
+      "readingDesk": {
+        "cards": [],
+        "updatedAt": 1795062356576,
+        "version": 1
+      }
     },
     {
       "url": "https://github.com/guardrails-ai/guardrails",

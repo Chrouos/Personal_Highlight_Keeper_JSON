@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1795060412847,
+  "exportedAt": 1795063248118,
   "pages": [
     {
       "url": "http://10.166.57.21:47194/workflow",
@@ -54787,7 +54787,12 @@
         }
       ],
       "note": null,
-      "mindmap": null
+      "mindmap": null,
+      "readingDesk": {
+        "cards": [],
+        "updatedAt": 1795062356576,
+        "version": 1
+      }
     },
     {
       "url": "https://github.com/guardrails-ai/guardrails",
