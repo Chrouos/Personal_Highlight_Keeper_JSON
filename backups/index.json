@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 694,
+  "totalPages": 695,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
@@ -21,6 +21,11 @@
       "pageCount": 12
     },
     {
+      "tag": "成本控制",
+      "file": "categories/成本控制.json",
+      "pageCount": 10
+    },
+    {
       "tag": "機器學習",
       "file": "categories/機器學習.json",
       "pageCount": 10
@@ -29,11 +34,6 @@
       "tag": "系統設計",
       "file": "categories/系統設計.json",
       "pageCount": 10
-    },
-    {
-      "tag": "成本控制",
-      "file": "categories/成本控制.json",
-      "pageCount": 9
     },
     {
       "tag": "延遲優化",
@@ -56,23 +56,23 @@
       "pageCount": 5
     },
     {
+      "tag": "提示詞工程",
+      "file": "categories/提示詞工程.json",
+      "pageCount": 5
+    },
+    {
+      "tag": "自然語言處理",
+      "file": "categories/自然語言處理.json",
+      "pageCount": 5
+    },
+    {
       "tag": "開發者指南",
       "file": "categories/開發者指南.json",
       "pageCount": 5
     },
     {
-      "tag": "提示詞工程",
-      "file": "categories/提示詞工程.json",
-      "pageCount": 4
-    },
-    {
       "tag": "智慧體記憶",
       "file": "categories/智慧體記憶.json",
-      "pageCount": 4
-    },
-    {
-      "tag": "自然語言處理",
-      "file": "categories/自然語言處理.json",
       "pageCount": 4
     },
     {
@@ -101,6 +101,11 @@
       "pageCount": 2
     },
     {
+      "tag": "RAG",
+      "file": "categories/RAG.json",
+      "pageCount": 2
+    },
+    {
       "tag": "具身智能",
       "file": "categories/具身智能.json",
       "pageCount": 2
@@ -113,6 +118,11 @@
     {
       "tag": "模型評測",
       "file": "categories/模型評測.json",
+      "pageCount": 2
+    },
+    {
+      "tag": "資訊檢索",
+      "file": "categories/資訊檢索.json",
       "pageCount": 2
     },
     {
@@ -158,6 +168,11 @@
     {
       "tag": "CKIP Lab",
       "file": "categories/CKIP Lab.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "Embedding",
+      "file": "categories/Embedding.json",
       "pageCount": 1
     },
     {
@@ -213,11 +228,6 @@
     {
       "tag": "Prompt Caching",
       "file": "categories/Prompt Caching.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "RAG",
-      "file": "categories/RAG.json",
       "pageCount": 1
     },
     {
@@ -363,11 +373,6 @@
     {
       "tag": "語音轉文字",
       "file": "categories/語音轉文字.json",
-      "pageCount": 1
-    },
-    {
-      "tag": "資訊檢索",
-      "file": "categories/資訊檢索.json",
       "pageCount": 1
     },
     {

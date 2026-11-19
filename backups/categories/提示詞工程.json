@@ -1815,6 +1815,844 @@
         "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
       },
       "mindmap": null
+    },
+    {
+      "url": "https://www.anthropic.com/research/contextual-retrieval",
+      "title": "Contextual retrieval in AI systems \\ Anthropic",
+      "tags": [
+        "RAG",
+        "自然語言處理",
+        "資訊檢索",
+        "Embedding",
+        "提示詞工程",
+        "成本控制"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795068431630,
+          "id": "hk-1795068431619-90624",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1795068431619,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > header.VYxBBq_Header > div.VYxBBq_Content > h1.VYxBBq_Title",
+                "textOffset": 32
+              },
+              "quote": {
+                "exact": "Contextual Retrieval",
+                "prefix": "g to larger knowledge bases  01A RAG入門：擴展到更大的知識庫Introducing ",
+                "suffix": "  引入上下文檢索01A primer on RAG: scaling to larger knowledge base"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > header.VYxBBq_Header > div.VYxBBq_Content > h1.VYxBBq_Title",
+                "textOffset": 12
+              },
+              "version": 1
+            },
+            "endOffset": 32,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/header[1]/div[1]/h1[1]/text()[1]",
+            "startOffset": 12,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/header[1]/div[1]/h1[1]/text()[1]",
+            "text": "Contextual Retrieval"
+          },
+          "text": "Contextual Retrieval",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795068593892,
+          "id": "hk-1795068593882-77947",
+          "note": "不是改善 Embedding Model\n而是改善 Embedding Model 接收到的資料",
+          "range": {
+            "anchors": {
+              "createdAt": 1795068593882,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 131
+              },
+              "quote": {
+                "exact": " “Contextual Retrieval”",
+                "prefix": "lly improves the retrieval step in RAG. The method is called",
+                "suffix": " and uses two sub-techniques: Contextual Embeddings and Cont"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 108
+              },
+              "version": 1
+            },
+            "endOffset": 131,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[3]/text()[1]",
+            "startOffset": 108,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[3]/text()[1]",
+            "text": " “Contextual Retrieval”"
+          },
+          "text": " “Contextual Retrieval”",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795068646412,
+          "id": "hk-1795068646403-92445",
+          "kind": "passage",
+          "note": "AI：小型知識庫可直接放入模型的 Context Window。\n為何重要：RAG 並非所有知識庫應用的必要架構。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795068646403,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(5)",
+                "textOffset": 256
+              },
+              "quote": {
+                "exact": "If your knowledge base is smaller than 200,000 tokens (about 500 pages of material), you can just include the entire knowledge base in the prompt that you give the model, with no need for RAG or similar methods.",
+                "prefix": "ompt關於使用更長提示的說明Sometimes the simplest solution is the best. ",
+                "suffix": "有時候最簡單的解決方案就是最好的。如果你的知識庫小於 20 萬個詞元（大約 500 頁材料），你可以直接將整個知識庫包含"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(5)",
+                "textOffset": 45
+              },
+              "version": 1
+            },
+            "endOffset": 256,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[5]/text()[1]",
+            "startOffset": 45,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[5]/text()[1]",
+            "text": "If your knowledge base is smaller than 200,000 tokens (about 500 pages of material), you can just include the entire knowledge base in the prompt that you give the model, with no need for RAG or similar methods."
+          },
+          "text": "If your knowledge base is smaller than 200,000 tokens (about 500 pages of material), you can just include the entire knowledge base in the prompt that you give the model, with no need for RAG or similar methods.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795068678798,
+          "id": "hk-1795068678786-34391",
+          "kind": "passage",
+          "note": "AI：向量檢索擅長語意匹配，但可能漏掉精確詞彙。\n為何重要：說明引入 BM25 進行混合檢索的原因。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795068678785,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(10)",
+                "textOffset": 103
+              },
+              "quote": {
+                "exact": "While embedding models excel at capturing semantic relationships, they can miss crucial exact matches. ",
+                "prefix": "查詢時，向量資料庫會根據與查詢的語意相似度找到最相關的詞塊。然後，這些最相關的詞塊會被加入到發送給生成模型的提示訊息中。",
+                "suffix": "Fortunately, there’s an older technique that can assist in t"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(10)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 103,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[10]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[10]/text()[1]",
+            "text": "While embedding models excel at capturing semantic relationships, they can miss crucial exact matches. "
+          },
+          "text": "While embedding models excel at capturing semantic relationships, they can miss crucial exact matches. ",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795068706176,
+          "id": "hk-1795068706165-79556",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1795068706164,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(11)",
+                "textOffset": 38
+              },
+              "quote": {
+                "exact": "TF-IDF",
+                "prefix": "項。對於包含唯一識別碼或技術術語的查詢，​​它尤其有效。BM25 works by building upon the ",
+                "suffix": " (Term Frequency-Inverse Document Frequency) concept. TF-IDF"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(11)",
+                "textOffset": 32
+              },
+              "version": 1
+            },
+            "endOffset": 38,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[11]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[11]/text()[1]",
+            "text": "TF-IDF"
+          },
+          "text": "TF-IDF",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795069703958,
+          "id": "hk-ai-preview-1795069703957-81400",
+          "kind": "passage",
+          "note": "AI：Reranking 的候選數量影響效能、延遲與成本。\n為何重要：實際部署不能只追求最高檢索準確率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703957,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(36)",
+                "textOffset": 416
+              },
+              "quote": {
+                "exact": "There is an inherent trade-off between reranking more chunks for better performance vs. reranking fewer for lower latency and cost.",
+                "prefix": "even though the reranker scores all the chunks in parallel. ",
+                "suffix": " We recommend experimenting with different settings on your "
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(36)",
+                "textOffset": 285
+              },
+              "version": 1
+            },
+            "endOffset": 416,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[36]/text()[1]",
+            "startOffset": 285,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[36]/text()[1]",
+            "text": "There is an inherent trade-off between reranking more chunks for better performance vs. reranking fewer for lower latency and cost."
+          },
+          "text": "There is an inherent trade-off between reranking more chunks for better performance vs. reranking fewer for lower latency and cost.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795069703958,
+          "id": "hk-ai-preview-1795069703958-18143",
+          "kind": "passage",
+          "note": "AI：上下文增強與 Reranking 的改善效益可以疊加。\n為何重要：索引品質與候選排序是不同的優化階段。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703958,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(35)",
+                "textOffset": 147
+              },
+              "quote": {
+                "exact": "Specifically, we found that Reranked Contextual Embedding and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 67% (5.7% → 1.9%).",
+                "prefix": "omains, adding a reranking step further optimizes retrieval.",
+                "suffix": "Reranked Contextual Embedding and Contextual BM25 reduces th"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(34)",
+                "textOffset": 269
+              },
+              "version": 1
+            },
+            "endOffset": 147,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[35]/text()[1]",
+            "startOffset": 147,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[34]/text()[3]",
+            "text": "Specifically, we found that Reranked Contextual Embedding and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 67% (5.7% → 1.9%)."
+          },
+          "text": "Specifically, we found that Reranked Contextual Embedding and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 67% (5.7% → 1.9%).",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703958,
+          "id": "hk-ai-preview-1795069703958-86387",
+          "kind": "term",
+          "note": "AI：使用額外模型重新評估候選資料的相關性。\n例子：從初步檢索的 150 個 Chunk 選出 20 個。\n在本文：進一步降低檢索失敗率，但增加執行延遲。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703958,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(33)",
+                "textOffset": 9
+              },
+              "quote": {
+                "exact": "Reranking",
+                "prefix": "unks—sometimes hundreds—of varying relevance and importance.",
+                "suffix": " is a commonly used filtering technique to ensure that only "
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(32)",
+                "textOffset": 371
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[33]/text()[1]",
+            "startOffset": 371,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[32]/text()[1]",
+            "text": "Reranking"
+          },
+          "text": "Reranking",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795069703959,
+          "id": "hk-ai-preview-1795069703958-58400",
+          "kind": "passage",
+          "note": "AI：提供更多 Chunk 也可能干擾生成模型。\n為何重要：檢索召回率與最終回答品質需要取得平衡。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703958,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > ol.PA4F1q_reading-column.text-body-1-serif:nth-of-type(3)",
+                "textOffset": 889
+              },
+              "quote": {
+                "exact": "However, more information can be distracting for models so there's a limit to this.",
+                "prefix": "ases the chances that you include the relevant information. ",
+                "suffix": " We tried delivering 5, 10, and 20 chunks, and found using 2"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > ol.PA4F1q_reading-column.text-body-1-serif:nth-of-type(3)",
+                "textOffset": 806
+              },
+              "version": 1
+            },
+            "endOffset": 192,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/ol[3]/li[4]/text()[1]",
+            "startOffset": 109,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/ol[3]/li[4]/text()[1]",
+            "text": "However, more information can be distracting for models so there's a limit to this."
+          },
+          "text": "However, more information can be distracting for models so there's a limit to this.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795069703959,
+          "id": "hk-ai-preview-1795069703959-12937",
+          "kind": "passage",
+          "note": "AI：同時增強向量與全文索引能降低檢索失敗率。\n為何重要：證明補充上下文的效益不限於向量檢索。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703959,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > ul.PA4F1q_reading-column.text-body-1-serif",
+                "textOffset": 212
+              },
+              "quote": {
+                "exact": "Combining Contextual Embeddings and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 49% (5.7% → 2.9%).",
+                "prefix": "he top-20-chunk retrieval failure rate by 35% (5.7% → 3.7%).",
+                "suffix": "Combining Contextual Embedding and Contextual BM25 reduce th"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > ul.PA4F1q_reading-column.text-body-1-serif",
+                "textOffset": 91
+              },
+              "version": 1
+            },
+            "endOffset": 15,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/ul[1]/li[2]/text()[1]",
+            "startOffset": 15,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/ul[1]/li[1]/text()[1]",
+            "text": "Combining Contextual Embeddings and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 49% (5.7% → 2.9%)."
+          },
+          "text": "Combining Contextual Embeddings and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 49% (5.7% → 2.9%).",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703959,
+          "id": "hk-ai-preview-1795069703959-97410",
+          "kind": "passage",
+          "note": "AI：使用前 20 筆結果的檢索失敗率評估效能。\n為何重要：衡量相關資料是否遺漏，而非最終回答正確率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703959,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(28)",
+                "textOffset": 329
+              },
+              "quote": {
+                "exact": "We use 1 minus recall@20 as our evaluation metric, which measures the percentage of relevant documents that fail to be retrieved within the top 20 chunks.",
+                "prefix": "uration (Gemini Text 004) and retrieving the top-20-chunks. ",
+                "suffix": " You can see the full results in the appendix - contextualiz"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(28)",
+                "textOffset": 175
+              },
+              "version": 1
+            },
+            "endOffset": 329,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[28]/text()[1]",
+            "startOffset": 175,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[28]/text()[1]",
+            "text": "We use 1 minus recall@20 as our evaluation metric, which measures the percentage of relevant documents that fail to be retrieved within the top 20 chunks."
+          },
+          "text": "We use 1 minus recall@20 as our evaluation metric, which measures the percentage of relevant documents that fail to be retrieved within the top 20 chunks.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795069703959,
+          "id": "hk-ai-preview-1795069703959-65822",
+          "kind": "passage",
+          "note": "AI：在指定條件下，每百萬文件 Token 成本為 1.02 美元。\n為何重要：Prompt Caching 讓大量前處理具備成本可行性。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703959,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(26)",
+                "textOffset": 522
+              },
+              "quote": {
+                "exact": "Assuming 800 token chunks, 8k token documents, 50 token context instructions, and 100 tokens of context per chunk, the one-time cost to generate contextualized chunks is $1.02 per million document tokens.",
+                "prefix": "ache once and then reference the previously cached content. ",
+                "suffix": "MethodologyWe experimented across various knowledge domains "
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(26)",
+                "textOffset": 318
+              },
+              "version": 1
+            },
+            "endOffset": 1,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[26]/text()[2]",
+            "startOffset": 318,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[26]/text()[1]",
+            "text": "Assuming 800 token chunks, 8k token documents, 50 token context instructions, and 100 tokens of context per chunk, the one-time cost to generate contextualized chunks is $1.02 per million document tokens."
+          },
+          "text": "Assuming 800 token chunks, 8k token documents, 50 token context instructions, and 100 tokens of context per chunk, the one-time cost to generate contextualized chunks is $1.02 per million document tokens.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703960,
+          "id": "hk-ai-preview-1795069703960-21944",
+          "kind": "passage",
+          "note": "AI：生成簡短上下文並附加於原始 Chunk 前方。\n為何重要：保留原始內容，同時補足檢索所需資訊。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703959,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(23)",
+                "textOffset": 135
+              },
+              "quote": {
+                "exact": "The resulting contextual text, usually 50-100 tokens, is prepended to the chunk before embedding it and before creating the BM25 index.",
+                "prefix": "nk. Answer only with the succinct context and nothing else. ",
+                "suffix": "Here’s what the preprocessing flow looks like in practice:Co"
+              },
+              "start": {
+                "css": "div.PbWBnq_ScrollArea:nth-of-type(2) > div.PbWBnq_Viewport.base-ui-disable-scrollbar > div.PbWBnq_Content > div > pre.PbWBnq_code.text-caption-1-mono > code.language-plaintext",
+                "textOffset": 351
+              },
+              "version": 1
+            },
+            "endOffset": 135,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[23]/text()[1]",
+            "startOffset": 204,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/pre[1]/code[1]/text()[7]",
+            "text": "The resulting contextual text, usually 50-100 tokens, is prepended to the chunk before embedding it and before creating the BM25 index."
+          },
+          "text": "The resulting contextual text, usually 50-100 tokens, is prepended to the chunk before embedding it and before creating the BM25 index.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795069703960,
+          "id": "hk-ai-preview-1795069703960-26248",
+          "kind": "passage",
+          "note": "AI：通用文件摘要與摘要索引的實驗成效有限。\n為何重要：凸顯針對個別 Chunk 補充資訊的價值。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703960,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(21)",
+                "textOffset": 325
+              },
+              "quote": {
+                "exact": "Other proposals include: adding generic document summaries to chunks (we experimented and saw very limited gains), hypothetical document embedding, and summary-based indexing (we evaluated and saw low performance).",
+                "prefix": "ontext to improve retrieval have been proposed in the past. ",
+                "suffix": " These methods differ from what is proposed in this post.Imp"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(21)",
+                "textOffset": 111
+              },
+              "version": 1
+            },
+            "endOffset": 40,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[21]/text()[4]",
+            "startOffset": 111,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[21]/text()[1]",
+            "text": "Other proposals include: adding generic document summaries to chunks (we experimented and saw very limited gains), hypothetical document embedding, and summary-based indexing (we evaluated and saw low performance)."
+          },
+          "text": "Other proposals include: adding generic document summaries to chunks (we experimented and saw very limited gains), hypothetical document embedding, and summary-based indexing (we evaluated and saw low performance).",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703960,
+          "id": "hk-ai-preview-1795069703960-56268",
+          "kind": "passage",
+          "note": "AI：建立索引前，為每個 Chunk 加入專屬上下文。\n為何重要：將檢索優化提前至資料前處理階段。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703960,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(19)",
+                "textOffset": 195
+              },
+              "quote": {
+                "exact": "Contextual Retrieval solves this problem by prepending chunk-specific explanatory context to each chunk before embedding (“Contextual Embeddings”) and creating the BM25 index (“Contextual BM25”).",
+                "prefix": "the information effectively.Introducing Contextual Retrieval",
+                "suffix": "Let’s return to our SEC filings collection example. Here's a"
+              },
+              "start": {
+                "css": "h2#introducing-contextual-retrieval",
+                "textOffset": 32
+              },
+              "version": 1
+            },
+            "endOffset": 195,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[19]/text()[1]",
+            "startOffset": 32,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/h2[2]/text()[1]",
+            "text": "Contextual Retrieval solves this problem by prepending chunk-specific explanatory context to each chunk before embedding (“Contextual Embeddings”) and creating the BM25 index (“Contextual BM25”)."
+          },
+          "text": "Contextual Retrieval solves this problem by prepending chunk-specific explanatory context to each chunk before embedding (“Contextual Embeddings”) and creating the BM25 index (“Contextual BM25”).",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1795069703960,
+          "id": "hk-ai-preview-1795069703960-87970",
+          "kind": "passage",
+          "note": "AI：Chunk 包含答案，卻缺少辨識答案所需的背景。\n為何重要：檢索失敗不一定是 Embedding Model 的問題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703960,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(18)",
+                "textOffset": 300
+              },
+              "quote": {
+                "exact": "However, this chunk on its own doesn't specify which company it's referring to or the relevant time period, making it difficult to retrieve the right information or use the information effectively.",
+                "prefix": "he company's revenue grew by 3% over the previous quarter.\" ",
+                "suffix": "Introducing Contextual RetrievalContextual Retrieval solves "
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(18)",
+                "textOffset": 103
+              },
+              "version": 1
+            },
+            "endOffset": 198,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[18]/text()[2]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[18]/text()[2]",
+            "text": "However, this chunk on its own doesn't specify which company it's referring to or the relevant time period, making it difficult to retrieve the right information or use the information effectively."
+          },
+          "text": "However, this chunk on its own doesn't specify which company it's referring to or the relevant time period, making it difficult to retrieve the right information or use the information effectively.",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703960,
+          "id": "hk-ai-preview-1795069703960-7576",
+          "kind": "term",
+          "note": "AI：將不同檢索方法的排名整合成統一結果。\n例子：合併向量檢索與 BM25 的候選排名。\n在本文：整合兩種檢索結果並移除重複項目。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703960,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > ol.PA4F1q_reading-column.text-body-1-serif:nth-of-type(2)",
+                "textOffset": 374
+              },
+              "quote": {
+                "exact": "rank fusion",
+                "prefix": "rity;Combine and deduplicate results from (3) and (4) using ",
+                "suffix": " techniques;Add the top-K chunks to the prompt to generate t"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > ol.PA4F1q_reading-column.text-body-1-serif:nth-of-type(2)",
+                "textOffset": 363
+              },
+              "version": 1
+            },
+            "endOffset": 66,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/ol[2]/li[5]/text()[1]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/ol[2]/li[5]/text()[1]",
+            "text": "rank fusion"
+          },
+          "text": "rank fusion",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703960,
+          "id": "hk-ai-preview-1795069703960-75691",
+          "kind": "term",
+          "note": "AI：快取重複使用的 Prompt，減少重複處理成本。\n例子：同一份文件生成多個 Chunk 的背景資訊。\n在本文：降低大量生成 Chunk 上下文的建置成本。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703960,
+              "end": {
+                "css": "a#base-ui-_R_ugerninpfiv9kcnnb_",
+                "textOffset": 14
+              },
+              "quote": {
+                "exact": "prompt caching",
+                "prefix": "eed for RAG or similar methods.A few weeks ago, we released ",
+                "suffix": " for Claude, which makes this approach significantly faster "
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(6)",
+                "textOffset": 29
+              },
+              "version": 1
+            },
+            "endOffset": 14,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[6]/a[1]/text()[1]",
+            "startOffset": 29,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[6]/text()[1]",
+            "text": "prompt caching"
+          },
+          "text": "prompt caching",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703961,
+          "id": "hk-ai-preview-1795069703961-8551",
+          "kind": "term",
+          "note": "AI：使用補充上下文後的 Chunk 建立 BM25 索引。\n例子：補入原本缺少的公司名稱，讓關鍵字能命中。\n在本文：與向量檢索結合，進一步改善檢索結果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703960,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 202
+              },
+              "quote": {
+                "exact": "Contextual BM25",
+                "prefix": "val” and uses two sub-techniques: Contextual Embeddings and ",
+                "suffix": ". This method can reduce the number of failed retrievals by "
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 187
+              },
+              "version": 1
+            },
+            "endOffset": 71,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[3]/text()[2]",
+            "startOffset": 56,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[3]/text()[2]",
+            "text": "Contextual BM25"
+          },
+          "text": "Contextual BM25",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795069703961,
+          "id": "hk-ai-preview-1795069703961-49600",
+          "kind": "term",
+          "note": "AI：將補充上下文與原始 Chunk 一起轉換成向量。\n例子：補上公司名稱與財報季度，再計算向量。\n在本文：改善向量檢索，實驗證實能降低失敗率。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795069703961,
+              "end": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 182
+              },
+              "quote": {
+                "exact": "Contextual Embeddings",
+                "prefix": " called “Contextual Retrieval” and uses two sub-techniques: ",
+                "suffix": " and Contextual BM25. This method can reduce the number of f"
+              },
+              "start": {
+                "css": "main#main-content > div > article.EaEYjq_Article > div.EaEYjq_ContentWrapper:nth-of-type(2) > div.PA4F1q_body:nth-of-type(2) > p.PA4F1q_reading-column.post-text:nth-of-type(3)",
+                "textOffset": 161
+              },
+              "version": 1
+            },
+            "endOffset": 51,
+            "endXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[3]/text()[2]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/main[1]/div[1]/article[1]/div[2]/div[2]/p[3]/text()[2]",
+            "text": "Contextual Embeddings"
+          },
+          "text": "Contextual Embeddings",
+          "url": "https://www.anthropic.com/research/contextual-retrieval"
+        }
+      ],
+      "note": {
+        "context": "傳統 RAG 透過 Chunking 將大型知識庫切成小段，再使用 Embedding 與 BM25 進行檢索。然而，切割文件可能破壞原本完整的語意，使包含正確答案的 Chunk 因缺少背景資訊而無法被檢索。\n\nAnthropic 提出 Contextual Retrieval，在建立索引之前，讓 LLM 同時閱讀完整文件與個別 Chunk，生成專屬於該 Chunk 的背景資訊。\n\n補充後的文字會同時用於向量索引與 BM25 索引。實驗顯示，兩者結合可降低 49% 的檢索失敗率，再加入 Reranking 則可降低 67%。\n\n這些方法的效益可以疊加，但也涉及索引建置成本、檢索延遲與 Chunk 數量的取捨。作者使用 Prompt Caching 降低前處理成本，並建議根據實際應用進行評估。",
+        "formatVersion": 2,
+        "generatedAt": 1795069703983,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "小型知識庫可直接放入模型的 Context Window。\n為何重要：RAG 並非所有知識庫應用的必要架構。",
+            "source": "",
+            "text": "If your knowledge base is smaller than 200,000 tokens (about 500 pages of material), you can just include the entire knowledge base in the prompt that you give the model, with no need for RAG or similar methods.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "向量檢索擅長語意匹配，但可能漏掉精確詞彙。\n為何重要：說明引入 BM25 進行混合檢索的原因。",
+            "source": "",
+            "text": "While embedding models excel at capturing semantic relationships, they can miss crucial exact matches.",
+            "unavailable": false
+          },
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Chunk 包含答案，卻缺少辨識答案所需的背景。\n為何重要：檢索失敗不一定是 Embedding Model 的問題。",
+            "source": "",
+            "text": "However, this chunk on its own doesn't specify which company it's referring to or the relevant time period, making it difficult to retrieve the right information or use the information effectively.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "建立索引前，為每個 Chunk 加入專屬上下文。\n為何重要：將檢索優化提前至資料前處理階段。",
+            "source": "",
+            "text": "Contextual Retrieval solves this problem by prepending chunk-specific explanatory context to each chunk before embedding (“Contextual Embeddings”) and creating the BM25 index (“Contextual BM25”).",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "通用文件摘要與摘要索引的實驗成效有限。\n為何重要：凸顯針對個別 Chunk 補充資訊的價值。",
+            "source": "",
+            "text": "Other proposals include: adding generic document summaries to chunks (we experimented and saw very limited gains), hypothetical document embedding, and summary-based indexing (we evaluated and saw low performance).",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "生成簡短上下文並附加於原始 Chunk 前方。\n為何重要：保留原始內容，同時補足檢索所需資訊。",
+            "source": "",
+            "text": "The resulting contextual text, usually 50-100 tokens, is prepended to the chunk before embedding it and before creating the BM25 index.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "在指定條件下，每百萬文件 Token 成本為 1.02 美元。\n為何重要：Prompt Caching 讓大量前處理具備成本可行性。",
+            "source": "",
+            "text": "Assuming 800 token chunks, 8k token documents, 50 token context instructions, and 100 tokens of context per chunk, the one-time cost to generate contextualized chunks is $1.02 per million document tokens.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "使用前 20 筆結果的檢索失敗率評估效能。\n為何重要：衡量相關資料是否遺漏，而非最終回答正確率。",
+            "source": "",
+            "text": "We use 1 minus recall@20 as our evaluation metric, which measures the percentage of relevant documents that fail to be retrieved within the top 20 chunks.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "同時增強向量與全文索引能降低檢索失敗率。\n為何重要：證明補充上下文的效益不限於向量檢索。",
+            "source": "",
+            "text": "Combining Contextual Embeddings and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 49% (5.7% → 2.9%).",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "提供更多 Chunk 也可能干擾生成模型。\n為何重要：檢索召回率與最終回答品質需要取得平衡。",
+            "source": "",
+            "text": "However, more information can be distracting for models so there's a limit to this.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "上下文增強與 Reranking 的改善效益可以疊加。\n為何重要：索引品質與候選排序是不同的優化階段。",
+            "source": "",
+            "text": "Specifically, we found that Reranked Contextual Embedding and Contextual BM25 reduced the top-20-chunk retrieval failure rate by 67% (5.7% → 1.9%).",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Reranking 的候選數量影響效能、延遲與成本。\n為何重要：實際部署不能只追求最高檢索準確率。",
+            "source": "",
+            "text": "There is an inherent trade-off between reranking more chunks for better performance vs. reranking fewer for lower latency and cost.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "將補充上下文與原始 Chunk 一起轉換成向量。\n例子：補上公司名稱與財報季度，再計算向量。\n在本文：改善向量檢索，實驗證實能降低失敗率。",
+            "kind": "term",
+            "reason": "將補充上下文與原始 Chunk 一起轉換成向量。\n例子：補上公司名稱與財報季度，再計算向量。\n在本文：改善向量檢索，實驗證實能降低失敗率。",
+            "text": "Contextual Embeddings",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "使用補充上下文後的 Chunk 建立 BM25 索引。\n例子：補入原本缺少的公司名稱，讓關鍵字能命中。\n在本文：與向量檢索結合，進一步改善檢索結果。",
+            "kind": "term",
+            "reason": "使用補充上下文後的 Chunk 建立 BM25 索引。\n例子：補入原本缺少的公司名稱，讓關鍵字能命中。\n在本文：與向量檢索結合，進一步改善檢索結果。",
+            "text": "Contextual BM25",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "將不同檢索方法的排名整合成統一結果。\n例子：合併向量檢索與 BM25 的候選排名。\n在本文：整合兩種檢索結果並移除重複項目。",
+            "kind": "term",
+            "reason": "將不同檢索方法的排名整合成統一結果。\n例子：合併向量檢索與 BM25 的候選排名。\n在本文：整合兩種檢索結果並移除重複項目。",
+            "text": "rank fusion",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "快取重複使用的 Prompt，減少重複處理成本。\n例子：同一份文件生成多個 Chunk 的背景資訊。\n在本文：降低大量生成 Chunk 上下文的建置成本。",
+            "kind": "term",
+            "reason": "快取重複使用的 Prompt，減少重複處理成本。\n例子：同一份文件生成多個 Chunk 的背景資訊。\n在本文：降低大量生成 Chunk 上下文的建置成本。",
+            "text": "prompt caching",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "使用額外模型重新評估候選資料的相關性。\n例子：從初步檢索的 150 個 Chunk 選出 20 個。\n在本文：進一步降低檢索失敗率，但增加執行延遲。",
+            "kind": "term",
+            "reason": "使用額外模型重新評估候選資料的相關性。\n例子：從初步檢索的 150 個 Chunk 選出 20 個。\n在本文：進一步降低檢索失敗率，但增加執行延遲。",
+            "text": "Reranking",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://www.anthropic.com/research/contextual-retrieval"
+      },
+      "mindmap": {
+        "generatedAt": 1795069704005,
+        "outline": "# Contextual Retrieval\n- 背景與問題\n  - 知識庫規模\n    - 小型：Long Prompt\n    - 大型：RAG\n  - 傳統 RAG\n    - Chunking\n    - Embedding\n    - BM25\n    - Rank Fusion\n  - 上下文遺失\n    - 缺少實體名稱\n    - 缺少時間資訊\n    - 相關 Chunk 遺漏\n- 核心做法\n  - Chunk 上下文增強\n    - 完整文件\n    - 原始 Chunk\n    - Claude 3 Haiku\n    - 生成 50～100 Tokens\n  - 建立索引\n    - Contextual Embeddings\n    - Contextual BM25\n  - 成本控制\n    - Prompt Caching\n    - 文件重複利用\n- 實驗與評估\n  - 測試領域\n    - 程式碼\n    - 小說\n    - 學術論文\n  - 評估指標\n    - 1 − Recall@20\n  - 檢索失敗率\n    - Baseline：5.7%\n    - 向量增強：3.7%\n    - 混合增強：2.9%\n  - 實作考量\n    - Chunk 邊界\n    - Embedding Model\n    - 領域專屬 Prompt\n    - Top-K 數量\n- 進階優化\n  - Reranking\n    - 初步檢索 150 筆\n    - 評估相關性\n    - 選出前 20 筆\n  - 檢索失敗率\n    - 最終降至 1.9%\n  - 效能取捨\n    - 檢索準確率\n    - 執行延遲\n    - 運算成本\n- 結論\n  - 混合檢索\n  - 上下文增強\n  - 重新排序\n  - 優化效益疊加",
+        "title": "Contextual Retrieval"
+      }
     }
   ]
 }
