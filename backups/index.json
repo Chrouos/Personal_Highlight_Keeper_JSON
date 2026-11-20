@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-index",
   "version": 1,
-  "totalPages": 697,
+  "totalPages": 700,
   "fullBackup": "highlight-keeper.json",
   "categories": [
     {
@@ -23,7 +23,7 @@
     {
       "tag": "成本控制",
       "file": "categories/成本控制.json",
-      "pageCount": 11
+      "pageCount": 12
     },
     {
       "tag": "機器學習",
@@ -36,9 +36,14 @@
       "pageCount": 10
     },
     {
+      "tag": "大型語言模型",
+      "file": "categories/大型語言模型.json",
+      "pageCount": 9
+    },
+    {
       "tag": "延遲優化",
       "file": "categories/延遲優化.json",
-      "pageCount": 8
+      "pageCount": 9
     },
     {
       "tag": "開源模型",
@@ -46,19 +51,14 @@
       "pageCount": 8
     },
     {
-      "tag": "大型語言模型",
-      "file": "categories/大型語言模型.json",
+      "tag": "人工智慧對齊",
+      "file": "categories/人工智慧對齊.json",
       "pageCount": 7
     },
     {
       "tag": "自然語言處理",
       "file": "categories/自然語言處理.json",
-      "pageCount": 6
-    },
-    {
-      "tag": "人工智慧對齊",
-      "file": "categories/人工智慧對齊.json",
-      "pageCount": 5
+      "pageCount": 7
     },
     {
       "tag": "提示詞工程",
@@ -71,8 +71,28 @@
       "pageCount": 5
     },
     {
+      "tag": "AI 代理人",
+      "file": "categories/AI 代理人.json",
+      "pageCount": 4
+    },
+    {
+      "tag": "RAG",
+      "file": "categories/RAG.json",
+      "pageCount": 4
+    },
+    {
+      "tag": "多智能體系統",
+      "file": "categories/多智能體系統.json",
+      "pageCount": 4
+    },
+    {
       "tag": "智慧體記憶",
       "file": "categories/智慧體記憶.json",
+      "pageCount": 4
+    },
+    {
+      "tag": "模型評測",
+      "file": "categories/模型評測.json",
       "pageCount": 4
     },
     {
@@ -81,39 +101,24 @@
       "pageCount": 4
     },
     {
-      "tag": "OpenAI API",
-      "file": "categories/OpenAI API.json",
-      "pageCount": 3
-    },
-    {
-      "tag": "RAG",
-      "file": "categories/RAG.json",
-      "pageCount": 3
-    },
-    {
-      "tag": "多智能體系統",
-      "file": "categories/多智能體系統.json",
-      "pageCount": 3
-    },
-    {
       "tag": "資訊檢索",
       "file": "categories/資訊檢索.json",
-      "pageCount": 3
+      "pageCount": 4
     },
     {
       "tag": "軟體工程",
       "file": "categories/軟體工程.json",
-      "pageCount": 3
-    },
-    {
-      "tag": "AI 代理人",
-      "file": "categories/AI 代理人.json",
-      "pageCount": 2
+      "pageCount": 4
     },
     {
       "tag": "Embedding",
       "file": "categories/Embedding.json",
-      "pageCount": 2
+      "pageCount": 3
+    },
+    {
+      "tag": "OpenAI API",
+      "file": "categories/OpenAI API.json",
+      "pageCount": 3
     },
     {
       "tag": "具身智能",
@@ -123,11 +128,6 @@
     {
       "tag": "即時語音",
       "file": "categories/即時語音.json",
-      "pageCount": 2
-    },
-    {
-      "tag": "模型評測",
-      "file": "categories/模型評測.json",
       "pageCount": 2
     },
     {
@@ -281,6 +281,11 @@
       "pageCount": 1
     },
     {
+      "tag": "多跳推理",
+      "file": "categories/多跳推理.json",
+      "pageCount": 1
+    },
+    {
       "tag": "實體光碟停產",
       "file": "categories/實體光碟停產.json",
       "pageCount": 1
@@ -378,6 +383,11 @@
     {
       "tag": "語音轉文字",
       "file": "categories/語音轉文字.json",
+      "pageCount": 1
+    },
+    {
+      "tag": "資訊安全",
+      "file": "categories/資訊安全.json",
       "pageCount": 1
     },
     {

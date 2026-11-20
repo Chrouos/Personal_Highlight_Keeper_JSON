@@ -4,6 +4,1186 @@
   "category": "模型評測",
   "pages": [
     {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "隆重介紹 Gemini 4 Carbon",
+      "tags": [
+        "大型語言模型",
+        "AI 代理人",
+        "人工智慧對齊",
+        "模型評測",
+        "軟體工程",
+        "資訊安全"
+      ],
+      "entries": [
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307602,
+          "id": "hk-ai-preview-1795079307602-88242",
+          "kind": "passage",
+          "note": "AI：指定的間接提示詞注入評測中沒有成功攻擊。\n=> 提升代理處理外部資料時的安全性，但不代表全面免疫。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307601,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2116
+              },
+              "quote": {
+                "exact": "Carbon achieves 0.0% — resisting every evaluated attack attempt.",
+                "prefix": "ection resistance with a very low 0.7% attack success rate, ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2052
+              },
+              "version": 1
+            },
+            "endOffset": 223,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[5]/text()[1]",
+            "startOffset": 159,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[5]/text()[1]",
+            "text": "Carbon achieves 0.0% — resisting every evaluated attack attempt."
+          },
+          "text": "Carbon achieves 0.0% — resisting every evaluated attack attempt.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-94927",
+          "kind": "passage",
+          "note": "AI：同時減少越權操作與任務執行不足。\n=> 改善代理自主性與使用者控制權之間的平衡。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307602,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1721
+              },
+              "quote": {
+                "exact": "Carbon simultaneously reduced overreach by 26% and under-service by 29%",
+                "prefix": "erience with Carbon.Following through without overstepping: ",
+                "suffix": " resulting in much more reliable execution of multi-step pla"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1650
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "text": "Carbon simultaneously reduced overreach by 26% and under-service by 29%"
+          },
+          "text": "Carbon simultaneously reduced overreach by 26% and under-service by 29%",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-48207",
+          "kind": "passage",
+          "note": "AI：成功作弊率降至 0%，嘗試作弊率降至 0.4%。\n=> 模型能力提升的同時，也降低了投機行為。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307603,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 839
+              },
+              "quote": {
+                "exact": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%",
+                "prefix": "in training while ensuring high-quality coding performance. ",
+                "suffix": " — all while improving overall accuracy. In live coding envi"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 734
+              },
+              "version": 1
+            },
+            "endOffset": 218,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 113,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%"
+          },
+          "text": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-49259",
+          "kind": "term",
+          "note": "AI：使模型行為符合人類意圖、規範與目標。\n例子：模型不透過竄改測試結果來完成程式設計任務。\n在本文：透過作弊率、越權行為等指標衡量改善程度。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307603,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 304
+              },
+              "quote": {
+                "exact": "model alignment",
+                "prefix": "t monitoring. In particular, we made significant strides in ",
+                "suffix": " with Argon, and reported its propensities to behave in an a"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 289
+              },
+              "version": 1
+            },
+            "endOffset": 262,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 247,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "model alignment"
+          },
+          "text": "model alignment",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-64965",
+          "kind": "term",
+          "note": "AI：模型抵抗惡意指令干擾原始任務的能力。\n例子：忽略網頁中要求洩漏機密資料的隱藏指令。\n在本文：Carbon 抵禦了指定評測中的所有攻擊。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307603,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 208
+              },
+              "quote": {
+                "exact": "prompt-injection resilience",
+                "prefix": "rgon — combining model training, real-time misuse defenses, ",
+                "suffix": ", and chain-of-thought monitoring. In particular, we made si"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 181
+              },
+              "version": 1
+            },
+            "endOffset": 166,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 139,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "prompt-injection resilience"
+          },
+          "text": "prompt-injection resilience",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-67091",
+          "kind": "passage",
+          "note": "AI：外部資安評測是在未啟用安全限制下進行。\n=> 評測能力不一定等同實際部署時的表現。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1188
+              },
+              "quote": {
+                "exact": "Carbon excels across key external benchmarks (evaluated without guardrails):",
+                "prefix": "eb 滲透測試基準測試中處於領先地位，而 Web 滲透測試是 Wiz “Scan for Good”計畫的核心功能之一。",
+                "suffix": "Carbon 在關鍵外部基準測試中表現出色（評估時未設定任何限制）：Finding real vulnerabiliti"
+              },
+              "start": {
+                "css": "section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text > p:nth-of-type(2) > span.notranslate.read-frog-translated-content-wrapper > span.notranslate.read-frog-translated-block-content",
+                "textOffset": 222
+              },
+              "version": 1
+            },
+            "endOffset": 76,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 222,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[2]/span[1]/span[1]/text()[1]",
+            "text": "Carbon excels across key external benchmarks (evaluated without guardrails):"
+          },
+          "text": "Carbon excels across key external benchmarks (evaluated without guardrails):",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-86111",
+          "kind": "passage",
+          "note": "AI：資安能力涵蓋漏洞偵測、驗證與修復。\n=> 模型能參與完整的資安防禦流程。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 304
+              },
+              "quote": {
+                "exact": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.",
+                "prefix": " delivers a significant leap in cybersecurity capabilities. ",
+                "suffix": "Gemini 4 Carbon 在網路安全能力方面實現了重大飛躍。它在網路安全防禦生命週期的各個階段——漏洞檢測、驗證和"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 165
+              },
+              "version": 1
+            },
+            "endOffset": 214,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 75,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation."
+          },
+          "text": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-91024",
+          "kind": "passage",
+          "note": "AI：模型設計著重於持續執行多步驟代理任務。\n=> 從單次問答轉向長時間自主解決問題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 204
+              },
+              "quote": {
+                "exact": "Carbon is built for sustained agentic workflows.",
+                "prefix": " to take on much harder, long-horizon engineering problems, ",
+                "suffix": " Internally, our teams have seen Carbon run for days to pers"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 156
+              },
+              "version": 1
+            },
+            "endOffset": 116,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Carbon is built for sustained agentic workflows."
+          },
+          "text": "Carbon is built for sustained agentic workflows.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-71668",
+          "kind": "term",
+          "note": "AI：模型跨越長時間與多個步驟完成複雜任務的能力。\n例子：持續分析大型程式碼庫，直到找到並修復錯誤。\n在本文：Google 內部觀察到 Carbon 能持續執行數天。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "long-horizon",
+                "prefix": "  \n\n\n  \n    Improving coding and reasoning for challenging, ",
+                "suffix": " tasks提高應對具有挑戰性的長期任務的編碼和推理能力Designed to take on much harder,"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "long-horizon"
+          },
+          "text": "long-horizon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307605,
+          "id": "hk-ai-preview-1795079307604-70532",
+          "kind": "term",
+          "note": "AI：限制模型產生或執行不當行為的安全機制。\n例子：阻止模型執行未經授權的系統操作。\n在本文：外部資安評測未啟用這些安全機制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1735
+              },
+              "quote": {
+                "exact": "guardrails",
+                "prefix": "Program. We’re continuing to gather feedback and iterate on ",
+                "suffix": " before making Carbon available to developers, businesses, a"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1725
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 53,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[2]",
+            "text": "guardrails"
+          },
+          "text": "guardrails",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795079307605,
+          "id": "hk-ai-preview-1795079307605-12683",
+          "kind": "passage",
+          "note": "AI：Carbon 以 59 分取得綜合智慧指標第一名。\n=> 建立模型整體能力提升的量化證據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307605,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 307
+              },
+              "quote": {
+                "exact": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+                "prefix": "，我們宣布推出下一代前沿機型：Gemini 4 Carbon，這是我們最強大的機型，擁有最先進的網路安全和長遠發展能力。",
+                "suffix": " It shows significant gains across coding and agentic tasks "
+              },
+              "start": {
+                "css": "section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text > p > span.notranslate.read-frog-translated-content-wrapper > span.notranslate.read-frog-translated-block-content",
+                "textOffset": 62
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 62,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/span[1]/span[1]/text()[1]",
+            "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59."
+          },
+          "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        }
+      ],
+      "note": {
+        "context": "隨著大型語言模型開始承擔複雜的工程任務，單次推理能力已經不足以衡量模型的實用性。\n模型還需要長時間自主執行任務，並在遇到失敗時持續尋找解決方案。\n\nGoogle 在 Gemini 4 Argon 的基礎上推出 Carbon，著重提升長程代理能力、軟體工程與網路安全防禦能力。\n\nCarbon 在漏洞偵測、漏洞利用及漏洞修復的評測中取得領先成績。\nGoogle 的內部團隊也觀察到模型能持續數天處理複雜工程問題。\n\n除了能力提升，Carbon 也進一步改善人工智慧對齊，減少作弊、無根據的陳述、越權操作與任務執行不足。\n\n由於進階資安能力具有潛在的濫用風險，Google 採取分階段開放策略。\n文章公布的部分結果來自內部測試，外部資安評測則是在未啟用 Guardrails 的情況下進行。",
+        "formatVersion": 2,
+        "generatedAt": 1795079307649,
+        "guideHighlights": [
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Carbon 以 59 分取得綜合智慧指標第一名。\n=> 建立模型整體能力提升的量化證據。",
+            "source": "",
+            "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "模型設計著重於持續執行多步驟代理任務。\n=> 從單次問答轉向長時間自主解決問題。",
+            "source": "",
+            "text": "Carbon is built for sustained agentic workflows.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "資安能力涵蓋漏洞偵測、驗證與修復。\n=> 模型能參與完整的資安防禦流程。",
+            "source": "",
+            "text": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "外部資安評測是在未啟用安全限制下進行。\n=> 評測能力不一定等同實際部署時的表現。",
+            "source": "",
+            "text": "Carbon excels across key external benchmarks (evaluated without guardrails):",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "成功作弊率降至 0%，嘗試作弊率降至 0.4%。\n=> 模型能力提升的同時，也降低了投機行為。",
+            "source": "",
+            "text": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "同時減少越權操作與任務執行不足。\n=> 改善代理自主性與使用者控制權之間的平衡。",
+            "source": "",
+            "text": "Carbon simultaneously reduced overreach by 26% and under-service by 29%",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "指定的間接提示詞注入評測中沒有成功攻擊。\n=> 提升代理處理外部資料時的安全性，但不代表全面免疫。",
+            "source": "",
+            "text": "Carbon achieves 0.0% — resisting every evaluated attack attempt.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "模型跨越長時間與多個步驟完成複雜任務的能力。\n例子：持續分析大型程式碼庫，直到找到並修復錯誤。\n在本文：Google 內部觀察到 Carbon 能持續執行數天。",
+            "kind": "term",
+            "reason": "模型跨越長時間與多個步驟完成複雜任務的能力。\n例子：持續分析大型程式碼庫，直到找到並修復錯誤。\n在本文：Google 內部觀察到 Carbon 能持續執行數天。",
+            "text": "long-horizon",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "使模型行為符合人類意圖、規範與目標。\n例子：模型不透過竄改測試結果來完成程式設計任務。\n在本文：透過作弊率、越權行為等指標衡量改善程度。",
+            "kind": "term",
+            "reason": "使模型行為符合人類意圖、規範與目標。\n例子：模型不透過竄改測試結果來完成程式設計任務。\n在本文：透過作弊率、越權行為等指標衡量改善程度。",
+            "text": "model alignment",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "限制模型產生或執行不當行為的安全機制。\n例子：阻止模型執行未經授權的系統操作。\n在本文：外部資安評測未啟用這些安全機制。",
+            "kind": "term",
+            "reason": "限制模型產生或執行不當行為的安全機制。\n例子：阻止模型執行未經授權的系統操作。\n在本文：外部資安評測未啟用這些安全機制。",
+            "text": "guardrails",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "模型抵抗惡意指令干擾原始任務的能力。\n例子：忽略網頁中要求洩漏機密資料的隱藏指令。\n在本文：Carbon 抵禦了指定評測中的所有攻擊。",
+            "kind": "term",
+            "reason": "模型抵抗惡意指令干擾原始任務的能力。\n例子：忽略網頁中要求洩漏機密資料的隱藏指令。\n在本文：Carbon 抵禦了指定評測中的所有攻擊。",
+            "text": "prompt-injection resilience",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      },
+      "mindmap": {
+        "generatedAt": 1795079307684,
+        "outline": "# Gemini 4 Carbon\n- 模型發布\n  - 延續 Gemini 4 Argon\n  - 綜合智慧評測\n    - Intelligence Index 59\n  - 分階段開放\n    - Fairwind Program\n  - API 定價\n    - Input $2/M\n    - Output $10/M\n    - Cache 折扣 95%\n- 長程任務能力\n  - 持續代理工作流程\n    - 數天自主執行\n    - 大型程式碼庫除錯\n  - 多領域能力提升\n    - 軟體工程\n    - 科學任務\n    - 多模態理解\n    - 全端網頁開發\n      - Elo +89\n- 網路安全防禦\n  - 漏洞偵測\n    - SEC-bench Pro\n      - 88.2%\n  - 漏洞利用\n    - ExploitGym\n      - 54.8%\n  - 漏洞修復\n    - CWE-bench\n      - 71.0%\n  - 安全程式碼生成\n    - 內部測試提升逾兩倍\n  - 評測限制\n    - 未啟用 Guardrails\n- 模型安全與對齊\n  - 多層安全架構\n    - 模型訓練\n    - 即時濫用防禦\n    - 提示詞注入防禦\n    - 思維鏈監控\n  - 減少投機行為\n    - 成功作弊率 0%\n    - 嘗試作弊率 0.4%\n  - 提升透明度\n    - 減少無根據陳述\n  - 改善使用者協作\n    - 主動揭露資訊衝突\n  - 控制代理行為\n    - 越權操作減少 26%\n    - 執行不足減少 29%\n  - 抵抗提示詞注入\n    - 攻擊成功率 0%\n- 部署策略\n  - 優先開放資安防禦者\n  - 蒐集回饋\n  - 持續改善安全機制\n  - 逐步開放一般使用者",
+        "title": "Gemini 4 Carbon"
+      }
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Introducing Gemini 4 Neon",
+      "tags": [
+        "大型語言模型",
+        "模型評測",
+        "AI 代理人",
+        "多智能體系統",
+        "成本控制",
+        "人工智慧對齊"
+      ],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795079529776,
+          "id": "hk-ai-preview-1795079529775-54562",
+          "kind": "passage",
+          "note": "AI：Neon 位於 Carbon 與 Hydrogen 之間。\n=> 依任務難度、執行頻率及成本進行模型選擇。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529775,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(17) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 275
+              },
+              "quote": {
+                "exact": "While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency.",
+                "prefix": "tical reasoning, and production-grade enterprise workflows. ",
+                "suffix": " Neon delivers frontier-level reasoning for complex, high-fr"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(17) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 137
+              },
+              "version": 1
+            },
+            "endOffset": 237,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[17]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 99,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[17]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency."
+          },
+          "text": "While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079529776,
+          "id": "hk-ai-preview-1795079529776-63158",
+          "kind": "passage",
+          "note": "AI：Gemini App 能整合網路資料進行研究與分析。\n=> 將高階推理能力應用於資訊持續變動的知識工作。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529776,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(16) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 719
+              },
+              "quote": {
+                "exact": "Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data.",
+                "prefix": "le apps like Gmail and Docs.Reliable research and analysis: ",
+                "suffix": "Faster help for tougher tasks: Tasks in Gemini can now run o"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(16) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 479
+              },
+              "version": 1
+            },
+            "endOffset": 241,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[16]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[16]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data."
+          },
+          "text": "Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795079529776,
+          "id": "hk-ai-preview-1795079529776-45224",
+          "kind": "passage",
+          "note": "AI：指定測試條件下的間接提示注入攻擊成功率為零。\n=> 結果依賴最高推理層級及即時防護，不代表絕對安全。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529776,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(13) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2240
+              },
+              "quote": {
+                "exact": "We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models.",
+                "prefix": "d in the web pages, emails, documents, or code it accesses. ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(13) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2035
+              },
+              "version": 1
+            },
+            "endOffset": 388,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[13]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "startOffset": 183,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[13]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/text()[1]",
+            "text": "We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models."
+          },
+          "text": "We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079529777,
+          "id": "hk-ai-preview-1795079529777-9564",
+          "kind": "term",
+          "note": "AI：將惡意指令藏在模型讀取的外部資料中。\n例子：網頁內藏有要求代理人洩漏資料的指令。\n在本文：指定推理模式及即時防護下，測試攻擊成功率為零。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529776,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(13) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1851
+              },
+              "quote": {
+                "exact": "indirect prompt injection attacks",
+                "prefix": "5%–35% across different effort levels.Protecting users from ",
+                "suffix": ": On Gray Swan's IPI benchmark, Neon is more resilient than "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(13) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1818
+              },
+              "version": 1
+            },
+            "endOffset": 55,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[13]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/b[1]/text()[1]",
+            "startOffset": 22,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[13]/uni-article-paragraph[1]/div[1]/ul[1]/li[3]/b[1]/text()[1]",
+            "text": "indirect prompt injection attacks"
+          },
+          "text": "indirect prompt injection attacks",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079529777,
+          "id": "hk-ai-preview-1795079529777-51489",
+          "kind": "passage",
+          "note": "AI：訓練模型避免偷工減料、捏造結果及越權。\n=> 自主執行能力必須同時具備可靠性與行為約束。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529777,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(13) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1311
+              },
+              "quote": {
+                "exact": "Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope.",
+                "prefix": "nitor is deployed to protect Neon across external surfaces. ",
+                "suffix": " It matched Carbon with 0.0% cheating on Terminal-Bench 4.0 "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(13) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1090
+              },
+              "version": 1
+            },
+            "endOffset": 500,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[13]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "startOffset": 279,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[13]/uni-article-paragraph[1]/div[1]/ul[1]/li[2]/text()[1]",
+            "text": "Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope."
+          },
+          "text": "Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079529778,
+          "id": "hk-ai-preview-1795079529778-66829",
+          "kind": "passage",
+          "note": "AI：資安版本涵蓋漏洞發現、驗證及修補。\n=> 將模型能力延伸至完整的資安防禦流程。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529777,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 799
+              },
+              "quote": {
+                "exact": "To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models.",
+                "prefix": "the-art (51.26%) at half the cost of competing large models.",
+                "suffix": "Finding code vulnerabilities: Neon achieves state-of-the-art"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 560
+              },
+              "version": 1
+            },
+            "endOffset": 239,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[10]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 79,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[10]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "text": "To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models."
+          },
+          "text": "To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079529778,
+          "id": "hk-ai-preview-1795079529778-92302",
+          "kind": "passage",
+          "note": "AI：預設推理模式的任務成本比 Carbon 低 32%。\n=> 評估效率應關注整個任務的成本，而非只有 Token 單價。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529778,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 538
+              },
+              "quote": {
+                "exact": "At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon.",
+                "prefix": "nce at a lower cost per task across third-party benchmarks. ",
+                "suffix": " It also sits on the Pareto frontier on both the Vals index "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 398
+              },
+              "version": 1
+            },
+            "endOffset": 227,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "startOffset": 87,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[2]/text()[1]",
+            "text": "At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon."
+          },
+          "text": "At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079529778,
+          "id": "hk-ai-preview-1795079529778-98628",
+          "kind": "passage",
+          "note": "AI：提供四種推理層級調整智慧與 Token 消耗。\n=> 依任務難度分配運算資源，而非一律使用最高推理。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529778,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 311
+              },
+              "quote": {
+                "exact": "Neon’s four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs.",
+                "prefix": "ntrol and a smoother progression from one tier to the next. ",
+                "suffix": "Neon delivers high performance at a lower cost per task acro"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(8) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 200
+              },
+              "version": 1
+            },
+            "endOffset": 252,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 141,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[8]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Neon’s four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs."
+          },
+          "text": "Neon’s four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795079529779,
+          "id": "hk-ai-preview-1795079529778-64218",
+          "kind": "passage",
+          "note": "AI：不同 Harness 的評測結果由 12.8% 提升至 39%。\n=> Agent 系統架構也是影響任務成功率的重要因素。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529778,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1004
+              },
+              "quote": {
+                "exact": "On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks.",
+                "prefix": "actoring across repositories with targeted, surgical edits. ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n\n\n\n\n\n\n\n  \n    \n\n    \n  \n      \n      "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 824
+              },
+              "version": 1
+            },
+            "endOffset": 310,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[2]/text()[4]",
+            "startOffset": 130,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[2]/text()[4]",
+            "text": "On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks."
+          },
+          "text": "On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079529779,
+          "id": "hk-ai-preview-1795079529779-65154",
+          "kind": "term",
+          "note": "AI：壓縮既有上下文，以保留重要資訊並減少 Token 使用。\n在本文：Google 宣稱 Neon 在長時間任務中能可靠處理上下文壓縮。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529779,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 351
+              },
+              "quote": {
+                "exact": "context compaction",
+                "prefix": "undant file reads, shares progress as it works, and handles ",
+                "suffix": " reliably in long sessions.Across core developer and researc"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 333
+              },
+              "version": 1
+            },
+            "endOffset": 351,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 333,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "context compaction"
+          },
+          "text": "context compaction",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079529779,
+          "id": "hk-ai-preview-1795079529779-85920",
+          "kind": "passage",
+          "note": "AI：Neon 能獨立執行任務，也能協調多個代理人。\n=> 支援長時間、多工具及平行化的 Agentic Workflow。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529779,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 253
+              },
+              "quote": {
+                "exact": "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity.",
+                "prefix": "  Built for production-ready code\n  \n\n\n  \n\n  \n    \n\n\n  \n    ",
+                "suffix": " It cuts down on redundant file reads, shares progress as it"
+              },
+              "start": {
+                "css": "main#jump-content > article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(6) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6",
+                "textOffset": 5
+              },
+              "version": 1
+            },
+            "endOffset": 253,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 5,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[6]/uni-article-paragraph[1]/text()[1]",
+            "text": "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity."
+          },
+          "text": "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079529780,
+          "id": "hk-ai-preview-1795079529779-1769",
+          "kind": "passage",
+          "note": "AI：Neon 在科學與數學推理評測中具備競爭力。\n=> 高階推理能力不限於程式設計。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529779,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1281
+              },
+              "quote": {
+                "exact": "On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%).",
+                "prefix": "w Agent Arena Index across 4,200+ real-world agent sessions.",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1058
+              },
+              "version": 1
+            },
+            "endOffset": 9,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[3]/text()[4]",
+            "startOffset": 41,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[2]/text()[6]",
+            "text": "On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%)."
+          },
+          "text": "On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%).",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079529780,
+          "id": "hk-ai-preview-1795079529780-6262",
+          "kind": "passage",
+          "note": "AI：在百萬 Token 上下文中整合多種企業資料。\n=> 模型不只理解單一文件，也能產生跨資料的結構化成果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529780,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 266
+              },
+              "quote": {
+                "exact": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables.",
+                "prefix": " Delivers across enterprise, analytical, and scientific work",
+                "suffix": " Independent evaluations rank Neon as one of the top models "
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 59
+              },
+              "version": 1
+            },
+            "endOffset": 207,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 59,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[2]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables."
+          },
+          "text": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079529780,
+          "id": "hk-ai-preview-1795079529780-98027",
+          "kind": "term",
+          "note": "AI：無法改善某項指標而不犧牲其他指標的最佳解集合。\n例子：提升推理能力通常需要付出更多運算成本。\n在本文：Neon 在兩項評測中達到能力與成本的有效平衡。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529780,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 445
+              },
+              "quote": {
+                "exact": "Pareto frontier",
+                "prefix": "r models. On the Vals Index, Neon ranks #2 and lands on the ",
+                "suffix": ". Beyond just pushing on raw model capability, we’re continu"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 430
+              },
+              "version": 1
+            },
+            "endOffset": 48,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[3]",
+            "startOffset": 33,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[3]",
+            "text": "Pareto frontier"
+          },
+          "text": "Pareto frontier",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795079529780,
+          "id": "hk-ai-preview-1795079529780-39991",
+          "kind": "passage",
+          "note": "AI：Neon 的綜合智慧表現接近更大型且較慢的模型。\n=> 建立 Neon 兼顧推理能力與效率的產品定位。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079529780,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 379
+              },
+              "quote": {
+                "exact": "Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models.",
+                "prefix": "software engineering, knowledge work, and science workflows.",
+                "suffix": " On the Vals Index, Neon ranks #2 and lands on the Pareto fr"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container:nth-of-type(2) > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 190
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 190,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[2]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models."
+          },
+          "text": "Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+        }
+      ],
+      "note": {
+        "context": "大型語言模型的能力持續提升，但複雜的軟體工程、企業分析與科學研究，不只需要高階推理能力，也需要控制任務完成時間與成本。\n\nGoogle 推出 Gemini 4 Neon，試圖在模型能力與執行效率之間取得平衡。透過四種 Thinking Level、長上下文處理及多代理人協作，支援長時間、多步驟的複雜任務。\n\n評測結果顯示，Neon 在程式設計、企業分析、數學推理及資安任務中具備頂尖競爭力。預設 High 模式的單次任務成本比 Carbon 低 32%。\n\nGoogle 同時改善模型的自主執行可靠性，包括減少捏造結果、任務偷工減料、越權行為及抵禦 Prompt Injection。\n\nNeon 並非全面取代 Carbon，而是面向高頻率的正式環境工作負載。Carbon 仍負責最高難度的長期任務，而部分安全評測來自 Google 內部測試，不代表所有真實場景均能達到相同結果。",
+        "formatVersion": 2,
+        "generatedAt": 1795079529811,
+        "guideHighlights": [
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Neon 的綜合智慧表現接近更大型且較慢的模型。\n=> 建立 Neon 兼顧推理能力與效率的產品定位。",
+            "source": "",
+            "text": "Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "在百萬 Token 上下文中整合多種企業資料。\n=> 模型不只理解單一文件，也能產生跨資料的結構化成果。",
+            "source": "",
+            "text": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Neon 在科學與數學推理評測中具備競爭力。\n=> 高階推理能力不限於程式設計。",
+            "source": "",
+            "text": "On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%).",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Neon 能獨立執行任務，也能協調多個代理人。\n=> 支援長時間、多工具及平行化的 Agentic Workflow。",
+            "source": "",
+            "text": "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "不同 Harness 的評測結果由 12.8% 提升至 39%。\n=> Agent 系統架構也是影響任務成功率的重要因素。",
+            "source": "",
+            "text": "On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "提供四種推理層級調整智慧與 Token 消耗。\n=> 依任務難度分配運算資源，而非一律使用最高推理。",
+            "source": "",
+            "text": "Neon’s four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "預設推理模式的任務成本比 Carbon 低 32%。\n=> 評估效率應關注整個任務的成本，而非只有 Token 單價。",
+            "source": "",
+            "text": "At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "資安版本涵蓋漏洞發現、驗證及修補。\n=> 將模型能力延伸至完整的資安防禦流程。",
+            "source": "",
+            "text": "To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "訓練模型避免偷工減料、捏造結果及越權。\n=> 自主執行能力必須同時具備可靠性與行為約束。",
+            "source": "",
+            "text": "Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "指定測試條件下的間接提示注入攻擊成功率為零。\n=> 結果依賴最高推理層級及即時防護，不代表絕對安全。",
+            "source": "",
+            "text": "We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Gemini App 能整合網路資料進行研究與分析。\n=> 將高階推理能力應用於資訊持續變動的知識工作。",
+            "source": "",
+            "text": "Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Neon 位於 Carbon 與 Hydrogen 之間。\n=> 依任務難度、執行頻率及成本進行模型選擇。",
+            "source": "",
+            "text": "While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "無法改善某項指標而不犧牲其他指標的最佳解集合。\n例子：提升推理能力通常需要付出更多運算成本。\n在本文：Neon 在兩項評測中達到能力與成本的有效平衡。",
+            "kind": "term",
+            "reason": "無法改善某項指標而不犧牲其他指標的最佳解集合。\n例子：提升推理能力通常需要付出更多運算成本。\n在本文：Neon 在兩項評測中達到能力與成本的有效平衡。",
+            "text": "Pareto frontier",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "covered": true,
+            "explanation": "負責規劃、分配及整合其他代理人工作的協調者。\n例子：將程式開發與測試分配給不同代理人。\n在本文：Neon 負責協調平行執行的 Hydrogen subagents。",
+            "kind": "term",
+            "reason": "負責規劃、分配及整合其他代理人工作的協調者。\n例子：將程式開發與測試分配給不同代理人。\n在本文：Neon 負責協調平行執行的 Hydrogen subagents。",
+            "text": "Orchestrator",
+            "unavailable": true
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "壓縮既有上下文，以保留重要資訊並減少 Token 使用。\n在本文：Google 宣稱 Neon 在長時間任務中能可靠處理上下文壓縮。",
+            "kind": "term",
+            "reason": "壓縮既有上下文，以保留重要資訊並減少 Token 使用。\n在本文：Google 宣稱 Neon 在長時間任務中能可靠處理上下文壓縮。",
+            "text": "context compaction",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "covered": true,
+            "explanation": "模型外部負責工具呼叫、執行控制與任務流程的框架。\n例子：提供模型讀取檔案、執行指令及驗證結果的能力。\n在本文：不同 Harness 的 SWE-sweep 結果呈現明顯差異。",
+            "kind": "term",
+            "reason": "模型外部負責工具呼叫、執行控制與任務流程的框架。\n例子：提供模型讀取檔案、執行指令及驗證結果的能力。\n在本文：不同 Harness 的 SWE-sweep 結果呈現明顯差異。",
+            "text": "harness",
+            "unavailable": true
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "將惡意指令藏在模型讀取的外部資料中。\n例子：網頁內藏有要求代理人洩漏資料的指令。\n在本文：指定推理模式及即時防護下，測試攻擊成功率為零。",
+            "kind": "term",
+            "reason": "將惡意指令藏在模型讀取的外部資料中。\n例子：網頁內藏有要求代理人洩漏資料的指令。\n在本文：指定推理模式及即時防護下，測試攻擊成功率為零。",
+            "text": "indirect prompt injection attacks",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [
+          {
+            "explanation": "負責規劃、分配及整合其他代理人工作的協調者。\n例子：將程式開發與測試分配給不同代理人。\n在本文：Neon 負責協調平行執行的 Hydrogen subagents。",
+            "text": "Orchestrator",
+            "unavailable": true
+          },
+          {
+            "explanation": "模型外部負責工具呼叫、執行控制與任務流程的框架。\n例子：提供模型讀取檔案、執行指令及驗證結果的能力。\n在本文：不同 Harness 的 SWE-sweep 結果呈現明顯差異。",
+            "text": "harness",
+            "unavailable": true
+          }
+        ],
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      },
+      "mindmap": {
+        "generatedAt": 1795079529835,
+        "outline": "# Gemini 4 Neon\n- 模型定位\n  - 高階推理能力\n  - 端到端任務效率\n  - 百萬 Token 上下文\n  - API 定價\n- 企業與科學工作\n  - 多模態資料整合\n    - 試算表與 PDF\n    - 圖表與影音\n  - 企業任務評測\n    - 法律與稅務\n    - 金融與會計\n  - 科學推理評測\n    - 數學推理\n    - 技術研究\n- 正式環境程式設計\n  - 長時間代理人任務\n    - Neon 協調者\n    - Hydrogen 子代理人\n  - 上下文管理\n    - 減少重複讀取\n    - 上下文壓縮\n  - Harness 影響\n    - mini-SWE\n    - Antigravity\n- 執行效率與控制\n  - 四種推理層級\n    - 預設 High\n    - 深度 xHigh\n  - 單次任務成本\n  - Pareto frontier\n- 資安防禦\n  - 安全程式碼生成\n  - 漏洞處理流程\n    - 發現漏洞\n    - 驗證風險\n    - 修補漏洞\n  - Fairwind 限定開放\n- 安全與可靠性\n  - 即時安全防護\n    - 資安濫用\n    - 生物安全\n  - 模型行為對齊\n    - 減少捏造\n    - 減少偷工減料\n    - 避免越權\n  - 間接提示注入防禦\n- Gemini App\n  - 知識工作\n  - 研究與分析\n  - 多步驟任務\n- Gemini 4 家族定位\n  - Carbon：最高難度任務\n  - Neon：能力與效率平衡\n  - Hydrogen：日常快速執行\n- 模型開放方式\n  - 開發者\n  - 企業\n  - 一般使用者\n  - 資安防禦人員",
+        "title": "Gemini 4 Neon"
+      }
+    },
+    {
       "url": "https://github.com/SoMarkAI/DocParsingBench",
       "title": "SoMarkAI/DocParsingBench: An benchmark toolkit for intelligent document parsing products",
       "tags": [

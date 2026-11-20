@@ -842,6 +842,497 @@
       }
     },
     {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "title": "隆重介紹 Gemini 4 Carbon",
+      "tags": [
+        "大型語言模型",
+        "AI 代理人",
+        "人工智慧對齊",
+        "模型評測",
+        "軟體工程",
+        "資訊安全"
+      ],
+      "entries": [
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307602,
+          "id": "hk-ai-preview-1795079307602-88242",
+          "kind": "passage",
+          "note": "AI：指定的間接提示詞注入評測中沒有成功攻擊。\n=> 提升代理處理外部資料時的安全性，但不代表全面免疫。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307601,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2116
+              },
+              "quote": {
+                "exact": "Carbon achieves 0.0% — resisting every evaluated attack attempt.",
+                "prefix": "ection resistance with a very low 0.7% attack success rate, ",
+                "suffix": "\n  \n\n\n  \n\n  \n    \n\n\n\n\n\n  \n  \n  \n  \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 2052
+              },
+              "version": 1
+            },
+            "endOffset": 223,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[5]/text()[1]",
+            "startOffset": 159,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[5]/text()[1]",
+            "text": "Carbon achieves 0.0% — resisting every evaluated attack attempt."
+          },
+          "text": "Carbon achieves 0.0% — resisting every evaluated attack attempt.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-94927",
+          "kind": "passage",
+          "note": "AI：同時減少越權操作與任務執行不足。\n=> 改善代理自主性與使用者控制權之間的平衡。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307602,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1721
+              },
+              "quote": {
+                "exact": "Carbon simultaneously reduced overreach by 26% and under-service by 29%",
+                "prefix": "erience with Carbon.Following through without overstepping: ",
+                "suffix": " resulting in much more reliable execution of multi-step pla"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1650
+              },
+              "version": 1
+            },
+            "endOffset": 72,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[4]/text()[1]",
+            "text": "Carbon simultaneously reduced overreach by 26% and under-service by 29%"
+          },
+          "text": "Carbon simultaneously reduced overreach by 26% and under-service by 29%",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-48207",
+          "kind": "passage",
+          "note": "AI：成功作弊率降至 0%，嘗試作弊率降至 0.4%。\n=> 模型能力提升的同時，也降低了投機行為。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307603,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 839
+              },
+              "quote": {
+                "exact": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%",
+                "prefix": "in training while ensuring high-quality coding performance. ",
+                "suffix": " — all while improving overall accuracy. In live coding envi"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 734
+              },
+              "version": 1
+            },
+            "endOffset": 218,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "startOffset": 113,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/ul[1]/li[1]/text()[1]",
+            "text": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%"
+          },
+          "text": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-49259",
+          "kind": "term",
+          "note": "AI：使模型行為符合人類意圖、規範與目標。\n例子：模型不透過竄改測試結果來完成程式設計任務。\n在本文：透過作弊率、越權行為等指標衡量改善程度。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307603,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 304
+              },
+              "quote": {
+                "exact": "model alignment",
+                "prefix": "t monitoring. In particular, we made significant strides in ",
+                "suffix": " with Argon, and reported its propensities to behave in an a"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 289
+              },
+              "version": 1
+            },
+            "endOffset": 262,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 247,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "model alignment"
+          },
+          "text": "model alignment",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307603,
+          "id": "hk-ai-preview-1795079307603-64965",
+          "kind": "term",
+          "note": "AI：模型抵抗惡意指令干擾原始任務的能力。\n例子：忽略網頁中要求洩漏機密資料的隱藏指令。\n在本文：Carbon 抵禦了指定評測中的所有攻擊。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307603,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 208
+              },
+              "quote": {
+                "exact": "prompt-injection resilience",
+                "prefix": "rgon — combining model training, real-time misuse defenses, ",
+                "suffix": ", and chain-of-thought monitoring. In particular, we made si"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(10) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 181
+              },
+              "version": 1
+            },
+            "endOffset": 166,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 139,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[10]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "prompt-injection resilience"
+          },
+          "text": "prompt-injection resilience",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-67091",
+          "kind": "passage",
+          "note": "AI：外部資安評測是在未啟用安全限制下進行。\n=> 評測能力不一定等同實際部署時的表現。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1188
+              },
+              "quote": {
+                "exact": "Carbon excels across key external benchmarks (evaluated without guardrails):",
+                "prefix": "eb 滲透測試基準測試中處於領先地位，而 Web 滲透測試是 Wiz “Scan for Good”計畫的核心功能之一。",
+                "suffix": "Carbon 在關鍵外部基準測試中表現出色（評估時未設定任何限制）：Finding real vulnerabiliti"
+              },
+              "start": {
+                "css": "section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text > p:nth-of-type(2) > span.notranslate.read-frog-translated-content-wrapper > span.notranslate.read-frog-translated-block-content",
+                "textOffset": 222
+              },
+              "version": 1
+            },
+            "endOffset": 76,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[3]/text()[1]",
+            "startOffset": 222,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[2]/span[1]/span[1]/text()[1]",
+            "text": "Carbon excels across key external benchmarks (evaluated without guardrails):"
+          },
+          "text": "Carbon excels across key external benchmarks (evaluated without guardrails):",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-86111",
+          "kind": "passage",
+          "note": "AI：資安能力涵蓋漏洞偵測、驗證與修復。\n=> 模型能參與完整的資安防禦流程。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 304
+              },
+              "quote": {
+                "exact": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.",
+                "prefix": " delivers a significant leap in cybersecurity capabilities. ",
+                "suffix": "Gemini 4 Carbon 在網路安全能力方面實現了重大飛躍。它在網路安全防禦生命週期的各個階段——漏洞檢測、驗證和"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(4) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 165
+              },
+              "version": 1
+            },
+            "endOffset": 214,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 75,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[4]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation."
+          },
+          "text": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-91024",
+          "kind": "passage",
+          "note": "AI：模型設計著重於持續執行多步驟代理任務。\n=> 從單次問答轉向長時間自主解決問題。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 204
+              },
+              "quote": {
+                "exact": "Carbon is built for sustained agentic workflows.",
+                "prefix": " to take on much harder, long-horizon engineering problems, ",
+                "suffix": " Internally, our teams have seen Carbon run for days to pers"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 156
+              },
+              "version": 1
+            },
+            "endOffset": 116,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 68,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/p[1]/text()[1]",
+            "text": "Carbon is built for sustained agentic workflows."
+          },
+          "text": "Carbon is built for sustained agentic workflows.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307604,
+          "id": "hk-ai-preview-1795079307604-71668",
+          "kind": "term",
+          "note": "AI：模型跨越長時間與多個步驟完成複雜任務的能力。\n例子：持續分析大型程式碼庫，直到找到並修復錯誤。\n在本文：Google 內部觀察到 Carbon 能持續執行數天。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 60
+              },
+              "quote": {
+                "exact": "long-horizon",
+                "prefix": "  \n\n\n  \n    Improving coding and reasoning for challenging, ",
+                "suffix": " tasks提高應對具有挑戰性的長期任務的編碼和推理能力Designed to take on much harder,"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid:nth-of-type(2) > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 48
+              },
+              "version": 1
+            },
+            "endOffset": 60,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "startOffset": 48,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[2]/uni-article-paragraph[1]/div[1]/h2[1]/text()[1]",
+            "text": "long-horizon"
+          },
+          "text": "long-horizon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795079307605,
+          "id": "hk-ai-preview-1795079307604-70532",
+          "kind": "term",
+          "note": "AI：限制模型產生或執行不當行為的安全機制。\n例子：阻止模型執行未經授權的系統操作。\n在本文：外部資安評測未啟用這些安全機制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307604,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1735
+              },
+              "quote": {
+                "exact": "guardrails",
+                "prefix": "Program. We’re continuing to gather feedback and iterate on ",
+                "suffix": " before making Carbon available to developers, businesses, a"
+              },
+              "start": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 1725
+              },
+              "version": 1
+            },
+            "endOffset": 63,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[2]",
+            "startOffset": 53,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[4]/text()[2]",
+            "text": "guardrails"
+          },
+          "text": "guardrails",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795079307605,
+          "id": "hk-ai-preview-1795079307605-12683",
+          "kind": "passage",
+          "note": "AI：Carbon 以 59 分取得綜合智慧指標第一名。\n=> 建立模型整體能力提升的量化證據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795079307605,
+              "end": {
+                "css": "article.uni-article-wrapper > section.uni-container.article-container:nth-of-type(2) > div.uni-content.uni-blog-article-container > section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text",
+                "textOffset": 307
+              },
+              "quote": {
+                "exact": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+                "prefix": "，我們宣布推出下一代前沿機型：Gemini 4 Carbon，這是我們最強大的機型，擁有最先進的網路安全和長遠發展能力。",
+                "suffix": " It shows significant gains across coding and agentic tasks "
+              },
+              "start": {
+                "css": "section.uni-page.uni-grid > uni-article-paragraph.uni-article-paragraph__container.uni-grid__col--layout-6 > div.rich-text > p > span.notranslate.read-frog-translated-content-wrapper > span.notranslate.read-frog-translated-block-content",
+                "textOffset": 62
+              },
+              "version": 1
+            },
+            "endOffset": 7,
+            "endXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[2]/text()[2]",
+            "startOffset": 62,
+            "startXPath": "/html[1]/body[1]/main[1]/article[1]/section[2]/div[1]/section[1]/uni-article-paragraph[1]/div[1]/p[1]/span[1]/span[1]/text()[1]",
+            "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59."
+          },
+          "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        }
+      ],
+      "note": {
+        "context": "隨著大型語言模型開始承擔複雜的工程任務，單次推理能力已經不足以衡量模型的實用性。\n模型還需要長時間自主執行任務，並在遇到失敗時持續尋找解決方案。\n\nGoogle 在 Gemini 4 Argon 的基礎上推出 Carbon，著重提升長程代理能力、軟體工程與網路安全防禦能力。\n\nCarbon 在漏洞偵測、漏洞利用及漏洞修復的評測中取得領先成績。\nGoogle 的內部團隊也觀察到模型能持續數天處理複雜工程問題。\n\n除了能力提升，Carbon 也進一步改善人工智慧對齊，減少作弊、無根據的陳述、越權操作與任務執行不足。\n\n由於進階資安能力具有潛在的濫用風險，Google 採取分階段開放策略。\n文章公布的部分結果來自內部測試，外部資安評測則是在未啟用 Guardrails 的情況下進行。",
+        "formatVersion": 2,
+        "generatedAt": 1795079307649,
+        "guideHighlights": [
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Carbon 以 59 分取得綜合智慧指標第一名。\n=> 建立模型整體能力提升的量化證據。",
+            "source": "",
+            "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "模型設計著重於持續執行多步驟代理任務。\n=> 從單次問答轉向長時間自主解決問題。",
+            "source": "",
+            "text": "Carbon is built for sustained agentic workflows.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "資安能力涵蓋漏洞偵測、驗證與修復。\n=> 模型能參與完整的資安防禦流程。",
+            "source": "",
+            "text": "It achieves state-of-the-art performance across the cybersecurity defense lifecycle — vulnerability detection, validation, and remediation.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "外部資安評測是在未啟用安全限制下進行。\n=> 評測能力不一定等同實際部署時的表現。",
+            "source": "",
+            "text": "Carbon excels across key external benchmarks (evaluated without guardrails):",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "成功作弊率降至 0%，嘗試作弊率降至 0.4%。\n=> 模型能力提升的同時，也降低了投機行為。",
+            "source": "",
+            "text": "Carbon reduced successful cheating on Terminal-Bench 4.0 to 0.0%, with attempts to cheat dropping to 0.4%",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "同時減少越權操作與任務執行不足。\n=> 改善代理自主性與使用者控制權之間的平衡。",
+            "source": "",
+            "text": "Carbon simultaneously reduced overreach by 26% and under-service by 29%",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "指定的間接提示詞注入評測中沒有成功攻擊。\n=> 提升代理處理外部資料時的安全性，但不代表全面免疫。",
+            "source": "",
+            "text": "Carbon achieves 0.0% — resisting every evaluated attack attempt.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "模型跨越長時間與多個步驟完成複雜任務的能力。\n例子：持續分析大型程式碼庫，直到找到並修復錯誤。\n在本文：Google 內部觀察到 Carbon 能持續執行數天。",
+            "kind": "term",
+            "reason": "模型跨越長時間與多個步驟完成複雜任務的能力。\n例子：持續分析大型程式碼庫，直到找到並修復錯誤。\n在本文：Google 內部觀察到 Carbon 能持續執行數天。",
+            "text": "long-horizon",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "使模型行為符合人類意圖、規範與目標。\n例子：模型不透過竄改測試結果來完成程式設計任務。\n在本文：透過作弊率、越權行為等指標衡量改善程度。",
+            "kind": "term",
+            "reason": "使模型行為符合人類意圖、規範與目標。\n例子：模型不透過竄改測試結果來完成程式設計任務。\n在本文：透過作弊率、越權行為等指標衡量改善程度。",
+            "text": "model alignment",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "限制模型產生或執行不當行為的安全機制。\n例子：阻止模型執行未經授權的系統操作。\n在本文：外部資安評測未啟用這些安全機制。",
+            "kind": "term",
+            "reason": "限制模型產生或執行不當行為的安全機制。\n例子：阻止模型執行未經授權的系統操作。\n在本文：外部資安評測未啟用這些安全機制。",
+            "text": "guardrails",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "模型抵抗惡意指令干擾原始任務的能力。\n例子：忽略網頁中要求洩漏機密資料的隱藏指令。\n在本文：Carbon 抵禦了指定評測中的所有攻擊。",
+            "kind": "term",
+            "reason": "模型抵抗惡意指令干擾原始任務的能力。\n例子：忽略網頁中要求洩漏機密資料的隱藏指令。\n在本文：Carbon 抵禦了指定評測中的所有攻擊。",
+            "text": "prompt-injection resilience",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+      },
+      "mindmap": {
+        "generatedAt": 1795079307684,
+        "outline": "# Gemini 4 Carbon\n- 模型發布\n  - 延續 Gemini 4 Argon\n  - 綜合智慧評測\n    - Intelligence Index 59\n  - 分階段開放\n    - Fairwind Program\n  - API 定價\n    - Input $2/M\n    - Output $10/M\n    - Cache 折扣 95%\n- 長程任務能力\n  - 持續代理工作流程\n    - 數天自主執行\n    - 大型程式碼庫除錯\n  - 多領域能力提升\n    - 軟體工程\n    - 科學任務\n    - 多模態理解\n    - 全端網頁開發\n      - Elo +89\n- 網路安全防禦\n  - 漏洞偵測\n    - SEC-bench Pro\n      - 88.2%\n  - 漏洞利用\n    - ExploitGym\n      - 54.8%\n  - 漏洞修復\n    - CWE-bench\n      - 71.0%\n  - 安全程式碼生成\n    - 內部測試提升逾兩倍\n  - 評測限制\n    - 未啟用 Guardrails\n- 模型安全與對齊\n  - 多層安全架構\n    - 模型訓練\n    - 即時濫用防禦\n    - 提示詞注入防禦\n    - 思維鏈監控\n  - 減少投機行為\n    - 成功作弊率 0%\n    - 嘗試作弊率 0.4%\n  - 提升透明度\n    - 減少無根據陳述\n  - 改善使用者協作\n    - 主動揭露資訊衝突\n  - 控制代理行為\n    - 越權操作減少 26%\n    - 執行不足減少 29%\n  - 抵抗提示詞注入\n    - 攻擊成功率 0%\n- 部署策略\n  - 優先開放資安防禦者\n  - 蒐集回饋\n  - 持續改善安全機制\n  - 逐步開放一般使用者",
+        "title": "Gemini 4 Carbon"
+      }
+    },
+    {
       "url": "https://github.com/open-slide/open-slide",
       "title": "open-slide/open-slide: A slide framework built for agents.",
       "tags": [
@@ -860,10 +1351,10 @@
           "note": "AI：支援網頁、文件與 PowerPoint 格式匯出。\n為何重要：擴展簡報的交付方式，不限於框架內部使用。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212348,
+              "createdAt": 1795159091482,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1690
+                "textOffset": 1668
               },
               "quote": {
                 "exact": "Export to static HTML, PDF, and PPTX",
@@ -872,14 +1363,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1654
+                "textOffset": 1632
               },
               "version": 1
             },
             "endOffset": 36,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[4]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/text()[4]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/text()[4]",
             "text": "Export to static HTML, PDF, and PPTX"
           },
           "text": "Export to static HTML, PDF, and PPTX",
@@ -893,10 +1384,10 @@
           "note": "AI：讓不同頁面的對應元素產生連續變形動畫。\n例子：圖片從第一頁左側平滑移動到第二頁中央。\n在本文：屬於框架內建的動畫功能，未展示實作品質。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212349,
+              "createdAt": 1795159091484,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1589
+                "textOffset": 1567
               },
               "quote": {
                 "exact": "shared-element morphs",
@@ -905,14 +1396,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1568
+                "textOffset": 1546
               },
               "version": 1
             },
             "endOffset": 73,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[2]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[2]/text()[1]",
             "startOffset": 52,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[2]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[2]/li[2]/text()[1]",
             "text": "shared-element morphs"
           },
           "text": "shared-element morphs",
@@ -926,10 +1417,10 @@
           "note": "AI：提供全螢幕播放與專用的簡報者介面。\n為何重要：讓生成的簡報能直接進入正式展示流程。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212349,
+              "createdAt": 1795159091485,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1424
+                "textOffset": 1402
               },
               "quote": {
                 "exact": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer.",
@@ -938,14 +1429,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1309
+                "textOffset": 1287
               },
               "version": 1
             },
             "endOffset": 115,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[9]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[9]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[15]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[15]",
             "text": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer."
           },
           "text": "Fullscreen playback with keyboard navigation, and a presenter view with the next slide, speaker notes, and a timer.",
@@ -959,10 +1450,10 @@
           "note": "AI：將修改註解寫入原始碼，再由代理人批次處理。\n為何重要：建立視覺化審閱與程式碼修改之間的橋梁。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212349,
+              "createdAt": 1795159091485,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1294
+                "textOffset": 1272
               },
               "quote": {
                 "exact": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass.",
@@ -971,14 +1462,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1194
+                "textOffset": 1172
               },
               "version": 1
             },
             "endOffset": 67,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[3]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[3]",
             "startOffset": 62,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[2]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[7]/text()[2]",
             "text": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass."
           },
           "text": "Notes are saved as @slide-comment markers in the source, and the agent applies them all in one pass.",
@@ -992,10 +1483,10 @@
           "note": "AI：提供跨代理人使用的簡報操作 Skills。\n為何重要：工作流程不完全依賴特定代理人或瀏覽器面板。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212350,
+              "createdAt": 1795159091486,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 1111
+                "textOffset": 1089
               },
               "quote": {
                 "exact": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others.",
@@ -1004,14 +1495,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 967
+                "textOffset": 945
               },
               "version": 1
             },
             "endOffset": 79,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[4]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[4]",
             "startOffset": 21,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[6]/text()[1]",
             "text": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others."
           },
           "text": "The bundled skills (/create-slide, /apply-comments, /create-theme) work with any coding agent, including Claude Code, Codex, Cursor, and others.",
@@ -1025,10 +1516,10 @@
           "note": "AI：沿用既有登入方式，無須另外設定 API Key。\n為何重要：降低整合既有程式碼代理人的設定成本。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212350,
+              "createdAt": 1795159091487,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 944
+                "textOffset": 922
               },
               "quote": {
                 "exact": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure.",
@@ -1037,14 +1528,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 822
+                "textOffset": 800
               },
               "version": 1
             },
             "endOffset": 97,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[4]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[4]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/text()[4]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/text()[4]",
             "text": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure."
           },
           "text": "Uses your existing login. The SDK installs into the workspace the first time you open the panel. No API keys to configure.",
@@ -1058,10 +1549,10 @@
           "note": "AI：每次指令都會附帶目前的頁面與元素資訊。\n為何重要：讓代理人理解指令所指向的具體修改對象。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212350,
+              "createdAt": 1795159091487,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 769
+                "textOffset": 747
               },
               "quote": {
                 "exact": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works.",
@@ -1070,14 +1561,14 @@
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 661
+                "textOffset": 639
               },
               "version": 1
             },
             "endOffset": 109,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/ul[1]/li[2]/text()[1]",
             "text": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works."
           },
           "text": "The current slide, page, and selected element go along with every message, so \"make this bigger\" just works.",
@@ -1091,26 +1582,26 @@
           "note": "AI：讓使用者在簡報介面中操作程式碼代理人的面板。\n例子：選取標題後，直接要求代理人放大文字。\n在本文：提供具備頁面與元素資訊的編輯介面。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212350,
+              "createdAt": 1795159091488,
               "end": {
                 "css": "div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content > div.markdown-heading:nth-of-type(3) > h2.heading-element",
                 "textOffset": 11
               },
               "quote": {
                 "exact": "Agent panel",
-                "prefix": "npm run devCopy code to clipboard\nDocumentation · Changelog\n",
+                "prefix": "it my-deck\ncd my-deck\nnpm run dev\nDocumentation · Changelog\n",
                 "suffix": "\nConnect the Claude Code or Codex CLI you already use and dr"
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
-                "textOffset": 376
+                "textOffset": 354
               },
               "version": 1
             },
             "endOffset": 11,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[3]/h2[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/div[3]/h2[1]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[6]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[6]",
             "text": "Agent panel"
           },
           "text": "Agent panel",
@@ -1124,7 +1615,7 @@
           "note": "AI：每張投影片都是固定畫布上的獨立元件。\n為何重要：建立代理人能直接操作的簡報程式碼結構。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212351,
+              "createdAt": 1795159091488,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
                 "textOffset": 271
@@ -1132,7 +1623,7 @@
               "quote": {
                 "exact": "Every page is a React component rendered on a fixed 1920 × 1080 canvas.",
                 "prefix": "scaling, navigation, hot reload, editing, and present mode.\n",
-                "suffix": "\nnpx @open-slide/cli init my-deck\ncd my-deck\nnpm run devCopy"
+                "suffix": "\nnpx @open-slide/cli init my-deck\ncd my-deck\nnpm run dev\nDoc"
               },
               "start": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
@@ -1141,9 +1632,9 @@
               "version": 1
             },
             "endOffset": 71,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[2]/text()[1]",
             "startOffset": 1,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[3]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/text()[3]",
             "text": "Every page is a React component rendered on a fixed 1920 × 1080 canvas."
           },
           "text": "Every page is a React component rendered on a fixed 1920 × 1080 canvas.",
@@ -1157,7 +1648,7 @@
           "note": "AI：修改原始碼後，自動更新目前顯示的畫面。\n例子：代理人修改文字大小後，畫布立即更新。\n在本文：支援即時預覽，但未提供更新速度數據。",
           "range": {
             "anchors": {
-              "createdAt": 1794988212351,
+              "createdAt": 1795159091488,
               "end": {
                 "css": "div.OverviewContent-module_7QoTfq_Box.tmp-pl-lg-3 > div.OverviewContent-module_7QoTfq_Box_11:nth-of-type(3) > div.OverviewRepoFiles-module_pEDwGW_Box_1:nth-of-type(2) > div.OverviewRepoFiles-module_pEDwGW_Box_2 > div.js-snippet-clipboard-copy-unpositioned.DirectoryRichtextContent-module_ArZdLq_SharedMarkdownContent:nth-of-type(2) > article.markdown-body.entry-content",
                 "textOffset": 171
@@ -1174,9 +1665,9 @@
               "version": 1
             },
             "endOffset": 159,
-            "endXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "endXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
             "startOffset": 149,
-            "startXPath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
+            "startXPath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/article[1]/p[1]/text()[1]",
             "text": "hot reload"
           },
           "text": "hot reload",

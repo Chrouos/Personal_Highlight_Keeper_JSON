@@ -757,6 +757,748 @@
       }
     },
     {
+      "url": "https://arxiv.org/html/2603.16415v2",
+      "title": "IndexRAG: Index-Time Reasoning for Multi-HopRetrieval-Augmented Generation",
+      "tags": [
+        "RAG",
+        "資訊檢索",
+        "Embedding",
+        "自然語言處理",
+        "多跳推理",
+        "延遲優化"
+      ],
+      "entries": [
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795077836562,
+          "id": "hk-ai-preview-1795077836562-22757",
+          "kind": "passage",
+          "note": "AI：實體抽取與事實生成皆可能發生錯誤。\n=> 離線推理仍需要來源追蹤與事實驗證機制。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836561,
+              "end": {
+                "css": "p#Sx1\\.p2\\.1",
+                "textOffset": 257
+              },
+              "quote": {
+                "exact": "Missed or noisy\nentities and hallucinated bridging facts may introduce irrelevant retrieval units\nand hurt performance.",
+                "prefix": "ding bridge entity extraction and bridging fact generation. ",
+                "suffix": " Dedicated NER models, source attribution, or verification\nm"
+              },
+              "start": {
+                "css": "p#Sx1\\.p2\\.1",
+                "textOffset": 138
+              },
+              "version": 1
+            },
+            "endOffset": 257,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[7]/div[2]/p[1]/text()[1]",
+            "startOffset": 138,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[7]/div[2]/p[1]/text()[1]",
+            "text": "Missed or noisy\nentities and hallucinated bridging facts may introduce irrelevant retrieval units\nand hurt performance."
+          },
+          "text": "Missed or noisy\nentities and hallucinated bridging facts may introduce irrelevant retrieval units\nand hurt performance.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#ffe6cc",
+          "createdAt": 1795077836563,
+          "id": "hk-ai-preview-1795077836563-79569",
+          "kind": "passage",
+          "note": "AI：序列推理難以同時覆蓋兩條平行推理路徑。\n=> 解釋為何比較型問題的改善幅度較小。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836562,
+              "end": {
+                "css": "p#S5\\.SS3\\.SSS3\\.p2\\.1",
+                "textOffset": 692
+              },
+              "quote": {
+                "exact": "Since our bridging facts are generated along sequential reasoning paths, they tend to cover only one of the two parallel paths, providing limited benefit for this question type.",
+                "prefix": "ing the director and birthdate for both X and Y separately. ",
+                "suffix": "\n\n\nThese results suggest that bridging facts are most effect"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.SSS3\\.p2\\.1",
+                "textOffset": 515
+              },
+              "version": 1
+            },
+            "endOffset": 692,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/section[3]/div[2]/p[1]/text()[1]",
+            "startOffset": 515,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/section[3]/div[2]/p[1]/text()[1]",
+            "text": "Since our bridging facts are generated along sequential reasoning paths, they tend to cover only one of the two parallel paths, providing limited benefit for this question type."
+          },
+          "text": "Since our bridging facts are generated along sequential reasoning paths, they tend to cover only one of the two parallel paths, providing limited benefit for this question type.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795077836563,
+          "id": "hk-ai-preview-1795077836563-68678",
+          "kind": "passage",
+          "note": "AI：原始文件召回率下降，但答案完全匹配率上升。\n=> 找到原始文件與找到有效回答證據並不完全相同。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836563,
+              "end": {
+                "css": "p#S5\\.SS3\\.SSS2\\.p1\\.1",
+                "textOffset": 222
+              },
+              "quote": {
+                "exact": "Across all three datasets, adding bridging\nfacts consistently reduces Recall@10 yet improves EM",
+                "prefix": "formance when bridging facts are added\nto the vector store. ",
+                "suffix": ", with the\nlargest EM gain on MuSiQue (+4.3), followed by 2W"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.SSS2\\.p1\\.1",
+                "textOffset": 127
+              },
+              "version": 1
+            },
+            "endOffset": 215,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/section[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 120,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/section[2]/div[1]/p[1]/text()[2]",
+            "text": "Across all three datasets, adding bridging\nfacts consistently reduces Recall@10 yet improves EM"
+          },
+          "text": "Across all three datasets, adding bridging\nfacts consistently reduces Recall@10 yet improves EM",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795077836563,
+          "id": "hk-ai-preview-1795077836563-44012",
+          "kind": "passage",
+          "note": "AI：Bridging facts 不依賴特定的基礎文件表示。\n=> 現有 RAG 可以保留 Chunking，再加入推理事實。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836563,
+              "end": {
+                "css": "p#S5\\.SS3\\.SSS1\\.Px2\\.p1\\.1",
+                "textOffset": 453
+              },
+              "quote": {
+                "exact": "This is\npractically important, since Stage 2 can be applied on top of an existing RAG\nsystem without modifying the underlying indexing pipeline.",
+                "prefix": "ndependent of which Stage 1 representation is in the index. ",
+                "suffix": "\n\n\n\n\n\nDataset\nDatastore\nRecall@10\nEM\n\n\n\nHotpotQA\nQA extracti"
+              },
+              "start": {
+                "css": "p#S5\\.SS3\\.SSS1\\.Px2\\.p1\\.1",
+                "textOffset": 309
+              },
+              "version": 1
+            },
+            "endOffset": 446,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/section[1]/section[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 302,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[3]/section[1]/section[2]/div[1]/p[1]/text()[2]",
+            "text": "This is\npractically important, since Stage 2 can be applied on top of an existing RAG\nsystem without modifying the underlying indexing pipeline."
+          },
+          "text": "This is\npractically important, since Stage 2 can be applied on top of an existing RAG\nsystem without modifying the underlying indexing pipeline.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795077836564,
+          "id": "hk-ai-preview-1795077836563-12809",
+          "kind": "passage",
+          "note": "AI：MuSiQue 的檢索延遲接近傳統 RAG。\n=> 離線推理改善了回答品質與檢索成本的取捨。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836563,
+              "end": {
+                "css": "p#S5\\.SS1\\.SSS2\\.p1\\.1",
+                "textOffset": 231
+              },
+              "quote": {
+                "exact": "Among single-call methods, IndexRAG achieves the best EM (22.4) with a retrieval latency of 0.30 seconds, nearly identical to Naive RAG while improving EM by 3.4 points.",
+                "prefix": "ble 5 presents the quality-efficiency trade-off on MuSiQue. ",
+                "suffix": " FastGraphRAG, despite requiring only a single LLM call, req"
+              },
+              "start": {
+                "css": "p#S5\\.SS1\\.SSS2\\.p1\\.1",
+                "textOffset": 62
+              },
+              "version": 1
+            },
+            "endOffset": 224,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[1]/section[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 55,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[1]/section[2]/div[1]/p[1]/text()[2]",
+            "text": "Among single-call methods, IndexRAG achieves the best EM (22.4) with a retrieval latency of 0.30 seconds, nearly identical to Naive RAG while improving EM by 3.4 points."
+          },
+          "text": "Among single-call methods, IndexRAG achieves the best EM (22.4) with a retrieval latency of 0.30 seconds, nearly identical to Naive RAG while improving EM by 3.4 points.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dff2e0",
+          "createdAt": 1795077836564,
+          "id": "hk-ai-preview-1795077836564-77144",
+          "kind": "passage",
+          "note": "AI：IndexRAG 的單次呼叫方法平均 F1 最高。\n=> 不增加線上推理輪數，也能改善多跳問答。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836564,
+              "end": {
+                "css": "p#S5\\.SS1\\.SSS1\\.Px1\\.p1\\.1",
+                "textOffset": 263
+              },
+              "quote": {
+                "exact": "IndexRAG obtains an average F1 of 51.7, improving over Naive RAG (+4.6), BM25 (+13.2), FastGraphRAG (+2.3), and RAPTOR (+4.7).",
+                "prefix": "hieves the highest average scores across all three metrics. ",
+                "suffix": " On HotpotQA and MuSiQue, IndexRAG ranks first across all me"
+              },
+              "start": {
+                "css": "p#S5\\.SS1\\.SSS1\\.Px1\\.p1\\.1",
+                "textOffset": 137
+              },
+              "version": 1
+            },
+            "endOffset": 263,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[1]/section[1]/section[1]/div[1]/p[1]/text()[1]",
+            "startOffset": 137,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[5]/section[1]/section[1]/section[1]/div[1]/p[1]/text()[1]",
+            "text": "IndexRAG obtains an average F1 of 51.7, improving over Naive RAG (+4.6), BM25 (+13.2), FastGraphRAG (+2.3), and RAPTOR (+4.7)."
+          },
+          "text": "IndexRAG obtains an average F1 of 51.7, improving over Naive RAG (+4.6), BM25 (+13.2), FastGraphRAG (+2.3), and RAPTOR (+4.7).",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836564,
+          "id": "hk-ai-preview-1795077836564-10874",
+          "kind": "passage",
+          "note": "AI：實驗統一取回二十筆候選，選十筆生成答案。\n=> IndexRAG 額外限制 bridging facts 最多三筆。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836564,
+              "end": {
+                "css": "p#S4\\.SS2\\.SSS0\\.Px2\\.p1\\.1",
+                "textOffset": 34
+              },
+              "quote": {
+                "exact": "All methods retrieve 20 candidates",
+                "prefix": "acter overlap in our implementation.\n\n\n\nOnline Inference.\n\n\n",
+                "suffix": " and select the top k=10k=10 for answer generation.\nFor Inde"
+              },
+              "start": {
+                "css": "div#S4\\.SS2\\.SSS0\\.Px2\\.p1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 34,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/section[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[4]/section[2]/section[2]/div[1]/text()[1]",
+            "text": "All methods retrieve 20 candidates"
+          },
+          "text": "All methods retrieve 20 candidates",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836564,
+          "id": "hk-ai-preview-1795077836564-73656",
+          "kind": "passage",
+          "note": "AI：Bridging facts 不是摘要，而是跨文件推理結果。\n=> 建立原本不存在、且能直接回答問題的檢索單元。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836564,
+              "end": {
+                "css": "p#S3\\.SS2\\.SSS2\\.Px2\\.p2\\.1",
+                "textOffset": 172
+              },
+              "quote": {
+                "exact": "Unlike cross-document summaries, which compress existing content into shorter passages, bridging facts are constructed to directly answer implicit cross-document questions.",
+                "prefix": " to 5 and facts per document to 8 to manage input length.\n\n\n",
+                "suffix": " Figure 1(b) illustrates this. Given Doc A stating “Aylwin i"
+              },
+              "start": {
+                "css": "div#S3\\.SS2\\.SSS2\\.Px2\\.p2",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 172,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/section[2]/section[2]/div[2]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/section[2]/section[2]/div[2]/text()[1]",
+            "text": "Unlike cross-document summaries, which compress existing content into shorter passages, bridging facts are constructed to directly answer implicit cross-document questions."
+          },
+          "text": "Unlike cross-document summaries, which compress existing content into shorter passages, bridging facts are constructed to directly answer implicit cross-document questions.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836565,
+          "id": "hk-ai-preview-1795077836564-16528",
+          "kind": "passage",
+          "note": "AI：利用共同實體整合不同文件的互補資訊。\n=> 將原本隱含的推理結果轉為明確的知識。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836564,
+              "end": {
+                "css": "p#S3\\.SS2\\.SSS2\\.p1\\.1",
+                "textOffset": 279
+              },
+              "quote": {
+                "exact": "The key observation motivating this stage is that documents sharing\ncommon entities often contain complementary information. While each\ndocument alone may only provide partial evidence, their combination\ncan yield reasoning conclusions not explicitly stated in any single\nsource.",
+                "prefix": "et al. (2024).\n\n\n\n3.2.2 Stage 2: Bridging Fact Generation\n\n\n",
+                "suffix": " By making these implicit connections explicit and retrievab"
+              },
+              "start": {
+                "css": "div#S3\\.SS2\\.SSS2\\.p1",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 279,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/section[2]/div[1]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/section[2]/div[1]/text()[1]",
+            "text": "The key observation motivating this stage is that documents sharing\ncommon entities often contain complementary information. While each\ndocument alone may only provide partial evidence, their combination\ncan yield reasoning conclusions not explicitly stated in any single\nsource."
+          },
+          "text": "The key observation motivating this stage is that documents sharing\ncommon entities often contain complementary information. While each\ndocument alone may only provide partial evidence, their combination\ncan yield reasoning conclusions not explicitly stated in any single\nsource.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836565,
+          "id": "hk-ai-preview-1795077836565-41253",
+          "kind": "passage",
+          "note": "AI：將文件抽取成問答，再合併答案形成 AKU。\n=> 改善基礎知識的表示方式，而非直接索引原文。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836565,
+              "end": {
+                "css": "p#S3\\.SS2\\.SSS1\\.p1\\.1",
+                "textOffset": 337
+              },
+              "quote": {
+                "exact": "We retain only the answers, merging them into a single text unit\nper document as the minimal retrievable unit.",
+                "prefix": " pairs, and associated entities from each document did_{i}.\n",
+                "suffix": " We refer to this unit as an atomic knowledge unit (AKU), de"
+              },
+              "start": {
+                "css": "p#S3\\.SS2\\.SSS1\\.p1\\.1",
+                "textOffset": 227
+              },
+              "version": 1
+            },
+            "endOffset": 112,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/section[1]/div[1]/p[1]/text()[4]",
+            "startOffset": 2,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[3]/section[2]/section[1]/div[1]/p[1]/text()[4]",
+            "text": "We retain only the answers, merging them into a single text unit\nper document as the minimal retrievable unit."
+          },
+          "text": "We retain only the answers, merging them into a single text unit\nper document as the minimal retrievable unit.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836565,
+          "id": "hk-ai-preview-1795077836565-58428",
+          "kind": "term",
+          "note": "AI：限制檢索結果中跨文件事實的數量。\n例子：取回十筆資料，最多三筆為 bridging facts。\n在本文：避免較短的生成事實排擠原始知識。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836565,
+              "end": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 196
+              },
+              "quote": {
+                "exact": "balanced\ncontext selection",
+                "prefix": "ly\nretrievable entries in a flat vector store, along with a ",
+                "suffix": " mechanism to control their proportion at retrieval time.\n\n•"
+              },
+              "start": {
+                "css": "p#S1\\.I1\\.i2\\.p1\\.1",
+                "textOffset": 170
+              },
+              "version": 1
+            },
+            "endOffset": 169,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[4]/ul[1]/li[2]/div[1]/p[1]/text()[2]",
+            "startOffset": 143,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[4]/ul[1]/li[2]/div[1]/p[1]/text()[2]",
+            "text": "balanced\ncontext selection"
+          },
+          "text": "balanced\ncontext selection",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836566,
+          "id": "hk-ai-preview-1795077836565-25725",
+          "kind": "term",
+          "note": "AI：從文件抽取事實，再合併成可檢索的文字單元。\n例子：將文件中的多組問答只保留答案並合併。\n在本文：作為基礎索引，但不是主要效能提升來源。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836565,
+              "end": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 559
+              },
+              "quote": {
+                "exact": "atomic\nknowledge units",
+                "prefix": "radigm as\nindex-time reasoning. During indexing, we extract ",
+                "suffix": " (AKUs) and entities from each document, and identify\nentiti"
+              },
+              "start": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 537
+              },
+              "version": 1
+            },
+            "endOffset": 52,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[2]",
+            "startOffset": 30,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[2]",
+            "text": "atomic\nknowledge units"
+          },
+          "text": "atomic\nknowledge units",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836566,
+          "id": "hk-ai-preview-1795077836566-88830",
+          "kind": "term",
+          "note": "AI：在建立索引時預先完成部分知識推理。\n例子：預先整合某部電影的導演與其出生地。\n在本文：核心設計，實驗顯示能改善多跳問答。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836566,
+              "end": {
+                "css": "span#S1\\.p3\\.1\\.1",
+                "textOffset": 20
+              },
+              "quote": {
+                "exact": "index-time reasoning",
+                "prefix": "easoning into an offline step. We refer to this paradigm as\n",
+                "suffix": ". During indexing, we extract atomic\nknowledge units (AKUs) "
+              },
+              "start": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 487
+              },
+              "version": 1
+            },
+            "endOffset": 20,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/span[1]/text()[1]",
+            "startOffset": 487,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[1]",
+            "text": "index-time reasoning"
+          },
+          "text": "index-time reasoning",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836566,
+          "id": "hk-ai-preview-1795077836566-7037",
+          "kind": "passage",
+          "note": "AI：部分跨文件關係不依賴使用者的問題。\n=> 將每次查詢的重複推理轉為離線預處理。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836566,
+              "end": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 457
+              },
+              "quote": {
+                "exact": "When two\ndocuments mention the same entity, the link between them is already fixed by\nwhat the documents say. This makes it possible\nto precompute these reasoning connections at indexing time, transforming\nper-query reasoning into an offline step.",
+                "prefix": " observe that these connections do not depend on the query. ",
+                "suffix": " We refer to this paradigm as\nindex-time reasoning. During i"
+              },
+              "start": {
+                "css": "p#S1\\.p3\\.1",
+                "textOffset": 210
+              },
+              "version": 1
+            },
+            "endOffset": 457,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[1]",
+            "startOffset": 210,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[3]/p[1]/text()[1]",
+            "text": "When two\ndocuments mention the same entity, the link between them is already fixed by\nwhat the documents say. This makes it possible\nto precompute these reasoning connections at indexing time, transforming\nper-query reasoning into an offline step."
+          },
+          "text": "When two\ndocuments mention the same entity, the link between them is already fixed by\nwhat the documents say. This makes it possible\nto precompute these reasoning connections at indexing time, transforming\nper-query reasoning into an offline step.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#ece3fa",
+          "createdAt": 1795077836566,
+          "id": "hk-ai-preview-1795077836566-26205",
+          "kind": "passage",
+          "note": "AI：傳統 RAG 將文件視為獨立的檢索單元。\n=> 單份文件相關，不代表能取回完整推理證據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836566,
+              "end": {
+                "css": "p#S1\\.p2\\.1",
+                "textOffset": 200
+              },
+              "quote": {
+                "exact": "While effective for single-hop questions, conventional RAG pipelines retrieve passages independently and struggle when answering a question requires synthesizing information across multiple documents.",
+                "prefix": " units reported in Table 6 and analyzed in Section 5.2.1.\n\n\n",
+                "suffix": " Multi-hop QA requires reasoning over multiple pieces of evi"
+              },
+              "start": {
+                "css": "div#S1\\.p2",
+                "textOffset": 1
+              },
+              "version": 1
+            },
+            "endOffset": 200,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 1,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/section[1]/div[2]/text()[1]",
+            "text": "While effective for single-hop questions, conventional RAG pipelines retrieve passages independently and struggle when answering a question requires synthesizing information across multiple documents."
+          },
+          "text": "While effective for single-hop questions, conventional RAG pipelines retrieve passages independently and struggle when answering a question requires synthesizing information across multiple documents.",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836566,
+          "id": "hk-ai-preview-1795077836566-3114",
+          "kind": "term",
+          "note": "AI：整合不同文件的證據後生成的新事實。\n例子：直接描述某部電影的導演出生於哪裡。\n在本文：主要效能提升來源，可直接作為回答證據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836566,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 469
+              },
+              "quote": {
+                "exact": "bridging facts",
+                "prefix": "ifies bridge entities shared across documents and generates ",
+                "suffix": " as independently retrievable units, requiring no additional"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 455
+              },
+              "version": 1
+            },
+            "endOffset": 469,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 455,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "text": "bridging facts"
+          },
+          "text": "bridging facts",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        },
+        {
+          "color": "#dfeefc",
+          "createdAt": 1795077836567,
+          "id": "hk-ai-preview-1795077836566-8384",
+          "kind": "term",
+          "note": "AI：出現在多份文件中，可用來建立關聯的實體。\n例子：電影介紹與人物傳記都提到同一位導演。\n在本文：作為辨識跨文件推理關係的依據。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795077836566,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 416
+              },
+              "quote": {
+                "exact": "bridge entities",
+                "prefix": "m online inference to offline indexing. IndexRAG identifies ",
+                "suffix": " shared across documents and generates bridging facts as ind"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 401
+              },
+              "version": 1
+            },
+            "endOffset": 416,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "startOffset": 401,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[2]/p[1]/text()[1]",
+            "text": "bridge entities"
+          },
+          "text": "bridge entities",
+          "url": "https://arxiv.org/html/2603.16415v2"
+        }
+      ],
+      "note": {
+        "context": "傳統 RAG 將文件獨立建立索引，但 Multi-hop QA 的答案可能分散在不同文件中，單次向量檢索難以取得完整的推理證據。\n\nGraphRAG 與迭代式檢索透過圖結構或多輪檢索解決這個問題，卻增加了線上推理的成本與延遲。\n\nIndexRAG 認為文件之間的部分關係並不依賴使用者的問題，因此可以在建立索引時，預先找出共同實體，使用 LLM 生成跨文件推理事實，再將其存入向量資料庫。\n\n實驗顯示，相較於 Naive RAG，平均 F1 提升 4.6 個百分點，同時維持單次檢索與單次 LLM 呼叫。\n\n不過，這種方法較適合具備共同實體的序列推理，對平行比較、較長的推理鏈及單跳問答幫助有限，也存在離線生成錯誤事實的風險。",
+        "formatVersion": 2,
+        "generatedAt": 1795077836605,
+        "guideHighlights": [
+          {
+            "color": "#ece3fa",
+            "extra": "",
+            "kind": "passage",
+            "reason": "傳統 RAG 將文件視為獨立的檢索單元。\n=> 單份文件相關，不代表能取回完整推理證據。",
+            "source": "",
+            "text": "While effective for single-hop questions, conventional RAG pipelines retrieve passages independently and struggle when answering a question requires synthesizing information across multiple documents.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "部分跨文件關係不依賴使用者的問題。\n=> 將每次查詢的重複推理轉為離線預處理。",
+            "source": "",
+            "text": "When two documents mention the same entity, the link between them is already fixed by what the documents say. This makes it possible to precompute these reasoning connections at indexing time, transforming per-query reasoning into an offline step.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "將文件抽取成問答，再合併答案形成 AKU。\n=> 改善基礎知識的表示方式，而非直接索引原文。",
+            "source": "",
+            "text": "We retain only the answers, merging them into a single text unit per document as the minimal retrievable unit.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "利用共同實體整合不同文件的互補資訊。\n=> 將原本隱含的推理結果轉為明確的知識。",
+            "source": "",
+            "text": "The key observation motivating this stage is that documents sharing common entities often contain complementary information. While each document alone may only provide partial evidence, their combination can yield reasoning conclusions not explicitly stated in any single source.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Bridging facts 不是摘要，而是跨文件推理結果。\n=> 建立原本不存在、且能直接回答問題的檢索單元。",
+            "source": "",
+            "text": "Unlike cross-document summaries, which compress existing content into shorter passages, bridging facts are constructed to directly answer implicit cross-document questions.",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "實驗統一取回二十筆候選，選十筆生成答案。\n=> IndexRAG 額外限制 bridging facts 最多三筆。",
+            "source": "",
+            "text": "All methods retrieve 20 candidates",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "IndexRAG 的單次呼叫方法平均 F1 最高。\n=> 不增加線上推理輪數，也能改善多跳問答。",
+            "source": "",
+            "text": "IndexRAG obtains an average F1 of 51.7, improving over Naive RAG (+4.6), BM25 (+13.2), FastGraphRAG (+2.3), and RAPTOR (+4.7).",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "MuSiQue 的檢索延遲接近傳統 RAG。\n=> 離線推理改善了回答品質與檢索成本的取捨。",
+            "source": "",
+            "text": "Among single-call methods, IndexRAG achieves the best EM (22.4) with a retrieval latency of 0.30 seconds, nearly identical to Naive RAG while improving EM by 3.4 points.",
+            "unavailable": false
+          },
+          {
+            "color": "#dff2e0",
+            "extra": "",
+            "kind": "passage",
+            "reason": "Bridging facts 不依賴特定的基礎文件表示。\n=> 現有 RAG 可以保留 Chunking，再加入推理事實。",
+            "source": "",
+            "text": "This is practically important, since Stage 2 can be applied on top of an existing RAG system without modifying the underlying indexing pipeline.",
+            "unavailable": false
+          },
+          {
+            "color": "#fff5b8",
+            "extra": "",
+            "kind": "passage",
+            "reason": "原始文件召回率下降，但答案完全匹配率上升。\n=> 找到原始文件與找到有效回答證據並不完全相同。",
+            "source": "",
+            "text": "Across all three datasets, adding bridging facts consistently reduces Recall@10 yet improves EM",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "序列推理難以同時覆蓋兩條平行推理路徑。\n=> 解釋為何比較型問題的改善幅度較小。",
+            "source": "",
+            "text": "Since our bridging facts are generated along sequential reasoning paths, they tend to cover only one of the two parallel paths, providing limited benefit for this question type.",
+            "unavailable": false
+          },
+          {
+            "color": "#ffe6cc",
+            "extra": "",
+            "kind": "passage",
+            "reason": "實體抽取與事實生成皆可能發生錯誤。\n=> 離線推理仍需要來源追蹤與事實驗證機制。",
+            "source": "",
+            "text": "Missed or noisy entities and hallucinated bridging facts may introduce irrelevant retrieval units and hurt performance.",
+            "unavailable": false
+          }
+        ],
+        "guideTerms": [
+          {
+            "color": "#dfeefc",
+            "explanation": "在建立索引時預先完成部分知識推理。\n例子：預先整合某部電影的導演與其出生地。\n在本文：核心設計，實驗顯示能改善多跳問答。",
+            "kind": "term",
+            "reason": "在建立索引時預先完成部分知識推理。\n例子：預先整合某部電影的導演與其出生地。\n在本文：核心設計，實驗顯示能改善多跳問答。",
+            "text": "index-time reasoning",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "從文件抽取事實，再合併成可檢索的文字單元。\n例子：將文件中的多組問答只保留答案並合併。\n在本文：作為基礎索引，但不是主要效能提升來源。",
+            "kind": "term",
+            "reason": "從文件抽取事實，再合併成可檢索的文字單元。\n例子：將文件中的多組問答只保留答案並合併。\n在本文：作為基礎索引，但不是主要效能提升來源。",
+            "text": "atomic knowledge units",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "出現在多份文件中，可用來建立關聯的實體。\n例子：電影介紹與人物傳記都提到同一位導演。\n在本文：作為辨識跨文件推理關係的依據。",
+            "kind": "term",
+            "reason": "出現在多份文件中，可用來建立關聯的實體。\n例子：電影介紹與人物傳記都提到同一位導演。\n在本文：作為辨識跨文件推理關係的依據。",
+            "text": "bridge entities",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "整合不同文件的證據後生成的新事實。\n例子：直接描述某部電影的導演出生於哪裡。\n在本文：主要效能提升來源，可直接作為回答證據。",
+            "kind": "term",
+            "reason": "整合不同文件的證據後生成的新事實。\n例子：直接描述某部電影的導演出生於哪裡。\n在本文：主要效能提升來源，可直接作為回答證據。",
+            "text": "bridging facts",
+            "unavailable": false
+          },
+          {
+            "color": "#dfeefc",
+            "explanation": "限制檢索結果中跨文件事實的數量。\n例子：取回十筆資料，最多三筆為 bridging facts。\n在本文：避免較短的生成事實排擠原始知識。",
+            "kind": "term",
+            "reason": "限制檢索結果中跨文件事實的數量。\n例子：取回十筆資料，最多三筆為 bridging facts。\n在本文：避免較短的生成事實排擠原始知識。",
+            "text": "balanced context selection",
+            "unavailable": false
+          }
+        ],
+        "model": "chatgpt-web",
+        "provider": "chatgpt",
+        "unlocatedHighlights": [],
+        "unlocatedTerms": [],
+        "url": "https://arxiv.org/html/2603.16415v2"
+      },
+      "mindmap": {
+        "generatedAt": 1795077836635,
+        "outline": "# IndexRAG\n- 背景與問題\n  - 傳統 RAG\n    - 文件獨立檢索\n    - 推理證據分散\n  - 既有解決方法\n    - GraphRAG\n      - 知識圖譜\n      - 線上圖遍歷\n    - IRCoT\n      - 多輪檢索\n      - 多輪推理\n- 核心方法\n  - Index-time Reasoning\n    - 推理移至索引階段\n  - Offline Indexing\n    - Stage 1：知識抽取\n      - 抽取問答與實體\n      - 合併答案形成 AKU\n    - Stage 2：跨文件推理\n      - 尋找共同實體\n        - 文件頻率介於 2～10\n      - 收集相關事實\n        - 最多五份文件\n        - 每份最多八筆事實\n      - LLM 生成推理事實\n    - 統一向量索引\n      - AKU\n      - Bridging facts\n  - Online Inference\n    - Cosine Similarity\n    - Balanced Selection\n      - 選取十筆資料\n      - 最多三筆推理事實\n    - 單次 LLM 生成\n- 實驗設計\n  - 評估資料集\n    - HotpotQA\n    - 2WikiMultiHopQA\n    - MuSiQue\n  - 評估指標\n    - Exact Match\n    - Accuracy\n    - F1 Score\n    - Retrieval Latency\n- 實驗結果\n  - 單次呼叫方法\n    - 平均 F1 提升 4.6\n  - 結合 IRCoT\n    - 平均 F1 達到 55.0\n  - 品質與效率\n    - 檢索延遲接近傳統 RAG\n    - 索引小於 HippoRAG2\n- 消融實驗\n  - 基礎知識表示\n    - Chunking\n    - Summary\n    - QA Extraction\n  - 跨文件事實\n    - 相容不同基礎索引\n    - 原始文件召回率下降\n    - 答案正確率提升\n  - 問題類型\n    - 組合型改善明顯\n    - 推論型改善明顯\n    - 平行比較改善有限\n- 結論與限制\n  - 離線推理降低線上負擔\n  - 單跳問答收益有限\n  - 四跳推理收益有限\n  - LLM 可能生成錯誤事實\n  - 跨語言泛化尚未驗證\n  - 動態語料尚未驗證\n  - 未來研究\n    - 高階跨文件推理\n    - 依問題調整事實比例\n    - 預測實體擴展價值",
+        "title": "IndexRAG"
+      }
+    },
+    {
       "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
       "title": "EP220: RAG vs Graph RAG vs Agentic RAG",
       "tags": [
