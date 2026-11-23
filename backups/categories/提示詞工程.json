@@ -2652,11 +2652,6 @@
         "generatedAt": 1795069704005,
         "outline": "# Contextual Retrieval\n- 背景與問題\n  - 知識庫規模\n    - 小型：Long Prompt\n    - 大型：RAG\n  - 傳統 RAG\n    - Chunking\n    - Embedding\n    - BM25\n    - Rank Fusion\n  - 上下文遺失\n    - 缺少實體名稱\n    - 缺少時間資訊\n    - 相關 Chunk 遺漏\n- 核心做法\n  - Chunk 上下文增強\n    - 完整文件\n    - 原始 Chunk\n    - Claude 3 Haiku\n    - 生成 50～100 Tokens\n  - 建立索引\n    - Contextual Embeddings\n    - Contextual BM25\n  - 成本控制\n    - Prompt Caching\n    - 文件重複利用\n- 實驗與評估\n  - 測試領域\n    - 程式碼\n    - 小說\n    - 學術論文\n  - 評估指標\n    - 1 − Recall@20\n  - 檢索失敗率\n    - Baseline：5.7%\n    - 向量增強：3.7%\n    - 混合增強：2.9%\n  - 實作考量\n    - Chunk 邊界\n    - Embedding Model\n    - 領域專屬 Prompt\n    - Top-K 數量\n- 進階優化\n  - Reranking\n    - 初步檢索 150 筆\n    - 評估相關性\n    - 選出前 20 筆\n  - 檢索失敗率\n    - 最終降至 1.9%\n  - 效能取捨\n    - 檢索準確率\n    - 執行延遲\n    - 運算成本\n- 結論\n  - 混合檢索\n  - 上下文增強\n  - 重新排序\n  - 優化效益疊加",
         "title": "Contextual Retrieval"
-      },
-      "readingDesk": {
-        "cards": [],
-        "updatedAt": 1795070318494,
-        "version": 1
       }
     }
   ]
