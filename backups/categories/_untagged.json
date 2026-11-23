@@ -93898,6 +93898,111 @@
       "mindmap": null
     },
     {
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "title": "Inkling 2 Mini 簡介 - Thinking Machines Lab",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795400680882,
+          "id": "hk-1795400680877-39751",
+          "note": "MoE + Looping Transformer\n26.4B",
+          "range": {
+            "anchors": {
+              "createdAt": 1795400680876,
+              "end": {
+                "css": "main#main > div.post-content-shell:nth-of-type(3) > article.content > p.typography",
+                "textOffset": 37
+              },
+              "quote": {
+                "exact": "Inkling 2 Mini",
+                "prefix": "erHugging Face  擁抱臉Model card  模型卡\n\n\nToday we are releasing ",
+                "suffix": ", a fast, powerful model that’s small enough to run on your "
+              },
+              "start": {
+                "css": "main#main > div.post-content-shell:nth-of-type(3) > article.content > p.typography",
+                "textOffset": 23
+              },
+              "version": 1
+            },
+            "endOffset": 37,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[3]/article[1]/p[1]/text()[1]",
+            "startOffset": 23,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[3]/article[1]/p[1]/text()[1]",
+            "text": "Inkling 2 Mini"
+          },
+          "text": "Inkling 2 Mini",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795400712376,
+          "id": "hk-1795400712371-63064",
+          "note": "透過 Looping Transformer（循環式 Transformer），讓模型重複使用中間層進行推理，而不必增加模型參數量",
+          "range": {
+            "anchors": {
+              "createdAt": 1795400712371,
+              "end": {
+                "css": "main#main > div.post-content-shell:nth-of-type(3) > article.content > p.typography:nth-of-type(2)",
+                "textOffset": 106
+              },
+              "quote": {
+                "exact": "Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token",
+                "prefix": "op.今天我們發布了 Inkling 2 Mini，這是一款速度快、功能強大的機型，體積小巧，可以在筆記型電腦上運行。\n",
+                "suffix": ". This allows the model to apply more reasoning and reach th"
+              },
+              "start": {
+                "css": "main#main > div.post-content-shell:nth-of-type(3) > article.content > p.typography:nth-of-type(2)",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 106,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[3]/article[1]/p[2]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[3]/article[1]/p[2]/text()[1]",
+            "text": "Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token"
+          },
+          "text": "Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795400891183,
+          "id": "hk-1795400891178-58442",
+          "note": "MoE 架構所以啟用很少",
+          "range": {
+            "anchors": {
+              "createdAt": 1795400891177,
+              "end": {
+                "css": "div.eval-results-scroll.eval-table > table.eval-results-table > tbody.eval-category-group > tr:nth-of-type(2) > td.eval-cell.eval-value > span.eval-result",
+                "textOffset": 8
+              },
+              "quote": {
+                "exact": "5.4/26.4",
+                "prefix": "VLModel Info  模型資訊Params (B)  參數（B）activated / total  已啟用/總計",
+                "suffix": "30.7/30.730.0/30.027.0/27.012.0/124.5Third Party Index  第三方指"
+              },
+              "start": {
+                "css": "div.eval-results-scroll.eval-table > table.eval-results-table > tbody.eval-category-group > tr:nth-of-type(2) > td.eval-cell.eval-value > span.eval-result",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 8,
+            "endXPath": "/html[1]/body[1]/div[1]/main[1]/div[3]/article[1]/eval-table-block[1]/eval-table-header[1]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[1]/main[1]/div[3]/article[1]/eval-table-block[1]/eval-table-header[1]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/span[1]/text()[1]",
+            "text": "5.4/26.4"
+          },
+          "text": "5.4/26.4",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
       "url": "https://thinkingmachines.ai/news/inkling-2-small/",
       "title": "Introducing Inkling 2 Small - Thinking Machines Lab",
       "tags": [],
