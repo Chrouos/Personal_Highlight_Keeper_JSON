@@ -1,7 +1,7 @@
 {
   "type": "highlight-keeper-bulk",
   "version": 2,
-  "exportedAt": 1795401454659,
+  "exportedAt": 1795572454598,
   "pages": [
     {
       "url": "http://10.166.57.21:47194/workflow",
@@ -10398,6 +10398,79 @@
           },
           "text": "INT8 Quantization",
           "url": "https://arxiv.org/abs/2601.04719?utm_source=chatgpt.com"
+        }
+      ],
+      "note": null,
+      "mindmap": null
+    },
+    {
+      "url": "https://arxiv.org/html/1907.06554v1",
+      "title": "在開放領域的資訊尋求對話中提出澄清問題",
+      "tags": [],
+      "entries": [
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795570904232,
+          "id": "hk-1795570904223-19538",
+          "note": "",
+          "range": {
+            "anchors": {
+              "createdAt": 1795570904223,
+              "end": {
+                "css": "span#abstract1\\.2\\.1",
+                "textOffset": 5
+              },
+              "quote": {
+                "exact": "Qulac",
+                "prefix": "tion methodology for the task and collect a dataset, called ",
+                "suffix": ", through crowdsourcing. Our dataset is built on top of the "
+              },
+              "start": {
+                "css": "span#abstract1\\.2\\.1",
+                "textOffset": 0
+              },
+              "version": 1
+            },
+            "endOffset": 5,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[4]/p[2]/span[1]/text()[1]",
+            "startOffset": 0,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[4]/p[2]/span[1]/text()[1]",
+            "text": "Qulac"
+          },
+          "text": "Qulac",
+          "url": "https://arxiv.org/html/1907.06554v1"
+        },
+        {
+          "color": "#fff5b8",
+          "createdAt": 1795570921811,
+          "id": "hk-1795570921799-24873",
+          "note": "當使用者提供的 Query 不足以判斷真正的資訊需求時，系統不應急著回傳答案，而是透過追問降低意圖的不確定性，再重新進行檢索\n\n[翻譯] 提出澄清問題在對話系統中尤其重要，因為它們只能傳回有限數量（通常只有一個）結果。",
+          "range": {
+            "anchors": {
+              "createdAt": 1795570921799,
+              "end": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 498
+              },
+              "quote": {
+                "exact": "Asking clarifying questions is especially important in conversational systems since they can only return a limited number of (often only one) result(s).",
+                "prefix": " questions of the users to clarify their information needs. ",
+                "suffix": "使用者往往無法用一次查詢清晰地表達複雜的資訊需求。因此，他們可能需要瀏覽多個結果頁面或重新組織查詢，這會令人沮喪。而係統"
+              },
+              "start": {
+                "css": "p#abstract1\\.1",
+                "textOffset": 346
+              },
+              "version": 1
+            },
+            "endOffset": 178,
+            "endXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[4]/p[1]/text()[2]",
+            "startOffset": 26,
+            "startXPath": "/html[1]/body[1]/div[2]/div[2]/article[1]/div[4]/p[1]/text()[2]",
+            "text": "Asking clarifying questions is especially important in conversational systems since they can only return a limited number of (often only one) result(s)."
+          },
+          "text": "Asking clarifying questions is especially important in conversational systems since they can only return a limited number of (often only one) result(s).",
+          "url": "https://arxiv.org/html/1907.06554v1"
         }
       ],
       "note": null,
